@@ -1,0 +1,7 @@
+GEMINI_MODEL_NAME = 'gemini-2.0-flash-lite'
+
+INDEX_NAME = "lumos"
+INDEX_NAMESPACE = "lumos"
+
+OPENAI_EMBEDDING_MODEL = "text-embedding-3-small"
+OPENAI_EMBEDDING_DIMENSION = 1536

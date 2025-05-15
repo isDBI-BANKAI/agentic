@@ -1,0 +1,72 @@
+- Shari’ah Standard No. (10): Salam and Parallel Salam (Revised Standard)
+  - Statement of the Standard — `introduction`
+  - 1. Scope of the Standard — `scope`
+  - 2. Contract of Salam — `contract_of_salam`
+    - 2/1 General framework for Salam contracts — `general_framework`
+      - 2/1/1 — `general_framework_details`
+      - 2/1/2 — `memorandum_of_understanding`
+    - 2/2 Form of a Salam contract — `form_of_contract`
+  - 3. Subject Matter of Salam — `subject_matter`
+    - 3/1 Capital of Salam contract and its conditions — `capital_conditions`
+      - 3/1/1 — `capital_form`
+      - 3/1/2 — `capital_conditions`
+      - 3/1/3 — `capital_payment`
+      - 3/1/4 — `capital_restrictions`
+    - 3/2 Al-Muslam Fihi and its conditions — `al_muslam_fihi_conditions`
+      - 3/2/1 — `al_muslam_fihi_permissible`
+      - 3/2/2 — `al_muslam_fihi_exceptions`
+      - 3/2/3 — `al_muslam_fihi_restrictions`
+      - 3/2/4 — `al_muslam_fihi_restrictions`
+      - 3/2/5 — `al_muslam_fihi_specifications`
+      - 3/2/6 — `al_muslam_fihi_clarity`
+      - 3/2/7 — `al_muslam_fihi_quantity`
+      - 3/2/8 — `al_muslam_fihi_availability`
+      - 3/2/9 — `al_muslam_fihi_delivery_date`
+      - 3/2/10 — `al_muslam_fihi_delivery_place`
+    - 3/3 Security for al-Muslam Fihi — `security_al_muslam_fihi`
+  - 4. Changes to al-Muslam Fihi — `changes_al_muslam_fihi`
+    - 4/1 Selling al-Muslam Fihi before taking possession — `selling_before_possession`
+    - 4/2 Replacement of al-Muslam Fihi — `replacement_al_muslam_fihi`
+    - 4/3 Cancellation (Iqalah) of a Salam contract — `cancellation_contract`
+  - 5. Delivery of al-Muslam Fihi — `delivery_al_muslam_fihi`
+    - 5/1 — `delivery_obligation`
+    - 5/2 — `superior_quality`
+    - 5/3 — `inferior_quality`
+    - 5/4 — `different_commodity`
+    - 5/5 — `early_delivery`
+    - 5/6 — `seller_failure`
+    - 5/7 — `penalty_clause`
+    - 5/8 — `non_availability`
+  - 6. Parallel Salam — `parallel_salam`
+    - 6/1 — `parallel_salam_seller`
+    - 6/2 — `parallel_salam_buyer`
+    - 6/3 — `parallel_salam_conditions`
+    - 6/4 — `parallel_salam_rules`
+  - 7. Salam Sukuk Issues — `salam_sukuk`
+  - 8. Date of Issuance of the Standard — `issuance_date`
+  - Adoption of the Standard — `adoption`
+  - Appendix (A): Brief History of the Preparation of the Standard — `history`
+  - Appendix (B): The Shari’ah Basis for the Standard
+    - Permissibility of Salam — `Shariah Basis`
+    - Wisdom of Making Salam Permissible — `Rationale`
+    - Subject Matter of a Salam Contract
+      - The basis for the permissibility of presenting usufruct as capital in a Salam contract — `Shariah Basis`
+      - The basis for the requirement that the capital of Salam must be known — `Shariah Basis`
+      - The basis for the requirement that the capital must be paid at the conclusion of a Salam contract — `Shariah Basis`
+      - The Taslif — `Definition`
+      - The basis for it not being permitted that a debt be capital in Salam — `Shariah Basis`
+      - The basis for the impermissibility of Salam where the subject matter is a specific and identified thing — `Shariah Basis`
+      - The basis for the requirement that the subject-matter of Salam be commonly available under normal circumstances where it is required — `Shariah Basis`
+      - Changes to a Salam Contract
+        - The basis for the impermissibility of selling the subject-matter of Salam before taking possession of it — `Shariah Basis`
+        - The basis for the impermissibility of substituting the subject-matter of Salam with a commodity, the price of which is higher than the prevalent market value of the subject-matter of Salam at the date of delivery — `Shariah Basis`
+        - The basis for the permissibility of the termination of a Salam by agreement (Iqalah) — `Shariah Basis`
+      - Delivery of al-Muslam Fihi — `Shariah Basis`
+    - Parallel Salam
+      - The basis for the permissibility of Parallel Salam — `Shariah Basis`
+      - The basis for the impermissibility of tradeable Salam Sukuk — `Shariah Basis`
+  - Appendix (C): Definitions
+    - Salam — `Definition`
+    - Parallel Salam — `Definition`
+    - Iqalah — `Definition`
+    - Mithlis (Fungibles) — `Definition`

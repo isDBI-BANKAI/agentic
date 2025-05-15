@@ -1,0 +1,4 @@
+.env
+.venv/
+__pycache__/
+lumos_agentic.egg-info/

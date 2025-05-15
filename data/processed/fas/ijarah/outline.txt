@@ -1,0 +1,315 @@
+- AAOIFI Financial Accounting Standard 32: Ijarah
+  - Contents
+    - Preface — `overview`
+    - Introduction — `overview`
+    - Overview — `overview`
+    - Rationale for issuing this standard — `rationale`
+    - Significant changes from previous standard — `changes`
+    - Objective of the standard — `objective`
+    - Scope — `scope`
+    - Definitions — `definitions`
+    - Identifying (and separating) an Ijarah — `identification`
+    - Separating components within the Ijarah contract — `contract`
+    - Lessee — `lessee`
+    - Lessor — `lessor`
+    - Classification of Ijarah — `classification`
+    - Ijarah term — `term`
+    - Assessment of probability of exercising the extension (including non-termination) options — `assessment`
+    - Subsequent re-assessment of Ijarah term — `reassessment`
+    - Accounting and financial reporting by the lessee — `lessee_accounting`
+    - Initial recognition — `initial_recognition`
+    - Advance rentals paid — `advance_rentals`
+    - Initial recognition — `initial_recognition`
+    - Initial recognition of right-of-use asset — `initial_recognition`
+    - Initial recognition of Ijarah liability — `initial_recognition`
+    - Special considerations for Ijarah MBT through gradual transfer — `mbt_considerations`
+    - Deferred Ijarah cost — `deferred_cost`
+    - Prime cost of the right-of-use asset — `prime_cost`
+    - Underlying asset cost method — `asset_cost_method`
+    - Estimation based on liability method — `liability_method`
+    - Subsequent measurement — `subsequent_measurement`
+    - Subsequent measurement of the right-of-use asset — `subsequent_measurement`
+    - Amortization of right-of-use asset — `amortization`
+    - Impairment of right-of-use asset — `impairment`
+    - Subsequent measurement of the Ijarah liability — `subsequent_measurement`
+    - Ijarah contract modifications — `contract_modifications`
+    - Changes in the Ijarah term or future Ijarah rentals — `term_rentals`
+    - Change in right-of use asset: new Ijarah component — `asset_component`
+    - Change in right-of use asset: de-recognition of earlier Ijarah and recognition of a new Ijarah — `asset_derecognition`
+    - Expenses related to underlying asset — `asset_expenses`
+    - Recognition exemptions and simplified accounting for the lessee — `recognition_exemptions`
+    - Accounting for the exempt Ijarah — `exempt_ijarah`
+    - Short-term Ijarah — `short_term`
+    - Low value Ijarah — `low_value`
+    - Presentation and disclosure — `presentation_disclosure`
+    - Presentation — `presentation`
+    - Disclosures — `disclosures`
+    - Accounting and financial reporting by the lessor — `lessor_accounting`
+    - Initial Recognition — `initial_recognition`
+    - Advance to vendor — `advance_vendor`
+    - Advance rentals received — `advance_rentals`
+    - Timing of recognition of underlying asset — `asset_recognition`
+    - Recognition of underlying asset — `asset_recognition`
+    - Initial direct costs — `initial_costs`
+    - Subsequent measurement — `subsequent_measurement`
+    - Depreciation — `depreciation`
+    - Impairment — `impairment`
+    - Accounting for commitments — `commitments`
+    - Ijarah revenue and costs — `revenue_costs`
+    - Ijarah revenue — `revenue`
+    - Applying the effective rate of return method — `effective_rate`
+    - Applying the systematic method for Ijarah MBT through gradual transfer — `systematic_method`
+    - Ijarah costs — `costs`
+    - Presentation and disclosures — `presentation_disclosure`
+    - Disclosures — `disclosures`
+    - Ijarah MBT: transfer of underlying asset’s ownership — `mbt_transfer`
+    - Timing of recognition of the transfer of underlying asset — `asset_transfer_recognition`
+    - Ijarah MBT through gradual transfer – special considerations — `mbt_considerations`
+    - In the books of the purchaser / transferee (previously lessee) — `purchaser_accounting`
+    - After completion of the Ijarah term — `completion_term`
+    - Ijarah MBT through gradual transfer – special considerations — `mbt_considerations`
+    - De-recognition in the books of the seller / transferor (previously lessor) — `seller_accounting`
+    - Ijarah MBT through gradual transfer – special considerations — `mbt_considerations`
+    - Transfer of underlying assets with early termination / settlement of Ijarah — `early_termination`
+    - In the books of the purchaser / transferee (previously lessee) — `purchaser_accounting`
+    - In the books of the seller / transferor (previously lessor) — `seller_accounting`
+    - Sale and Ijarah-back transactions — `sale_ijarah_back`
+    - Sale of the asset — `asset_sale`
+    - Accounting for the sale of the asset – by seller-lessee — `seller_accounting`
+    - Accounting for the buyer-lessor — `buyer_accounting`
+    - Other related accounting treatments — `other_treatments`
+    - Forward Ijarah — `forward_ijarah`
+    - Hamish Jiddiyyah (security deposit) — `hamish_jiddiyyah`
+    - Charity — `charity`
+    - Effective date — `effective_date`
+    - Transitional provisions — `transitional_provisions`
+    - Amendments to other standards — `amendments`
+    - Appendices — `appendices`
+    - Appendix A: Adoption of the standard — `adoption`
+    - Members of the board — `board_members`
+    - Reservation — `reservation`
+    - Working group members — `working_group`
+    - Executive team — `executive_team`
+    - Appendix B: Basis for conclusions — `basis_for_conclusions`
+    - Reason for revision of the standard — `revision_reason`
+    - Scope exclusion – service Ijarah — `scope_exclusion`
+    - Key distinguishing factors between an Ijarah MBT and conventional finance lease — `distinguishing_factors`
+    - Key distinguishing factors - Shari’ah perspective — `shariah_perspective`
+    - Operating Ijarah — `operating_ijarah`
+    - Accounting for usufruct / right-of-use asset — `usufruct_accounting`
+    - Acceptability of usufruct / right-of-use asset from Shari’ah perspective — `shariah_perspective`
+    - Recognition of right-of-use asset, its amortization and residual value — `right_of_use_recognition`
+    - Subsequent measurement – use of fair valuation for right-of-use asset — `fair_valuation`
+    - Ijarah MBT through gradual transfer / Diminishing Musharaka Ijarah — `mbt_diminishing`
+    - Ijarah commencement date vs. inception date – issue of future Ijarah — `commencement_date`
+    - Accounting and financial reporting by the Lessor — `lessor_accounting`
+    - Deposits and Hamish Jiddiyah — `deposits_hamish`
+    - Lease term and extension options — `lease_term`
+    - Appendix C: Brief history of the preparation of the standard — `history`
+  - Objective of the standard — `objective`
+  - Scope — `scope`
+  - Exclusions from Scope — `scope_exclusions`
+  - Definitions — `definitions`
+  - Definitions
+    - Combined asset — `definition`
+    - Commencement date — `definition`
+    - Contract — `definition`
+    - Control — `definition`
+    - Deferred Ijarah cost — `definition`
+    - Diminishing Musharaka (Shirkat-ul-Milk) Ijarah — `definition`
+    - Effective rate of return method [also referred to as effective profit rate method] — `definition`
+    - Fair value — `definition`
+    - Fixed Ijarah rentals — `definition`
+    - Forward Ijarah (Ijarah Mawsufah fi al-Dhimma) — `definition`
+    - Hamish Jiddiyyah (security deposit) — `definition`
+    - Ijarah — `definition`
+    - Ijarah contract modification — `definition`
+    - Ijarah Muntahia Bittamleek (Ijarah MBT) — `definition`
+    - Ijarah rentals (Ujra) — `definition`
+    - Ijarah term — `definition`
+    - Initial direct costs — `definition`
+    - In-substance fixed Ijarah rentals — `definition`
+    - Lessee — `definition`
+    - Lessor — `definition`
+    - Onerous commitment — `definition`
+    - Operating Ijarah — `definition`
+    - Residual value of right-of-use assets (for lessee) — `definition`
+    - Residual value of underlying assets (for lessor) — `definition`
+    - Right-of-use asset (usufruct asset) — `definition`
+    - Short-term Ijarah — `definition`
+    - Sub-Ijarah — `definition`
+    - Underlying asset — `definition`
+    - Useful economic life — `definition`
+    - Usufruct — `definition`
+    - Variable Ijarah rentals — `definition`
+  - Identifying (and separating) an Ijarah — `identification`
+  - Reassessment of Ijarah — `reassessment`
+  - Separating components within the Ijarah contract — `separating_components`
+  - Accounting for non-Ijarah components — `non_ijarah_components`
+  - Lessee: Allocation of Consideration — `allocation_lessee`
+  - Simplified Approach for Lessee — `simplified_approach_lessee`
+  - Lessor: Allocation of Consideration — `allocation_lessor`
+  - Classification of Ijarah — `classification`
+  - Ijarah term — `ijarah_term`
+  - Assessment of probability of exercising the extension (including non-termination) options — `extension_options_assessment`
+  - Reasonable certainty of extension option — `reasonable_certainty_extension`
+  - Rebuttable presumption — `rebuttable_presumption`
+  - Subsequent re-assessment of Ijarah term — `reassessment_ijarah_term`
+  - Revision of Ijarah term — `revision_ijarah_term`
+  - Accounting and financial reporting by the lessee — `lessee_accounting`
+  - Initial recognition — `initial_recognition`
+  - Advance rentals paid — `advance_rentals`
+  - Netting of advance rentals — `netting_rentals`
+  - Initial recognition — `initial_recognition_lessee`
+  - Ijarah Term — `Ijarah Term`
+    - Reassessment of Ijarah Term — `Accounting Treatment`
+    - Revision of Ijarah Term — `Accounting Treatment`
+  - Accounting and financial reporting by the lessee — `Lessee Accounting`
+    - Initial recognition — `Initial Recognition`
+      - Advance rentals paid — `Accounting Treatment`
+      - Advance rentals - netting — `Accounting Treatment`
+      - Recognition of Assets and Liabilities — `Accounting Treatment`
+      - Initial recognition of right-of-use asset — `Measurement`
+      - Cost of the right-of-use asset — `Cost Components`
+      - Initial recognition of Ijarah liability — `Measurement`
+      - Ijarah rentals — `Components`
+      - Variable Ijarah rentals — `Definition`
+    - Special considerations for Ijarah MBT through gradual transfer — `Accounting Treatment`
+    - Accounting for Ijarah MBT — `Accounting Treatment`
+    - Deferred Ijarah cost — `Definition`
+    - Presentation of Deferred Ijarah cost — `Presentation`
+    - Prime cost of the right-of-use asset — `Right-of-use asset`
+      - Underlying asset cost method — `Measurement`
+      - Estimation based on liability method — `Measurement`
+    - Subsequent measurement — `Measurement`
+    - Amortization of right-of-use asset — `Accounting Treatment`
+    - Amortization basis — `Accounting Treatment`
+    - Amortizable Amount — `Definition`
+    - Residual Value — `Definition`
+    - Impairment of right-of-use asset — `Accounting Treatment`
+    - Onerous commitment — `Accounting Treatment`
+    - Subsequent measurement of the Ijarah liability — `Measurement`
+    - Re-measuring of the carrying amount — `Accounting Treatment`
+    - Amortization of Deferred Ijarah Cost — `Accounting Treatment`
+    - Effective rate of return method — `Method`
+    - Income Statement Recognition — `Accounting Treatment`
+    - Ijarah contract modifications — `Ijarah Modification`
+      - Changes in the Ijarah term or future Ijarah rentals — `Accounting Treatment`
+      - Change in right-of use asset: new Ijarah component — `Accounting Treatment`
+      - Change in right-of use asset: de-recognition of earlier Ijarah and recognition of a new Ijarah — `Accounting Treatment`
+    - Expenses related to underlying asset — `Accounting Treatment`
+    - Expenses as Agent — `Accounting Treatment`
+    - Recognition exemptions and simplified accounting for the lessee — `Exemptions`
+    - Accounting for the exempt Ijarah — `Accounting Treatment`
+    - Short-term Ijarah — `Accounting Treatment`
+    - Class of assets — `Application`
+    - Low value Ijarah — `Application`
+    - Conditions for low value Ijarah — `Conditions`
+  - Presentation and disclosure — `Presentation and Disclosure`
+    - Presentation — `Financial Position`
+    - Presentation of Advance Rentals — `Financial Position`
+    - Income Statement Presentation — `Income Statement`
+    - Disclosures — `Disclosure Requirements`
+  - Accounting and financial reporting by the lessor — `Lessor Accounting`
+    - Initial Recognition — `Initial Recognition`
+      - Advance to vendor — `Accounting Treatment`
+      - Advance rentals received — `Accounting Treatment`
+      - Timing of recognition of underlying asset — `Recognition`
+      - Recognition of underlying asset — `Cost Components`
+      - Recognition of underlying asset in tranches — `Recognition`
+      - Initial direct costs — `Cost Components`
+      - Amortization of initial direct costs — `Accounting Treatment`
+    - Subsequent measurement — `Measurement`
+  - Initial Recognition — `initial_recognition`
+    - Advance to vendor — `accounting_treatment`
+    - Advance rentals received — `accounting_treatment`
+    - Timing of recognition of underlying asset — `accounting_treatment`
+    - Recognition of underlying asset — `accounting_treatment`
+    -   — `accounting_treatment`
+    - Initial direct costs — `accounting_treatment`
+    -   — `accounting_treatment`
+  - Subsequent measurement — `subsequent_measurement`
+    - Depreciation — `depreciation`
+      -   — `depreciation`
+      -   — `depreciation`
+      -   — `depreciation`
+    - Impairment — `impairment`
+      -   — `impairment`
+    - Accounting for commitments — `accounting_treatment`
+  - Ijarah revenue and costs — `ijarah_revenue_costs`
+    - Ijarah revenue — `ijarah_revenue`
+      -   — `ijarah_revenue`
+      - Applying the effective rate of return method — `accounting_treatment`
+        -   — `accounting_treatment`
+        -   — `accounting_treatment`
+      - Applying the systematic method for Ijarah MBT through gradual transfer — `accounting_treatment`
+    - Ijarah costs — `ijarah_costs`
+  - Presentation and Disclosures — `presentation_disclosure`
+    - Ijarah Assets — `presentation`
+    - Net Ijarah Revenue — `presentation`
+    - Advance Ijarah Rentals — `presentation`
+    - Initial Direct Costs — `presentation`
+    - Disclosures — `disclosure`
+    - Further Disclosure Requirements — `disclosure`
+  - Ijarah MBT: transfer of underlying asset’s ownership — `ijarah_mbt`
+    - Timing of recognition of the transfer of underlying asset — `accounting_treatment`
+    - Contract Requirements — `contractual_aspects`
+    - Transfer of Ownership — `accounting_treatment`
+    - Ijarah MBT through gradual transfer – special considerations — `accounting_treatment`
+  - In the books of the purchaser / transferee (previously lessee) — `accounting_treatment`
+    - After completion of the Ijarah term — `accounting_treatment`
+    - Ijarah MBT through gradual transfer – special considerations — `accounting_treatment`
+  - De-recognition in the books of the seller / transferor (previously lessor) — `accounting_treatment`
+    - De-recognition of asset — `accounting_treatment`
+    - Ijarah MBT through gradual transfer – special considerations — `accounting_treatment`
+  - Transfer of underlying assets with early termination / settlement of Ijarah — `accounting_treatment`
+    - Accounting for early termination — `accounting_treatment`
+    - Transfer of asset — `accounting_treatment`
+  - In the books of the purchaser / transferee (previously lessee) — `accounting_treatment`
+  - In the books of the seller / transferor (previously lessor) — `accounting_treatment`
+  - Sale and Ijarah-back transactions — `sale_ijarah_back`
+    - Sale and Ijarah-back transaction — `accounting_treatment`
+    - Sale of the asset — `accounting_treatment`
+    - Proportionate transfer — `accounting_treatment`
+    - Accounting for the sale of the asset – by seller-lessee — `accounting_treatment`
+    - Fair value consideration — `accounting_treatment`
+    - Deferred Gain or Loss — `presentation`
+    - Accounting for the buyer-lessor — `accounting_treatment`
+  - Other related accounting treatments — `accounting_treatment`
+    - Forward Ijarah — `accounting_treatment`
+    - Hamish Jiddiyyah (security deposit) — `accounting_treatment`
+    - Adjustment / Forfeiture of Hamish Jiddiyyah — `accounting_treatment`
+    - Hamish Jiddiyyah after Ijarah termination — `accounting_treatment`
+    - Charity — `accounting_treatment`
+  - Effective date — `effective_date`
+  - Transitional provisions — `transitional_provisions`
+  - Amendments to other standards — `amendments`
+  - Appendix A: Adoption of the standard — `adoption`
+  - Appendix B: Basis for conclusions — `basis_for_conclusions`
+    - Reason for revision of the standard — `revision_reason`
+    - Scope exclusion – service Ijarah — `scope`
+    - Key distinguishing factors between an Ijarah MBT and conventional finance lease — `distinguishing_factors`
+    - Key distinguishing factors - Shari’ah perspective — `shariah_perspective`
+    - Operating Ijarah — `operating_ijarah`
+    - Accounting for usufruct / right-of-use asset — `usufruct_accounting`
+    - Acceptability of usufruct / right-of-use asset from Shari’ah perspective — `usufruct_shariah_perspective`
+    - Recognition of right-of-use asset, its amortization and residual value — `right_of_use_asset`
+    - Subsequent measurement – use of fair valuation for right-of-use asset — `fair_valuation`
+    - Ijarah MBT through gradual transfer / Diminishing Musharaka Ijarah — `ijarah_mbt_gradual_transfer`
+    - Ijarah commencement date vs. inception date – issue of future Ijarah — `commencement_date`
+    - Accounting and financial reporting by the Lessor — `lessor_accounting`
+    - Deposits and Hamish Jiddiyah — `deposits_hamish_jiddiyah`
+    - Lease term and extension options — `lease_term`
+  - 1st meeting — `history_standard_preparation`
+  - 2nd AAB meeting — `history_standard_preparation`
+  - 1st working group — `history_standard_preparation`
+  - Shari’ah board meeting — `history_standard_preparation`
+  - 2nd working group — `history_standard_preparation`
+  - 10th meeting of AAB — `history_standard_preparation`
+  - 11th AAB meeting — `history_standard_preparation`
+  - Exposure draft issuance — `history_standard_preparation`
+  - Public hearing — `history_standard_preparation`
+  - Roundtable event — `history_standard_preparation`
+  - Working group meetings — `history_standard_preparation`
+  - 16th AAB meeting — `history_standard_preparation`
+  - Standard issuance — `history_standard_preparation`

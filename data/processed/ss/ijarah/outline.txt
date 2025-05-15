@@ -1,0 +1,162 @@
+- Shari’ah Standard No. (9) Ijarah and Ijarah Muntahia Bittamleek (Revised Standard)
+  - Preface — `preface`
+  - 1. Scope of the Standard — `scope`
+  - 2. Promise to Lease (an Asset) — `promise_to_lease`
+  - 3. Acquisition of the Asset to Be Leased, or Its Usufruct, by the Institution — `asset_acquisition`
+  - 4. Concluding an Ijarah Contract and the Forms of Ijarah — `ijarah_contract`
+  - 5. Subject Matter of Ijarah — `subject_matter`
+  - 6. Guarantees and Treatment of Ijarah Receivables — `guarantees`
+  - 7. Changes to the Ijarah Contract — `contract_changes`
+  - 8. Transfer of the Ownership in the Leased Property in Ijarah Muntahia Bittamleek — `ownership_transfer`
+  - 9. Date of Issuance of the Standard — `issuance_date`
+  - Adoption of the Standard — `adoption`
+  - Appendices — `appendices`
+    - Appendix (a): Brief History of the Preparation of the Standard — `appendix`
+    - Appendix (b): The Shari’ah Basis for the Standard — `shariah_basis`
+    - Appendix (c): Definitions — `definitions`
+  - 1. Scope of the Standard — `scope`
+  - 2. Promise to Lease (an Asset) — `ijarah_rules`
+    - 2/1 — `promise_to_lease`
+    - 2/2 — `promise_to_lease`
+    - 2/3 — `promise_to_lease`
+    - 2/4 — `promise_to_lease`
+  - 3. Acquisition of the Asset to Be Leased, or Its Usufruct, by the Institution — `ijarah_rules`
+    - 3/1 — `asset_acquisition`
+    - 3/1/1 — `asset_acquisition`
+    - 3/1/2 — `asset_acquisition`
+    - 3/2 — `asset_acquisition`
+    - 3/3 — `asset_acquisition`
+    - 3/4 — `asset_acquisition`
+    - 3/5 — `asset_acquisition`
+    - 3/6 — `asset_acquisition`
+    - 3/7 — `asset_acquisition`
+  - 4. Concluding an Ijarah Contract and the Forms of Ijarah — `ijarah_rules`
+    - 4/1 Signature of the contract and the consequences thereof — `ijarah_rules`
+      - 4/1/1 — `contract_consequences`
+      - 4/1/2 — `contract_consequences`
+      - 4/1/3 — `contract_consequences`
+      - 4/1/4 — `contract_consequences`
+    - 4/2 Forms of the Ijarah contract — `ijarah_rules`
+      - 4/2/1 — `contract_forms`
+      - 4/2/2 — `contract_forms`
+      - 4/2/3 — `contract_forms`
+      - 4/2/4 — `contract_forms`
+  - 5. Subject Matter of Ijarah — `ijarah_rules`
+    - 5/1 Rules governing benefit and leased property — `ijarah_rules`
+      - 5/1/1 — `subject_matter`
+      - 5/1/2 — `subject_matter`
+      - 5/1/3 — `subject_matter`
+      - 5/1/4 — `subject_matter`
+      - 5/1/5 — `subject_matter`
+      - 5/1/6 — `subject_matter`
+      - 5/1/7 — `subject_matter`
+      - 5/1/8 — `subject_matter`
+    - 5/2 Rules governing lease rentals — `ijarah_rules`
+      - 5/2/1 — `lease_rentals`
+  - 5/1/5 — `lessor responsibility`
+  - 5/1/6 — `lessee responsibility`
+  - 5/1/7 — `maintenance`
+  - 5/1/8 — `asset responsibility, insurance`
+  - 5/2 Rules governing lease rentals — `lease rentals`
+  - 5/2/1 — `rental specification`
+  - 5/2/2 — `rental obligation, rental commencement`
+  - 5/2/3 — `floating rental, benchmark`
+  - 5/2/4 — `rental components`
+  - 5/2/5 — `rental amendment`
+  - 6. Guarantees and Treatment of Ijarah Receivables — `guarantees, receivables`
+  - 6/1 — `security, rental payments`
+  - 6/2 — `rental payment, instalments`
+  - 6/3 — `rental increase, delay in payment`
+  - 6/4 — `late payment, donation`
+  - 6/5 — `foreclosure, security, deductions`
+  - 7. Changes to the Ijarah Contract — `contract changes`
+  - 7/1 Selling of or damage to the leased asset — `selling, damage`
+  - 7/1/1 — `sale to lessee, termination`
+  - 7/1/2 — `sale to third party`
+  - 7/1/3 — `total destruction, termination`
+  - 7/1/4 — `lessee liability, damage`
+  - 7/1/5 — `partial destruction, termination, rental amendment`
+  - 7/1/6 — `Ijarah Mawsufah fi al-Dhimmah, alternative asset`
+  - 7/1/7 — `lessee default, rental continuation`
+  - 7/2 Termination, expiry and renewal of the Ijarah contract — `termination, expiry, renewal`
+  - 7/2/1 — `termination reasons`
+  - 7/2/2 — `termination, non-payment`
+  - 7/2/3 — `termination, death`
+  - 7/2/4 — `expiry, total destruction`
+  - 7/2/5 — `termination before commencement`
+  - 7/2/6 — `expiry, renewal`
+  - 8. Transfer of the Ownership in the Leased Property in Ijarah Muntahia Bittamleek — `transfer of ownership, ijarah muntahia bittamleek`
+  - 8/1 — `transfer methods`
+  - 8/2 — `binding promise`
+  - 8/3 — `new contract, ownership transfer`
+  - 8/4 — `gift, contingent condition`
+  - 8/5 — `inah, asset sale, time period`
+  - 8/6 — `rules of ijarah, ijarah muntahia bittamleek`
+  - 8/7 — `ownership transfer, future date`
+  - 8/8 — `asset destruction, rental adjustment`
+  - 9. Date of Issuance of the Standard — `issuance date`
+  - Adoption of the Standard — `standard_adoption`
+  - Appendix (A): Brief History of the Preparation of the Standard — `standard_history`
+    - Initial Decision — `standard_preparation`
+    - Commissioning of Consultant — `standard_preparation`
+    - Review of Exposure Draft — `standard_preparation`
+    - Presentation to Shari’ah Board — `standard_preparation`
+    - Public Hearing — `standard_preparation`
+    - Joint Meeting of Committees — `standard_preparation`
+    - Final Amendments and Adoption — `standard_adoption`
+    - Conversion to Standards — `standard_preparation`
+    - Reformatting and Adoption as Standard — `standard_adoption`
+    - Review and Proposed Amendments — `standard_review`
+    - Final Approval of Amendments — `standard_adoption`
+  - Appendix (B)
+    - The Shari’ah Basis for the Standard
+      - Permissibility of Ijarah and Ijarah Muntahia Bittamleek — `shariah_basis`
+      - On the level of the Qur`an — `quran`
+      - The authority for the permissibility of Ijarah in the Sunnah — `sunnah`
+      - The permissibility of Ijarah also generated consensus among the legal community — `ijma`
+      - The Ijarah Muntahia Bittamleek — `ijarah_muntahia_bittamleek`
+      - It must be noted — `comparison`
+      - In hire-purchase — `hire_purchase_vs_ijarah`
+      - It must be noted also — `contract_definition`
+      - Promise to Lease an Asset — `promise_to_lease`
+      - Acquisition of the Asset to be Leased, or Its Usufruct, by the Institution — `asset_acquisition`
+      - The basis for not allowing a simultaneous combination of Ijarah and sale — `prohibition_combination`
+      - The basis for the permissibility of sub-leasing when the lessor has allowed it — `sub_leasing`
+      - The basis for the permissibility of leasing a property on the basis of specifications even if the lessor does not own it — `leasing_specifications`
+      - The basis for preferring that the agent who purchases on behalf of the Institution be someone other than the customer (lessee) — `agent_role`
+      - Contract of Ijarah — `contract_binding`
+      - The basis for allowing cancellation of an Ijarah contract due to contingencies — `contract_cancellation`
+      - The basis for requiring a designated term for the lease — `lease_term`
+      - The basis for allowing an Ijarah contract take effect based on future events — `future_events`
+      - The basis for the permissibility of obtaining ’Arboun (Earnest Money) to secure performance — `arboun`
+      - The basis for the impermissibility of re-leasing after the lease of the asset — `re_leasing`
+      - The basis for allowing successive leases on the same specified usufruct of a particular asset without specifying a particular period for a particular person — `successive_leases`
+      - The basis for the requirement that incorporating co-lessees must take place before any sub-lease contract is signed — `co_lessees`
+      - Subject Matter of Ijarah — `subject_matter`
+      - The basis for the impermissibility of stipulating a defect exclusion clause in respect to the leased asset — `defect_exclusion`
+      - The reason why the lessor may not stipulate that the lessee will undertake the major maintenance of the leased asset — `maintenance`
+      - The reason why insurance expenses must be borne by the lessor — `insurance_expenses`
+      - The basis for the permissibility of using a certain benchmark or price index to determine rentals of subsequent periods after the expiration of the first period of an Ijarah contract — `rental_benchmark`
+      - The basis for the permissibility of restructuring the rentals for the future periods — `rental_restructuring`
+      - Guarantees and Treatment of Ijarah Receivables — `guarantees`
+      - The basis for the permissibility of a payment acceleration clause — `payment_acceleration`
+      - The basis of the prohibition of increasing the amount of lease receivables in exchange for a deferral of payment — `prohibition_increase_receivables`
+      - The basis for the permissibility of stipulating that a solvent debtor should undertake to make a payment to charity in case of default — `payment_to_charity`
+      - Changes to the Ijarah Contract — `contract_changes`
+      - The basis for the termination of the lease contract due to a total destruc- tion of the leased asset — `termination_destruction`
+      - The basis for the entitlement of the lessor to the rentals even though the lessee returns the leased asset to the owner or stops using it — `lessor_entitlement`
+      - The basis for the permissibility of terminating the lease contract in case of intervening contingencies or force majeure — `termination_contingencies`
+      - The basis for the permissibility that the lessor may stipulate that an Ijarah contract be terminated due to non-payment of rental by the lessee — `termination_non_payment`
+      - The basis of the rule that Ijarah does not terminate with the death of either party thereto — `death_of_party`
+      - Transfer of the Ownership in the Leased Asset in Ijarah Muntahia Bittamleek — `ownership_transfer_imb`
+      - The basis for the rule that the promise of a client to take an asset acquired by the Institution on lease is binding — `promise_binding`
+      - The basis for not allowing bilateral promises — `bilateral_promises`
+      - The basis for the permissibility of a gift contingent upon the expiry of the Ijarah term — `gift_expiry`
+      - The basis for the permissibility of leasing an asset to the person from whom it is purchased by way of Ijarah Muntahia Bittamleek on condition that the parties observe the lapse of a period of time — `leasing_imb`
+      - The basis for the requirement that all the rules prescribed for an ordinary lease are applicable to Ijarah Muntahia Bittamleek — `rules_imb`
+      - The basis for the rule that ownership cannot be made in contingent on a future date — `ownership_contingent_date`
+      - The basis for allowing recourse to the prevailing market rate of rental when the transfer of ownership becomes impossible without any cause attributable to the lessee — `market_rate`
+  - Appendix (C)
+    - Definitions
+      - Ijarah — `definition_ijarah`
+      - Ijarah Muntahia Bittamleek — `definition_imb`

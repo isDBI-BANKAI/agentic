@@ -1,0 +1,7 @@
+-e .
+python-dotenv
+pymupdf
+pydantic
+google-generativeai
+openai
+pinecone

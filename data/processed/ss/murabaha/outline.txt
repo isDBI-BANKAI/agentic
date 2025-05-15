@@ -1,0 +1,166 @@
+- Shari’ah Standard No. (8) Murabahah (1) (Revised Standard)
+  - Preface — `shariah_standard_preface`
+  - Statement of the Standard — `shariah_standard_statement`
+  - 1. Scope of the Standard — `scope`
+  - 2. Procedures Prior to the Contract of Murabahah — `murabahah_procedures`
+  - 3. Acquisition of Title to, and Possession of, the Asset by the Institution or Its Agent — `asset_acquisition`
+  - 4. Conclusion of a Murabahah Contract — `murabahah_contract`
+  - 5. Guarantees and Treatment of Murabahah Receivables — `murabahah_receivables`
+  - 6. Date of Issuance of the Standard — `issuance_date`
+  - Adoption of the Standard — `adoption`
+  - Appendices — `appendices`
+    - Appendix (a): Notice from Institution’s Customer of Its Performance of Purchasing Asset or Good As Agent for Institution, and of Its Offer to Purchase Item from Institution According to Contract of Murabahah — `appendix`
+    - Appendix (b): Notice of Acceptance by Institution of Customer’s Offer to Purchase Asset or Good to Be Acquired, and of selling item by Institution to Customer — `appendix`
+    - Appendix (c): Brief History of the Preparation of the Standard — `appendix`
+    - Appendix (d): The Shari’ah Basis for the Standard — `appendix`
+    - Appendix (e): Definitions — `appendix`
+  - 1. Scope of the Standard — `scope`
+  - 2. Procedures Prior to the Contract of Murabahah — `procedures_prior_contract`
+    - 2/1 The customer’s expression of his wish to acquire an item through the Institution — `customer_wish`
+      - 2/1/1 — `customer_wish`
+      - 2/1/2 — `customer_wish`
+      - 2/1/3 — `customer_wish`
+      - 2/1/4 — `customer_wish`
+    - 2/2 The position of the Institution in respect to the application of the customer for Murabahah — `institution_position`
+      - 2/2/1 — `institution_position`
+      - 2/2/2 — `institution_position`
+      - 2/2/3 — `institution_position`
+      - 2/2/4 — `institution_position`
+      - 2/2/5 — `institution_position`
+      - 2/2/6 — `institution_position`
+      - 2/2/7 — `institution_position`
+      - 2/2/8 — `institution_position`
+    - 2/3 The promise from the customer — `customer_promise`
+      - 2/3/1 — `customer_promise`
+      - 2/3/2 — `customer_promise`
+      - 2/3/3 — `customer_promise`
+      - 2/3/4 — `customer_promise`
+      - 2/3/5 — `customer_promise`
+    - 2/4 Commissions and expenses — `commissions_expenses`
+      - 2/4/1 — `commissions_expenses`
+      - 2/4/2 — `commissions_expenses`
+      - 2/4/3 — `commissions_expenses`
+      - 2/4/4 — `commissions_expenses`
+      - 2/4/5 — `commissions_expenses`
+    - 2/5 Guarantees related to the commencement of the transaction — `guarantees`
+      - 2/5/1 — `guarantees`
+      - 2/5/2 — `guarantees`
+      - 2/5/3 — `guarantees`
+      - 2/5/4 — `guarantees`
+      - 2/5/5 — `guarantees`
+      - 2/5/6 — `guarantees`
+  - 3. Acquisition of Title to, and Possession of, the Asset by the Institution or Its Agent — `asset_acquisition`
+    - 3/1 The acquisition of the asset or good by the Institution prior to its sale by means of Murabahah — `asset_acquisition`
+      - 3/1/1 — `asset_acquisition`
+  - 2/5/5 Hamish Jiddiyyah and Deduction from Price — `Murabahah`
+  - 2/5/6 Arboun (Earnest Money) — `Murabahah`
+  - 3. Acquisition of Title to, and Possession of, the Asset by the Institution or Its Agent — `Murabahah`
+  - 3/1 The acquisition of the asset or good by the Institution prior to its sale by means of Murabahah — `Murabahah`
+  - 3/1/1 Requirement to Acquire the Item — `Murabahah`
+  - 3/1/2 Completion of Contract with Supplier — `Murabahah`
+  - 3/1/3 Agent for Purchase — `Murabahah`
+  - 3/1/4 Conditions for Customer as Agent — `Murabahah`
+  - 3/1/5 Separation of Risks — `Murabahah`
+  - 3/1/6 Documentation — `Murabahah`
+  - 3/1/7 Agency without Disclosure — `Murabahah`
+  - 3/2 The Institution’s taking possession of the asset or good, prior to its sale by Murabahah — `Murabahah`
+  - 3/2/1 Possession Requirement — `Murabahah`
+  - 3/2/2 Purpose of Possession — `Murabahah`
+  - 3/2/3 Forms of Possession — `Murabahah`
+  - 3/2/4 Constructive Possession (Bill of Lading) — `Murabahah`
+  - 3/2/5 Delivery by Agent — `Murabahah`
+  - 3/2/6 Insurance — `Murabahah`
+  - 3/2/7 Agency for Insurance — `Murabahah`
+  - 4. Conclusion of a Murabahah Contract — `Murabahah`
+  - 4/1 Automatic Conclusion and Customer's Obligation — `Murabahah`
+  - 4/2 Compensation for Breach of Promise — `Murabahah`
+  - 4/3 Disclosure of Costs — `Murabahah`
+  - 4/4 Permissible Costs — `Murabahah`
+  - 4/5 Discounts after Contract — `Murabahah`
+  - 4/6 Price and Profit Determination — `Murabahah`
+  - 4/7 Profit Mark-up — `Murabahah`
+  - 4/8 Installments — `Murabahah`
+  - 4/9 Bay’ al-Bara`ah (Sale on ‘As Is’ Basis) — `Murabahah`
+  - 4/10 Responsibility for Defects — `Murabahah`
+  - 4/11 Customer Refusal — `Murabahah`
+  - 5. Guarantees and Treatment of Murabahah Receivables — `Murabahah`
+  - 5/1 Acceleration of Installments — `Murabahah`
+  - 5/2 Permissible Security — `Murabahah`
+  - 5/3 Cheques and Promissory Notes — `Murabahah`
+  - 5/4 Transfer of Ownership and Asset Sale — `Murabahah`
+  - 5/5 Mortgagee's Assignment — `Murabahah`
+  - 5/6 Charitable Undertaking — `Murabahah`
+  - 5/7 Rescheduling with Extra Payment — `Murabahah`
+  - 5/8 Default in Payment — `Murabahah`
+  - 5/9 Early Payment Discount — `Murabahah`
+  - 5/10 Currency Exchange — `Murabahah`
+  - 6. Date of Issuance of the Standard — `Murabahah`
+  - Adoption of the Standard — `standard_adoption`
+  - Appendix (A) — `murabahah_appendix`
+    - Notice from the institution’s customer of its performance of the purchase of the asset or good as agent for the institution: — `murabahah_notice_customer`
+  - Appendix (B) — `murabahah_appendix`
+    - Notice of the acceptance by the Institution of the customer’s offer to purchase the asset or good to be acquired: — `murabahah_notice_institution`
+  - Appendix (C) — `murabahah_appendix`
+    - History of the Preparation — `murabahah_history`
+  - The Shari’ah Basis for the Standard — `Shariah basis`
+    - Preface on the Permissibility of Murabahah — `definition`
+    - Permissibility of Murabahah — `permissibility`
+  - Promise from the Purchase Orderer — `promise`
+  - The basis for the requirement that... — `requirements`
+    - The basis for the requirement that there must not be any contractual commitment... — `requirement`
+    - The basis for the requirement that the customer must not have any (busi-ness) connection with the supplier... — `requirement`
+    - The basis for the permissibility that the supplier may be a relative of the customer... — `permissibility`
+    - The basis for not allowing a partner to promise to buy the shares of another partner... — `prohibition`
+    - The basis for not allowing dealings in gold, silver and currencies on de-ferred Murabahah basis... — `prohibition`
+    - The basis for the prohibition of Murabahah tradable securities or refinancing of a Murabahah transaction... — `prohibition`
+    - The basis for not allowing a bilateral binding promise... — `prohibition`
+    - The basis for the permissibility of the agreement to amend the terms of the promise... — `permissibility`
+  - The basis for... — `bases`
+    - The basis for using options when buying on Murabahah... — `permissibility`
+    - The basis for the impermissibility of a commitment fee... — `prohibition`
+    - The basis for the impermissibility of a facility commission... — `prohibition`
+    - The basis for allowing that the expenses of preparing the document of contracts... — `permissibility`
+    - The basis for the permissibility of the customer guaranteeing the good performance of the supplier... — `permissibility`
+    - The basis for not allowing that the customer guarantee the risk of transportation of the goods... — `prohibition`
+    - The basis for the permissibility of Hamish Jiddiyyah (security deposit) is... — `permissibility`
+    - The basis for the permissibility of obtaining the earnest money to secure performance... — `permissibility`
+  - Acquisition of Title to, and Possession of, the Asset by the Institution or its Agent — `acquisition and possession`
+    - The basis for the prohibition of selling a commodity before taking possession... — `prohibition`
+    - The basis for preferring that the Institution appoint an agent other than the purchase orderer... — `preference`
+    - The basis for the requirement that the Institution must pay the supplier directly... — `requirement`
+    - The basis for the requirement that the liabilities of the parties -in case the Institution acquires the goods through agency-... — `requirement`
+    - The basis for the requirement that documents must be directed to the Institution... — `requirement`
+    - The basis for the requirement that the agent must explain to the supplier his agency status... — `requirement`
+  - The basis for... — `bases`
+    - The basis for the requirement of possession before a sale contract is to ensure... — `requirement`
+    - The basis for separating an agency contract from a Murabahah transac- tion... — `requirement`
+    - The basis for the rule that constructive possession is sufficient to meet the requirement of possession... — `rule`
+    - The basis for the requirement that the contract of agency be separate from the contract of sale on a Murabahah basis... — `requirement`
+    - The basis for the rule that the Institution bear the expenses of insurance... — `rule`
+  - Conclusion of a Murabahah Contract — `contract conclusion`
+    - The basis for the rule that the Institution is entitled to compensation in case of breach... — `rule`
+    - The basis for the rule that the Institution’s rights are limited, in case of breach of promise,... — `rule`
+  - The basis for... — `bases`
+    - The basis for the requirement of transparency as to the cost price... — `requirement`
+    - The basis for allowing normal expenses to be included in computing the selling price... — `permissibility`
+    - The basis for entitlement of the buyer to benefit from the discount acquired by the Institution... — `entitlement`
+    - The basis for the requirement that the price and the profit in Murabahah must be determined... — `requirement`
+    - The basis for the requirement that the profit must be separately disclosed... — `requirement`
+    - The basis for the permissibility of instalment payment... — `permissibility`
+    - The basis for the permissibility of stipulating a defect exclusion item... — `permissibility`
+    - The basis for the permissibility of stipulating that the contract would be terminated for default in payment... — `permissibility`
+  - Guarantees in Murabahah and Treatment of Murabahah Receivables — `guarantees and receivables`
+    - The basis for the condition that all instalments will become due if there is delay in payment... — `condition`
+    - The basis for demanding collateral to secure payment... — `basis`
+    - The basis for not allowing a stipulation that delays transfer of ownership... — `prohibition`
+    - The basis for the permissibility of stipulating a condition, whereby the debtor in case of default is obliged to donate a sum of money... — `permissibility`
+    - The basis for the prohibition of additional payment over the principal debt in consideration for extension of time... — `prohibition`
+    - The basis for the permissibility of discount or rebate for earlier payment... — `permissibility`
+    - The basis of the permissibility of payment of debt in another currency... — `permissibility`
+  - As for some of the forms mentioned in the standard... — `forms`
+  - Appendix (E): Definitions — `definitions`
+    - Murabahah — `definition`
+    - Commitment Fee — `definition`
+    - Arboun — `definition`
+    - Syndicated Financing — `definition`
+    - Credit Facility — `definition`

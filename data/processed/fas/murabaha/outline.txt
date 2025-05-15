@@ -1,0 +1,116 @@
+- AAOIFI Financial Accounting Standard 28: Murabaha and Other Deferred Payment Sales
+  - Contents — `table_of_contents`
+  - Introduction — `introduction`
+    - Overview — `overview`
+    - Rationale for issuing this standard — `rationale`
+  - Standard Overview — `standard_overview`
+  - Objective of the standard — `objective`
+  - Scope — `scope`
+    - Scope — `scope`
+    - Scope — `scope`
+  - Definitions — `definitions`
+    - Arboun — `definition`
+    - Commodity Murabaha — `definition`
+    - Control — `definition`
+    - Deferred payment sale — `definition`
+    - Fair value — `definition`
+    - Hamish Jiddiyyah — `definition`
+    - Inventory — `definition`
+    - Murabaha — `definition`
+    - Murabaha to the purchase orderer — `definition`
+    - Musawama — `definition`
+    - Net realisable value (NRV) — `definition`
+    - Promise and mutual promise — `definition`
+    - Tawarruq — `definition`
+  - Murabaha and other deferred payment sales in the financial statements of the seller — `seller_financial_statements`
+    - Initial recognition — `initial_recognition`
+    - Inventories — `inventory`
+      - Inventories — `initial_recognition`
+      - Inventories — `initial_recognition`
+      - Inventories — `initial_recognition`
+    - Receivables — `receivables`
+      - Receivables — `initial_recognition`
+      - Receivables — `initial_recognition`
+      - Receivables — `initial_recognition`
+    - Subsequent measurement — `subsequent_measurement`
+    - Inventories — `inventory`
+      - Inventories — `subsequent_measurement`
+      - Inventories — `subsequent_measurement`
+      - Inventories — `subsequent_measurement`
+      - Inventories — `subsequent_measurement`
+    - Receivables — `receivables`
+      - Receivables — `subsequent_measurement`
+      - Receivables — `subsequent_measurement`
+      - Receivables — `subsequent_measurement`
+    - De-recognition — `de-recognition`
+    - Inventories — `inventory`
+      - Inventories — `de-recognition`
+      - Inventories — `de-recognition`
+    - Receivables — `receivables`
+      - Receivables — `de-recognition`
+    - Revenue and profit recognition — `revenue_profit_recognition`
+    - Revenue — `revenue`
+    - Cost of sales — `cost_of_sales`
+    - Profit deferment — `profit_deferment`
+      - Profit deferment — `profit_deferment`
+      - Profit deferment — `profit_deferment`
+      - Profit deferment — `profit_deferment`
+      - Profit deferment — `profit_deferment`
+      - Profit deferment — `profit_deferment`
+      - Profit deferment — `profit_deferment`
+  - Related accounting treatments — `related_accounting_treatments`
+    - Waivers, discounts and write-offs — `waivers_discounts_writeoffs`
+      - Waivers, discounts and write-offs — `related_accounting_treatments`
+    - Transaction costs — `related_accounting_treatments`
+    - Structuring and other service fees — `related_accounting_treatments`
+    - Subsequent discounts on inventory — `subsequent_discounts_inventory`
+      - Subsequent discounts on inventory — `related_accounting_treatments`
+      - Subsequent discounts on inventory — `related_accounting_treatments`
+      - Subsequent discounts on inventory — `related_accounting_treatments`
+        - Subsequent discounts on inventory — `related_accounting_treatments`
+    - Hamish Jiddiyyah and Arboun — `hamish_jiddiyyah_arboun`
+      - Hamish Jiddiyyah and Arboun — `related_accounting_treatments`
+      - Hamish Jiddiyyah and Arboun — `related_accounting_treatments`
+      - Hamish Jiddiyyah and Arboun — `related_accounting_treatments`
+        - Hamish Jiddiyyah and Arboun — `related_accounting_treatments`
+    - Charity — `related_accounting_treatments`
+  - Presentation and disclosures — `presentation_disclosures`
+    - Presentation and disclosures — `presentation_disclosures`
+  - Murabaha and other deferred payment sales in the financial statements of the buyer — `buyer_financial_statements`
+    - Initial recognition — `initial_recognition`
+    - Recording of purchases — `recording_purchases`
+      - Recording of purchases — `initial_recognition`
+      - Recording of purchases — `initial_recognition`
+    - Murabaha and deferred payment sales liabilities — `liabilities`
+      - Murabaha and deferred payment sales liabilities — `initial_recognition`
+    - Subsequent measurement — `subsequent_measurement`
+    - Murabaha and deferred payment sales assets — `assets`
+      - Murabaha and deferred payment sales assets — `subsequent_measurement`
+      - Murabaha and deferred payment sales assets — `subsequent_measurement`
+    - Murabaha and deferred payment sales liabilities — `liabilities`
+      - Murabaha and deferred payment sales liabilities — `subsequent_measurement`
+      - Murabaha and deferred payment sales liabilities — `subsequent_measurement`
+    - Related accounting treatments — `related_accounting_treatments`
+    - Waivers, discounts and write-offs — `waivers_discounts_writeoffs`
+      - Waivers, discounts and write-offs — `related_accounting_treatments`
+    - Hamish Jiddiyyah and Arboun — `hamish_jiddiyyah_arboun`
+      - Hamish Jiddiyyah and Arboun — `related_accounting_treatments`
+      - Hamish Jiddiyyah and Arboun — `related_accounting_treatments`
+        - Hamish Jiddiyyah and Arboun — `related_accounting_treatments`
+    - Presentation and disclosures — `presentation_disclosures`
+      - Presentation and disclosures — `presentation_disclosures`
+  - Effective date — `effective_date`
+  - Transitional provisions — `transitional_provisions`
+  - Amendments to other standards — `amendments`
+  - Appendices — `appendices`
+  - Appendix A: Adoption of the standard — `adoption_standard`
+  - Scoping out – Tawarruq and commodity Murabaha — `scope`
+  - Scope inclusion and standard supersession – other deferred payment sales — `scope`
+  - Using the term inventory — `accounting_treatment`
+  - NRV and determining NRV — `accounting_treatment`
+  - Recognition of revenue and cost of sales — `accounting_treatment`
+  - Transitional provisions — `transitional_provisions`
+  - Recording receivables at gross amount — `accounting_treatment`
+  - Justification of deferment of profits for the seller — `accounting_treatment`
+  - Method of amortization of the deferred profits — `accounting_treatment`
+  - Accounting for the buyer – profit element in the asset value — `accounting_treatment`
