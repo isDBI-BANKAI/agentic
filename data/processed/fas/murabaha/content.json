@@ -1,11 +1,6 @@
 {
-    "title": "AAOIFI Financial Accounting Standard 28: Murabaha and Other Deferred Payment Sales",
+    "title": "AAOIFI Financial Accounting Standard 28 Murabaha and Other Deferred Payment Sales",
     "sections": [
-        {
-            "title": "Contents",
-            "tag": "table_of_contents",
-            "content": "Preface 5\nIntroduction 6\nOverview 6\nRationale for issuing this standard 6\nObjective of the standard 7\nScope 7\nDefinitions 7\nMurabaha and other deferred payment sales in the financial statements of the seller 8\nInitial recognition 8\nInventories 8\nReceivables 8\nSubsequent measurement 9\nInventories 9\nReceivables 9\nDe-recognition 9\nInventories 9\nReceivables 10\nRevenue and profit recognition 10\nRevenue 10\nCost of sales 10\nProfit deferment 10\nRelated accounting treatments 11\nWaivers, discounts and write-offs 11\nTransaction costs 11\nStructuring and other service fees 11\nSubsequent discounts on inventory 11\nHamish Jiddiyyah and Arboun 11\nCharity 12\nPresentation and disclosures 12\nMurabaha and other deferred payment sales in the financial statements of the buyer 13\nInitial recognition 13\nRecording of purchases 13\nMurabaha and deferred payment sales liabilities 13\nSubsequent measurement 13\nMurabaha and deferred payment sales assets 13\nMurabaha and deferred payment sales liabilities 13\nRelated accounting treatments 13\nWaivers, discounts and write-offs 13\nHamish Jiddiyyah and Arboun 14\nPresentation and disclosures 14\nEffective date 14\nTransitional provisions 14\nAmendments to other standards 14\nAppendices 15\nAppendix A: Adoption of the standard 15\nMembers of the board 15\nReservation 15\nWorking group members 16\nExecutive team 16\nAppendix B: Basis for conclusions 17\nScoping out \u2013 Tawarruq and commodity Murabaha 17\nScope inclusion and standard supersession \u2013 other deferred payment sales 17\nUsing the term inventory 17\nNRV and determining NRV 17\nRecognition of revenue and cost of sales 18\nTransitional provisions 18\nRecording receivables at gross amount 18\nJustification of deferment of profits for the seller 18\nMethod of amortization of the deferred profits 19\nAccounting for the buyer \u2013 profit element in the asset value 19\nAppendix C: Brief history of the preparation of the standard 21"
-        },
         {
             "title": "Introduction",
             "tag": "introduction",
@@ -13,19 +8,14 @@
                 {
                     "title": "Overview",
                     "tag": "overview",
-                    "content": "IN1\nThis standard AAOIFI Financial Accounting Standard (FAS) 28 prescribes the accounting and reporting principles and requirements for Murabaha and deferred payment sales transactions and different elements of such transaction."
+                    "content": "IN1 This standard AAOIFI Financial Accounting Standard (FAS) 28 prescribes the accounting and reporting principles and requirements for Murabaha and deferred payment sales transactions and different elements of such transaction."
                 },
                 {
                     "title": "Rationale for issuing this standard",
                     "tag": "rationale",
-                    "content": "IN2\nIn line with the new financial accounting standards development strategy, the AAOIFI Accounting board has initiated a review and revision process for certain FAS. As a part of such process and based on time-to-time feedback received from the market participants, as well as, the changes and updates in the generally accepted accounting principles set out by other standards setting bodies, it was considered imperative to perform a comprehensive review and revision of the existing standards on Murabaha and deferred payment sales. Additionally, the earlier standards did not address the issue of accounting for the purchaser in Murabaha and deferred payment sales transactions."
+                    "content": "IN2 In line with the new financial accounting standards development strategy, the AAOIFI Accounting board has initiated a review and revision process for certain FAS. As a part of such process and based on time-to-time feedback received from the market participants, as well as, the changes and updates in the generally accepted accounting principles set out by other standards setting bodies, it was considered imperative to perform a comprehensive review and revision of the existing standards on Murabaha and deferred payment sales. Additionally, the earlier standards did not address the issue of accounting for the purchaser in Murabaha and deferred payment sales transactions."
                 }
             ]
-        },
-        {
-            "title": "Standard Overview",
-            "tag": "standard_overview",
-            "content": "AAOIFI Financial Accounting Standard 28 \u201cMurabaha and Other Deferred Payment Sales\u201d is set out in paragraphs 01-53. All the paragraphs have equal authority. This standard should be read in the context of its objective and the Conceptual Framework for Financial Reporting as endorsed by AAOIFI.\nAll AAOIFI FASs shall be read in conjunction with the definitions, Shari\u2019ah principles and rules key considerations provided by AAOIFI Shari\u2019ah Standards (SS) in respect of such products and matters."
         },
         {
             "title": "Objective of the standard",
@@ -34,492 +24,597 @@
         },
         {
             "title": "Scope",
-            "sections": [
-                {
-                    "title": "Scope",
-                    "content": "This standard applies to accounting for Murabaha and other deferred payment sales transaction carried out under Shari\u2019ah principles, excluding Tawarruq and commodity Murabaha transactions.",
-                    "tag": "scope"
-                },
-                {
-                    "title": "Scope",
-                    "content": "This standard shall not apply to investments made in investment instruments e.g. equity instruments or Sukuk, where the underlying asset for such instrument is a Murabaha or deferred payment sale.",
-                    "tag": "scope"
-                }
-            ],
+            "content": "This standard applies to accounting for Murabaha and other deferred payment sales transaction carried out under Shari\u2019ah principles, excluding Tawarruq and commodity Murabaha transactions.",
+            "tag": "scope"
+        },
+        {
+            "title": "2",
+            "content": "This standard shall not apply to investments made in investment instruments e.g. equity instruments or Sukuk, where the underlying asset for such instrument is a Murabaha or deferred payment sale.",
             "tag": "scope"
         },
         {
             "title": "Definitions",
+            "tag": "definitions",
             "sections": [
                 {
-                    "title": "Arboun",
-                    "content": "is the amount paid by the intending buyer in a sale transaction as a security cum advance payment against the sales price, along with a promise to purchase. In line with contractual terms, it may be forfeited in case of default in promise to purchase by the buyer;",
+                    "title": "4 a",
+                    "content": "Arboun \u2013 is the amount paid by the intending buyer in a sale transaction as a security cum advance payment against the sales price, along with a promise to purchase. In line with contractual terms, it may be forfeited in case of default in promise to purchase by the buyer;",
                     "tag": "definition"
                 },
                 {
-                    "title": "Commodity Murabaha",
-                    "content": "is a Murabaha product based on commodity transactions in the organized commodity markets, where both the parties to the transaction have intention only to take constructive possession of the commodity;",
+                    "title": "4 b",
+                    "content": "Commodity Murabaha \u2013 is a Murabaha product based on commodity transactions in the organized commodity markets, where both the parties to the transaction have intention only to take constructive possession of the commodity;",
                     "tag": "definition"
                 },
                 {
-                    "title": "Control",
-                    "content": "an institution controls an asset or business, when it has substantially all risks and rewards incidental to ownership of such asset or business, duly meeting both of the following conditions: i. it is directly exposed to, or has rights to, variable returns (negative or positive, respectively) from its involvement with such assets or business; and ii. it has the ability to affect those returns through its power over the assets or business;",
+                    "title": "4 c",
+                    "content": "Control \u2013 an institution controls an asset or business, when it has substantially all risks and rewards incidental to ownership of such asset or business, duly meeting both of the following conditions: i. it is directly exposed to, or has rights to, variable returns (negative or positive, respectively) from its involvement with such assets or business; and ii. it has the ability to affect those returns through its power over the assets or business;",
                     "tag": "definition"
                 },
                 {
-                    "title": "Deferred payment sale",
-                    "content": "is any kind of sales transaction in which the payment of sales consideration is deferred over a fixed credit term, in installments or on a lump sum basis;",
+                    "title": "4 d",
+                    "content": "Deferred payment sale \u2013 is any kind of sales transaction in which the payment of sales consideration is deferred over a fixed credit term, in installments or on a lump sum basis;",
                     "tag": "definition"
                 },
                 {
-                    "title": "Fair value",
-                    "content": "The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date;",
+                    "title": "4 e",
+                    "content": "Fair value \u2013 The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date;",
                     "tag": "definition"
                 },
                 {
-                    "title": "Hamish Jiddiyyah",
-                    "content": "is the amount deposited as a security against fulfillment of a contract, or promise, or completion of a transaction by one of the parties to other;",
+                    "title": "4 f",
+                    "content": "Hamish Jiddiyyah \u2013 is the amount deposited as a security against fulfillment of a contract, or promise, or completion of a transaction by one of the parties to other;",
                     "tag": "definition"
                 },
                 {
-                    "title": "Inventory",
-                    "content": "in relation to this standard is an asset held for sale in the ordinary course of business or in the process of production for such sale;",
+                    "title": "4 g",
+                    "content": "Inventory \u2013 in relation to this standard is an asset held for sale in the ordinary course of business or in the process of production for such sale;",
                     "tag": "definition"
                 },
                 {
-                    "title": "Murabaha",
-                    "content": "is sale of goods with an agreed upon profit mark-up on the cost. This could be on a spot basis or deferred payment basis;",
+                    "title": "4 h",
+                    "content": "Murabaha \u2013 is sale of goods with an agreed upon profit mark-up on the cost. This could be on a spot basis or deferred payment basis;",
                     "tag": "definition"
                 },
                 {
-                    "title": "Murabaha to the purchase orderer",
-                    "content": "refers to a sale and purchase transaction where the purchaser makes an order and confirmed his order with a promise (Wa\u2019ad) to purchase the specified subject matter from the intended seller on agreed Murabaha terms;",
+                    "title": "4 i",
+                    "content": "Murabaha to the purchase orderer \u2013 refers to a sale and purchase transaction where the purchaser makes an order and confirmed his order with a promise (Wa\u2019ad) to purchase the specified subject matter from the intended seller on agreed Murabaha terms;",
                     "tag": "definition"
                 },
                 {
-                    "title": "Musawama",
-                    "content": "is a common bargain sale where the cost and profit elements are not necessary to be disclosed. This could be on a spot basis or deferred payment basis;",
+                    "title": "4 j",
+                    "content": "Musawama \u2013 is a common bargain sale where the cost and profit elements are not necessary to be disclosed. This could be on a spot basis or deferred payment basis;",
                     "tag": "definition"
                 },
                 {
-                    "title": "Net realisable value (NRV)",
-                    "content": "is the estimated selling price in the ordinary course of business less the estimated costs of completion and the estimated costs necessary to make the sale, considering the factors specific to the institution;",
+                    "title": "4 k",
+                    "content": "Net realisable value (NRV) \u2013 is the estimated selling price in the ordinary course of business less the estimated costs of completion and the estimated costs necessary to make the sale, considering the factors specific to the institution;",
                     "tag": "definition"
                 },
                 {
-                    "title": "Promise and mutual promise",
-                    "content": "promise is a constructive obligation assumed by one party (in Murabaha, the purchase orderer). The promise is understood to be binding in religious law on the individual who makes it, unless a legitimate excuse under Islamic Shari\u2019ah arises and prevents its fulfillment. Nevertheless, a promise is understood to be binding from the juristic perspective if it is pending on a cause and the promissee has incurred costs by reason of the promise. Mutual promise is a promise against promise; and",
+                    "title": "4 l",
+                    "content": "Promise and mutual promise \u2013 promise is a constructive obligation assumed by one party (in Murabaha, the purchase orderer). The promise is understood to be binding in religious law on the individual who makes it, unless a legitimate excuse under Islamic Shari\u2019ah arises and prevents its fulfillment. Nevertheless, a promise is understood to be binding from the juristic perspective if it is pending on a cause and the promissee has incurred costs by reason of the promise. Mutual promise is a promise against promise; and",
                     "tag": "definition"
                 },
                 {
-                    "title": "Tawarruq",
-                    "content": "is a kind of sale transaction where the institution buys an asset and sells it to the customer on credit, whereby the customer intends to sell the purchased asset to another party immediately for cash.",
+                    "title": "4 m",
+                    "content": "Tawarruq \u2013 is a kind of sale transaction where the institution buys an asset and sells it to the customer on credit, whereby the customer intends to sell the purchased asset to another party immediately for cash.",
                     "tag": "definition"
                 }
-            ],
-            "tag": "definitions"
+            ]
         },
         {
             "title": "Murabaha and other deferred payment sales in the financial statements of the seller",
+            "tag": "seller",
             "sections": [
                 {
                     "title": "Initial recognition",
-                    "tag": "initial_recognition"
-                },
-                {
-                    "title": "Inventories",
+                    "tag": "initial_recognition",
                     "sections": [
                         {
                             "title": "Inventories",
-                            "content": "Inventory shall be recognized in the books of the institution once it controls the inventory i.e. the time when it essentially acquires substantially all risks and rewards incidental to ownership of such inventory.",
-                            "tag": "initial_recognition"
+                            "tag": "inventory",
+                            "sections": [
+                                {
+                                    "title": "5",
+                                    "content": "Inventory shall be recognized in the books of the institution once it controls the inventory i.e. the time when it essentially acquires substantially all risks and rewards incidental to ownership of such inventory.",
+                                    "tag": "inventory_recognition"
+                                },
+                                {
+                                    "title": "6",
+                                    "content": "Inventories shall be initially recognized at cost. The cost of inventory shall comprise all costs of purchase and other costs incurred in bringing the inventory to its present location and condition. It includes all types of taxes (other than those subsequently recovered), transportation and handling costs including related Takaful cost and all other costs directly attributable to bring the asset to its present location and condition including those incurred by the customer in the capacity of agent and any fee paid to the agent. Trade discounts, rebates and similar items should be deducted from the costs.",
+                                    "tag": "inventory_cost"
+                                },
+                                {
+                                    "title": "7",
+                                    "content": "In cases where inventories are acquired on a piecemeal basis or in tranches, each tranche of inventories received shall be recognized when the conditions defined in paragraph 5 are met.",
+                                    "tag": "inventory_recognition"
+                                }
+                            ]
                         },
                         {
-                            "title": "Inventories",
-                            "content": "Inventories shall be initially recognized at cost. The cost of inventory shall comprise all costs of purchase and other costs incurred in bringing the inventory to its present location and condition. It includes all types of taxes (other than those subsequently recovered), transportation and handling costs including related Takaful cost and all other costs directly attributable to bring the asset to its present location and condition including those incurred by the customer in the capacity of agent and any fee paid to the agent. Trade discounts, rebates and similar items should be deducted from the costs.",
-                            "tag": "initial_recognition"
-                        },
-                        {
-                            "title": "Inventories",
-                            "content": "In cases where inventories are acquired on a piecemeal basis or in tranches, each tranche of inventories received shall be recognized when the conditions defined in paragraph 5 are met.",
-                            "tag": "initial_recognition"
+                            "title": "Receivables",
+                            "tag": "receivables",
+                            "sections": [
+                                {
+                                    "title": "8",
+                                    "content": "The seller shall recognize receivables and revenue in its financial statements, when the inventory is sold under Murabaha or deferred payment sale contract. (See paragraphs 23-28 for deferred profit treatment).",
+                                    "tag": "receivables_recognition"
+                                },
+                                {
+                                    "title": "9",
+                                    "content": "Receivable shall be recognized at an amount equal to the face value (gross amount or invoice value).",
+                                    "tag": "receivables_measurement"
+                                },
+                                {
+                                    "title": "10",
+                                    "content": "The inventory is considered to be sold under Murabaha or deferred payment sale contract at the time of consummation of the Murabaha or deferred payment sale contract i.e. when such contract becomes legally binding on all parties to the contract whether the consideration is received or receivable and the control (entailing essentially all risks and rewards incidental to ownership) of the inventory is transferred to the intended buyer.",
+                                    "tag": "inventory_sale"
+                                }
+                            ]
                         }
-                    ],
-                    "tag": "inventory"
-                },
-                {
-                    "title": "Receivables",
-                    "sections": [
-                        {
-                            "title": "Receivables",
-                            "content": "The seller shall recognize receivables and revenue in its financial statements, when the inventory is sold under Murabaha or deferred payment sale contract. (See paragraphs 23-28 for deferred profit treatment).",
-                            "tag": "initial_recognition"
-                        },
-                        {
-                            "title": "Receivables",
-                            "content": "Receivable shall be recognized at an amount equal to the face value (gross amount or invoice value).",
-                            "tag": "initial_recognition"
-                        },
-                        {
-                            "title": "Receivables",
-                            "content": "The inventory is considered to be sold under Murabaha or deferred payment sale contract at the time of consummation of the Murabaha or deferred payment sale contract i.e. when such contract becomes legally binding on all parties to the contract whether the consideration is received or receivable and the control (entailing essentially all risks and rewards incidental to ownership) of the inventory is transferred to the intended buyer.",
-                            "tag": "initial_recognition"
-                        }
-                    ],
-                    "tag": "receivables"
+                    ]
                 },
                 {
                     "title": "Subsequent measurement",
-                    "tag": "subsequent_measurement"
-                },
-                {
-                    "title": "Inventories",
+                    "tag": "subsequent_measurement",
                     "sections": [
                         {
                             "title": "Inventories",
-                            "content": "Subsequent to the initial recognition, inventories shall be measured at the lower of cost and net realizable value.",
-                            "tag": "subsequent_measurement"
+                            "tag": "inventory",
+                            "sections": [
+                                {
+                                    "title": "11",
+                                    "content": "Subsequent to the initial recognition, inventories shall be measured at the lower of cost and net realizable value.",
+                                    "tag": "inventory_measurement"
+                                },
+                                {
+                                    "title": "12",
+                                    "content": "In situations where a credit-worthy potential customer has a binding promise to buy the respective inventories at a value equal to or higher than the cost, the seller shall carry inventories at cost irrespective of fluctuations in fair value of inventories, if any.",
+                                    "tag": "inventory_measurement"
+                                },
+                                {
+                                    "title": "13",
+                                    "content": "In situations where a binding promise from a credit-worthy potential customer as mentioned above is not available, adjustment in carrying value to write-down to net realizable value (if lower than cost) shall be made and corresponding effect of write-down shall be recognized in the period in which such impact is identified.",
+                                    "tag": "inventory_measurement"
+                                },
+                                {
+                                    "title": "14",
+                                    "content": "Any additional handling and holding costs shall be charged to statement of income during the period in which these arise.",
+                                    "tag": "inventory_costs"
+                                }
+                            ]
                         },
                         {
-                            "title": "Inventories",
-                            "content": "In situations where a credit-worthy potential customer has a binding promise to buy the respective inventories at a value equal to or higher than the cost, the seller shall carry inventories at cost irrespective of fluctuations in fair value of inventories, if any.",
-                            "tag": "subsequent_measurement"
-                        },
-                        {
-                            "title": "Inventories",
-                            "content": "In situations where a binding promise from a credit-worthy potential customer as mentioned above is not available, adjustment in carrying value to write-down to net realizable value (if lower than cost) shall be made and corresponding effect of write-down shall be recognized in the period in which such impact is identified.",
-                            "tag": "subsequent_measurement"
-                        },
-                        {
-                            "title": "Inventories",
-                            "content": "Any additional handling and holding costs shall be charged to statement of income during the period in which these arise.",
-                            "tag": "subsequent_measurement"
+                            "title": "Receivables",
+                            "tag": "receivables",
+                            "sections": [
+                                {
+                                    "title": "15",
+                                    "content": "Subsequent to initial recognition, gross receivables shall be carried at their outstanding amount less any allowance for credit losses.",
+                                    "tag": "receivables_measurement"
+                                },
+                                {
+                                    "title": "16",
+                                    "content": "Outstanding amounts represent the gross amount of receivables less recoveries or other adjustments including discounts and rebates allowed, if any.",
+                                    "tag": "receivables_measurement"
+                                },
+                                {
+                                    "title": "17",
+                                    "content": "Allowance for credit losses1 shall be accounted for in accordance with the relevant FAS.",
+                                    "tag": "receivables_allowance"
+                                }
+                            ]
                         }
-                    ],
-                    "tag": "inventory"
-                },
-                {
-                    "title": "Receivables",
-                    "sections": [
-                        {
-                            "title": "Receivables",
-                            "content": "Subsequent to initial recognition, gross receivables shall be carried at their outstanding amount less any allowance for credit losses.",
-                            "tag": "subsequent_measurement"
-                        },
-                        {
-                            "title": "Receivables",
-                            "content": "Outstanding amounts represent the gross amount of receivables less recoveries or other adjustments including discounts and rebates allowed, if any.",
-                            "tag": "subsequent_measurement"
-                        },
-                        {
-                            "title": "Receivables",
-                            "content": "Allowance for credit losses1 shall be accounted for in accordance with the relevant FAS.",
-                            "tag": "subsequent_measurement"
-                        }
-                    ],
-                    "tag": "receivables"
+                    ]
                 },
                 {
                     "title": "De-recognition",
-                    "tag": "de-recognition"
-                },
-                {
-                    "title": "Inventories",
+                    "tag": "de-recognition",
                     "sections": [
                         {
-                            "title": "Inventories",
-                            "content": "Considering the de-recognition criteria provided in paragraph 18, inventories shall be derecognized upon either: a. the institution transferring control to the buyer in form of sale (see paragraph 18); or b. the institution losing control e.g. in form of physical loss or theft; or",
-                            "tag": "de-recognition"
+                            "title": "18",
+                            "content": "An asset classified as inventory or receivable shall only be de-recognized in the financial statements if it meets the de-recognition criteria of an asset that is \u201cno future economic benefit is expected to flow to the institution from that particular asset\u201d.",
+                            "tag": "de-recognition_criteria"
                         },
                         {
                             "title": "Inventories",
-                            "content": "Inventories losing their capacity of providing future economic benefits e.g. technological obsolescence, or legal restrictions or there if is no expected buyer.",
-                            "tag": "de-recognition"
-                        }
-                    ],
-                    "tag": "inventory"
-                },
-                {
-                    "title": "Receivables",
-                    "sections": [
+                            "tag": "inventory",
+                            "sections": [
+                                {
+                                    "title": "19 a",
+                                    "content": "the institution transferring control to the buyer in form of sale (see paragraph 18); or",
+                                    "tag": "inventory_de-recognition"
+                                },
+                                {
+                                    "title": "19 b",
+                                    "content": "the institution losing control e.g. in form of physical loss or theft; or",
+                                    "tag": "inventory_de-recognition"
+                                },
+                                {
+                                    "title": "19 c",
+                                    "content": "Inventories losing their capacity of providing future economic benefits e.g. technological obsolescence, or legal restrictions or there if is no expected buyer.",
+                                    "tag": "inventory_de-recognition"
+                                }
+                            ]
+                        },
                         {
                             "title": "Receivables",
-                            "content": "Considering the de-recognition criteria provided in paragraph 18, receivables shall be derecognized when: a. the customer has completely settled the outstanding amount; or b. the carrying amount cannot be recovered due to customer\u2019s insolvency; or c. the institution decided to waive its right by writing it off or treated it as Hibah to the customer.",
-                            "tag": "de-recognition"
+                            "tag": "receivables",
+                            "sections": [
+                                {
+                                    "title": "20 a",
+                                    "content": "the customer has completely settled the outstanding amount; or",
+                                    "tag": "receivables_de-recognition"
+                                },
+                                {
+                                    "title": "20 b",
+                                    "content": "the carrying amount cannot be recovered due to customer\u2019s insolvency; or",
+                                    "tag": "receivables_de-recognition"
+                                },
+                                {
+                                    "title": "20 c",
+                                    "content": "the institution decided to waive its right by writing it off or treated it as Hibah to the customer.",
+                                    "tag": "receivables_de-recognition"
+                                }
+                            ]
                         }
-                    ],
-                    "tag": "receivables"
+                    ]
                 },
                 {
                     "title": "Revenue and profit recognition",
-                    "tag": "revenue_profit_recognition"
-                },
-                {
-                    "title": "Revenue",
-                    "content": "See paragraph 8 for recognition of revenue and receivables.",
-                    "tag": "revenue"
-                },
-                {
-                    "title": "Cost of sales",
-                    "content": "Where inventory is sold under a Murabaha or deferred payment sales contract, the carrying amount of such inventory, along with any direct expenses incurred, shall be recognized as cost of sales in the period in which the related revenue is recognized.",
-                    "tag": "cost_of_sales"
-                },
-                {
-                    "title": "Profit deferment",
+                    "tag": "profit_recognition",
                     "sections": [
                         {
-                            "title": "Profit deferment",
-                            "content": "In case of deferred payment Murabaha or other deferred payment sales, the profit arising from the transaction i.e. the difference between revenue and cost of sales recognized, shall be deferred through a deferred profit account. However, in case where the equivalent cash sale price of the goods sold is higher than the cost of sales, the profit to the extent of difference between the cash sale price and the cost of sales shall not be deferred.",
-                            "tag": "profit_deferment"
+                            "title": "Revenue",
+                            "tag": "revenue",
+                            "content": "See paragraph 8 for recognition of revenue and receivables.",
+                            "sections": []
+                        },
+                        {
+                            "title": "Cost of sales",
+                            "tag": "cost_of_sales",
+                            "content": "Where inventory is sold under a Murabaha or deferred payment sales contract, the carrying amount of such inventory, along with any direct expenses incurred, shall be recognized as cost of sales in the period in which the related revenue is recognized.",
+                            "sections": []
                         },
                         {
                             "title": "Profit deferment",
-                            "content": "Deferred profit account shall be presented as a contra-asset of respective receivables.",
-                            "tag": "profit_deferment"
-                        },
-                        {
-                            "title": "Profit deferment",
-                            "content": "Deferred profit shall be amortized to income over the contractual credit period on a time proportionate basis.",
-                            "tag": "profit_deferment"
-                        },
-                        {
-                            "title": "Profit deferment",
-                            "content": "For transactions with installments or lump sum payment at the end, with original maturity of more than 12 months, the appropriate method to apply the time proportion basis shall be the effective profit rate method based on the implicit profit in the transaction.",
-                            "tag": "profit_deferment"
-                        },
-                        {
-                            "title": "Profit deferment",
-                            "content": "For transactions with lump sum payment at the end, with original maturity of 12 months or less, the straight line allocation of profit over the contractual credit period is allowable.",
-                            "tag": "profit_deferment"
-                        },
-                        {
-                            "title": "Profit deferment",
-                            "content": "In case of defaults or possible defaults, the deferred profit shall be treated in accordance with the respective FAS.",
-                            "tag": "profit_deferment"
-                        }
-                    ],
-                    "tag": "profit_deferment"
-                }
-            ],
-            "tag": "seller_financial_statements"
-        },
-        {
-            "title": "Related accounting treatments",
-            "sections": [
-                {
-                    "title": "Waivers, discounts and write-offs",
-                    "sections": [
-                        {
-                            "title": "Waivers, discounts and write-offs",
-                            "content": "Where a part of the receivable has been reduced or waived by the seller as a rebate on early settlement of the receivable, or for any other reason, the amount of reduction / waiver shall be recognized in the period in which such settlement occurs, in the following manner: a. first, it is to be netted-off against any available balance of deferred profit on such transaction; and b. secondly, any remaining balance is to be netted-off against the profit recognized / deferred profit amortized during the current financial period; and c. thirdly, any remaining balance is to be recognized in the statement of income as an expense for the period.",
-                            "tag": "related_accounting_treatments"
-                        }
-                    ],
-                    "tag": "waivers_discounts_writeoffs"
-                },
-                {
-                    "title": "Transaction costs",
-                    "content": "Transaction costs incurred, associated with negotiating and arranging a Murabaha or deferred payment sale contract, net of any reimbursements by the customer, shall be charged to the statement of income in the period in which they are incurred.",
-                    "tag": "related_accounting_treatments"
-                },
-                {
-                    "title": "Structuring and other service fees",
-                    "content": "Any structuring or similar fee charged to the customer shall be recognized when the related services are provided.",
-                    "tag": "related_accounting_treatments"
-                },
-                {
-                    "title": "Subsequent discounts on inventory",
-                    "sections": [
-                        {
-                            "title": "Subsequent discounts on inventory",
-                            "content": "Any discount received on cost of inventory, subsequent to consummation of sale, shall reduce the cost of sales.",
-                            "tag": "related_accounting_treatments"
-                        },
-                        {
-                            "title": "Subsequent discounts on inventory",
-                            "content": "If the discount is passed on to the customer, the same shall be recognized in the statement of income as a discount (deduction) against the gross revenue.",
-                            "tag": "related_accounting_treatments"
-                        },
-                        {
-                            "title": "Subsequent discounts on inventory",
+                            "tag": "profit_deferment",
                             "sections": [
                                 {
-                                    "title": "Subsequent discounts on inventory",
-                                    "content": "If the discount is not passed on to the customer: a. in case of cash Murabaha, the same will be recognized in the statement income in the period in which it arises; and b. in case of deferred payment Murabaha and deferred payment sales, the same shall eventually increase the amount of deferred profit and amortized accordingly.",
-                                    "tag": "related_accounting_treatments"
-                                }
-                            ],
-                            "tag": "related_accounting_treatments"
-                        }
-                    ],
-                    "tag": "subsequent_discounts_inventory"
-                },
-                {
-                    "title": "Hamish Jiddiyyah and Arboun",
-                    "sections": [
-                        {
-                            "title": "Hamish Jiddiyyah and Arboun",
-                            "content": "Subject to the terms of the contract, the initial deposit or advance payment, paid by the buyer shall be recognized as a liability of the seller.",
-                            "tag": "related_accounting_treatments"
-                        },
-                        {
-                            "title": "Hamish Jiddiyyah and Arboun",
-                            "content": "Adjustment of, or forfeiture of, Hamish Jiddiyyah or Arboun, against breach of promise or default or other adverse conditions shall be governed by the Shari\u2019ah rules and contractual arrangement between the parties, and accounted for accordingly.",
-                            "tag": "related_accounting_treatments"
-                        },
-                        {
-                            "title": "Hamish Jiddiyyah and Arboun",
-                            "sections": [
+                                    "title": "23",
+                                    "content": "In case of deferred payment Murabaha or other deferred payment sales, the profit arising from the transaction i.e. the difference between revenue and cost of sales recognized, shall be deferred through a deferred profit account. However, in case where the equivalent cash sale price of the goods sold is higher than the cost of sales, the profit to the extent of difference between the cash sale price and the cost of sales shall not be deferred.",
+                                    "tag": "profit_deferment_treatment"
+                                },
                                 {
-                                    "title": "Hamish Jiddiyyah and Arboun",
-                                    "content": "Once the Murabaha or deferred payment sale transaction is consummated: a. Hamish Jiddiyyah, being in the nature of a security deposit, shall continue to be presented as a liability and shall not be set-off against the receivables unless contractually agreed with the buyer; and b. Arboun, being in the nature of an advance payment, shall be netted off against the receivables.",
-                                    "tag": "related_accounting_treatments"
+                                    "title": "24",
+                                    "content": "Deferred profit account shall be presented as a contra-asset of respective receivables.",
+                                    "tag": "profit_presentation"
+                                },
+                                {
+                                    "title": "25",
+                                    "content": "Deferred profit shall be amortized to income over the contractual credit period on a time proportionate basis.",
+                                    "tag": "profit_amortization"
+                                },
+                                {
+                                    "title": "26",
+                                    "content": "For transactions with installments or lump sum payment at the end, with original maturity of more than 12 months, the appropriate method to apply the time proportion basis shall be the effective profit rate method based on the implicit profit in the transaction.",
+                                    "tag": "profit_amortization_method"
+                                },
+                                {
+                                    "title": "27",
+                                    "content": "For transactions with lump sum payment at the end, with original maturity of 12 months or less, the straight line allocation of profit over the contractual credit period is allowable.",
+                                    "tag": "profit_amortization_method"
+                                },
+                                {
+                                    "title": "28",
+                                    "content": "In case of defaults or possible defaults, the deferred profit shall be treated in accordance with the respective FAS.",
+                                    "tag": "profit_default_treatment"
                                 }
-                            ],
-                            "tag": "related_accounting_treatments"
+                            ]
                         }
-                    ],
-                    "tag": "hamish_jiddiyyah_arboun"
-                },
-                {
-                    "title": "Charity",
-                    "content": "Any charity payment against defaults and delayed payments by the customer shall not be recognized as an income of the seller and shall be taken directly to charity payable, when received.",
-                    "tag": "related_accounting_treatments"
-                }
-            ],
-            "tag": "related_accounting_treatments"
-        },
-        {
-            "title": "Presentation and disclosures",
-            "sections": [
-                {
-                    "title": "Presentation and disclosures",
-                    "content": "In addition to the disclosure requirements stated in FAS 1 \u201cGeneral Presentation and Disclosure in the Financial Statements of Islamic Banks and Financial Institutions\u201d following are the minimum disclosure requirements in the financial statements of the seller: a. the accounting policies adopted for Murabaha and deferred payment sales transactions; b. inventories held for Murabaha and deferred payment sales distinguishing according to the classification as well as identifying the inventory held under binding promise, held under non-binding promise and / or without any promise to purchase; c. inventories intended to be held for longer periods with information about the nature and risks associated thereto; d. receivables against Murabaha and deferred payment sales distinguished according to nature and identifying the maturity profiles of the same; e. receivables distinguishing between secured and unsecured, if any; f. the sales revenue and cost of sales resulted from Murabaha and other deferred payment sales, respectively, during the period \u2013 in the notes to the financial statements; g. unamortized deferred profits against Murabaha and deferred payment sales receivables, respectively, providing a movement of the same during the period duly disclosed as a deduction from the outstanding amount of receivables; h. outstanding amounts of Hamish Jiddiyyah and Arboun at the end of the financial period; i. the amount of profit waived and receivables written off, according to their respective nature, during the period; j. the amount of charity payments recovered and recoverable, against defaults in payments and other breaches if any.",
-                    "tag": "presentation_disclosures"
-                }
-            ],
-            "tag": "presentation_disclosures"
-        },
-        {
-            "title": "Murabaha and other deferred payment sales in the financial statements of the buyer",
-            "sections": [
-                {
-                    "title": "Initial recognition",
-                    "tag": "initial_recognition"
-                },
-                {
-                    "title": "Recording of purchases",
-                    "sections": [
-                        {
-                            "title": "Recording of purchases",
-                            "content": "The asset which is the subject matter of a Murabaha or deferred payment sale transaction is considered to be purchased under Murabaha or deferred payment sale contract, at the time of consummation of the Murabaha or deferred payment sale i.e. when such contract becomes legally binding on all the parties to it and the control (entailing essentially all risks and rewards incidental to ownership) of the asset is obtained by the buyer.",
-                            "tag": "initial_recognition"
-                        },
-                        {
-                            "title": "Recording of purchases",
-                            "content": "The asset procured shall be initially recognized at cost i.e. the face value (gross invoice value \u2013 including the sellers profit on transaction) plus any incidental direct cost of acquisition. The asset so procured shall be reported and classified by the buyer in its books of account according to respective FAS. In case of absence of a specific FAS on the subject, generally accepted accounting principles shall be followed subject to specific requirements of this standard.",
-                            "tag": "initial_recognition"
-                        }
-                    ],
-                    "tag": "recording_purchases"
-                },
-                {
-                    "title": "Murabaha and deferred payment sales liabilities",
-                    "sections": [
-                        {
-                            "title": "Murabaha and deferred payment sales liabilities",
-                            "content": "The buyer shall recognize accounts payable on account of Murabaha and other deferred payment sales an amount equal to the face value (gross invoice value \u2013 including the sellers profit on transaction) once the control to the asset is procured.",
-                            "tag": "initial_recognition"
-                        }
-                    ],
-                    "tag": "liabilities"
-                },
-                {
-                    "title": "Subsequent measurement",
-                    "tag": "subsequent_measurement"
-                },
-                {
-                    "title": "Murabaha and deferred payment sales assets",
-                    "sections": [
-                        {
-                            "title": "Murabaha and deferred payment sales assets",
-                            "content": "The asset so procured shall be subsequently measured by the buyer in its books of account according to the accounting principles applicable on appropriate classification under respective FAS or generally accepted accounting principles, subject to specific requirements of this standard.",
-                            "tag": "subsequent_measurement"
-                        },
-                        {
-                            "title": "Murabaha and deferred payment sales assets",
-                            "content": "At each period end, assets in nature of inventory shall be tested for their net realizable value (NRV) and other assets shall be subject to impairment testing, in line with the relevant FAS or appropriate generally accepted accounting principles.",
-                            "tag": "subsequent_measurement"
-                        }
-                    ],
-                    "tag": "assets"
-                },
-                {
-                    "title": "Murabaha and deferred payment sales liabilities",
-                    "sections": [
-                        {
-                            "title": "Murabaha and deferred payment sales liabilities",
-                            "content": "Subsequent to initial recognition, Murabaha and deferred payment sales payable shall be carried at its outstanding amount.",
-                            "tag": "subsequent_measurement"
-                        },
-                        {
-                            "title": "Murabaha and deferred payment sales liabilities",
-                            "content": "Outstanding amount of accounts payable represent the gross amount of liability less repayments or other adjustments including discounts and rebates allowed by the seller, if any.",
-                            "tag": "subsequent_measurement"
-                        }
-                    ],
-                    "tag": "liabilities"
+                    ]
                 },
                 {
                     "title": "Related accounting treatments",
-                    "tag": "related_accounting_treatments"
-                },
-                {
-                    "title": "Waivers, discounts and write-offs",
+                    "tag": "related_accounting_treatments",
                     "sections": [
                         {
                             "title": "Waivers, discounts and write-offs",
-                            "content": "The amount of reduction / waiver against the total amount payable by the seller shall be: a. firstly, recognized as a deduction from the value of the respective asset; and b. secondly, if the asset is already sold or otherwise disposed off, the balance shall be recognized as an income in the period in which such waiver is provided.",
-                            "tag": "related_accounting_treatments"
-                        }
-                    ],
-                    "tag": "waivers_discounts_writeoffs"
-                },
-                {
-                    "title": "Hamish Jiddiyyah and Arboun",
-                    "sections": [
+                            "tag": "waivers_discounts_writeoffs",
+                            "sections": [
+                                {
+                                    "title": "29 a",
+                                    "content": "first, it is to be netted-off against any available balance of deferred profit on such transaction; and",
+                                    "tag": "waiver_treatment"
+                                },
+                                {
+                                    "title": "29 b",
+                                    "content": "secondly, any remaining balance is to be netted-off against the profit recognized / deferred profit amortized during the current financial period; and",
+                                    "tag": "waiver_treatment"
+                                },
+                                {
+                                    "title": "29 c",
+                                    "content": "thirdly, any remaining balance is to be recognized in the statement of income as an expense for the period.",
+                                    "tag": "waiver_treatment"
+                                }
+                            ]
+                        },
                         {
-                            "title": "Hamish Jiddiyyah and Arboun",
-                            "content": "Subject to the terms of the contract, the initial deposit or advance payment, paid by the buyer shall be recorded and presented as a deposit or advance against purchases in the books of account of the buyer.",
-                            "tag": "related_accounting_treatments"
+                            "title": "Transaction costs",
+                            "tag": "transaction_costs",
+                            "content": "Transaction costs incurred, associated with negotiating and arranging a Murabaha or deferred payment sale contract, net of any reimbursements by the customer, shall be charged to the statement of income in the period in which they are incurred.",
+                            "sections": []
+                        },
+                        {
+                            "title": "Structuring and other service fees",
+                            "tag": "service_fees",
+                            "content": "Any structuring or similar fee charged to the customer shall be recognized when the related services are provided.",
+                            "sections": []
+                        },
+                        {
+                            "title": "Subsequent discounts on inventory",
+                            "tag": "inventory_discounts",
+                            "sections": [
+                                {
+                                    "title": "32",
+                                    "content": "Any discount received on cost of inventory, subsequent to consummation of sale, shall reduce the cost of sales.",
+                                    "tag": "inventory_discount_treatment"
+                                },
+                                {
+                                    "title": "33",
+                                    "content": "If the discount is passed on to the customer, the same shall be recognized in the statement of income as a discount (deduction) against the gross revenue.",
+                                    "tag": "inventory_discount_treatment"
+                                },
+                                {
+                                    "title": "34 a",
+                                    "content": "in case of cash Murabaha, the same will be recognized in the statement income in the period in which it arises; and",
+                                    "tag": "inventory_discount_treatment"
+                                },
+                                {
+                                    "title": "34 b",
+                                    "content": "in case of deferred payment Murabaha and deferred payment sales, the same shall eventually increase the amount of deferred profit and amortized accordingly.",
+                                    "tag": "inventory_discount_treatment"
+                                }
+                            ]
                         },
                         {
                             "title": "Hamish Jiddiyyah and Arboun",
+                            "tag": "hamish_jiddiyyah_arboun",
                             "sections": [
                                 {
-                                    "title": "Hamish Jiddiyyah and Arboun",
-                                    "content": "Once the Murabaha or deferred payment sale transaction is consummated: a. Hamish Jiddiyyah, being in the nature of a security deposit, shall continue to be presented as a deposit and shall not be offset against the accounts payable unless contractually agreed upon with the seller; and b. Arboun, being in the nature of an advance payment, shall be netted off against the accounts payable.",
-                                    "tag": "related_accounting_treatments"
+                                    "title": "35",
+                                    "content": "Subject to the terms of the contract, the initial deposit or advance payment, paid by the buyer shall be recognized as a liability of the seller.",
+                                    "tag": "hamish_jiddiyyah_arboun_recognition"
+                                },
+                                {
+                                    "title": "36",
+                                    "content": "Adjustment of, or forfeiture of, Hamish Jiddiyyah or Arboun, against breach of promise or default or other adverse conditions shall be governed by the Shari\u2019ah rules and contractual arrangement between the parties, and accounted for accordingly.",
+                                    "tag": "hamish_jiddiyyah_arboun_treatment"
+                                },
+                                {
+                                    "title": "37 a",
+                                    "content": "Hamish Jiddiyyah, being in the nature of a security deposit, shall continue to be presented as a liability and shall not be set-off against the receivables unless contractually agreed with the buyer; and",
+                                    "tag": "hamish_jiddiyyah_arboun_presentation"
+                                },
+                                {
+                                    "title": "37 b",
+                                    "content": "Arboun, being in the nature of an advance payment, shall be netted off against the receivables.",
+                                    "tag": "hamish_jiddiyyah_arboun_presentation"
                                 }
-                            ],
-                            "tag": "related_accounting_treatments"
+                            ]
+                        },
+                        {
+                            "title": "Charity",
+                            "tag": "charity",
+                            "content": "Any charity payment against defaults and delayed payments by the customer shall not be recognized as an income of the seller and shall be taken directly to charity payable, when received.",
+                            "sections": []
                         }
-                    ],
-                    "tag": "hamish_jiddiyyah_arboun"
+                    ]
                 },
                 {
                     "title": "Presentation and disclosures",
+                    "tag": "presentation_disclosures",
                     "sections": [
                         {
-                            "title": "Presentation and disclosures",
-                            "content": "In addition to the disclosure requirements stated in FAS 1 \u201cGeneral Presentation and Disclosure in the Financial Statements of Islamic Banks and Financial Institutions\u201d following are the minimum disclosure requirements in the financial statements of the buyer: a. the accounting policies adopted for the purchases based on Murabaha and other deferred payment sales; b. accounts payable against Murabaha and deferred payment sales classified according to nature and identifying the maturity profiles of the same; c. the nature and estimated value of, the securities provided against such accounts payable; d. the amount waived by the seller, according to their respective nature, during the period.",
-                            "tag": "presentation_disclosures"
+                            "title": "39 a",
+                            "content": "the accounting policies adopted for Murabaha and deferred payment sales transactions;",
+                            "tag": "disclosure"
+                        },
+                        {
+                            "title": "39 b",
+                            "content": "inventories held for Murabaha and deferred payment sales distinguishing according to the classification as well as identifying the inventory held under binding promise, held under non-binding promise and / or without any promise to purchase;",
+                            "tag": "disclosure"
+                        },
+                        {
+                            "title": "39 c",
+                            "content": "inventories intended to be held for longer periods with information about the nature and risks associated thereto;",
+                            "tag": "disclosure"
+                        },
+                        {
+                            "title": "39 d",
+                            "content": "receivables against Murabaha and deferred payment sales distinguished according to nature and identifying the maturity profiles of the same;",
+                            "tag": "disclosure"
+                        },
+                        {
+                            "title": "39 e",
+                            "content": "receivables distinguishing between secured and unsecured, if any;",
+                            "tag": "disclosure"
+                        },
+                        {
+                            "title": "39 f",
+                            "content": "the sales revenue and cost of sales resulted from Murabaha and other deferred payment sales, respectively, during the period \u2013 in the notes to the financial statements;",
+                            "tag": "disclosure"
+                        },
+                        {
+                            "title": "39 g",
+                            "content": "unamortized deferred profits against Murabaha and deferred payment sales receivables, respectively, providing a movement of the same during the period duly disclosed as a deduction from the outstanding amount of receivables;",
+                            "tag": "disclosure"
+                        },
+                        {
+                            "title": "39 h",
+                            "content": "outstanding amounts of Hamish Jiddiyyah and Arboun at the end of the financial period;",
+                            "tag": "disclosure"
+                        },
+                        {
+                            "title": "39 i",
+                            "content": "the amount of profit waived and receivables written off, according to their respective nature, during the period;",
+                            "tag": "disclosure"
+                        },
+                        {
+                            "title": "39 j",
+                            "content": "the amount of charity payments recovered and recoverable, against defaults in payments and other breaches if any.",
+                            "tag": "disclosure"
                         }
-                    ],
-                    "tag": "presentation_disclosures"
+                    ]
                 }
-            ],
-            "tag": "buyer_financial_statements"
+            ]
+        },
+        {
+            "title": "Murabaha and other deferred payment sales in the financial statements of the buyer",
+            "tag": "buyer",
+            "sections": [
+                {
+                    "title": "Initial recognition",
+                    "tag": "initial_recognition",
+                    "sections": [
+                        {
+                            "title": "Recording of purchases",
+                            "tag": "recording_purchases",
+                            "sections": [
+                                {
+                                    "title": "40",
+                                    "content": "The asset which is the subject matter of a Murabaha or deferred payment sale transaction is considered to be purchased under Murabaha or deferred payment sale contract, at the time of consummation of the Murabaha or deferred payment sale i.e. when such contract becomes legally binding on all the parties to it and the control (entailing essentially all risks and rewards incidental to ownership) of the asset is obtained by the buyer.",
+                                    "tag": "purchase_recognition"
+                                },
+                                {
+                                    "title": "41",
+                                    "content": "The asset procured shall be initially recognized at cost i.e. the face value (gross invoice value \u2013 including the sellers profit on transaction) plus any incidental direct cost of acquisition. The asset so procured shall be reported and classified by the buyer in its books of account according to respective FAS. In case of absence of a specific FAS on the subject, generally accepted accounting principles shall be followed subject to specific requirements of this standard.",
+                                    "tag": "asset_cost"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Murabaha and deferred payment sales liabilities",
+                            "tag": "liabilities",
+                            "sections": [
+                                {
+                                    "title": "42",
+                                    "content": "The buyer shall recognize accounts payable on account of Murabaha and other deferred payment sales an amount equal to the face value (gross invoice value \u2013 including the sellers profit on transaction) once the control to the asset is procured.",
+                                    "tag": "liabilities_recognition"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Subsequent measurement",
+                    "tag": "subsequent_measurement",
+                    "sections": [
+                        {
+                            "title": "Murabaha and deferred payment sales assets",
+                            "tag": "assets",
+                            "sections": [
+                                {
+                                    "title": "43",
+                                    "content": "The asset so procured shall be subsequently measured by the buyer in its books of account according to the accounting principles applicable on appropriate classification under respective FAS or generally accepted accounting principles, subject to specific requirements of this standard.",
+                                    "tag": "asset_measurement"
+                                },
+                                {
+                                    "title": "44",
+                                    "content": "At each period end, assets in nature of inventory shall be tested for their net realizable value (NRV) and other assets shall be subject to impairment testing, in line with the relevant FAS or appropriate generally accepted accounting principles.",
+                                    "tag": "asset_measurement"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Murabaha and deferred payment sales liabilities",
+                            "tag": "liabilities",
+                            "sections": [
+                                {
+                                    "title": "45",
+                                    "content": "Subsequent to initial recognition, Murabaha and deferred payment sales payable shall be carried at its outstanding amount.",
+                                    "tag": "liabilities_measurement"
+                                },
+                                {
+                                    "title": "46",
+                                    "content": "Outstanding amount of accounts payable represent the gross amount of liability less repayments or other adjustments including discounts and rebates allowed by the seller, if any.",
+                                    "tag": "liabilities_measurement"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Related accounting treatments",
+                    "tag": "related_accounting_treatments",
+                    "sections": [
+                        {
+                            "title": "Waivers, discounts and write-offs",
+                            "tag": "waivers_discounts_writeoffs",
+                            "sections": [
+                                {
+                                    "title": "47 a",
+                                    "content": "firstly, recognized as a deduction from the value of the respective asset; and",
+                                    "tag": "waiver_treatment"
+                                },
+                                {
+                                    "title": "47 b",
+                                    "content": "secondly, if the asset is already sold or otherwise disposed off, the balance shall be recognized as an income in the period in which such waiver is provided.",
+                                    "tag": "waiver_treatment"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Hamish Jiddiyyah and Arboun",
+                            "tag": "hamish_jiddiyyah_arboun",
+                            "sections": [
+                                {
+                                    "title": "48",
+                                    "content": "Subject to the terms of the contract, the initial deposit or advance payment, paid by the buyer shall be recorded and presented as a deposit or advance against purchases in the books of account of the buyer.",
+                                    "tag": "hamish_jiddiyyah_arboun_recognition"
+                                },
+                                {
+                                    "title": "49 a",
+                                    "content": "Hamish Jiddiyyah, being in the nature of a security deposit, shall continue to be presented as a deposit and shall not be offset against the accounts payable unless contractually agreed upon with the seller; and",
+                                    "tag": "hamish_jiddiyyah_arboun_presentation"
+                                },
+                                {
+                                    "title": "49 b",
+                                    "content": "Arboun, being in the nature of an advance payment, shall be netted off against the accounts payable.",
+                                    "tag": "hamish_jiddiyyah_arboun_presentation"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Presentation and disclosures",
+                    "tag": "presentation_disclosures",
+                    "sections": [
+                        {
+                            "title": "50 a",
+                            "content": "the accounting policies adopted for the purchases based on Murabaha and other deferred payment sales;",
+                            "tag": "disclosure"
+                        },
+                        {
+                            "title": "50 b",
+                            "content": "accounts payable against Murabaha and deferred payment sales classified according to nature and identifying the maturity profiles of the same;",
+                            "tag": "disclosure"
+                        },
+                        {
+                            "title": "50 c",
+                            "content": "the nature and estimated value of, the securities provided against such accounts payable;",
+                            "tag": "disclosure"
+                        },
+                        {
+                            "title": "50 d",
+                            "content": "the amount waived by the seller, according to their respective nature, during the period.",
+                            "tag": "disclosure"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "title": "Effective date",
@@ -538,97 +633,99 @@
         },
         {
             "title": "Appendices",
-            "tag": "appendices"
+            "tag": "appendices",
+            "sections": [
+                {
+                    "title": "Appendix A: Adoption of the standard",
+                    "content": "This standard was presented for the approval in the AAOIFI Accounting Board\u2019s 7th meeting held on 2-4 Muharram 1439H, corresponding to 22 \u2013 23 September 2017 and was duly approved.",
+                    "tag": "adoption"
+                }
+            ]
         },
         {
-            "title": "Appendix A: Adoption of the standard",
-            "content": "This standard was presented for the approval in the AAOIFI Accounting Board\u2019s 7th meeting held on 2-4 Muharram 1439H, corresponding to 22 \u2013 23 September 2017 and was duly approved.",
-            "tag": "adoption_standard"
+            "title": "BC1",
+            "content": "The initial scope of the project, as well as, the preliminary study, consultation notes and initial version of the drafts of the standard included Tawarruq and commodity Murabaha transactions. However, at a stage when the board considered the differences between the substantial economic activity, as well as, the practical application of these transactions particularly including the treasury transactions and at times deposits based on these structures, the board considered that their accounting and reporting might need to be considered separately.",
+            "tag": "Scoping out - Tawarruq and commodity Murabaha"
         },
         {
-            "title": "Scoping out \u2013 Tawarruq and commodity Murabaha",
-            "content": "The initial scope of the project, as well as, the preliminary study, consultation notes and initial version of the drafts of the standard included Tawarruq and commodity Murabaha transactions.\nHowever, at a stage when the board considered the differences between the substantial economic activity, as well as, the practical application of these transactions particularly including the treasury transactions and at times deposits based on these structures, the board considered that their accounting and reporting might need to be considered separately.",
-            "tag": "scope"
-        },
-        {
-            "title": null,
+            "title": "BC2",
             "content": "In particular, the board discussed at length the economic substance of the transaction as a trading activity and the market practices, which at time differ from the requirements of the Shari\u2019ah standard on Tawarruq. Additionally, the Shari\u2019ah standard on Tawarruq allows such transactions in specific situations (as last resort) and discourages their common use on a commercial basis.",
-            "tag": "shariah_compliance"
+            "tag": "Scoping out - Tawarruq and commodity Murabaha"
         },
         {
-            "title": null,
+            "title": "BC3",
             "content": "Considering the above factors, the board decided that it will be more appropriate to finalize the standard on Murabaha and other deferred payment sales first, and then develop the standard on Tawarruq and commodity Murabaha transactions ensuring accounting treatments better reflecting the same, as well as, differentiated from normal Murabaha and deferred payment sales transactions.",
-            "tag": "standard_development"
+            "tag": "Scoping out - Tawarruq and commodity Murabaha"
         },
         {
-            "title": "Scope inclusion and standard supersession \u2013 other deferred payment sales",
-            "content": "The board discussed the need for a separate standard (existing FAS 20) for deferred payment sales transactions and evaluated the similarity in major accounting treatments and minor differences.\nAfter due consideration, the board decided that the key principles for all deferred payment sales transactions including Murabaha from the economic substance point of view remain the same and accordingly, similar accounting treatment shall be followed insofar a deviation is not required by Shari\u2019ah or by the structure of the transaction (like for example in case of a Murabaha by making the profit and cost known, which may change a few minor treatments). This however shall not include Tawarruq and commodity Murabaha transactions which were scoped out (see BC1 \u2013 BC3).\nAccordingly, the board decided that the revised standard shall include Murabaha and other deferred payment sales transactions and shall supersede the existing FAS 2 and FAS 20.",
-            "tag": "scope"
+            "title": "BC4",
+            "content": "The board discussed the need for a separate standard (existing FAS 20) for deferred payment sales transactions and evaluated the similarity in major accounting treatments and minor differences. After due consideration, the board decided that the key principles for all deferred payment sales transactions including Murabaha from the economic substance point of view remain the same and accordingly, similar accounting treatment shall be followed insofar a deviation is not required by Shari\u2019ah or by the structure of the transaction (like for example in case of a Murabaha by making the profit and cost known, which may change a few minor treatments). This however shall not include Tawarruq and commodity Murabaha transactions which were scoped out (see BC1 \u2013 BC3). Accordingly, the board decided that the revised standard shall include Murabaha and other deferred payment sales transactions and shall supersede the existing FAS 2 and FAS 20.",
+            "tag": "Scope inclusion and standard supersession \u2013 other deferred payment sales"
         },
         {
-            "title": "Using the term inventory",
-            "content": "The board, in line with the new strategy of accounting standards development, considered the definition of inventory under the generally accepted accounting principles whereby inventory is an asset held for sale in the ordinary course of business or in the process of production for such sale.\nWhile previously no FAS was using the term inventory to describe the underlying assets for trading transactions, the board decided that in order to depict the true nature of such assets held for sale, and to bring the accounting treatments closer to the generally accepted accounting principles it would be more appropriate to describe them as inventory.",
-            "tag": "accounting_treatment"
+            "title": "BC5",
+            "content": "The board, in line with the new strategy of accounting standards development, considered the definition of inventory under the generally accepted accounting principles whereby inventory is an asset held for sale in the ordinary course of business or in the process of production for such sale. While previously no FAS was using the term inventory to describe the underlying assets for trading transactions, the board decided that in order to depict the true nature of such assets held for sale, and to bring the accounting treatments closer to the generally accepted accounting principles it would be more appropriate to describe them as inventory.",
+            "tag": "Using the term inventory"
         },
         {
-            "title": "NRV and determining NRV",
+            "title": "BC6",
             "content": "The board considered the earlier accounting treatment of \u201ccash equivalent value\u201d for Murabaha inventory (earlier called Murabaha assets) and other possible treatments like \u201cfair value\u201d or \u201cfair value less cost to sell\u201d for the purpose of testing for any decline in value of such inventory. After due deliberations, the board decided it would be more appropriate to record the inventories at the lower of cost and net realizable value (NRV) term to keep it close to the generally accepted accounting principles. The board was of the view that since these are to be sold in the normal course of business hence the entity specific NRV is the appropriate accounting treatment in case of a decline in value against cost. It was also considered that if a credit-worthy customer has provided a promise to purchase at a price which is cost plus profit, then a downward adjustment for NRV is not needed, even if the market value of the inventory has declined, because technically the NRV for the institution is above the cost.",
-            "tag": "accounting_treatment"
+            "tag": "NRV and determining NRV"
         },
         {
-            "title": "Recognition of revenue and cost of sales",
-            "content": "Previously the requirements with regard to the recognition and disclosure of gross revenue and cost of sales were not very clear. While the specimen formant provided in FAS 1 required a disclosure with a statement in the notes to the financial statements along with a clarification in this respect and since it was not clearly required in FAS 2, a number of institutions were not applying this practice.\nThe board discussed this issue at length including the definition of revenue and decided that the gross increase of in assets resulting from trading activities shall be considered as revenue of the institution. Similarly, the board decided that de-recognition of inventory (along with other relevant expenses) shall be considered as cost of sales for the institution. That being said, the board decided to continue the accounting for deferment and recording of profits in the books of the seller for transactions involving a credit.",
-            "tag": "accounting_treatment"
+            "title": "BC7",
+            "content": "Previously the requirements with regard to the recognition and disclosure of gross revenue and cost of sales were not very clear. While the specimen formant provided in FAS 1 required a disclosure with a statement in the notes to the financial statements along with a clarification in this respect and since it was not clearly required in FAS 2, a number of institutions were not applying this practice. The board discussed this issue at length including the definition of revenue and decided that the gross increase of in assets resulting from trading activities shall be considered as revenue of the institution. Similarly, the board decided that de-recognition of inventory (along with other relevant expenses) shall be considered as cost of sales for the institution. That being said, the board decided to continue the accounting for deferment and recording of profits in the books of the seller for transactions involving a credit.",
+            "tag": "Recognition of revenue and cost of sales"
         },
         {
-            "title": null,
+            "title": "BC8",
             "content": "However, considering the nature of the business of IFIs, the board decided that the sales and cost of sales for such transactions shall be disclosed in the notes to the financial statements instead of directly shown as turnover.",
-            "tag": "disclosure"
+            "tag": "Recognition of revenue and cost of sales"
         },
         {
-            "title": "Transitional provisions",
+            "title": "BC9",
             "content": "The board considered certain practical difficulties in application of certain requirements of the revised standard which may impact the accounting and computer systems, particularly, with regard to the revenue recognition and the deferred profit amortization. Accordingly, the Board decided to allow the institutions a choice to apply this standard on a prospective basis for transaction executed on or after the effective date.",
-            "tag": "transitional_provisions"
+            "tag": "Transitional provisions"
         },
         {
-            "title": "Recording receivables at gross amount",
+            "title": "BC10",
             "content": "The board decided to carry the general accounting treatment with regard to the recording of receivables at gross amount to disclose full amount of Dain receivable and to show the deferred profit or allowance for credit losses (or provision) as contra assets. The board concluded that the amount of Dain is necessary to be disclosed for several reasons primarily driven by Shari\u2019ah including determination of Zakah, determination of transferability of an asset or a pool of assets, determination of tradability of the shares of the institution and to disclose the full legal right of the institution against the debtor.",
-            "tag": "accounting_treatment"
+            "tag": "Recording receivables at gross amount"
         },
         {
-            "title": "Justification of deferment of profits for the seller",
+            "title": "BC11",
             "content": "The board discussed at length the accounting treatment with regard to deferment of the profits in the hand of the seller in case of a credit Murabaha or any other deferred payment sale as allowed by earlier FAS 2 and FAS 20. The board apprised that while a few may argue that the ideal treatment is to recognize the profit upfront because it is a profit and a receivable from Shari\u2019ah perspective, yet, it would not be fair and equitable, and at time prudent, to record whole amount of profits upfront.",
-            "tag": "accounting_treatment"
+            "tag": "Justification of deferment of profits for the seller"
         },
         {
-            "title": null,
+            "title": "BC12",
             "content": "Accordingly, the board held its view in line with the earlier standards, that since IFIs have multiple stakeholders (including shareholders, who change hand at times, and the investment account holders, who all contribute for the transaction and at time change hands) it would be more just, fair and equitable if the profits are deferred and amortized over the period of the whole transaction (i.e. till credit period). Additionally, the board also apprised that although it is not obligatory to give discount in case of early payment, but it is permissible (though not as a common practice) and at times customary (including because of regulatory requirements, or because of view of certain scholars) to give a discretionary discount, hence it would be more prudent if the profit is amortized over the credit period.",
-            "tag": "shariah_compliance"
+            "tag": "Justification of deferment of profits for the seller"
         },
         {
-            "title": null,
+            "title": "BC13",
             "content": "The board concluded that under the treatment proposed, the revenues earned by the institution are recognized in line with Shari\u2019ah and taking the whole amount of profits to statement of income and distributing the same immediately is not a mandatory Shari\u2019ah requirement. Accordingly, the deferred profit is not considered a liability of the institution and is treated more like a reserve (which is earned from Shari\u2019ah perspective, but not necessarily taken to income for distribution purposes, for the want of fairness, justice, equity and prudence). The board further concluded that reporting the same as a contra asset would reflect better presentation as all the relevant amounts shall be presented at the same place (note) in the financial statements.",
-            "tag": "shariah_compliance"
+            "tag": "Justification of deferment of profits for the seller"
         },
         {
-            "title": "Method of amortization of the deferred profits",
+            "title": "BC14",
             "content": "The Board discussed the methods of recognition of deferred profits and concluded that it would be more appropriate to not allow the earlier allowed alternative treatment of recognition of deferred profits on recovery basis as it was of the view that this is not in line with the Framework, or in line with the generally accepted accounting principles. Instead, the board decided that the time proportionate allocation is the most suitable method to achieve the objectives of fair, just, equitable and prudent profit sharing amongst stakeholders. The board further discussed the suitable approach to apply the time proportionate method and after due deliberations, decided that the effective rate of return method shall be the best approach to apply the time proportionate basis of profit allocation, particularly for long term transactions, and that this method will provide better matching to the return on investment account holders funds. The board decided that there is no Shari\u2019ah objection on the same because it is merely a method of allocation of profits (which are already earned) over a period to provide just, fair and equitable return to the stakeholders.",
-            "tag": "accounting_treatment"
+            "tag": "Method of amortization of the deferred profits"
         },
         {
-            "title": null,
+            "title": "BC15",
             "content": "The board further discussed and decided to allow a simplified approach (which was the preferred approach, in view of a few members) for applying the time proportionate method. Under the simplified approach the straight line allocation of profits is allowable for all short-term single bullet payment transactions i.e. the transactions other than those with installments or those with lump sum payment at the end, with original maturity of more than 12 months.",
-            "tag": "accounting_treatment"
+            "tag": "Method of amortization of the deferred profits"
         },
         {
-            "title": "Accounting for the buyer \u2013 profit element in the asset value",
-            "content": "The Board further discussed the matter of the profit element in the cost of asset in the hand of a buyer in a Murabaha (credit) or other deferred payment sale transaction. Certain members were of the view that the board shall consider devising a mirror accounting for this purpose of the accounting in the hand of the seller; suggesting that the same would be closer to the generally accepted accounting principles, arguing that it is not against Shari\u2019ah. In addition, they suggested that it will avoid \u201cover-pricing\u201d of the assets in the hand of the buyer. The board considered and evaluated the matter and also consulted certain Shari\u2019ah scholars on this matter and concluded that the justifications available for deferment of the profit in the hand of the seller i.e. (i) fair, just and equitable distribution of profits amongst stakeholders; and (ii) prudence, are not available in this case hence it may not be concluded that there is no Shari\u2019ah issue in the mirror accounting.\nAdditionally, the board considered that the matter of over-pricing can be catered through the suggested approaches of impairment and NRV testing etc. This view was confirmed by the committee of Shari\u2019ah board for review of accounting, auditing, governance and ethics standards.",
-            "tag": "accounting_treatment"
+            "title": "BC16",
+            "content": "The Board further discussed the matter of the profit element in the cost of asset in the hand of a buyer in a Murabaha (credit) or other deferred payment sale transaction. Certain members were of the view that the board shall consider devising a mirror accounting for this purpose of the accounting in the hand of the seller; suggesting that the same would be closer to the generally accepted accounting principles, arguing that it is not against Shari\u2019ah. In addition, they suggested that it will avoid \u201cover-pricing\u201d of the assets in the hand of the buyer. The board considered and evaluated the matter and also consulted certain Shari\u2019ah scholars on this matter and concluded that the justifications available for deferment of the profit in the hand of the seller i.e. (i) fair, just and equitable distribution of profits amongst stakeholders; and (ii) prudence, are not available in this case hence it may not be concluded that there is no Shari\u2019ah issue in the mirror accounting. Additionally, the board considered that the matter of over-pricing can be catered through the suggested approaches of impairment and NRV testing etc. This view was confirmed by the committee of Shari\u2019ah board for review of accounting, auditing, governance and ethics standards.",
+            "tag": "Accounting for the buyer \u2013 profit element in the asset value"
         },
         {
-            "title": null,
+            "title": "BC17",
             "content": "The board further concluded that the issue related to Tawarruq and commodity Murabaha, particularly in treasury, is a bit different from an economic substance perspective and hence the same shall be considered under a separate standard and hence scoped out.",
-            "tag": "scope"
+            "tag": "Accounting for the buyer \u2013 profit element in the asset value"
         }
     ]
 }

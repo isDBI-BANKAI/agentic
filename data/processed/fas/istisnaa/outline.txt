@@ -1,160 +1,170 @@
 - Financial Accounting Standard No. (10): Istisna’a and Parallel Istisna’a
-  - Preface — `preface`
-  - Statement of the Standard
-    - 1. Scope of the Standard — `scope`
-    - 2. Accounting Treatment by the Islamic Bank As Al-Sani’ (A Seller) — `accounting_treatment`
-      - 2/1 Istisna’a costs — `accounting_treatment_seller`
-        - a) — `istisna_costs`
-        - b) — `istisna_costs`
-        - c) — `istisna_costs`
-      - 2/2 Contract costs in parallel Istisna’a — `accounting_treatment_seller`
-        - a) — `parallel_istisna_costs`
-        - b) — `parallel_istisna_costs`
-      - 2/3 Istisna’a revenue and profit at the end of a financial period — `accounting_treatment_seller`
-        - 2/3/1 Istisna’a revenue and profit — `revenue_profit`
-        - 2/3/1/1 Percentage of completion method — `revenue_profit`
-          - a) — `percentage_completion`
-          - b) — `percentage_completion`
-        - 2/3/1/2 Completed contract method — `revenue_profit`
-        - 2/3/2 Deferred profits — `deferred_profits`
-        - 2/3/3 Early settlement — `deferred_profits`
-          - a) — `early_settlement`
-          - b) — `early_settlement`
-        - 2/3/4 Parallel Istisna’a revenue and profit — `revenue_profit`
-          - a) — `parallel_revenue_profit`
-          - b) — `parallel_revenue_profit`
-          - c) — `parallel_revenue_profit`
-      - 2/4 Measurement of Istisna’a work-in-progress, Istisna’a costs and treat- ment of contract losses at the end of a financial period — `accounting_treatment_seller`
-        - a) — `work_in_progress`
-        - b) — `work_in_progress`
-        - c) — `work_in_progress`
-        - d) — `work_in_progress`
-      - 2/5 Change orders and additional claims — `accounting_treatment_seller`
-        - a) — `change_orders`
-        - b) — `change_orders`
-        - c) — `change_orders`
-        - d) — `change_orders`
-      - 2/6 Maintenance and warranty costs of Al-Masnoo’ — `accounting_treatment_seller`
-        - a) — `maintenance_warranty`
-        - b) — `maintenance_warranty`
-    - 3. Accounting Treatment of Istisna’a by the Islamic Bank As Al-Mustasni’ (A Buyer) — `accounting_treatment`
-      - 3/1 Istisna’a billings of completed jobs — `accounting_treatment_buyer`
-        - a) — `istisna_billings`
-        - b) — `istisna_billings`
-      - 3/2 Receipt of Al-Masnoo’ — `accounting_treatment_buyer`
-        - 3/2/1 Receipt of Al-Masnoo’ in conformity with specifications and schedule — `accounting_treatment_buyer`
-          - a) — `receipt_al_masnoo`
-          - b) — `receipt_al_masnoo`
-        - 3/2/2 Late delivery of Al-Masnoo’ — `late_delivery`
-        - 3/2/3 Al-Masnoo’ not conforming to the specification — `accounting_treatment_buyer`
-          - a) — `al_masnoo_non_conforming`
-          - b) — `al_masnoo_non_conforming`
-        - 3/2/4 Al-Mustasni’ refuses to receive Al-Masnoo’ — `al_mustasni_refuses`
-    - 4. Disclosure Requirements — `disclosure`
-      - 4/1 — `disclosure`
-      - a) — `disclosure`
-      - b) — `disclosure`
-      - c) — `disclosure`
-      - d) — `disclosure`
-      - e) — `disclosure`
-      - 4/2 — `disclosure`
-      - a) — `disclosure`
-      - b) — `disclosure`
-      - c) — `disclosure`
-      - d) — `disclosure`
-      - 4/3 — `disclosure`
-    - 5. Effective Date — `effective_date`
-  - Adoption of the Standard — `standard_adoption`
-  - Appendix (A): Examples of the Application of Some Aspects of the Istisna’a and Parallel Istisna’a Standard — `application_examples`
-  - Example (1): Parallel Istisna’a Does Not Exist: (profitable contract) — `example`
-    - Basic data — `basic_data`
-    - Treatments by the Islamic Bank As a Seller (Al-Sani’) — `accounting_treatment`
-      - Year 1 — `accounting_treatment`
-      - 1. Istisna’a work-in-progress — `journal_entry`
-      - 2. Istisna’a accounts receivable — `journal_entry`
-      - 3. Cash — `journal_entry`
-      - End of period: a) Percentage-of-completion can be estimated with reasonable accuracy (percentage-of-completion method). — `accounting_treatment`
-      - Revenue recognized — `revenue_recognition`
-      - Cost of Istisna’a revenue — `journal_entry`
-    - Income statement: — `financial_statement`
-      - Year 1 — `income_statement`
-    - Balance sheet presentation: — `financial_statement`
-      - Assets end of year 1 end of year 2 (*) — `balance_sheet`
-    - b) Percentage-of-completion cannot be estimated with reasonable accuracy (completed contact method) — `accounting_treatment`
-    - Income statement: — `financial_statement`
-      - Year 2 — `income_statement`
-    - Balance sheet presentation: — `financial_statement`
-      - Assets end of year 1 end of year 2* — `balance_sheet`
-  - Example (2): Parallel Istisna’a Exists: (profitable contract) — `example`
-    - Basic data: — `basic_data`
-    - Treatments by the Islamic Bank As Both a Seller (Al-Sani’) and a Buyer (Al-Mustasni’) in Parallel Istisna’a — `accounting_treatment`
-      - 1. Istisna’a costs — `journal_entry`
-      - 2. Istisna’a accounts receivable (y-co.) — `journal_entry`
-      - 3. Istisna’a accounts payable (x-co.) — `journal_entry`
-    - End of period: — `accounting_treatment`
-    - Income statement: — `financial_statement`
-      - Year 1 — `income_statement`
-    - Balance sheet presentation: — `financial_statement`
-      - Assets — `balance_sheet`
-  - Example (3): Anticipated Losses on Contract — `example`
-    - Anticipated loss at end of 1997 = 8,000,000 - (5,700,000 + 2,500,000) = — `loss_calculation`
-    - Valuation of Istisna’a work-in-progress at the end of 1997 = 8,000,000 - — `valuation`
-    - a) If percentage-of-completion method is used — `accounting_treatment`
-    - Required valuation (para.19) $5,500,000 — `loss_recognition`
-    - Adjusting entry at end of 1997 — `journal_entry`
-    - b) If completed contract method is used: — `accounting_treatment`
-    - Adjusting entry at end of 1997 to recognize anticipated loss on contract (para. 20): — `journal_entry`
-  - Appendix (B) Brief History of the Preparation of the Standard — `history`
-  - Appendix (C) Juristic Rules for Istisna’a and Parallel Istisna’a — `juristic_rules`
-    - 1. Characterisation of Istisna’a — `istisna_characterisation`
-    - 2. Definition — `istisna_definition`
-    - 3. Legitimacy of Istisna’a — `istisna_legitimacy`
-      - 3/1 According to the Hanafis — `hanafi_view`
-      - 3/2 — `general_rule`
-      - 3/3 — `contemporary_fuqaha`
-    - 4. Conditions for the Validity of Istisna’a (11) — `conditions_validity`
-      - 4/1 Al-Masnoo’ — `al_masnoo_conditions`
-        - 4/1/1 — `masnoo_specifications`
-        - 4/1/2 — `hanafi_stipulation`
-        - 4/1/3 Fixing a date for delivering Al-Masnoo’ — `delivery_date`
-      - 4/2 Price — `price_conditions`
-    - 5. Binding Nature of Istisna’a — `binding_nature`
-      - 5/1 — `hanafi_jurists`
-      - 5/2 — `hanafi_school`
-      - 5/3 — `majallat_al_ahkam`
-      - 5/4 — `civil_legislations`
-      - 5/5 — `islamic_fiqh_academy`
-    - 6. Legal Consequences of Istisna’a — `legal_consequences`
-    - 7. Guarantee — `guarantee`
-      - 7/1 — `mustasni_right`
-      - 7/2 — `sani_right`
-    - 8. Penalty Clause — `penalty_clause`
-    - 9. Options on Non-Compliance with Specifications — `non_compliance_options`
-    - 10. Termination of Istisna’a Contract — `contract_termination`
-    - 11. Parallel Istisna’a — `parallel_istisna`
-  - Similarities and Differences Between Salam and Istisna’a — `comparison`
-    - Subject matter of the contract — `contract_subject`
-    - Price — `contract_price`
-    - Nature of contract — `contract_nature`
-    - Parallel contract — `parallel_contract`
-  - Appendix (D): Reasons for the Standard — `reasons_for_standard`
-  - Appendix (E): Basis for Conclusions — `basis_for_conclusions`
-  - Recognition of Istisna’a Profit — `profit_recognition`
-    - Percentage of completion method — `profit_recognition`
-    - Completed contract method — `profit_recognition`
-  - Valuation of Istisna’a Assets at the End of a Financial Period — `asset_valuation`
-    - Alternative (a) — `asset_valuation`
-    - Alternative (b) — `asset_valuation`
-  - Maintenance and Product Warranty Costs of Al-Masnoo’ — `maintenance_warranty_costs`
-    - Accrual basis — `maintenance_warranty_costs`
-    - Cash basis — `maintenance_warranty_costs`
-  - Appendix (F): Definitions — `definitions`
-    - Istisna’a — `definition`
-    - Parallel Istisna’a — `definition`
-    - Istisna’a Work-in-Progress Account — `definition`
-    - Istisna’a Costs Account — `definition`
-    - Percentage-of-Completion Method — `definition`
-    - Completed-Contract Method — `definition`
-    - Contract Losses — `definition`
-    - Change Orders — `definition`
-    - Additional Claims — `definition`
+  - Preface — [preface]
+  - 1. Scope of the Standard — [scope]
+  - 2. Accounting Treatment by the Islamic Bank As Al-Sani’ (A Seller) — [accounting_treatment_seller]
+    - 2/1 Istisna’a costs — [istisna_costs]
+      - 2/1/a) Istisna’a costs consist of: — [istisna_costs_components]
+      - 2/1/b) Istisna’a costs incurred during a financial period — [istisna_costs_recognition]
+      - 2/1/c) Pre-contract costs shall be recognized as deferred costs — [pre_contract_costs]
+    - 2/2 Contract costs in parallel Istisna’a — [parallel_istisna_costs]
+      - 2/2/a) When a parallel Istisna’a exists — [parallel_istisna_costs_components]
+      - 2/2/b) Progress billings made by the Islamic bank — [progress_billings]
+    - 2/3 Istisna’a revenue and profit at the end of a financial period — [revenue_profit_recognition]
+      - 2/3/1 Istisna’a revenue and profit — [revenue_profit_definition]
+        - 2/3/1/1 Percentage of completion method — [percentage_completion_method]
+          - 2/3/1/1/a) A part of the contract price — [revenue_recognition]
+          - 2/3/1/1/b) The portion of the Istisna’a profit margin — [profit_margin_recognition]
+        - 2/3/1/2 Completed contract method — [completed_contract_method]
+      - 2/3/2 Deferred profits — [deferred_profits]
+        - 2/3/2/a) Proportionate allocation of deferred profits — [proportionate_allocation]
+        - 2/3/2/b) As and when each instalment is received. — [instalment_method]
+      - 2/3/3 Early settlement — [early_settlement]
+        - 2/3/3/a) If Al-Mustasni’ makes a payment — [early_payment_waiver]
+        - 2/3/3/b) The same accounting treatment — [early_payment_reimbursement]
+      - 2/3/4 Parallel Istisna’a revenue and profit — [parallel_istisna_revenue_profit]
+        - 2/3/4/a) Parallel Istisna’a revenue and profit for each financial period — [revenue_profit_recognition]
+        - 2/3/4/b) The recognized portion of Istisna’a profits — [profit_recognition]
+        - 2/3/4/c) If the contract price or part thereof is to be paid — [payment_terms]
+    - 2/4 Measurement of Istisna’a work-in-progress, Istisna’a costs and treatment of contract losses at the end of a financial period — [measurement_losses]
+      - 2/4/a) In the event of applying the percentage of completion method — [work_in_progress_measurement]
+      - 2/4/b) Any expected loss resulting from the valuation of Istisna’a — [loss_recognition]
+      - 2/4/c) When a parallel Istisna’a exists — [parallel_istisna_treatment]
+      - 2/4/d) The subcontractor may fail to honour — [subcontractor_failure]
+    - 2/5 Change orders and additional claims — [change_orders_claims]
+      - 2/5/a) The value and cost of change orders — [change_orders_accounting]
+      - 2/5/b) If requisite conditions for recognizing — [additional_claims_recognition]
+      - 2/5/c) If one or more requisite conditions — [claims_disclosure]
+      - 2/5/d) When a parallel Istisna’a exists — [parallel_istisna_claims]
+    - 2/6 Maintenance and warranty costs of Al-Masnoo’ — [maintenance_warranty]
+      - 2/6/a) Maintenance and warranty costs of Al-Masnoo’ — [accrual_basis]
+      - 2/6/b) When a parallel Istisna’a exists — [cash_basis]
+  - 3. Accounting Treatment of Istisna’a by the Islamic Bank As Al-Mustasni’ (A Buyer) — [accounting_treatment_buyer]
+    - 3/1 Istisna’a billings of completed jobs — [billings_completed_jobs]
+      - 3/1/a) The amount of progress billings — [billings_accounting]
+      - 3/1/b) When a parallel Istisna’a exists — [parallel_istisna_billings]
+    - 3/2 Receipt of Al-Masnoo’ — [receipt_al_masnoo]
+      - 3/2/1 Receipt of Al-Masnoo’ in conformity with specifications and schedule — [conformity_specifications]
+        - 3/2/1/a) The received (Al-Masnoo’) assets — [asset_recording]
+        - 3/2/1/b) When a parallel Istisna’a exists — [parallel_istisna_asset_transfer]
+      - 3/2/2 Late delivery of Al-Masnoo’ — [late_delivery]
+      - 3/2/3 Al-Masnoo’ not conforming to the specification — [non_conforming_specifications]
+        - 3/2/3/a) If the Islamic bank declined to receive — [rejection_accounting]
+        - 3/2/3/b) If the Islamic bank accepted Al-Masnoo’ — [acceptance_accounting]
+      - 3/2/4 Al-Mustasni’ refuses to receive Al-Masnoo’ — [client_refusal]
+  - 4. Disclosure Requirements — [disclosure_requirements]
+    - 4/1 The Islamic bank shall disclose — [disclosure_items]
+      - 4/1/a) Revenues and profits of Istisna’a contracts — [revenue_profit_disclosure]
+      - 4/1/b) Accounting methods used — [accounting_methods_disclosure]
+      - 4/1/c) Cumulative (actual) costs of contracts — [cumulative_costs_disclosure]
+      - 4/1/d) The amount of retention — [retention_disclosure]
+      - 4/1/e) Istisna’a receivable and payable accounts — [receivable_payable_disclosure]
+    - 4/2 The Islamic bank shall disclose — [notes_disclosure]
+      - 4/2/a) Unsettled additional claims — [unsettled_claims_disclosure]
+      - 4/2/b) The method used for determining — [completion_method_disclosure]
+      - 4/2/c) The value of parallel Istisna’a — [parallel_istisna_value_disclosure]
+      - 4/2/d) The value of Istisna’a contracts — [future_contracts_disclosure]
+    - 4/3 The disclosure requirements in Financial Accounting Standard No. (1) — [general_disclosure_requirements]
+  - 5. Effective Date — [effective_date]
+  - Adoption of the Standard — [adoption]
+  - Appendix (A) — [appendix]
+  - Example (1): Parallel Istisna’a Does Not Exist: (profitable contract) — [example]
+    - Basic data — [example_data]
+    - Treatments by the Islamic Bank As a Seller (Al-Sani’) — [accounting_treatment]
+      - 1. Istisna’a work-in-progress — [accounting_treatment]
+      - 2. Istisna’a accounts receivable — [accounting_treatment]
+      - 3. Cash — [accounting_treatment]
+      - End of period: a) Percentage-of-completion can be estimated with reasonable accuracy (percentage-of-completion method). — [accounting_method]
+      - Revenue recognized — [revenue_recognition]
+      - Cost of Istisna’a revenue — [cost_recognition]
+    - Income statement — [financial_statement]
+      - Istisna’a revenue — [income_statement]
+      - Cost of Istisna’a revenue — [income_statement]
+      - Istisna’a profit — [income_statement]
+    - Balance sheet presentation — [financial_statement]
+      - end of year 1 — [balance_sheet]
+      - Less: Istisna’a billings (280,000 — [balance_sheet]
+    - b) Percentage-of-completion cannot be estimated with reasonable accuracy (completed contact method) — [accounting_method]
+    - Income statement — [financial_statement]
+      - Istisna’a revenue — [income_statement]
+      - Cost of Istisna’a revenue — [income_statement]
+      - Istisna’a profit — [income_statement]
+    - Balance sheet presentation — [financial_statement]
+      - end of year 1 — [balance_sheet]
+      - Less: Istisna’a billings (280,000 — [balance_sheet]
+  - Example (2): Parallel Istisna’a Exists: (profitable contract) — [example]
+    - Basic data — [example_data]
+    - Treatments by the Islamic Bank As Both a Seller (Al-Sani’) and a Buyer (Al-Mustasni’) in Parallel Istisna’a — [accounting_treatment]
+      - 1. Istisna’a costs — [accounting_treatment]
+      - 2. Istisna’a accounts receivable (y-co.) — [accounting_treatment]
+      - 3. Istisna’a accounts payable (x-co.) — [accounting_treatment]
+    - End of period: — [accounting_method]
+    - Income statement — [financial_statement]
+      - Istisna’a revenue — [income_statement]
+      - Cost of Istisna’a revenue — [income_statement]
+      - Istisna’a profit — [income_statement]
+    - Balance sheet presentation — [financial_statement]
+      - end of year 1 — [balance_sheet]
+      - Less: Istisna’a billings (280,000 — [balance_sheet]
+  - Example (3): Anticipated Losses on Contract — [example]
+    - a) If percentage-of-completion method is used — [accounting_method]
+    - Adjusting entry at end of 1997 — [accounting_treatment]
+      - Loss on Istisna’a contracts — [journal_entry]
+      - Istisna’a work-in-progress — [journal_entry]
+    - b) If completed contract method is used: — [accounting_method]
+    - Adjusting entry at end of 1997 to recognize anticipated loss on contract (para. 20): — [accounting_treatment]
+      - Loss on Istisna’a contracts — [journal_entry]
+      - Istisna’a work-in-progress — [journal_entry]
+  - Brief History of the Preparation of the Standard — [history]
+  - Appendix (C) Juristic Rules for Istisna’a and Parallel Istisna’a — [juristic_rules]
+    - 1. Characterisation of Istisna’a — [characterization]
+    - 2. Definition — [definition]
+    - 3. Legitimacy of Istisna’a — [legitimacy]
+      - 3/1 According to the Hanafis, Istisna’a’ ought to have been prohibited for contravening the general Shari’a rules of Qiyas (analogical deduction). — [legitimacy]
+      - 3/2 Istisna’a is also valid in accordance with the general rule of the permissibility of contracts as long as this does not contravene any text or rule of Shari’a. — [legitimacy]
+      - 3/3 Some contemporary Fuqaha are of the view that Istisna’a is valid on the basis of Qiyas and the general rules of Shari’a because the fact that the subject-matter is non-existent at the time of the constitution of the contract is compensated for by its preponderant existence at the time of delivery in the future. This arrangement makes the delivery of the subject-matter free from Gharar (uncertainty). (10) — [legitimacy]
+    - 4. Conditions for the Validity of Istisna’a (11) — [conditions]
+    - 4/1 Al-Masnoo’ — [conditions]
+      - 4/1/1 Al-Masnoo’ must be known and specified to the extent of removing any lack of knowledge of its: a) Kind, e.g., car, airoplane or house, etc.; b) Type, e.g., a Toyota car, a Boeing airoplane, a house for low income individuals, etc.; c) Quality, e.g., as specified according to established tables of specifications; and d) Quantity. — [conditions]
+      - 4/1/2 The Hanafis stipulate that the commodity contracted for ought to be of a type of items that people are used to dealing with through Istisna’a. This is important because the legitimacy of Istisna’a is based, according to their viewpoint, on the customary practices of people. However, since the legitimacy of Istisna’a is also based on Qiyas, general rules of Shari’a, permissibility of whatever has not been considered illegitimate, and Maslaha (consideration of the public good or common need), it is therefore considered a permissible contract to be used whenever the need arises irrespective to whether or not it has been commonly practised by people. — [conditions]
+      - 4/1/3 Fixing a date for delivering Al-Masnoo’ — [conditions]
+    - 4/2 Price — [conditions]
+    - 5. Binding Nature of Istisna’a — [binding_nature]
+      - 5/1 According to the majority of Hanafi jurists, Istisna’a is a valid but not binding contract. Hence,: — [binding_nature]
+        - 5/1/1 Each partner has the option to rescind the contract before it is implemented. Al-Sani’ has the right not to commence manufacturing the goods, while Al-Mustasni’ has the right to withdraw from buying Al-Masnoo’. — [binding_nature]
+        - 5/1/2 If Al-Sani’ manufactured Al-Masnoo’, he would not be obliged to deliver it to Al-Mustasni’. Rather, he has the option to dispense with it in the way he deems fit. This is because the contract is not for the manufactured goods themselves, but for Al-Masnoo’ of certain specifications. Al-Mustasni’ also has the option to accept Al-Masnoo’. — [binding_nature]
+        - 5/1/3 The Hanafis have three different views if Al-Sani’ manufac- tured Al-Masnoo’ according to the specifications and decided to deliver it to Al-Mustasni’ in fulfillment of his contractual obligations. These are: a) The preponderant view is that the contract becomes binding on Al-Sani’ who has waived his option by delivering Al- Masnoo’. Yet, the buyer’s option remains to be exercised. This view is attributed to the three Imams: Abu Hanifah, Abu Yusuf and Muhammad. b) Abu Hanifah is also reported to have said that even at this stage Al-Sani’ retains his right on an equal footing with Al- Mustasni’. c) Abu Yusuf is also reported to have expressed a second opinion to the effect that in this situation the contract becomes binding on the two parties. (12) — [binding_nature]
+      - 5/2 The majority in the Hanafi School opined that the Istisna’a contract is binding once it has been constituted. A number of jurists have argued in favour of this view. (13) — [binding_nature]
+      - 5/3 Provision (392) of “Majallat Al-Ahkam Al-’Adliyyah” reads as follows: reads as follows: Once the contract of Istisna’a is constituted, it becomes binding and no party has the right to revoke it. If, however, Al-Masnoo’ does not conform to the required specifications, Al-Mustasni’ has the option to revoke the contract. The commentator on the text says: Istisna’a is a contract of sale and not a mere promise. Once it is constituted, no party, according to Abu Yousuf’s point of view, has the right to withdraw unless the consent of the other party is secured (see article 375). Accordingly, Al-Sani’ has to deliver Al-Masnoo’. (14) — [binding_nature]
+      - 5/4 In light of the above, all civil legislations based on Shari’a have treated Istisna’a, in line with the ruling of “Majallat Al-Ahkam Al-’Adliyyah”, as a binding contract. These are the Jordanian, Yemeni and Sudanese laws of civil transactions as well as the Unified Arab Law proposed by the League of Arab Countries. — [binding_nature]
+      - 5/5 The Islamic Fiqh Academy has also decreed: “The contract of Istisna’a is binding on its parties provided that certain conditions are fulfilled.” These views strengthen one another and confirm that there is a substantiated viewpoint in the Hanafi school professing the bind- ing nature of Istisna’a once it is constituted. It is on this reality that the “Majallat Al-Ahkam Al-’Adliyyah”, modern civil Islamic legis- , modern civil Islamic legis- lations and the Islamic Fiqh Academy developed their viewpoint, which is consistent with Shari’a rules and principles. — [binding_nature]
+    - 6. Legal Consequences of Istisna’a — [legal_consequences]
+    - 7. Guarantee — [guarantee]
+      - 7/1 Al-Mustasni’ has the right to obtain collateral from Al-Sani’ for: a) The total amount that he has paid. b) The delivery of Al-Masnoo’ in accordance with the specifications and on due time. — [guarantee]
+      - 7/2 Al-Sani’ also has the right to secure collaterals to guarantee that the price is payable on due time. (17) — [guarantee]
+    - 8. Penalty Clause — [penalty_clause]
+    - 9. Options on Non-Compliance with Specifications — [options]
+    - 10. Termination of Istisna’a Contract — [termination]
+    - 11. Parallel Istisna’a — [parallel_istisna]
+  - Similarities and Differences Between Salam and Istisna’a — [comparison]
+    - 1. Subject matter of the contract — [subject_matter]
+    - 2. Price — [price]
+    - 3. Nature of contract — [nature_of_contract]
+    - 4. Parallel contract — [parallel_contract]
+  - Appendix (D) — [reasons_for_standard]
+  - Issues susceptible to significant differences in the accounting treatment — [accounting_issues]
+  - Appendix (E) — [basis_for_conclusions]
+  - Recognition of Istisna’a Profit — [profit_recognition]
+  - a) Completed contract method — [profit_recognition]
+  - Valuation of Istisna’a Assets at the End of a Financial Period — [asset_valuation]
+  - Alternative (b) was chosen — [asset_valuation]
+  - Maintenance and Product Warranty Costs of Al-Masnoo’ — [maintenance_warranty_costs]
+  - Appendix (F) — [definitions]
+  - Istisna’a — [definition]
+  - Parallel Istisna’a — [definition]
+  - Istisna’a Work-in-Progress Account — [definition]
+  - Istisna’a Costs Account — [definition]
+  - Percentage-of-Completion Method — [definition]
+  - Completed-Contract Method — [definition]
+  - Contract Losses — [definition]
+  - Change Orders — [definition]
+  - Additional Claims — [definition]

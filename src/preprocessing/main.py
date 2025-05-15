@@ -53,8 +53,10 @@ fas_files = [
         "name": "ijarah",
         "parts": [
             [1, 8],
-            [9, 15],
-            [15, 23],
+            [9, 13],
+            [13, 15],
+            [15, 20],
+            [21, 23],
             [23, 25],
             [26, 31],
             [32, 39],
@@ -134,7 +136,7 @@ def build_outline(outline: dict, indent=0):
     
     if title:
         if tag:
-            lines.append(f"{indent_str}- {title} — `{tag}`")
+            lines.append(f"{indent_str}- {title} — [{tag}]")
         else:
             lines.append(f"{indent_str}- {title}")
     
@@ -143,10 +145,12 @@ def build_outline(outline: dict, indent=0):
     
     return lines
 
-def create_chunks(doc_content: dict, parent_path=None):
+def create_chunks(doc_content: dict, parent_path=None, parent_tags=None):
     if parent_path is None:
         parent_path = []
-    
+    if parent_tags is None:
+        parent_tags = []
+
     chunks = []
 
     title = doc_content.get("title")
@@ -154,24 +158,27 @@ def create_chunks(doc_content: dict, parent_path=None):
     content = doc_content.get("content")
 
     current_path = parent_path + [title] if title else parent_path
+    current_tags = parent_tags + [tag] if tag else parent_tags
 
     if content:
         heading = " > ".join(current_path)
         chunks.append({
-            "tag": tag,
+            "tags": current_tags,  # Changed to plural for clarity
             "content": f"{heading}\n\n{content}"
         })
 
     for section in doc_content.get("sections", []):
-        chunks.extend(create_chunks(section, current_path))
+        chunks.extend(create_chunks(section, current_path, current_tags))
 
     return chunks
 
 if __name__ == "__main__":
-
-    # for file in fas_files:
-    for file in ss_files:
-        type = "ss" # fas, ss
+    type = "fas" # fas, ss
+    if type == "fas":
+        files = fas_files
+    elif type == "ss":
+        files = ss_files
+    for file in files:
         filename = file["filename"]
         name = file["name"]
         doc_content = {}

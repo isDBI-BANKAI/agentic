@@ -18,7 +18,7 @@ def load_chunks(base_dir: str):
                             "content": chunk["content"],
                             "doc_type": doc_type,
                             "operation": operation,
-                            "tag": chunk["tag"]
+                            "tags": chunk["tags"]
                         }
                     })
     return all_chunks

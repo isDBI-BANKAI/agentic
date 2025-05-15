@@ -1,386 +1,855 @@
 [
     {
-        "tag": "preface",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Preface\n\nThis standard aims at setting out accounting rules for recognizing, mea- suring and disclosing the transactions of Istisna\u2019a and parallel Istisna\u2019a that are carried out by Islamic banks and financial institutions."
-    },
-    {
-        "tag": "scope",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 1. Scope of the Standard\n\nThis standard addresses the accounting rules of Istisna\u2019a and parallel Istisna\u2019a contracts in the financial statements of Islamic banks relating to measuring and recognizing the costs and revenues from Istisna\u2019a and parallel Istisna\u2019a, the gains and losses accruing therefrom, and their presentation and disclosure in the financial statements of the Islamic bank."
-    },
-    {
-        "tag": "istisna_costs",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/1 Istisna\u2019a costs > a)\n\nIstisna\u2019a costs consist of: (I) Direct costs, in particular costs of producing Al-Masnoo\u2019; and (II) Indirect costs relating to the contract as allocated on an objective basis. General and admin- istrative expenses, selling expenses, research and development costs shall not be included in an Istisna\u2019a contract costs."
-    },
-    {
-        "tag": "istisna_costs",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/1 Istisna\u2019a costs > b)\n\nIstisna\u2019a costs incurred during a financial period, as well as pre- contract costs as described in (c) below, shall be recognized in an Istisna\u2019a work-in-progress account, and reported under assets in the statement of financial position of the Islamic bank. (In case of parallel Istisna\u2019a, this account shall be called Istisna\u2019a costs account as stated in 2/2 a). Amounts billed to Al-Mustasni\u2019 will be debited to Istisna\u2019a accounts receivable account and credited to an Istisna\u2019a billings account. The balance of the latter account shall be offset against Istisna\u2019a work-in-progress account in the appropriate side of the Islamic bank\u2019s statement of financial position."
-    },
-    {
-        "tag": "istisna_costs",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/1 Istisna\u2019a costs > c)\n\nPre-contract costs shall be recognized as deferred costs when they are incurred, and accounted for upon contracting by transferring them to the Istisna\u2019a work-in-progress account. If no contract is signed and it is unlikely that it will be signed in the future, then the deferred costs in question shall be written-off to expense during the current financial period."
-    },
-    {
-        "tag": "parallel_istisna_costs",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/2 Contract costs in parallel Istisna\u2019a > a)\n\nWhen a parallel Istisna\u2019a exists, the costs of Istisna\u2019a include the price fixed in the parallel Istisna\u2019a contract (direct costs), together with indirect costs including any pre-contract costs as described in 2/1(c). When the subcontractor bills the Islamic bank for contract costs, these will be debited to Istisna\u2019a costs account and credited to the subcontractor\u2019s Al-Sani\u2019 account under Istisna\u2019a accounts payable. The Istisna\u2019a costs account shall be reported under assets in the statement of financial position of the Islamic bank."
-    },
-    {
-        "tag": "parallel_istisna_costs",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/2 Contract costs in parallel Istisna\u2019a > b)\n\nProgress billings made by the Islamic bank to the ultimate purchaser (Al-Mustasni\u2019) during the period shall be accounted for by debiting an Istisna\u2019a accounts receivable account. The same amount shall also be credited to Istisna\u2019a billings account, the balance of which shall be offset against Istisna\u2019a cost account in the Islamic bank\u2019s financial statements."
-    },
-    {
-        "tag": "revenue_profit",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/3 Istisna\u2019a revenue and profit at the end of a financial period > 2/3/1 Istisna\u2019a revenue and profit\n\nIstisna\u2019a revenue is the total price agreed upon between the Islamic bank as Al-Sani\u2019 and the client as Al-Mustasni\u2019, including the Islamic bank\u2019s profit margin on the contract. Istisna\u2019a revenue and the associated profit margin are recognized in the Islamic bank\u2019s financial statements according to either the percentage of completion or the completed contract methods as set up below, taking into consideration what is stated in item 2/3/1/2."
-    },
-    {
-        "tag": "percentage_completion",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/3 Istisna\u2019a revenue and profit at the end of a financial period > 2/3/1/1 Percentage of completion method > a)\n\nA part of the contract price commensurate with the work performed during each period in which the contract is being executed shall be recognized as revenue for that period."
-    },
-    {
-        "tag": "percentage_completion",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/3 Istisna\u2019a revenue and profit at the end of a financial period > 2/3/1/1 Percentage of completion method > b)\n\nThe portion of the Istisna\u2019a profit margin recognized during the financial period (Istisna\u2019a profit margin being the difference between the cash price of Al- Masnoo\u2019 to the ultimate purchaser and the Islamic bank\u2019s estimated total Istisna\u2019a costs) shall be added to the Istisna\u2019a work-in-progress account. Thus, at any point in time, the balance of the Istisna\u2019a work- in-progress account will include the amount of profit recognized to date subject to deduction of any anticipated contract losses, as will be indicated in 2/4 (a) below."
-    },
-    {
-        "tag": "revenue_profit",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/3 Istisna\u2019a revenue and profit at the end of a financial period > 2/3/1/2 Completed contract method\n\nIn unusual circumstances where both the percentage of completion and the expected cost to complete the contract cannot be estimated with reasonable accuracy at the end of the financial period, no contract revenue shall be recognized until the contract is fully completed. Thus, until that date, the accumulated contract costs will be carried forward on the Istisna\u2019a work-in-progress account, without any profit element being recognized."
-    },
-    {
-        "tag": "deferred_profits",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/3 Istisna\u2019a revenue and profit at the end of a financial period > 2/3/2 Deferred profits\n\nThe contract price may be fully paid by Al-Mustasni\u2019 by instalments during the contract based on progress in work. However, all or part of the price may be paid following completion of the contract. In the latter case, the difference between the total price that is paid during the contract and the agreed total price \u2013defined as deferred profits\u2013 shall be offset against Istisna\u2019a accounts receivable in the Islamic bank\u2019s statement of financial position. This treatment shall"
-    },
-    {
-        "tag": "early_settlement",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/3 Istisna\u2019a revenue and profit at the end of a financial period > 2/3/3 Early settlement > a)\n\nIf Al-Mustasni\u2019 makes a payment in advance of the due date for such a payment, the Islamic bank may waive part of its profit in recognition of this earlier payment. In that case, the amount of profit waived shall be deducted from both Istisna\u2019a accounts receivable account and deferred profits account."
-    },
-    {
-        "tag": "early_settlement",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/3 Istisna\u2019a revenue and profit at the end of a financial period > 2/3/3 Early settlement > b)\n\nThe same accounting treatment as in (a) above shall apply if the facts are the same except that the Islamic bank did not grant a partial reduction of the profit when the payment was made, but reimbursed Al-Mustasni\u2019 with this amount after receiving the payments."
-    },
-    {
-        "tag": "parallel_revenue_profit",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/3 Istisna\u2019a revenue and profit at the end of a financial period > 2/3/4 Parallel Istisna\u2019a revenue and profit > a)\n\nParallel Istisna\u2019a revenue and profit for each financial pe- riod shall be measured and recognized according to the percentage of completion method, since in parallel Istisna\u2019a both costs and revenues of Istisna\u2019a are known to the Islamic bank with reasonable certainty."
-    },
-    {
-        "tag": "parallel_revenue_profit",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/3 Istisna\u2019a revenue and profit at the end of a financial period > 2/3/4 Parallel Istisna\u2019a revenue and profit > b)\n\nThe recognized portion of Istisna\u2019a profits for a financial period shall be added to Istisna\u2019a costs account. Thus, at any point in time the balance of the Istisna\u2019a costs account shall be equal to the cumulative cost of the Istisna\u2019a contract (the total amount in progress billings authorised by the Islamic bank) plus the total Istisna\u2019a profits recognized up to that point."
-    },
-    {
-        "tag": "parallel_revenue_profit",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/3 Istisna\u2019a revenue and profit at the end of a financial period > 2/3/4 Parallel Istisna\u2019a revenue and profit > c)\n\nIf the contract price or part thereof is to be paid following the completion of the contract, the accounting treatments in 2/3/2 and 2/3/3 (a, b) shall apply."
-    },
-    {
-        "tag": "work_in_progress",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/4 Measurement of Istisna\u2019a work-in-progress, Istisna\u2019a costs and treat- ment of contract losses at the end of a financial period > a)\n\nIn the event of applying the percentage of completion method for the recognition of Istisna\u2019a revenue and profit, Istisna\u2019a work- in-progress shall be measured and reported in the statement of financial position of the Islamic bank at a value not exceeding its cash equivalent value (i.e., the difference between the contract price and the expected additional cost to complete the contract)."
-    },
-    {
-        "tag": "work_in_progress",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/4 Measurement of Istisna\u2019a work-in-progress, Istisna\u2019a costs and treat- ment of contract losses at the end of a financial period > b)\n\nAny expected loss resulting from the valuation of Istisna\u2019a work- in-progress at the end of a financial period shall be recognized and reported in the Islamic bank\u2019s income statement."
-    },
-    {
-        "tag": "work_in_progress",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/4 Measurement of Istisna\u2019a work-in-progress, Istisna\u2019a costs and treat- ment of contract losses at the end of a financial period > c)\n\nWhen a parallel Istisna\u2019a exists, Istisna\u2019a costs shall be treated as in (a) and (b) above."
-    },
-    {
-        "tag": "work_in_progress",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/4 Measurement of Istisna\u2019a work-in-progress, Istisna\u2019a costs and treat- ment of contract losses at the end of a financial period > d)\n\nThe subcontractor may fail to honour his obligation in a parallel Istisna\u2019a resulting in additional cost for the Islamic bank to fulfil its obligation towards Al-Mustasni\u2019 (the client). Any such additional costs shall be recognized as losses in valuing the Istisna\u2019a costs and reported in the Islamic bank\u2019s income statement, except if there is a reasonable degree of certainty that the Islamic bank shall recover these additional costs."
-    },
-    {
-        "tag": "change_orders",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/5 Change orders and additional claims > a)\n\nThe value and cost of change orders authorized by the Islamic bank and Al-Mustasni\u2019 shall be added to Istisna\u2019a revenue and costs, respectively."
-    },
-    {
-        "tag": "change_orders",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/5 Change orders and additional claims > b)\n\nIf requisite conditions for recognizing additional claims are met, a related amount of revenue shall be recognized equal to the additional cost caused by such claims."
-    },
-    {
-        "tag": "change_orders",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/5 Change orders and additional claims > c)\n\nIf one or more requisite conditions for recognizing additional claims are not met, the estimated value of these claims shall be disclosed in the notes accompanying the financial statements of the Islamic bank."
-    },
-    {
-        "tag": "change_orders",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/5 Change orders and additional claims > d)\n\nWhen a parallel Istisna\u2019a exists, the accounting treatments in (a), (b) and (c) above shall apply for change orders and additional claims. However, the cost of change orders and additional claims are determined by the subcontractor (Al-Sani\u2019) in the parallel contract and subject to the approval of the Islamic bank."
-    },
-    {
-        "tag": "maintenance_warranty",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/6 Maintenance and warranty costs of Al-Masnoo\u2019 > a)\n\nMaintenance and warranty costs of Al-Masnoo\u2019 shall be accounted for on an accrual basis. Such costs shall be estimated and then matched with recognized Istisna\u2019a revenue. Actual maintenance and warranty expenditures shall be charged against a maintenance and warranty allowance account when carried out by the Islamic bank."
-    },
-    {
-        "tag": "maintenance_warranty",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/6 Maintenance and warranty costs of Al-Masnoo\u2019 > b)\n\nWhen a parallel Istisna\u2019a exists, the maintenance and warranty cost of Al-Masnoo\u2019 shall be accounted for on a cash basis, where such costs are charged by the Islamic bank directly to expense accounts when they are incurred."
-    },
-    {
-        "tag": "istisna_billings",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 3. Accounting Treatment of Istisna\u2019a by the Islamic Bank As Al-Mustasni\u2019 (A Buyer) > 3/1 Istisna\u2019a billings of completed jobs > a)\n\nThe amount of progress billings received shall be recognized by debiting an Istisna\u2019a costs account and presented under assets in the statement of financial position of the Islamic bank. The corresponding credit shall be made to Istisna\u2019a accounts payable to Al-Sani\u2019."
-    },
-    {
-        "tag": "istisna_billings",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 3. Accounting Treatment of Istisna\u2019a by the Islamic Bank As Al-Mustasni\u2019 (A Buyer) > 3/1 Istisna\u2019a billings of completed jobs > b)\n\nWhen a parallel Istisna\u2019a exists, the accounting treatment in (a) above shall apply."
-    },
-    {
-        "tag": "receipt_al_masnoo",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 3. Accounting Treatment of Istisna\u2019a by the Islamic Bank As Al-Mustasni\u2019 (A Buyer) > 3/2 Receipt of Al-Masnoo\u2019 > 3/2/1 Receipt of Al-Masnoo\u2019 in conformity with specifications and schedule > a)\n\nThe received (Al-Masnoo\u2019) assets shall be recorded at histo- rical cost (i.e., the book value) of the Istisna\u2019a costs account."
-    },
-    {
-        "tag": "receipt_al_masnoo",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 3. Accounting Treatment of Istisna\u2019a by the Islamic Bank As Al-Mustasni\u2019 (A Buyer) > 3/2 Receipt of Al-Masnoo\u2019 > 3/2/1 Receipt of Al-Masnoo\u2019 in conformity with specifications and schedule > b)\n\nWhen a parallel Istisna\u2019a exists, and Al-Masnoo\u2019 is delivered to the Al-Mustasni\u2019 the balance of the Istisna\u2019a costs account shall be transferred to an asset account that reflects the nature of Al-Masnoo\u2019 received."
-    },
-    {
-        "tag": "late_delivery",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 3. Accounting Treatment of Istisna\u2019a by the Islamic Bank As Al-Mustasni\u2019 (A Buyer) > 3/2 Receipt of Al-Masnoo\u2019 > 3/2/2 Late delivery of Al-Masnoo\u2019\n\nIf the delay in the delivery of Al-Masnoo\u2019 is due to the neg- ligence or fault of Al-Sani\u2019 and the Islamic bank is entitled to compensation for damages resulting from the delay, the amount of compensation shall be taken from performance bonds. If the amount of performance bonds is not sufficient to cover the amount of compensation, the balance shall be recognized as Istisna\u2019a accounts receivable due from Al-Sani\u2019 and, if necessary, an allowance for doubtful debts account shall be formed."
-    },
-    {
-        "tag": "al_masnoo_non_conforming",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 3. Accounting Treatment of Istisna\u2019a by the Islamic Bank As Al-Mustasni\u2019 (A Buyer) > 3/2 Receipt of Al-Masnoo\u2019 > 3/2/3 Al-Masnoo\u2019 not conforming to the specification > a)\n\nIf the Islamic bank declined to receive Al-Masnoo\u2019 due to nonconformity to specifications and did not recover the entire amount of progress payments made to Al-Sani\u2019, the balance shall be recorded as Istisna\u2019a accounts receivable, and if necessary, an allowance for doubtful debt account shall be formed."
-    },
-    {
-        "tag": "al_masnoo_non_conforming",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 3. Accounting Treatment of Istisna\u2019a by the Islamic Bank As Al-Mustasni\u2019 (A Buyer) > 3/2 Receipt of Al-Masnoo\u2019 > 3/2/3 Al-Masnoo\u2019 not conforming to the specification > b)\n\nIf the Islamic bank accepted Al-Masnoo\u2019 which does not conform to specifications, such assets shall be measured at the lower of their cash equivalent value or historical cost (the book value). Any resulting uncompensated loss shall be recognized in the Islamic bank\u2019s income statement for the current financial period."
-    },
-    {
-        "tag": "al_mustasni_refuses",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 3. Accounting Treatment of Istisna\u2019a by the Islamic Bank As Al-Mustasni\u2019 (A Buyer) > 3/2 Receipt of Al-Masnoo\u2019 > 3/2/4 Al-Mustasni\u2019 refuses to receive Al-Masnoo\u2019\n\nIf Al-Mustasni\u2019 (the client) refuses to receive Al-Masnoo\u2019, the Istisna\u2019a assets shall be measured at the lower of their cash equivalent value or historical cost (the book value). Any resulting loss shall be recognized in the Islamic bank\u2019s income statement for the financial period in which the loss is realized."
-    },
-    {
-        "tag": "disclosure",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 4. Disclosure Requirements > 4/1\n\nThe Islamic bank shall disclose the following in its financial statements:"
-    },
-    {
-        "tag": "disclosure",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 4. Disclosure Requirements > a)\n\nRevenues and profits of Istisna\u2019a contracts recognized for the financial period."
-    },
-    {
-        "tag": "disclosure",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 4. Disclosure Requirements > b)\n\nAccounting methods used for measuring revenues and profits of Istisna\u2019a contracts for the financial period."
-    },
-    {
-        "tag": "disclosure",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 4. Disclosure Requirements > c)\n\nCumulative (actual) costs of contracts in progress as well as reve- nues and profits recognized up to the end of the current financial period."
-    },
-    {
-        "tag": "disclosure",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 4. Disclosure Requirements > d)\n\nThe amount of retention on contracts in progress until they are completed according to the specifications and contractual conditions."
-    },
-    {
-        "tag": "disclosure",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 4. Disclosure Requirements > e)\n\nIstisna\u2019a receivable and payable accounts presented in the appropriate side of the statement of financial position of the Islamic bank. These accounts shall not be offset against each other."
-    },
-    {
-        "tag": "disclosure",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 4. Disclosure Requirements > 4/2\n\nThe Islamic bank shall disclose the following in the notes accompa- nying its financial statements:"
-    },
-    {
-        "tag": "disclosure",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 4. Disclosure Requirements > a)\n\nUnsettled additional claims and any contingent fines related to the penalty clauses concerning any delay in delivering Al-Masnoo\u2019."
-    },
-    {
-        "tag": "disclosure",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 4. Disclosure Requirements > b)\n\nThe method used for determining the percentage of completion for contracts in progress."
-    },
-    {
-        "tag": "disclosure",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 4. Disclosure Requirements > c)\n\nThe value of parallel Istisna\u2019a in progress and the time periods they span."
-    },
-    {
-        "tag": "disclosure",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 4. Disclosure Requirements > d)\n\nThe value of Istisna\u2019a contracts that the Islamic bank has signed during the current financial year, but has not yet commenced in executing them, and the time periods they span."
-    },
-    {
-        "tag": "disclosure",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 4. Disclosure Requirements > 4/3\n\nThe disclosure requirements in Financial Accounting Standard No. (1): General Presentation and Disclosure in the Financial State- ments of Islamic Banks and Financial Institutions should be observed."
-    },
-    {
-        "tag": "effective_date",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Statement of the Standard > 5. Effective Date\n\nThis Standard shall be effective for the financial statements for fiscal peri- ods beginning 1 Muharram 1420 A.H. or 1 January 1999 A.D."
-    },
-    {
-        "tag": "standard_adoption",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Adoption of the Standard\n\nThe standard of Istisna\u2019a and Parallel Istisna\u2019a was adopted by the Accounting and Auditing Standards Board in its meeting No. (15) held on 27-28 Safar 1419 A.H, corresponding to 21-22 June 1998 A.D."
-    },
-    {
-        "tag": "application_examples",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (A): Examples of the Application of Some Aspects of the Istisna\u2019a and Parallel Istisna\u2019a Standard\n\nThe purpose of this appendix is to illustrate the application of certain aspects of the standard to Istisna\u2019a and parallel Istisna\u2019a. The appendix does not form part of the standard. Paragraph numbers refer to those in the standard."
-    },
-    {
-        "tag": "basic_data",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Basic data\n\nContract price 500,000 (2-year contract)  Total estimated (and actual) contract costs $400,000 (including pre-contract costs of $15,000)."
-    },
-    {
-        "tag": "accounting_treatment",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Treatments by the Islamic Bank As a Seller (Al-Sani\u2019) > Year 1\n\nDr Cr"
-    },
-    {
-        "tag": "journal_entry",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Treatments by the Islamic Bank As a Seller (Al-Sani\u2019) > 1. Istisna\u2019a work-in-progress\n\n300,000 100,000  Deferred cost 15,000  Cash (accounts payable, etc.) 285,000 100,000"
-    },
-    {
-        "tag": "journal_entry",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Treatments by the Islamic Bank As a Seller (Al-Sani\u2019) > 2. Istisna\u2019a accounts receivable\n\n280,000 220,000 Istisna\u2019a billings 280,000 220,000"
-    },
-    {
-        "tag": "journal_entry",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Treatments by the Islamic Bank As a Seller (Al-Sani\u2019) > 3. Cash\n\n230,000 270,000 Istisna\u2019a accounts receivable 230,000 270,000"
-    },
-    {
-        "tag": "revenue_recognition",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Treatments by the Islamic Bank As a Seller (Al-Sani\u2019) > Revenue recognized\n\n500,000 X 75% = 375,000 125,000"
-    },
-    {
-        "tag": "journal_entry",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Treatments by the Islamic Bank As a Seller (Al-Sani\u2019) > Cost of Istisna\u2019a revenue\n\n300,000 100,000 Istisna\u2019a work-in-progress 75,000 25,000 Istisna\u2019a revenue 375,000 125,000"
-    },
-    {
-        "tag": "income_statement",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Income statement: > Year 1\n\nIstisna\u2019a revenue 375,000 Cost of Istisna\u2019a revenue 300,000 Istisna\u2019a profit 75,000"
-    },
-    {
-        "tag": "balance_sheet",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Balance sheet presentation: > Assets end of year 1 end of year 2 (*)\n\nIstisna\u2019a work-in-progress 375,000 125,000  Less: Istisna\u2019a billings (280,000 280,000) 95,000 (**) \u2014 Istisna\u2019a revenue 50,000 \u2014"
-    },
-    {
-        "tag": "income_statement",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Income statement: > Year 2\n\nIstisna\u2019a revenue 500,000 Cost of Istisna\u2019a revenue 400,000 Istisna\u2019a profit 100,000"
-    },
-    {
-        "tag": "balance_sheet",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Balance sheet presentation: > Assets end of year 1 end of year 2*\n\nIstisna\u2019a work-in-progress 300,000  Less: Istisna\u2019a billings (280,000 280,000) 20,000 \u2014 Istisna\u2019a accounts receivable 50,000 \u2014"
-    },
-    {
-        "tag": "basic_data",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (2): Parallel Istisna\u2019a Exists: (profitable contract) > Basic data:\n\nIstisna\u2019a Contract Parallel Istisna\u2019a  Contract price (2-year contract) 500,000 400,000"
-    },
-    {
-        "tag": "journal_entry",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (2): Parallel Istisna\u2019a Exists: (profitable contract) > Treatments by the Islamic Bank As Both a Seller (Al-Sani\u2019) and a Buyer (Al-Mustasni\u2019) in Parallel Istisna\u2019a > 1. Istisna\u2019a costs\n\n300,000 100,000 Istisna\u2019a accounts payable (x-co.) 300,000 100,000"
-    },
-    {
-        "tag": "journal_entry",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (2): Parallel Istisna\u2019a Exists: (profitable contract) > Treatments by the Islamic Bank As Both a Seller (Al-Sani\u2019) and a Buyer (Al-Mustasni\u2019) in Parallel Istisna\u2019a > 2. Istisna\u2019a accounts receivable (y-co.)\n\n280,000 220,000 Istisna\u2019a billings 280,000 220,000"
-    },
-    {
-        "tag": "journal_entry",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (2): Parallel Istisna\u2019a Exists: (profitable contract) > Treatments by the Islamic Bank As Both a Seller (Al-Sani\u2019) and a Buyer (Al-Mustasni\u2019) in Parallel Istisna\u2019a > 3. Istisna\u2019a accounts payable (x-co.)\n\n290,000 110,000 Cash 290,000 110,000  Cash 230.000 270,000  Istisna\u2019a accounts receivable (y-co.) 230,000 270,000"
-    },
+        "tags": [
+            "preface"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Preface\n\nThis standard aims at setting out accounting rules for recognizing, mea- suring and disclosing the transactions of Istisna\u2019a and parallel Istisna\u2019a that are carried out by Islamic banks and financial institutions. (1) Attached with the standard are details of the juristic bases for the accounting treatments. Istisna\u2019a contract is usually accompanied with a separate parallel contract, whereby an Islamic bank acts in the first contract as a seller (Al-Sani\u2019) of goods (Al-Masnoo\u2019, the subject-matter of the contract) to an ultimate buyer (Al-Mustasni\u2019) while in the parallel Istisna\u2019a contract the Islamic bank acts as a buyer (Al-Mustasni\u2019) of Al-Masnoo\u2019 from another seller (Al-Sani\u2019)."
+    },
+    {
+        "tags": [
+            "scope"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 1. Scope of the Standard\n\nThis standard addresses the accounting rules of Istisna\u2019a and parallel Istisna\u2019a contracts in the financial statements of Islamic banks relating to measuring and recognizing the costs and revenues from Istisna\u2019a and parallel Istisna\u2019a, the gains and losses accruing therefrom, and their presentation and disclosure in the financial statements of the Islamic bank. Should the requirements of this standard contradict the Islamic bank\u2019s charter or the laws and regulations of the country in which it operates and the Islamic bank had to comply with such requirements, a disclosure should be made to the point of conflict."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "istisna_costs",
+            "istisna_costs_components"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/1 Istisna\u2019a costs > 2/1/a) Istisna\u2019a costs consist of:\n\n(I) Direct costs, in particular costs of producing Al-Masnoo\u2019; and (II) Indirect costs relating to the contract as allocated on an objective basis. General and admin- istrative expenses, selling expenses, research and development costs shall not be included in an Istisna\u2019a contract costs."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "istisna_costs",
+            "istisna_costs_recognition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/1 Istisna\u2019a costs > 2/1/b) Istisna\u2019a costs incurred during a financial period\n\nIstisna\u2019a costs incurred during a financial period, as well as pre- contract costs as described in (c) below, shall be recognized in an Istisna\u2019a work-in-progress account, and reported under assets in the statement of financial position of the Islamic bank. (In case of parallel Istisna\u2019a, this account shall be called Istisna\u2019a costs account as stated in 2/2 a). Amounts billed to Al-Mustasni\u2019 will be debited to Istisna\u2019a accounts receivable account and credited to an Istisna\u2019a billings account. The balance of the latter account shall be offset against Istisna\u2019a work-in-progress account in the appropriate side of the Islamic bank\u2019s statement of financial position."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "istisna_costs",
+            "pre_contract_costs"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/1 Istisna\u2019a costs > 2/1/c) Pre-contract costs shall be recognized as deferred costs\n\nPre-contract costs shall be recognized as deferred costs when they are incurred, and accounted for upon contracting by transferring them to the Istisna\u2019a work-in-progress account. If no contract is signed and it is unlikely that it will be signed in the future, then the deferred costs in question shall be written-off to expense during the current financial period."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "parallel_istisna_costs",
+            "parallel_istisna_costs_components"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/2 Contract costs in parallel Istisna\u2019a > 2/2/a) When a parallel Istisna\u2019a exists\n\nWhen a parallel Istisna\u2019a exists, the costs of Istisna\u2019a include the price fixed in the parallel Istisna\u2019a contract (direct costs), together with indirect costs including any pre-contract costs as described in 2/1(c). When the subcontractor bills the Islamic bank for contract costs, these will be debited to Istisna\u2019a costs account and credited to the subcontractor\u2019s Al-Sani\u2019 account under Istisna\u2019a accounts payable. The Istisna\u2019a costs account shall be reported under assets in the statement of financial position of the Islamic bank."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "parallel_istisna_costs",
+            "progress_billings"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/2 Contract costs in parallel Istisna\u2019a > 2/2/b) Progress billings made by the Islamic bank\n\nProgress billings made by the Islamic bank to the ultimate purchaser (Al-Mustasni\u2019) during the period shall be accounted for by debiting an Istisna\u2019a accounts receivable account. The same amount shall also be credited to Istisna\u2019a billings account, the balance of which shall be offset against Istisna\u2019a cost account in the Islamic bank\u2019s financial statements."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "revenue_profit_recognition",
+            "revenue_profit_definition",
+            "percentage_completion_method",
+            "revenue_recognition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/3 Istisna\u2019a revenue and profit at the end of a financial period > 2/3/1 Istisna\u2019a revenue and profit > 2/3/1/1 Percentage of completion method > 2/3/1/1/a) A part of the contract price\n\nA part of the contract price commensurate with the work performed during each period in which the contract is being executed shall be recognized as revenue for that period."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "revenue_profit_recognition",
+            "revenue_profit_definition",
+            "percentage_completion_method",
+            "profit_margin_recognition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/3 Istisna\u2019a revenue and profit at the end of a financial period > 2/3/1 Istisna\u2019a revenue and profit > 2/3/1/1 Percentage of completion method > 2/3/1/1/b) The portion of the Istisna\u2019a profit margin\n\nThe portion of the Istisna\u2019a profit margin recognized during the financial period (Istisna\u2019a profit margin being the difference between the cash price of Al-Masnoo\u2019 to the ultimate purchaser and the Islamic bank\u2019s estimated total Istisna\u2019a costs) shall be added to the Istisna\u2019a work-in-progress account. Thus, at any point in time, the balance of the Istisna\u2019a work- in-progress account will include the amount of profit recognized to date subject to deduction of any anticipated contract losses, as will be indicated in 2/4 (a) below."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "revenue_profit_recognition",
+            "revenue_profit_definition",
+            "completed_contract_method"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/3 Istisna\u2019a revenue and profit at the end of a financial period > 2/3/1 Istisna\u2019a revenue and profit > 2/3/1/2 Completed contract method\n\nIn unusual circumstances where both the percentage of completion and the expected cost to complete the contract cannot be estimated with reasonable accuracy at the end of the financial period, no contract revenue shall be recognized until the contract is fully completed. Thus, until that date, the accumulated contract costs will be carried forward on the Istisna\u2019a work-in-progress account, without any profit element being recognized."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "revenue_profit_recognition",
+            "deferred_profits",
+            "proportionate_allocation"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/3 Istisna\u2019a revenue and profit at the end of a financial period > 2/3/2 Deferred profits > 2/3/2/a) Proportionate allocation of deferred profits\n\nProportionate allocation of deferred profits over the future financial period of credit whereby each financial period shall carry its portion of profits irrespective of whether or not cash is received. This is the preferred method."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "revenue_profit_recognition",
+            "deferred_profits",
+            "instalment_method"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/3 Istisna\u2019a revenue and profit at the end of a financial period > 2/3/2 Deferred profits > 2/3/2/b) As and when each instalment is received.\n\nAs and when each instalment is received. This method shall be used based on a decision by the Shari\u2019a supervisory board of the Islamic bank or if it is required by supervisory authorities."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "revenue_profit_recognition",
+            "early_settlement",
+            "early_payment_waiver"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/3 Istisna\u2019a revenue and profit at the end of a financial period > 2/3/3 Early settlement > 2/3/3/a) If Al-Mustasni\u2019 makes a payment\n\nIf Al-Mustasni\u2019 makes a payment in advance of the due date for such a payment, the Islamic bank may waive part of its profit in recognition of this earlier payment. In that case, the amount of profit waived shall be deducted from both Istisna\u2019a accounts receivable account and deferred profits account."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "revenue_profit_recognition",
+            "early_settlement",
+            "early_payment_reimbursement"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/3 Istisna\u2019a revenue and profit at the end of a financial period > 2/3/3 Early settlement > 2/3/3/b) The same accounting treatment\n\nThe same accounting treatment as in (a) above shall apply if the facts are the same except that the Islamic bank did not grant a partial reduction of the profit when the payment was made, but reimbursed Al-Mustasni\u2019 with this amount after receiving the payments."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "revenue_profit_recognition",
+            "parallel_istisna_revenue_profit",
+            "revenue_profit_recognition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/3 Istisna\u2019a revenue and profit at the end of a financial period > 2/3/4 Parallel Istisna\u2019a revenue and profit > 2/3/4/a) Parallel Istisna\u2019a revenue and profit for each financial period\n\nParallel Istisna\u2019a revenue and profit for each financial pe- riod shall be measured and recognized according to the percentage of completion method, since in parallel Istisna\u2019a both costs and revenues of Istisna\u2019a are known to the Islamic bank with reasonable certainty."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "revenue_profit_recognition",
+            "parallel_istisna_revenue_profit",
+            "profit_recognition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/3 Istisna\u2019a revenue and profit at the end of a financial period > 2/3/4 Parallel Istisna\u2019a revenue and profit > 2/3/4/b) The recognized portion of Istisna\u2019a profits\n\nThe recognized portion of Istisna\u2019a profits for a financial period shall be added to Istisna\u2019a costs account. Thus, at any point in time the balance of the Istisna\u2019a costs account shall be equal to the cumulative cost of the Istisna\u2019a contract (the total amount in progress billings authorised by the Islamic bank) plus the total Istisna\u2019a profits recognized up to that point."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "revenue_profit_recognition",
+            "parallel_istisna_revenue_profit",
+            "payment_terms"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/3 Istisna\u2019a revenue and profit at the end of a financial period > 2/3/4 Parallel Istisna\u2019a revenue and profit > 2/3/4/c) If the contract price or part thereof is to be paid\n\nIf the contract price or part thereof is to be paid following the completion of the contract, the accounting treatments in 2/3/2 and 2/3/3 (a, b) shall apply."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "measurement_losses",
+            "work_in_progress_measurement"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/4 Measurement of Istisna\u2019a work-in-progress, Istisna\u2019a costs and treatment of contract losses at the end of a financial period > 2/4/a) In the event of applying the percentage of completion method\n\nIn the event of applying the percentage of completion method for the recognition of Istisna\u2019a revenue and profit, Istisna\u2019a work- in-progress shall be measured and reported in the statement of financial position of the Islamic bank at a value not exceeding its cash equivalent value (i.e., the difference between the contract price and the expected additional cost to complete the contract)."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "measurement_losses",
+            "loss_recognition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/4 Measurement of Istisna\u2019a work-in-progress, Istisna\u2019a costs and treatment of contract losses at the end of a financial period > 2/4/b) Any expected loss resulting from the valuation of Istisna\u2019a\n\nAny expected loss resulting from the valuation of Istisna\u2019a work- in-progress at the end of a financial period shall be recognized and reported in the Islamic bank\u2019s income statement."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "measurement_losses",
+            "parallel_istisna_treatment"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/4 Measurement of Istisna\u2019a work-in-progress, Istisna\u2019a costs and treatment of contract losses at the end of a financial period > 2/4/c) When a parallel Istisna\u2019a exists\n\nWhen a parallel Istisna\u2019a exists, Istisna\u2019a costs shall be treated as in (a) and (b) above."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "measurement_losses",
+            "subcontractor_failure"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/4 Measurement of Istisna\u2019a work-in-progress, Istisna\u2019a costs and treatment of contract losses at the end of a financial period > 2/4/d) The subcontractor may fail to honour\n\nThe subcontractor may fail to honour his obligation in a parallel Istisna\u2019a resulting in additional cost for the Islamic bank to fulfil its obligation towards Al-Mustasni\u2019 (the client). Any such additional costs shall be recognized as losses in valuing the Istisna\u2019a costs and reported in the Islamic bank\u2019s income statement, except if there is a reasonable degree of certainty that the Islamic bank shall recover these additional costs."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "change_orders_claims",
+            "change_orders_accounting"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/5 Change orders and additional claims > 2/5/a) The value and cost of change orders\n\nThe value and cost of change orders authorized by the Islamic bank and Al-Mustasni\u2019 shall be added to Istisna\u2019a revenue and costs, respectively."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "change_orders_claims",
+            "additional_claims_recognition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/5 Change orders and additional claims > 2/5/b) If requisite conditions for recognizing\n\nIf requisite conditions for recognizing additional claims are met, a related amount of revenue shall be recognized equal to the additional cost caused by such claims."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "change_orders_claims",
+            "claims_disclosure"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/5 Change orders and additional claims > 2/5/c) If one or more requisite conditions\n\nIf one or more requisite conditions for recognizing additional claims are not met, the estimated value of these claims shall be disclosed in the notes accompanying the financial statements of the Islamic bank."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "change_orders_claims",
+            "parallel_istisna_claims"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/5 Change orders and additional claims > 2/5/d) When a parallel Istisna\u2019a exists\n\nWhen a parallel Istisna\u2019a exists, the accounting treatments in (a), (b) and (c) above shall apply for change orders and additional claims. However, the cost of change orders and additional claims are determined by the subcontractor (Al-Sani\u2019) in the parallel contract and subject to the approval of the Islamic bank."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "maintenance_warranty",
+            "accrual_basis"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/6 Maintenance and warranty costs of Al-Masnoo\u2019 > 2/6/a) Maintenance and warranty costs of Al-Masnoo\u2019\n\nMaintenance and warranty costs of Al-Masnoo\u2019 shall be accounted for on an accrual basis. Such costs shall be estimated and then matched with recognized Istisna\u2019a revenue. Actual maintenance and warranty expenditures shall be charged against a maintenance and warranty allowance account when carried out by the Islamic bank."
+    },
+    {
+        "tags": [
+            "accounting_treatment_seller",
+            "maintenance_warranty",
+            "cash_basis"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 2. Accounting Treatment by the Islamic Bank As Al-Sani\u2019 (A Seller) > 2/6 Maintenance and warranty costs of Al-Masnoo\u2019 > 2/6/b) When a parallel Istisna\u2019a exists\n\nWhen a parallel Istisna\u2019a exists, the maintenance and warranty cost of Al-Masnoo\u2019 shall be accounted for on a cash basis, where such costs are charged by the Islamic bank directly to expense accounts when they are incurred."
+    },
+    {
+        "tags": [
+            "accounting_treatment_buyer",
+            "billings_completed_jobs",
+            "billings_accounting"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 3. Accounting Treatment of Istisna\u2019a by the Islamic Bank As Al-Mustasni\u2019 (A Buyer) > 3/1 Istisna\u2019a billings of completed jobs > 3/1/a) The amount of progress billings\n\nThe amount of progress billings received shall be recognized by debiting an Istisna\u2019a costs account and presented under assets in the statement of financial position of the Islamic bank. The corresponding credit shall be made to Istisna\u2019a accounts payable to Al-Sani\u2019."
+    },
+    {
+        "tags": [
+            "accounting_treatment_buyer",
+            "billings_completed_jobs",
+            "parallel_istisna_billings"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 3. Accounting Treatment of Istisna\u2019a by the Islamic Bank As Al-Mustasni\u2019 (A Buyer) > 3/1 Istisna\u2019a billings of completed jobs > 3/1/b) When a parallel Istisna\u2019a exists\n\nWhen a parallel Istisna\u2019a exists, the accounting treatment in (a) above shall apply."
+    },
+    {
+        "tags": [
+            "accounting_treatment_buyer",
+            "receipt_al_masnoo",
+            "conformity_specifications",
+            "asset_recording"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 3. Accounting Treatment of Istisna\u2019a by the Islamic Bank As Al-Mustasni\u2019 (A Buyer) > 3/2 Receipt of Al-Masnoo\u2019 > 3/2/1 Receipt of Al-Masnoo\u2019 in conformity with specifications and schedule > 3/2/1/a) The received (Al-Masnoo\u2019) assets\n\nThe received (Al-Masnoo\u2019) assets shall be recorded at histo- rical cost (i.e., the book value) of the Istisna\u2019a costs account."
+    },
+    {
+        "tags": [
+            "accounting_treatment_buyer",
+            "receipt_al_masnoo",
+            "conformity_specifications",
+            "parallel_istisna_asset_transfer"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 3. Accounting Treatment of Istisna\u2019a by the Islamic Bank As Al-Mustasni\u2019 (A Buyer) > 3/2 Receipt of Al-Masnoo\u2019 > 3/2/1 Receipt of Al-Masnoo\u2019 in conformity with specifications and schedule > 3/2/1/b) When a parallel Istisna\u2019a exists\n\nWhen a parallel Istisna\u2019a exists, and Al-Masnoo\u2019 is delivered to the Al-Mustasni\u2019 the balance of the Istisna\u2019a costs account shall be transferred to an asset account that reflects the nature of Al-Masnoo\u2019 received."
+    },
+    {
+        "tags": [
+            "accounting_treatment_buyer",
+            "receipt_al_masnoo",
+            "late_delivery"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 3. Accounting Treatment of Istisna\u2019a by the Islamic Bank As Al-Mustasni\u2019 (A Buyer) > 3/2 Receipt of Al-Masnoo\u2019 > 3/2/2 Late delivery of Al-Masnoo\u2019\n\nIf the delay in the delivery of Al-Masnoo\u2019 is due to the neg- ligence or fault of Al-Sani\u2019 and the Islamic bank is entitled to compensation for damages resulting from the delay, the amount of compensation shall be taken from performance bonds. If the amount of performance bonds is not sufficient to cover the amount of compensation, the balance shall be recognized as Istisna\u2019a accounts receivable due from Al-Sani\u2019 and, if necessary, an allowance for doubtful debts account shall be formed."
+    },
+    {
+        "tags": [
+            "accounting_treatment_buyer",
+            "receipt_al_masnoo",
+            "non_conforming_specifications",
+            "rejection_accounting"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 3. Accounting Treatment of Istisna\u2019a by the Islamic Bank As Al-Mustasni\u2019 (A Buyer) > 3/2 Receipt of Al-Masnoo\u2019 > 3/2/3 Al-Masnoo\u2019 not conforming to the specification > 3/2/3/a) If the Islamic bank declined to receive\n\nIf the Islamic bank declined to receive Al-Masnoo\u2019 due to nonconformity to specifications and did not recover the entire amount of progress payments made to Al-Sani\u2019, the balance shall be recorded as Istisna\u2019a accounts receivable, and if necessary, an allowance for doubtful debt account shall be formed."
+    },
+    {
+        "tags": [
+            "accounting_treatment_buyer",
+            "receipt_al_masnoo",
+            "non_conforming_specifications",
+            "acceptance_accounting"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 3. Accounting Treatment of Istisna\u2019a by the Islamic Bank As Al-Mustasni\u2019 (A Buyer) > 3/2 Receipt of Al-Masnoo\u2019 > 3/2/3 Al-Masnoo\u2019 not conforming to the specification > 3/2/3/b) If the Islamic bank accepted Al-Masnoo\u2019\n\nIf the Islamic bank accepted Al-Masnoo\u2019 which does not conform to specifications, such assets shall be measured at the lower of their cash equivalent value or historical cost (the book value). Any resulting uncompensated loss shall be recognized in the Islamic bank\u2019s income statement for the current financial period."
+    },
+    {
+        "tags": [
+            "accounting_treatment_buyer",
+            "receipt_al_masnoo",
+            "client_refusal"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 3. Accounting Treatment of Istisna\u2019a by the Islamic Bank As Al-Mustasni\u2019 (A Buyer) > 3/2 Receipt of Al-Masnoo\u2019 > 3/2/4 Al-Mustasni\u2019 refuses to receive Al-Masnoo\u2019\n\nIf Al-Mustasni\u2019 (the client) refuses to receive Al-Masnoo\u2019, the Istisna\u2019a assets shall be measured at the lower of their cash equivalent value or historical cost (the book value). Any resulting loss shall be recognized in the Islamic bank\u2019s income statement for the financial period in which the loss is realized."
+    },
+    {
+        "tags": [
+            "disclosure_requirements",
+            "disclosure_items",
+            "revenue_profit_disclosure"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 4. Disclosure Requirements > 4/1 The Islamic bank shall disclose > 4/1/a) Revenues and profits of Istisna\u2019a contracts\n\nRevenues and profits of Istisna\u2019a contracts recognized for the financial period."
+    },
+    {
+        "tags": [
+            "disclosure_requirements",
+            "disclosure_items",
+            "accounting_methods_disclosure"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 4. Disclosure Requirements > 4/1 The Islamic bank shall disclose > 4/1/b) Accounting methods used\n\nAccounting methods used for measuring revenues and profits of Istisna\u2019a contracts for the financial period."
+    },
+    {
+        "tags": [
+            "disclosure_requirements",
+            "disclosure_items",
+            "cumulative_costs_disclosure"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 4. Disclosure Requirements > 4/1 The Islamic bank shall disclose > 4/1/c) Cumulative (actual) costs of contracts\n\nCumulative (actual) costs of contracts in progress as well as reve- nues and profits recognized up to the end of the current financial period."
+    },
+    {
+        "tags": [
+            "disclosure_requirements",
+            "disclosure_items",
+            "retention_disclosure"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 4. Disclosure Requirements > 4/1 The Islamic bank shall disclose > 4/1/d) The amount of retention\n\nThe amount of retention on contracts in progress until they are completed according to the specifications and contractual conditions."
+    },
+    {
+        "tags": [
+            "disclosure_requirements",
+            "disclosure_items",
+            "receivable_payable_disclosure"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 4. Disclosure Requirements > 4/1 The Islamic bank shall disclose > 4/1/e) Istisna\u2019a receivable and payable accounts\n\nIstisna\u2019a receivable and payable accounts presented in the appropriate side of the statement of financial position of the Islamic bank. These accounts shall not be offset against each other."
+    },
+    {
+        "tags": [
+            "disclosure_requirements",
+            "notes_disclosure",
+            "unsettled_claims_disclosure"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 4. Disclosure Requirements > 4/2 The Islamic bank shall disclose > 4/2/a) Unsettled additional claims\n\nUnsettled additional claims and any contingent fines related to the penalty clauses concerning any delay in delivering Al-Masnoo\u2019."
+    },
+    {
+        "tags": [
+            "disclosure_requirements",
+            "notes_disclosure",
+            "completion_method_disclosure"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 4. Disclosure Requirements > 4/2 The Islamic bank shall disclose > 4/2/b) The method used for determining\n\nThe method used for determining the percentage of completion for contracts in progress."
+    },
+    {
+        "tags": [
+            "disclosure_requirements",
+            "notes_disclosure",
+            "parallel_istisna_value_disclosure"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 4. Disclosure Requirements > 4/2 The Islamic bank shall disclose > 4/2/c) The value of parallel Istisna\u2019a\n\nThe value of parallel Istisna\u2019a in progress and the time periods they span."
+    },
+    {
+        "tags": [
+            "disclosure_requirements",
+            "notes_disclosure",
+            "future_contracts_disclosure"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 4. Disclosure Requirements > 4/2 The Islamic bank shall disclose > 4/2/d) The value of Istisna\u2019a contracts\n\nThe value of Istisna\u2019a contracts that the Islamic bank has signed during the current financial year, but has not yet commenced in executing them, and the time periods they span."
+    },
+    {
+        "tags": [
+            "disclosure_requirements",
+            "general_disclosure_requirements"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 4. Disclosure Requirements > 4/3 The disclosure requirements in Financial Accounting Standard No. (1)\n\nThe disclosure requirements in Financial Accounting Standard No. (1): General Presentation and Disclosure in the Financial State- ments of Islamic Banks and Financial Institutions should be observed."
+    },
+    {
+        "tags": [
+            "effective_date"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > 5. Effective Date\n\nThis Standard shall be effective for the financial statements for fiscal peri- ods beginning 1 Muharram 1420 A.H. or 1 January 1999 A.D."
+    },
     {
-        "tag": "accounting_treatment",
+        "tags": [
+            "adoption"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Adoption of the Standard\n\nThe standard of Istisna\u2019a and Parallel Istisna\u2019a was adopted by the Ac- counting and Auditing Standards Board in its meeting No. (15) held on 27-28 Safar 1419 A.H, corresponding to 21-22 June 1998 A.D."
+    },
+    {
+        "tags": [
+            "appendix"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (A)\n\nExamples of the Application of Some Aspects of the Istisna\u2019a and Parallel Istisna\u2019a Standard\nThe purpose of this appendix is to illustrate the application of certain aspects of the standard to Istisna\u2019a and parallel Istisna\u2019a. The appendix does not form part of the standard. Paragraph numbers refer to those in the standard."
+    },
+    {
+        "tags": [
+            "example",
+            "example_data"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Basic data\n\n\u25a0 \u25a0 Contract price 500,000 (2-year contract) Total estimated (and actual) contract costs $400,000 (including pre- contract costs of $15,000)."
+    },
+    {
+        "tags": [
+            "example",
+            "accounting_treatment",
+            "accounting_treatment"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Treatments by the Islamic Bank As a Seller (Al-Sani\u2019) > 1. Istisna\u2019a work-in-progress\n\n300,000\nDeferred cost 15,000\nCash (accounts payable, etc.) 285,000"
+    },
+    {
+        "tags": [
+            "example",
+            "accounting_treatment",
+            "accounting_treatment"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Treatments by the Islamic Bank As a Seller (Al-Sani\u2019) > 2. Istisna\u2019a accounts receivable\n\n280,000\nIstisna\u2019a billings 280,000"
+    },
+    {
+        "tags": [
+            "example",
+            "accounting_treatment",
+            "accounting_treatment"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Treatments by the Islamic Bank As a Seller (Al-Sani\u2019) > 3. Cash\n\n230,000\nIstisna\u2019a accounts receivable 230,000"
+    },
+    {
+        "tags": [
+            "example",
+            "accounting_treatment",
+            "revenue_recognition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Treatments by the Islamic Bank As a Seller (Al-Sani\u2019) > Revenue recognized\n\n500,000 X 75% = 375,000"
+    },
+    {
+        "tags": [
+            "example",
+            "accounting_treatment",
+            "cost_recognition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Treatments by the Islamic Bank As a Seller (Al-Sani\u2019) > Cost of Istisna\u2019a revenue\n\n300,000"
+    },
+    {
+        "tags": [
+            "example",
+            "financial_statement",
+            "income_statement"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Income statement > Istisna\u2019a revenue\n\n375,000"
+    },
+    {
+        "tags": [
+            "example",
+            "financial_statement",
+            "income_statement"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Income statement > Cost of Istisna\u2019a revenue\n\n300,000"
+    },
+    {
+        "tags": [
+            "example",
+            "financial_statement",
+            "income_statement"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Income statement > Istisna\u2019a profit\n\n75,000"
+    },
+    {
+        "tags": [
+            "example",
+            "financial_statement",
+            "balance_sheet"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Balance sheet presentation > end of year 1\n\n375,000"
+    },
+    {
+        "tags": [
+            "example",
+            "financial_statement",
+            "balance_sheet"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Balance sheet presentation > Less: Istisna\u2019a billings (280,000\n\n280,000) ) 95,000"
+    },
+    {
+        "tags": [
+            "example",
+            "financial_statement",
+            "income_statement"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Income statement > Istisna\u2019a revenue\n\n500,000"
+    },
+    {
+        "tags": [
+            "example",
+            "financial_statement",
+            "income_statement"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Income statement > Cost of Istisna\u2019a revenue\n\n400,000"
+    },
+    {
+        "tags": [
+            "example",
+            "financial_statement",
+            "income_statement"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Income statement > Istisna\u2019a profit\n\n100,000"
+    },
+    {
+        "tags": [
+            "example",
+            "financial_statement",
+            "balance_sheet"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Balance sheet presentation > end of year 1\n\n300,000"
+    },
+    {
+        "tags": [
+            "example",
+            "financial_statement",
+            "balance_sheet"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (1): Parallel Istisna\u2019a Does Not Exist: (profitable contract) > Balance sheet presentation > Less: Istisna\u2019a billings (280,000\n\n280,000) ) 20,000"
+    },
+    {
+        "tags": [
+            "example",
+            "example_data"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (2): Parallel Istisna\u2019a Exists: (profitable contract) > Basic data\n\nIstisna\u2019a Contract \nContract price (2-year contract) 500,000 \nParallel Istisna\u2019a \nContract price (2-year contract) 400,000"
+    },
+    {
+        "tags": [
+            "example",
+            "accounting_treatment",
+            "accounting_treatment"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (2): Parallel Istisna\u2019a Exists: (profitable contract) > Treatments by the Islamic Bank As Both a Seller (Al-Sani\u2019) and a Buyer (Al-Mustasni\u2019) in Parallel Istisna\u2019a > 1. Istisna\u2019a costs\n\n300,000\nIstisna\u2019a accounts payable (x-co.) 300,000"
+    },
+    {
+        "tags": [
+            "example",
+            "accounting_treatment",
+            "accounting_treatment"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (2): Parallel Istisna\u2019a Exists: (profitable contract) > Treatments by the Islamic Bank As Both a Seller (Al-Sani\u2019) and a Buyer (Al-Mustasni\u2019) in Parallel Istisna\u2019a > 2. Istisna\u2019a accounts receivable (y-co.)\n\n280,000\nIstisna\u2019a billings 280,000"
+    },
+    {
+        "tags": [
+            "example",
+            "accounting_treatment",
+            "accounting_treatment"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (2): Parallel Istisna\u2019a Exists: (profitable contract) > Treatments by the Islamic Bank As Both a Seller (Al-Sani\u2019) and a Buyer (Al-Mustasni\u2019) in Parallel Istisna\u2019a > 3. Istisna\u2019a accounts payable (x-co.)\n\n290,000\nCash 290,000"
+    },
+    {
+        "tags": [
+            "example",
+            "accounting_method"
+        ],
         "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (2): Parallel Istisna\u2019a Exists: (profitable contract) > End of period:\n\nOnly percentage-of-completion method is applicable with parallel Istisna\u2019a. (para. 16)"
     },
     {
-        "tag": "income_statement",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (2): Parallel Istisna\u2019a Exists: (profitable contract) > Income statement: > Year 1\n\nIstisna\u2019a revenue 375,000 Cost of Istisna\u2019a revenue 300,000 Istisna\u2019a profit 75,000"
+        "tags": [
+            "example",
+            "financial_statement",
+            "income_statement"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (2): Parallel Istisna\u2019a Exists: (profitable contract) > Income statement > Istisna\u2019a revenue\n\n375,000"
     },
     {
-        "tag": "balance_sheet",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (2): Parallel Istisna\u2019a Exists: (profitable contract) > Balance sheet presentation: > Assets\n\nIstisna\u2019a costs 375,000  Less: Istisna\u2019a billings (280,000 280,000) 95,000 Istisna\u2019a accounts receivable 50,000 \u2014  Liabilities Istisna\u2019a accounts payable 10,000 \u2014"
+        "tags": [
+            "example",
+            "financial_statement",
+            "income_statement"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (2): Parallel Istisna\u2019a Exists: (profitable contract) > Income statement > Cost of Istisna\u2019a revenue\n\n300,000"
     },
     {
-        "tag": "loss_calculation",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (3): Anticipated Losses on Contract > Anticipated loss at end of 1997 = 8,000,000 - (5,700,000 + 2,500,000) =\n\nAnticipated loss at end of 1997 = 8,000,000 - (5,700,000 + 2,500,000) = $200,000."
+        "tags": [
+            "example",
+            "financial_statement",
+            "income_statement"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (2): Parallel Istisna\u2019a Exists: (profitable contract) > Income statement > Istisna\u2019a profit\n\n75,000"
     },
     {
-        "tag": "valuation",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (3): Anticipated Losses on Contract > Valuation of Istisna\u2019a work-in-progress at the end of 1997 = 8,000,000 -\n\nValuation of Istisna\u2019a work-in-progress at the end of 1997 = 8,000,000 - 2,500,000 = $5,500,000 (para.19)."
+        "tags": [
+            "example",
+            "financial_statement",
+            "balance_sheet"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (2): Parallel Istisna\u2019a Exists: (profitable contract) > Balance sheet presentation > end of year 1\n\n375,000"
     },
     {
-        "tag": "accounting_treatment",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (3): Anticipated Losses on Contract > a) If percentage-of-completion method is used\n\nAssume gross profit recognized in 1996 was $600,000."
+        "tags": [
+            "example",
+            "financial_statement",
+            "balance_sheet"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (2): Parallel Istisna\u2019a Exists: (profitable contract) > Balance sheet presentation > Less: Istisna\u2019a billings (280,000\n\n280,000) 95,000"
     },
     {
-        "tag": "loss_recognition",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (3): Anticipated Losses on Contract > Required valuation (para.19) $5,500,000\n\nRequired valuation (para.19) $5,500,000 Loss recognized at end of 1997 (para. 20) $800,000 (*)"
+        "tags": [
+            "example",
+            "accounting_treatment",
+            "journal_entry"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (3): Anticipated Losses on Contract > Adjusting entry at end of 1997 > Loss on Istisna\u2019a contracts\n\n800,000"
     },
     {
-        "tag": "journal_entry",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (3): Anticipated Losses on Contract > Adjusting entry at end of 1997\n\nLoss on Istisna\u2019a contracts 800,000 Istisna\u2019a work-in-progress 800,000"
+        "tags": [
+            "example",
+            "accounting_treatment",
+            "journal_entry"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (3): Anticipated Losses on Contract > Adjusting entry at end of 1997 > Istisna\u2019a work-in-progress\n\n800,000"
     },
     {
-        "tag": "accounting_treatment",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (3): Anticipated Losses on Contract > b) If completed contract method is used:\n\nUnder this method no profit is to be recognized until the contract is completed (para.10). Thus, the balance in the Istisna\u2019a costs account through 1997 immediately before end of year adjustments will be $5,700,000, and the valuation of this account should not exceed $5,500,000 (para.19)."
+        "tags": [
+            "example",
+            "accounting_treatment",
+            "journal_entry"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (3): Anticipated Losses on Contract > Adjusting entry at end of 1997 to recognize anticipated loss on contract (para. 20): > Loss on Istisna\u2019a contracts\n\n200,000"
     },
     {
-        "tag": "journal_entry",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (3): Anticipated Losses on Contract > Adjusting entry at end of 1997 to recognize anticipated loss on contract (para. 20):\n\nLoss on Istisna\u2019a contracts 200,000 Istisna\u2019a work-in-progress 200,000 (Same treatment applies for loss in the case of parallel Istisna\u2019a, except for replacing Istisna\u2019a costs account for Istisna\u2019a work-in-progress account and only percentage-of-completion method is applied)."
+        "tags": [
+            "example",
+            "accounting_treatment",
+            "journal_entry"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Example (3): Anticipated Losses on Contract > Adjusting entry at end of 1997 to recognize anticipated loss on contract (para. 20): > Istisna\u2019a work-in-progress\n\n200,000"
     },
     {
-        "tag": "contract_subject",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Similarities and Differences Between Salam and Istisna\u2019a > Subject matter of the contract\n\nDeferred goods, known by specification."
+        "tags": [
+            "history"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Brief History of the Preparation of the Standard\n\nOn 30 Jumada I, 1416 A.H., corresponding to 24 October 1995 A.D., a letter was sent to the Islamic banks to seek their opinion on the standards to be given priority. After taking into consideration the replies from the Islamic banks, the Accounting and Auditing Standards Board decided in its meeting No. (10) held on 14-16 Ramadan 1416 A.H., corresponding to 3-5 February 1996 A.D., in Jeddah, Kingdom of Saudi Arabia, to give priority to the preparation of a standard on Istisna\u2019a and parallel Istisna\u2019a. On 1 Dhul-Qa\u2019dah 1417 A.H., corresponding to 10 March 1997 A.D., two consultants were commissioned to prepare the preliminary studies on the juristic and accounting aspects of the standard. These studies were dis- cussed in the Accounting Standards Committee meeting No. (11), held on 7 Safar 1418 A.H., corresponding to 12 June 1997 A.D., in Bahrain. The revised juristic and accounting studies as well as an exposure draft of the standard were discussed by the Committee in its meeting No. (12) held during the period of 13-14 Jumada I, 1418 A.H., corresponding to 14-15 September 1997 A.D., in Bahrain. In its meeting No. (13) held during the period of 12-13 Jumada II, 1418 A.H., corresponding to 13-14 October 1997 A.D., in Doha, the Committee reviewed and discussed the revised exposure draft of the standard and necessary amendments were made in light of the discussions that took place and the comments made by the members. The exposure draft was submitted to the Shari\u2019a Committee in its meeting No. (8), held on 13-15 Rajab, 1418 AH., corresponding to 13-15 November, 1997 A.D., in Bahrain, and the amendments which it deemed necessary were made. The amended exposure draft was discussed in the Standards Board meeting No. (14) held on 11-12 Ramadan 1418 A.H., corresponding to 10-11 January 1998 A.D., in Jeddah, Kingdom of Saudi Arabia. The Standards Board made further amendments to the exposure draft and decided that it should be distributed to specialists and interested parties to obtain their comments on the exposure draft in order to discuss them in a listening session. Two listening sessions were held, one in Pakistan on 18 Dhul-Hajjah 1418 A.H., corresponding to 15 April 1998 A.D., and the other in Bahrain on 22 Dhul-Hajjah 1418 A.H., corresponding to 19 April 1998 A.D. The listening session s were attended by more than 230 participants representing central banks, Islamic banks, accounting firms, Shari\u2019a scholars, academics and others who are interested in this field. Members of the Accounting Standards Committee responded in the listening sessions as well as the s as well as the oral comments that were expressed in the sessions of the listening sessions.s. The Accounting Standards Committee held a meeting on 22 Dhul-Hajjah 1418 A.H., corresponding to 19 April 1998 A.D., to discuss the comments made about the exposure draft. The Committee made the necessary amend- ments which it deemed necessary in light of the discussions that took place in the two listening sessions. The revised exposure draft was reviewed and approved by the Shari\u2019a Committee in its meeting No. (8) which was held on 18-19 Muharram 1419 A.H., corresponding to 14-15 May 1998 A.D., after making some changes to the draft. The Accounting and Auditing Standards Board adopted the proposed standard in its meeting No. (15) held on 27-28 Safar 1419 A.H., corresponding to 21-22 June 1998 A.D."
     },
     {
-        "tag": "contract_price",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Similarities and Differences Between Salam and Istisna\u2019a > Price\n\nPaid at time of contracting. It is permissible to: a) Pay it at time of contracting; b) Defer it; or c) Pay it in installments. The means of settlement (in advance, deferred, or installments) constitute the main difference between Salam and Istisna\u2019a."
+        "tags": [
+            "juristic_rules",
+            "characterization"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (C) Juristic Rules for Istisna\u2019a and Parallel Istisna\u2019a > 1. Characterisation of Istisna\u2019a\n\nAccording to the majority of Fuqaha (juristic scholars), Istisna\u2019a is a a special type of Salam contract, which is used mainly in the field of special type of Salam contract, which is used mainly in the field of manufacturing. Hence, according to this viewpoint, Istisna\u2019a is subject to the same provisions and rules as those regulating the contract of Salam. (5) It should, however, be noted that the emergence of Istisna\u2019a as a separate and independent contract is a result of jurisprudential engineering of the Hanafi school as presented in \u201cMajallat Al-Ahkam Al-\u2019Adliyyah\u201d and and the resolution of the Islamic Figh Academy. (6) This study is, therefore, This study is, therefore, based on the provisions of the Istisna\u2019a contract as developed in the Hanafis\u2019 jurisprudence and the subsequent development from within that jurisprudence and from other contemporary jurists."
     },
     {
-        "tag": "contract_nature",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Similarities and Differences Between Salam and Istisna\u2019a > Nature of contract\n\nSalam is originally binding on its parties, However, Istisna\u2019a is considered binding based on the views of some Fuqaha for the sake of Maslaha and for not contravening any Shari\u2019a rule."
+        "tags": [
+            "juristic_rules",
+            "definition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (C) Juristic Rules for Istisna\u2019a and Parallel Istisna\u2019a > 2. Definition\n\nIstisna\u2019a is a sale contract between Al-Mustasni\u2019 (the buyer) and Al-Sani\u2019 (the seller), whereby Al-Sani\u2019 based on an order from Al-Mustasni\u2019 undertakes to have manufactured or otherwise acquired Al-Masnoo\u2019 (the subject matter of the contract) according to the specifications and sell it to Al-Mustasni\u2019 for an agreed upon price and method of settlement whether that be in advance, by instalments or deferred to a specific future time. (8) It is a condition of the Istisna\u2019a contract that Al-Sani\u2019 should provide either the raw material or the labour."
     },
     {
-        "tag": "parallel_contract",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Similarities and Differences Between Salam and Istisna\u2019a > Parallel contract\n\nBoth parallel Salam and parallel Istisna\u2019a are valid provided that: \u25a0 \u25a0 The two contracts are The two contracts are legally separated; \u25a0 \u25a0 The legal relationship The legal relationship between the parties to each contract is sepa- rate; and \u25a0 \u25a0 The rights and obliga- The rights and obliga- tions of each contract are separate."
+        "tags": [
+            "juristic_rules",
+            "legitimacy",
+            "legitimacy"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (C) Juristic Rules for Istisna\u2019a and Parallel Istisna\u2019a > 3. Legitimacy of Istisna\u2019a > 3/1 According to the Hanafis, Istisna\u2019a\u2019 ought to have been prohibited for contravening the general Shari\u2019a rules of Qiyas (analogical deduction).\n\nThey base their argument on the fact that the subject-matter of a contract of sale ought to be in existence and in possession of the seller, which is not the case in Istisna\u2019a. The Hanafis have, nevertheless, approved the Istisna\u2019a contract on the basis of Istihsan (juristic approbation) for the following reasons: a) People have been practicing Istisna\u2019a widely and continuously without condemnation, to the extent of furnishing a case of Ijma\u2019 (Consensus). b) It is possible in Shari\u2019a to depart from Qiyas based on Ijma\u2019. c) The validity of Istisna\u2019a is called for on grounds of need. People are often in need of commodities that are not available in the market, and hence, they would tend to enter into contracts to have the goods manufactured for them. (9)"
     },
     {
-        "tag": "reasons_for_standard",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (D): Reasons for the Standard\n\nIstisna\u2019a and Parallel Istisna\u2019a are important modes of financing used by the Islamic banks. The accounting treatments by the Islamic banks of Istisna\u2019a and parallel Istisna\u2019a give rise to numerous problems due to the multiplicity of alternatives available for the treatment of many issues. Among the issues that are susceptible to significant differences in the accounting treatment are: \u25a0 \u25a0 Measurement and recognition of the costs of Istisna\u2019a and parallel Istisna\u2019a Measurement and recognition of the costs of Istisna\u2019a and parallel Istisna\u2019a contracts. \u25a0 \u25a0 Measurement and recognition of the revenues and profits of Istisna\u2019a Measurement and recognition of the revenues and profits of Istisna\u2019a and parallel Istisna\u2019a contracts. \u25a0 \u25a0 Valuation of Istisna\u2019a assets at the end of a financial period, especially Valuation of Istisna\u2019a assets at the end of a financial period, especially when contract losses are expected. \u25a0 \u25a0 Measurement and treatment of contract maintenance and warranty Measurement and treatment of contract maintenance and warranty costs. \u25a0 \u25a0 Scope and mode of disclosure of accounting information and policies Scope and mode of disclosure of accounting information and policies relating to Istisna\u2019a and parallel Istisna\u2019a transactions in the financial statements of the Islamic bank. Differences in the accounting treatments of such issues and their disclosure in the financial statements of the Islamic bank are expected to have adverse effects on the comparability of accounting information presented in the financial statements of Islamic banks. Thus, the standardisation of accounting treatments of Istisna\u2019a and parallel Istisna\u2019a transactions on bases consistent with Statement of Financial Accounting No. (1): Objectives of Financial Accounting for Islamic Banks and Financial Institutions (Statement of Objectives), and the Statement of Financial Accounting No. (2): Concepts of Financial Accounting for Islamic Banks and Financial Institutions (Statement of Concepts) is necessary in order to provide useful information to users of the financial reports of these banks and for ensuring comparability of such information."
+        "tags": [
+            "juristic_rules",
+            "conditions"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (C) Juristic Rules for Istisna\u2019a and Parallel Istisna\u2019a > 4. Conditions for the Validity of Istisna\u2019a (11)\n\nFor the validity of Istisna\u2019a, the following rules should be fulfilled:"
     },
     {
-        "tag": "basis_for_conclusions",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (E): Basis for Conclusions\n\nThis appendix shows the alternatives taken into consideration when choosing the accounting treatment of Istisna\u2019a and parallel Istisna\u2019a and the justifications of the basis on which the chosen alternative was given preponderance. The Accounting Standards Committee has reviewed in its meetings a number of alternatives, and the alternatives proposed in the preliminary study (21) to be adopted in the accounting treatments of Istisna\u2019a and to be adopted in the accounting treatments of Istisna\u2019a and parallel Istisna\u2019a. The Accounting Standards Committee recommended the adoption of the alternatives which were considered to be in compliance with the previous Statement of Financial Accounting No. (1): Objectives of Financial Accounting for Islamic Banks and Financial Institutions (Statement of Objectives), and the Statement of Financial Accounting No. (2): Concepts of Financial Accounting for Islamic Banks and Financial Institutions (Statement of Concepts)."
+        "tags": [
+            "juristic_rules",
+            "conditions",
+            "conditions"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (C) Juristic Rules for Istisna\u2019a and Parallel Istisna\u2019a > 4/1 Al-Masnoo\u2019 > 4/1/3 Fixing a date for delivering Al-Masnoo\u2019\n\nThere are three opinions in the Hanafis School relating to fixing a date for delivering Al-Masnoo\u2019. a) Imam Abu Hanifa prevented fixing any future date for the delivery of Al-Masnoo\u2019. If a date is fixed, then the contract turns into Salam because this is a characteristic of a binding contract such as Salam, but not Istisna\u2019a which is open for options. b) Abu Yusuf and Muhammad Ibn Al-Hasan Al-Shaybani, the companions of Abu Hanifah, accepted the condition of fixing a specific future delivery date on the ground that people have been practicing Istisna\u2019a in that manner. c) However, Abu Hanifah and his two companions have agreed that in an Istisna\u2019a contract if a delivery date is fixed and it is not in line with what is commonly practised, then the Istisna\u2019a contract turns into a Salam contract. This standard accommodates the opinion of the two com- panions of Abu Hanifah who permit fixing a future delivery date. Therefore, fixing a future delivery date is a necessity. This is in line with both the ruling of the Committee of \u201cMa- jallat Al-Ahkam Al-\u2019Adliyyah\u201d, which stipulates that Istisna\u2019a is a binding contract, and the resolution of the Islamic Fiqh Academy. This is based on for the following: a) Al-Masnoo\u2019 is a product that should either be manufactured or obtained from the market. Therefore, fixing a future de- livery date becomes a necessity in order to remove Gharar (uncertainty). b) The future delivery date depends, on one hand, on the mutual agreement between the two parties involved and on the other hand, on the time required by Al-Sani\u2019 to manufacture Al- Masnoo\u2019 and/or to obtain Al-Masnoo\u2019 from other parties according to the contract. c) In Istisna\u2019a contract, fixing a future delivery date is allowed when the need and necessity arise irrespective to whether or not it is commonly practised by people."
     },
     {
-        "tag": "profit_recognition",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Recognition of Istisna\u2019a Profit > Percentage of completion method\n\nAccording to this method, a portion of Istisna\u2019a profit commensurate with the work completed during a period is recognized at the end of the period as a realized profit. That is, Istisna\u2019a profit is allocated over the periods in which the contract is being executed in proportion to the work completed in each period. A crucial condition for applying this method is that the expected cost of completing the contract is estimated with reasonable accuracy."
+        "tags": [
+            "juristic_rules",
+            "conditions"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (C) Juristic Rules for Istisna\u2019a and Parallel Istisna\u2019a > 4/2 Price\n\nThe price should be governed by the following rules: a) It should be known to the extent of removing ignorance (i.e., lack of knowledge). b) It cannot be increased or decreased on account of the normal increase or decrease in commodity prices or cost of labour. Price may be changed by mutual consent of the contracting parties because of making modification in Al-Masnoo\u2019 or due to unforeseen contingencies."
     },
     {
-        "tag": "profit_recognition",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Recognition of Istisna\u2019a Profit > Completed contract method\n\nAccording to this method, the entire contract costs and revenues of Istisna\u2019a contract are recognized at the end of the financial period during which the contract is completed."
+        "tags": [
+            "juristic_rules",
+            "legal_consequences"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (C) Juristic Rules for Istisna\u2019a and Parallel Istisna\u2019a > 6. Legal Consequences of Istisna\u2019a\n\nAccording to the majority of Hanafi jurists, the legal consequences of Istisna\u2019a are: (I) to transfer reciprocally title of ownership between Al-Mustasni\u2019 and Al-Sani\u2019; and (II) to establish the entitlement of Al- Sani\u2019 to the agreed upon amount of the contract. This is because Istisna\u2019a is a binding contract. (15) This is the view adopted by recent This is the view adopted by recent civil Islamic legislations, and modern transactions, whereby both the transfer of title of ownership is automatic and unconditional and Al-Sani\u2019 is entitled to the agreed upon amount once the contract is constituted. (16)"
     },
     {
-        "tag": "asset_valuation",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Valuation of Istisna\u2019a Assets at the End of a Financial Period > Alternative (a)\n\nHistorical cost of Istisna\u2019a assets is represented by both the book value of the Istisna\u2019a work-in-progress account in an Istisna\u2019a contract or the book value of the Istisna\u2019a costs account in the case of parallel Istisna\u2019a."
+        "tags": [
+            "juristic_rules",
+            "penalty_clause"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (C) Juristic Rules for Istisna\u2019a and Parallel Istisna\u2019a > 8. Penalty Clause\n\nIt is permissible for Al-Mustasni\u2019 to insert a penalty clause in the contract against unfulfillment of obligations by Al-Sani\u2019. (18)"
     },
     {
-        "tag": "asset_valuation",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Valuation of Istisna\u2019a Assets at the End of a Financial Period > Alternative (b)\n\nHistorical cost, as defined in alternative (a) above, provided it does not exceed the cash equivalent value."
+        "tags": [
+            "juristic_rules",
+            "options"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (C) Juristic Rules for Istisna\u2019a and Parallel Istisna\u2019a > 9. Options on Non-Compliance with Specifications\n\nIf Al-Masnoo\u2019 is not in conformity with the specifications, Al-Mustasni\u2019 has the following options: a) Reject Al-Masnoo\u2019, or b) Accept it without seeking damages."
     },
     {
-        "tag": "maintenance_warranty_costs",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Maintenance and Product Warranty Costs of Al-Masnoo\u2019 > Accrual basis\n\nAccording to this basis, maintenance and warranty costs expected to take place for each period are estimated and matched against the Istisna\u2019a revenues recognized for the same period. When incurred, actual maintenance and warranty expenditures are charged against the maintenance and warranty allowance account."
+        "tags": [
+            "juristic_rules",
+            "termination"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (C) Juristic Rules for Istisna\u2019a and Parallel Istisna\u2019a > 10. Termination of Istisna\u2019a Contract\n\nThe contract of Istisna\u2019a may be terminated under the following conditions: a) Normal fulfillment of obligations by both parties. b) Mutual consent of both parties. (15) c) Judicial rescission of the contract. This is if a reasonable cause arises to prevent the execution of the contract or its completion, and each party may sue for its rescission. (19)"
     },
     {
-        "tag": "maintenance_warranty_costs",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Maintenance and Product Warranty Costs of Al-Masnoo\u2019 > Cash basis\n\nAccording to this basis actual maintenance and warranty costs are charged against income for the financial period in which they take place."
+        "tags": [
+            "juristic_rules",
+            "parallel_istisna"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (C) Juristic Rules for Istisna\u2019a and Parallel Istisna\u2019a > 11. Parallel Istisna\u2019a\n\nIf Al-Mustasni\u2019 (the ultimate purchaser) did not stipulate in the contract that Al-Sani\u2019 (the seller) should manufacture the Al-Masnoo\u2019 by himself, then Al-Sani\u2019 may enter into a second Istisna\u2019a contract in order to fulfil his contractual obligations in the first contract. This new contract is known as parallel Istisna\u2019a, which is in essence a subcontract whereby the obligation of Al-Sani\u2019 in the first contract are carried out. Nevertheless,: a) The Islamic bank as Al-Sani\u2019 in the first contract will remain solely responsible for the execution of his obligations as if the parallel contract is nonexistent. Hence, Al-Sani\u2019 in the first contract would remain liable for any default, negligence or breach of contract ensuing from the parallel contract. b) Al-Sani\u2019 in the parallel Istisna\u2019a is accountable to Al-Mustasni\u2019 (the Islamic bank) in the way and manner by which he performs his obligations. He has no direct legal relationship with Al-Mustasni\u2019 in the first contract. The second Istisna\u2019a is a parallel contract, but not a contingent transaction on the first contract. Legally speaking they are different contracts with respect to the rights and obligations. c) The Islamic bank as Al-Sani\u2019 is liable to Al-Mustasni\u2019 with regard to any mal-execution of the subcontractor and any guarantees arising therefrom. It is this very liability that justifies the validity of the parallel Istisna\u2019a and which also justifies the charging of profit by the Islamic bank, if any. (20)"
     },
     {
-        "tag": "definition",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (F): Definitions > Istisna\u2019a\n\nIt is a sale contract between Al-Mustasni\u2019 (the buyer) and Al-Sani\u2019, (the seller) whereby Al-Sani\u2019 - based on an order from Al-Mustasni\u2019- undertakes to have manufactured or otherwise acquire Al-Masnoo\u2019 (the subject matter of the contract) according to the specifications and sell it to Al-Mustasni\u2019 for an agreed upon price and method of settlement whether that be at the time of contracting, by instalments or deferred to a specific future time. It is a condition of the Istisna\u2019a contract that Al-Sani\u2019 should provide either the raw material or the labour."
+        "tags": [
+            "comparison"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Similarities and Differences Between Salam and Istisna\u2019a\n\nSubject\nSalam\nIstisna\u2019a"
     },
     {
-        "tag": "definition",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (F): Definitions > Parallel Istisna\u2019a\n\nIf Al-Mustasni\u2019 (the purchaser) does not stipulate in the contract that Al-Sani\u2019 (the seller) should manufacture Al-Masnoo\u2019 by himself, then Al-Sani\u2019 may enter into a second Istisna\u2019a contract in order to fulfil his contractual obligations in the first contract. The second contract is called Parallel Istisna\u2019a."
+        "tags": [
+            "comparison",
+            "subject_matter"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Similarities and Differences Between Salam and Istisna\u2019a > 1. Subject matter of the contract\n\nAl-Muslam Fihi\nAl-Masnoo'\nDeferred goods, known by specification."
     },
     {
-        "tag": "definition",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (F): Definitions > Istisna\u2019a Work-in-Progress Account\n\nThis is an asset account in which the Istisna\u2019a contract costs are accu- mulated. When the percentage-of-completion method is used, a portion of Istisna\u2019a profit commensurate with the work completed during a financial period is also debited to this account."
+        "tags": [
+            "comparison",
+            "price"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Similarities and Differences Between Salam and Istisna\u2019a > 2. Price\n\nPaid at time of contracting\nIt is permissible to: a) Pay it at time of contracting; b) Defer it; or c) Pay it in instalments. The means of settlement (in advance, deferred, or instalments) constitute the main difference between Salam and Istisna\u2019a."
     },
     {
-        "tag": "definition",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (F): Definitions > Istisna\u2019a Costs Account\n\nThis is an asset account used when a parallel Istisna\u2019a exists. It accumulates progress billings made by the subcontractor. A portion of the Istisna\u2019a profit commensurate with the work completed during a financial period is also debited to this account."
+        "tags": [
+            "comparison",
+            "nature_of_contract"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Similarities and Differences Between Salam and Istisna\u2019a > 3. Nature of contract\n\nBinding\nSalam is originally binding on its parties, However, Istisna\u2019a is considered binding based on the views of some Fuqaha for the sake of Maslaha and for not contravening any Shari\u2019a rule."
     },
     {
-        "tag": "definition",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (F): Definitions > Percentage-of-Completion Method\n\nAn accounting method that recognizes the revenues and profits of Istisna\u2019a contracts as work progresses."
+        "tags": [
+            "comparison",
+            "parallel_contract"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Similarities and Differences Between Salam and Istisna\u2019a > 4. Parallel contract\n\nParallel Salam\nParallel Istisna\u2019a\nBoth parallel Salam and parallel Istisna\u2019a are valid provided that: \u25a0 \u25a0 The two contracts are The two contracts are legally separated; \u25a0 \u25a0 The legal relationship The legal relationship between the parties to each contract is sepa- rate; and \u25a0 \u25a0 The rights and obliga- The rights and obliga- tions of each contract are separate."
     },
     {
-        "tag": "definition",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (F): Definitions > Completed-Contract Method\n\nAn accounting method that recognizes Istisna\u2019a costs and revenues only in the financial period in which the contract is completed."
+        "tags": [
+            "reasons_for_standard"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (D)\n\nReasons for the Standard\nIn their response to AAOIFI\u2019s letter of 30 Jumada I, 1416 A.H., corre- sponding to 24 October 1995 A.D., the Islamic banks gave priority to the preparation of a standard, among others, on Istisna\u2019a and Parallel Istisna\u2019a.\nThis was endorsed by the Accounting and Auditing Standards Board in its meeting No. (9) held on 24-25 Rabi\u2019 II, 1416 A.H., corresponding to19-20 September 1995 A.D., in Bahrain.\nIstisna\u2019a and Parallel Istisna\u2019a are important modes of financing used by the Islamic banks. The accounting treatments by the Islamic banks of Istisna\u2019a and parallel Istisna\u2019a give rise to numerous problems due to the multiplicity of alternatives available for the treatment of many issues."
     },
     {
-        "tag": "definition",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (F): Definitions > Contract Losses\n\nLosses expected to happen when the sum of the costs accumulated in the Istisna\u2019a account or receivable Istisna\u2019a billing accounts and the estimated additional costs for the completion of the contract exceed the price fixed in the Istisna\u2019a contract."
+        "tags": [
+            "accounting_issues"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Issues susceptible to significant differences in the accounting treatment\n\n\u25a0 \u25a0 Measurement and recognition of the costs of Istisna\u2019a and parallel Istisna\u2019a contracts. \u25a0 \u25a0 Measurement and recognition of the revenues and profits of Istisna\u2019a and parallel Istisna\u2019a contracts. \u25a0 \u25a0 Valuation of Istisna\u2019a assets at the end of a financial period, especially when contract losses are expected. \u25a0 \u25a0 Measurement and treatment of contract maintenance and warranty costs. \u25a0 \u25a0 Scope and mode of disclosure of accounting information and policies relating to Istisna\u2019a and parallel Istisna\u2019a transactions in the financial statements of the Islamic bank."
     },
     {
-        "tag": "definition",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (F): Definitions > Change Orders\n\nApproved modifications in the specifications, quantities, design, or other attributes defined in the original Istisna\u2019a contract the implementation of which affects the contract costs."
+        "tags": [
+            "basis_for_conclusions"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (E)\n\nBasis for Conclusions\nThis appendix shows the alternatives taken into consideration when choosing the accounting treatment of Istisna\u2019a and parallel Istisna\u2019a and the justifications of the basis on which the chosen alternative was given preponderance.\nThe Accounting Standards Committee has reviewed in its meetings a number of alternatives, and the alternatives proposed in the preliminary study (21) to be adopted in the accounting treatments of Istisna\u2019a and to be adopted in the accounting treatments of Istisna\u2019a and parallel Istisna\u2019a. The Accounting Standards Committee recommended the adoption of the alternatives which were considered to be in compliance with the previous Statement of Financial Accounting No. (1): Objectives of Financial Accounting for Islamic Banks and Financial Institutions (Statement of Objectives), and the Statement of Financial Accounting No. (2): Concepts of Financial Accounting for Islamic Banks and Financial Institutions (Statement of Concepts)."
     },
     {
-        "tag": "definition",
-        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (F): Definitions > Additional Claims\n\nAmounts in excess of the agreed Istisna\u2019a contract price which are claimed by Al-Sani\u2019 for delays, errors in the specifications and designs or other causes of unanticipated costs caused by Al-Mustasni\u2019. Recognition of these claims by Al-Sani\u2019 requires the satisfaction of the following conditions: a) The existence of a legal basis for the additional claim supported by objective and verifiable evidence. b) Claims must be due to circumstances that were unforeseeable at the contract date and are not the result of the deficiencies, fault or negligence of Al-Sani\u2019. c) Costs associated with the additional claim are identifiable and reliably estimable."
+        "tags": [
+            "profit_recognition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Recognition of Istisna\u2019a Profit\n\nTwo alternative treatments were proposed for the recognition of Istisna\u2019a profit: a) Percentage of completion method. According to this method, a por- tion of Istisna\u2019a profit commensurate with the work completed during a period is recognized at the end of the period as a realized profit. That is, Istisna\u2019a profit is allocated over the periods in which the contract is being executed in proportion to the work completed in each period. A crucial condition for applying this method is that the expected cost of completing the contract is estimated with reasonable accuracy. (21) Abul-Izz, Muhammad Al-Said, \u201cA Study of the Accounting Aspects of Istisna\u2019a and Parallel \u201cA Study of the Accounting Aspects of Istisna\u2019a and Parallel Istisna\u2019a\u201d , Accounting and Auditing Organization for Islamic Financial Institutions, 1418 A.H.-1997 A.D."
+    },
+    {
+        "tags": [
+            "profit_recognition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > a) Completed contract method\n\nAccording to this method, the entire contract costs and revenues of Istisna\u2019a contract are recognized at the end of the financial period during which the contract is completed.\nThe first alternative; i.e., percentage of completion method, was chosen for the recognition of Istisna\u2019a and parallel Istisna\u2019a profit, provided that the contract costs can be estimated with reasonable accuracy. However, if the contract costs cannot be estimated with reasonable accuracy, the completed contract method should be used.\nThe percentage of completion method is preferred because it provides for a better matching of Istisna\u2019a revenues and expenses. Furthermore, it reflects in a more accurate manner the outcome of the earning activities of Al-Sani\u2019 (the Islamic bank) over the entire time period of contract execution, thereby presenting more relevant information to users of the financial statements.\nFurthermore, the percentage of completion method enables investment accountholders to participate in Istisna\u2019a profit as long as they have a contractual relationship with the Islamic bank. However, postponing the recognition of revenue and profits until the contract is completed (i.e., using the completed contract method) denies investment accountholders from their share in Istisna\u2019a profits should they withdraw their funds before the contract is completed. Therefore, the second alternative (the completed contract method) should be applied only in unusual circumstances, i.e., when the first alternative (the percentage of completion method) is not applicable."
+    },
+    {
+        "tags": [
+            "asset_valuation"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Valuation of Istisna\u2019a Assets at the End of a Financial Period\n\nTwo valuation bases were considered for measuring Istisna\u2019a assets at the end of the financial period in the financial statements of Al-Sani\u2019 (Islamic bank): a) Historical cost of Istisna\u2019a assets is represented by both the book value of the Istisna\u2019a work-in-progress account in an Istisna\u2019a contract or the book value of the Istisna\u2019a costs account in the case of parallel Istisna\u2019a. b) Historical cost, as defined in alternative (a) above, provided it does not exceed the cash equivalent value."
+    },
+    {
+        "tags": [
+            "asset_valuation"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Alternative (b) was chosen\n\nbecause it allows timely recognition of any expected losses in the execution of the contract at the end of a financial period. Hence, Istisna\u2019a assets would not be inflated as would happen if these assets were not written down to account for the expected losses. Thus, the chosen alternative provides more relevant information for users of the financial statements."
+    },
+    {
+        "tags": [
+            "maintenance_warranty_costs"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Maintenance and Product Warranty Costs of Al-Masnoo\u2019\n\nThe following two alternatives of accounting for maintenance and warranty costs of Al-Masnoo\u2019 were considered: a) Accrual basis: According to this basis, maintenance and warranty costs expected to take place for each period are estimated and matched against the Istisna\u2019a revenues recognized for the same period. When incurred, actual maintenance and warranty expenditures are charged against the maintenance and warranty allowance account. b) Cash basis: According to this basis actual maintenance and warranty costs are charged against income for the financial period in which they take place. The accrual basis (the first alternative) was chosen for Istisna\u2019a contracts because it provides for a better matching of Istisna\u2019a revenues and expenses. The cash basis (the second alternative), however, was chosen for parallel Istisna\u2019a contracts based on the materiality concept because in a parallel Istisna\u2019a such costs are born by Al-Sani\u2019 (i.e., the subcontractor)."
+    },
+    {
+        "tags": [
+            "definitions"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Appendix (F)\n\nDefinitions"
+    },
+    {
+        "tags": [
+            "definition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Istisna\u2019a\n\nIt is a sale contract between Al-Mustasni\u2019 (the buyer) and Al-Sani\u2019, (the seller) whereby Al-Sani\u2019 - based on an order from Al-Mustasni\u2019- undertakes to have manufactured or otherwise acquire Al-Masnoo\u2019 (the subject matter of the contract) according to the specifications and sell it to Al-Mustasni\u2019 for an agreed upon price and method of settlement whether that be at the time of contracting, by instalments or deferred to a specific future time. It is a condition of the Istisna\u2019a contract that Al-Sani\u2019 should provide either the raw material or the labour."
+    },
+    {
+        "tags": [
+            "definition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Parallel Istisna\u2019a\n\nIf Al-Mustasni\u2019 (the purchaser) does not stipulate in the contract that Al-Sani\u2019 (the seller) should manufacture Al-Masnoo\u2019 by himself, then Al-Sani\u2019 may enter into a second Istisna\u2019a contract in order to fulfil his contractual obligations in the first contract. The second contract is called Parallel Istisna\u2019a."
+    },
+    {
+        "tags": [
+            "definition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Istisna\u2019a Work-in-Progress Account\n\nThis is an asset account in which the Istisna\u2019a contract costs are accu- mulated. When the percentage-of-completion method is used, a portion of Istisna\u2019a profit commensurate with the work completed during a financial period is also debited to this account."
+    },
+    {
+        "tags": [
+            "definition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Istisna\u2019a Costs Account\n\nThis is an asset account used when a parallel Istisna\u2019a exists. It accumulates progress billings made by the subcontractor. A portion of the Istisna\u2019a profit commensurate with the work completed during a financial period is also debited to this account."
+    },
+    {
+        "tags": [
+            "definition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Percentage-of-Completion Method\n\nAn accounting method that recognizes the revenues and profits of Istisna\u2019a contracts as work progresses."
+    },
+    {
+        "tags": [
+            "definition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Completed-Contract Method\n\nAn accounting method that recognizes Istisna\u2019a costs and revenues only in the financial period in which the contract is completed."
+    },
+    {
+        "tags": [
+            "definition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Contract Losses\n\nLosses expected to happen when the sum of the costs accumulated in the Istisna\u2019a account or receivable Istisna\u2019a billing accounts and the estimated additional costs for the completion of the contract exceed the price fixed in the Istisna\u2019a contract."
+    },
+    {
+        "tags": [
+            "definition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Change Orders\n\nApproved modifications in the specifications, quantities, design, or other attributes defined in the original Istisna\u2019a contract the implementation of which affects the contract costs."
+    },
+    {
+        "tags": [
+            "definition"
+        ],
+        "content": "Financial Accounting Standard No. (10): Istisna\u2019a and Parallel Istisna\u2019a > Additional Claims\n\nAmounts in excess of the agreed Istisna\u2019a contract price which are claimed by Al-Sani\u2019 for delays, errors in the specifications and designs or other causes of unanticipated costs caused by Al-Mustasni\u2019. Recognition of these claims by Al-Sani\u2019 requires the satisfaction of the following conditions: a) The existence of a legal basis for the additional claim supported by objective and verifiable evidence. b) Claims must be due to circumstances that were unforeseeable at the contract date and are not the result of the deficiencies, fault or negligence of Al-Sani\u2019. c) Costs associated with the additional claim are identifiable and reliably estimable."
     }
 ]

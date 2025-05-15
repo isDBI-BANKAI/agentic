@@ -1,102 +1,101 @@
 - Financial Accounting Standard No. (7): Salam and Parallel Salam
-  - Preface — `preface`
-  - Statement of the Standard — `standard`
-    - 1. Scope of Standard — `scope`
-    - 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions — `accounting_treatment`
-      - 2/1 Salam financing shall be recognized when the capital of Salam is paid (whether in cash, kind or benefit) to Al-Muslam Ileihi or when it is made available to him. (para. 2) — `accounting_treatment`
-      - 2/2 Parallel Salam transactions shall be recognized when the Islamic bank receives the capital of Salam (in cash, kind or benefit). (para. 3) — `accounting_treatment`
-      - 2/3 At the Time of Contracting — `contracting`
-        - a) Capital is measured by the amount paid. (para. 4) — `measurement`
-        - b) Capital provided in kind or benefit shall be measured at the fair value (the value agreed between the Islamic bank and the client) of the asset or the provided benefit. (para. 5) — `measurement`
-      - 2/4 At the end of a financial period — `financial_period`
-        - a) Capital is measured at the end of a financial period as in item 2/3. However, if it is probable that Al-Muslam Ileihi will not deliver Al- Muslam Fihi in full or in part, or it is probable that the value of Al-Muslam Fihi will decline, the Islamic bank shall make a a provision of the amount of the estimated deficit. (para. 6) provision of the amount of the estimated deficit. (para. 6) — `measurement`
-        - b) Salam financing transactions shall be presented in the Islamic bank’s financial statements under the heading of Salam Financing. (para. 7) — `presentation`
-        - c) Parallel Salam transactions shall be presented in the Islamic bank’s financial statements as a liability under the heading Parallel Salam. (para. 8) — `presentation`
-      - 2/5 Receipt of Al-Muslam Fihi — `receipt`
-        - 2/5/1 Assets constitutive of Al-Muslam Fihi received by the Islamic bank in accordance with the contract are recorded at their historical cost. (para. 9) — `accounting_treatment`
-        - 2/5/2 In the case of receipt of a similar kind of Al-Muslam Fihi, but of a different quality: — `quality`
-          - 2/5/2/1 If the market value (or the fair value if the market value is not available) of the received Al-Muslam Fihi is equal to the value of contracted Al-Muslam Fihi, the received Al-Muslam Fihi shall be measured and recorded at book value. (para. 10) — `measurement`
-          - 2/5/2/2 If the market value (or the fair value if the market value is not available) of the received Al-Muslam Fihi is lower than the book value of the contracted Al-Muslam Fihi, the received Al-Muslam Fihi shall be measured and recorded at market value (or fair value) at the time of delivery and the difference shall be recognized as a loss. (para.11) — `measurement`
-        - 2/5/3 In the case of failure of the Islamic bank to receive Al-Muslam Fihi or part thereof at the due date of delivery: — `delivery_failure`
-          - 2/5/3/1 In case of complete or partial failure, if the delivery date is extended, the book value of Al-Muslam Fihi shall remain as it is. (para. 12) — `failure`
-          - 2/5/3/2 If the Salam financing contract is completely or partially cancelled and the client does not repay the capital of Salam, the amount shall be recognized as a receivable due from the client. (para. 13) — `failure`
-        - 2/5/4 Failure of the Islamic bank to receive Al-Muslam Fihi due to due to client’s misconduct or negligence: — `client_misconduct`
-          - 2/5/4/1 Complete or partial failure a) If the Salam financing contract is completely or partially cancelled and the client has failed to repay the capital of Salam or the required portion thereof, the amount due shall be recognized as a receivable due from the client. (para. 14) b) In case the Islamic bank has securities pledged against Al-Muslam Fihi and the proceeds from the and the proceeds from the sale of the securities are less than its book value, the difference is recognized as a receivable due from the client. Alternatively, if the proceeds are more than the book value then the difference is credited to the client. (para. 15) c) The client shall be debited with any additional amounts which are established in favour of the Islamic bank. (para. 16) — `client_failure`
-      - 2/6 Substitution of another kind of goods for Al-Muslam Fihi — `substitution`
-      - 2/7 Measurement of the value of Al-Muslam Fihi at the end of a financial at the end of a financial period after it is received — `measurement`
-      - 2/8 Recognition of the result of delivering of Al-Muslam Fihi in a parallel in a parallel Salam transaction — `recognition`
-    - 3. Disclosure Requirements — `disclosure`
-    - 4. Effective Date — `effective_date`
-  - Appendix (a): Brief History of the Preparation of the Standard — `appendix`
-  - Appendix (b): Juristic rules of Salam and parallel Salam — `appendix`
-  - Appendix (c): Reasons for the standard — `appendix`
-  - Appendix (d): Basis for Conclusions — `appendix`
-  - Appendix (e): Definitions — `appendix`
-  - Adoption of the Standard — `standard_adoption`
-  - Appendix (A) Brief History of the Preparation of the Standard — `standard_preparation_history`
-  - The amended exposure draft was discussed in the Standards Board meeting — `standard_preparation_history`
-  - Juristic Rules of Salam and Parallel Salam — `Shariah Standard`
-    - 1. Definition — `Definition`
-    - 2. Legitimacy — `Legitimacy`
-      - 2/1 Qur`an and Sunnah. — `Source of Legitimacy`
-      - 2/2 Ijma’ (consensus). — `Source of Legitimacy`
-      - 2/3 On the wisdom of its legitimacy — `Wisdom of Legitimacy`
-    - 3. Capital of Salam — `Salam Capital`
-      - 3/1 The capital should be known. — `Conditions`
-      - 3/2 Receipt of Salam payment — `Payment`
-        - 3/2/1 The majority of Fuqaha specify that the receipt of the Salam payment should be at the place where the contract is established. — `Payment Location`
-        - 3/2/2 The Malikis have permitted a short delay in making the Salam payment. — `Payment Delay`
-    - 4. Al-Muslam Fihi — `Al-Muslam Fihi`
-      - 4/1 It should be subject to specification and can be recognized as a debt. — `Conditions`
-      - 4/2 It should be subject to identification so as to negate lack of knowledge of its kind (e.g., wheat or cotton), type (e.g., Syrian wheat), and quality of a type (e.g., superior, medium or inferior Syrian wheat). It should also be known as to amount. — `Conditions`
-      - 4/3 Deferring the delivery of Al-Muslam Fihi — `Delivery`
-        - 4/3/1 The majority of Fuqaha make it a condition that the delivery of Al-Muslam Fihi should be deferred to a future date. This is should be deferred to a future date. This is also the view adopted in this standard. — `Delivery Date`
-        - 4/3/2 The Shafis have permitted prompt delivery of Salam. — `Delivery Date`
-      - 4/4 Permissibility of specifying the future date of delivering Al-Muslam Fihi. — `Delivery Date Specificity`
-      - 4/5 The future date of delivery should be fixed to match the time when Al-Muslam Fihi would most likely be commonly available in order to prevent Gharar (uncertainty) and to enable Al-Muslam Ileihi to discharge his obligation. The Hanafis stipulate that the future availability of Al-Muslam Fihi should be known at the date of contracting to the date of delivery. However, the opinion of the majority of Fuqaha is the one adopted in this standard. — `Delivery Date`
-      - 4/6 Specification of Al-Muslam Fihi is accepted based on the description of Al-Muslam Ileihi. Delivery of Al-Muslam Fihi should not be confined to being made from a specific source. This is intended as an extra precaution against Gharar as well as to provide a means for Al-Muslam Ileihi to fulfil the obligation. Therefore, it is not considered permissible to limit the delivery of Al-Muslam Fihi to a source such as Al-Muslam Ileihi’s farm or the farm of someone else or the production of a specific country. — `Delivery Source`
-      - 4/7 Delivery place of Al-Muslam Fihi. — `Delivery Place`
-        - 4/7/1 Parties to the contract should designate the place in which Al-Muslam Fihi is to be delivered. — `Delivery Place`
-        - 4/7/2 If both parties to the contract did not determine the delivery place, then it should be determined according to custom. — `Delivery Place`
-      - 4/8 Sale of Al-Muslam Fihi before receiving it — `Sale Before Receipt`
-        - 4/8/1 This is not considered permissible by the majority of Fuqaha because of the rule that prevents the sale of food, as well as all movable items, before it is received. This is because it is not considered permissible to earn a profit without entering into an obligation to deliver. — `Permissibility`
-        - 4/8/2 The Malikis agreed with the majority of Fuqaha on the prohi- bition of selling Al-Muslam Fihi before it is received but only before it is received but only if if Al-Muslam Fihi is food, otherwise for them it is permitted is food, otherwise for them it is permitted providing the following conditions are satisfied: — `Permissibility`
-        - 4/8/2/1 In the case of a sale back to Al-Muslam Ileihi, this is considered permissible either at the contract price or lower. — `Sale Back to Al-Muslam Ileihi`
-        - 4/8/2/2 In the case of a sale to a third party (not Al-Muslam Ileihi), it is considered permissible to sell Al-Muslam Fihi at the contract price (which is required if the quality is similar to that specified in the contract) or at a higher or lower price (if the quality is different from that specified in the contract). — `Sale to Third Party`
-      - 4/9 Replacement of Al-Muslam Fihi by substituting another kind of goods: — `Substitution`
-        - 4/9/1 The majority of Fuqaha have prohibited the replacement of Al-Muslam Fihi before it is received except by substituting another kind of similar goods. This is because substitution is considered as a form of sale and according to their juris- prudence an individual cannot sell what he does not own. However, it is considered permissible to replace Al-Muslam Fihi by substituting similar goods that are of the same, low- er or better quality as this is not considered as a sale, but as a form of satisfactory fulfilment and out of necessity. — `Permissibility`
-        - 4/9/2 The Malikis have agreed with the majority of Fuqaha on the prohibition of replacing Al-Muslam Fihi if it is food; however, they have made the replacement of Al-Muslam Fihi by a substitution permissible if it is not food, based on the views of their school of Fiqh (jurisprudence) which permits the sale of goods before they are received. — `Permissibility`
-        - 4/9/2/1 If the substitution is made with Al-Muslam Ileihi, then it would be considered permissible on condition that: The substitute is similar to Al-Muslam Fihi or of a lower quality, in order to negate suspicion of Riba. Al-Muslam should take delivery of the substitute in order that it should not lead to the exchange of debt against debt. The relation between the substitute and the price should be free of Riba. — `Conditions`
-        - 4/9/3 Some contemporary Fuqaha are of the view that substitution is considered permissible whether or not Al-Muslam Fihi is food subject to the following two conditions: — `Contemporary View`
-        - 4/9/3/1 With regard to kind, suitability of the substitute to be considered as Al-Muslam Fihi as specified in the Salam contract. — `Conditions`
-        - 4/9/3/2 With regard to quantity, the substitute should not be more than Al-Muslam Fihi so that the purchaser does so that the purchaser does not obtain additional benefit. — `Conditions`
-    - 5. Parallel Salam — `Parallel Salam`
-      - 5/1 The Shari’a supervisory board of Al Rajhi Banking and Investment Corporation issued a Fatwa permitting the practice of parallel Salam on condition that the execution of the second Salam contract is not made dependent on the execution of the first one. — `Fatwa`
-      - 5/2 Some contemporary Fuqaha have prohibited parallel Salam, particu- larly if it is for the purpose of trading and such a transaction becomes recurrent, as this may be suspected as involving Riba. — `Prohibition`
-    - 6. General Rules — `General Rules`
-      - 6/1 Nullification or cancellation of the contract — `Contract Cancellation`
-      - 6/2 Delivery of Al-Muslam Fihi before or on its due date — `Delivery`
-        - 6/2/1 Al-Muslam Ileihi should deliver Al-Muslam Fihi on its due date and according to the agreed quality and quantity, and Al-Muslam should accept it. — `Delivery Date`
-        - 6/2/2 If Al-Muslam Ileihi delivers a superior quality of Al-Muslam Fihi, then Al-Muslam should accept it on condition that Al-Muslam Ileihi does not ask for a higher price in return for the extra quality because this is considered as a form of satisfactory fulfilment. — `Delivery Quality`
-        - 6/2/3 If Al-Muslam Ileihi delivers an inferior quality of Al-Muslam Fihi , then Al-Muslam has the option to accept Al-Muslam Fihi on condition that he does not ask for a lower price in return for the inferior quality because he has accepted it as satisfactory fulfilment. — `Delivery Quality`
-        - 6/2/4 Fuqaha have differed on whether or not it is considered per- missible for Al-Muslam Ileihi to deliver a different type of Al-Muslam Fihi than the one agreed upon. — `Delivery Type`
-        - 6/2/5 It is considered permissible to deliver Al-Muslam Fihi before its due date on condition that the following are satisfied: — `Early Delivery`
-          - 6/2/5/1 Al-Muslam Fihi should be of the agreed upon quality and quantity. — `Conditions`
-          - 6/2/5/2 Al-Muslam Fihi should be neither of superior quality nor in greater quantity. — `Conditions`
-          - 6/2/5/3 Al-Muslam Fihi should be neither of an inferior quality nor in lesser quantity because this would be similar to “pay less, but ahead of due date” which is prohibited by Shari’a (form of Riba). — `Conditions`
-    - 7. In Case All or Part of Al-Muslam Fihi Is Not Available on Its Due Date, Al-Muslam Shall Have the Following Options: — `Non-Availability`
-      - 7/1 Cancel the contract and have his repayment refunded; or — `Options`
-      - 7/2 Wait until Al-Muslam Fihi is available. — `Options`
-    - 8. It Is Considered Permissible by the Majority of Fuqaha to Transfer or Pledge Al-Muslam Fihi or Use It As A Guarantee Because This Is Generally Considered Permissible in the Case of Debts. This Is the View Adopted in This Standard. — `Transfer/Pledge`
-  - Appendix (C): Reasons for the Standard — `reasons_for_standard`
-  - Appendix (D): Basis for Conclusions — `basis_for_conclusions`
-  - Historical cost has been chosen to measure the capital of Salam financing and parallel Salam transactions at the end of a financial period because of the reliability of the information provided by this attribute. — `accounting_treatment`
-  - To provide understandable and comprehensible information, which are qualitative characteristics that accounting information should have , the standard requires that the consideration paid as capital for Salam financing transactions should be presented in the financial statements under the heading Salam Financing. — `accounting_treatment`
-  - book value. However, if the market value (or the fair value if the market value is not available) of the received Al-Muslam Fihi is lower than the book value of contracted Al-Muslam Fihi, the received Al-Muslam Fihi is measured and recorded at market value (or the fair value if the market value is not available) at the time of delivery and the difference is recognized as a loss. — `accounting_treatment`
-  - Appendix (E): Definitions — `definitions`
-    - Salam — `definition`
-    - Al-Muslam Fihi — `definition`
-    - Al-Muslam Ileihi — `definition`
-    - Al-Muslam — `definition`
-    - Ra`s Al-Mal — `definition`
-    - Parallel Salam — `definition`
+  - Preface — [preface]
+  - Statement of the Standard — [statement]
+    - 1. Scope of Standard — [scope]
+    - 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions — [accounting_treatments]
+      - 2/1 Salam financing shall be recognized when the capital of Salam is paid (whether in cash, kind or benefit) to Al-Muslam Ileihi or when it is made available to him. (para. 2) — [accounting_treatment]
+      - 2/2 Parallel Salam transactions shall be recognized when the Islamic bank receives the capital of Salam (in cash, kind or benefit). (para. 3) — [accounting_treatment]
+      - 2/3 At the Time of Contracting — [contracting]
+        - a) Capital is measured by the amount paid. (para. 4) — [measurement]
+        - b) Capital provided in kind or benefit shall be measured at the fair value (the value agreed between the Islamic bank and the client) of the asset or the provided benefit. (para. 5) — [measurement]
+      - 2/4 At the end of a financial period — [financial_period]
+        - a) Capital is measured at the end of a financial period as in item 2/3. However, if it is probable that Al-Muslam Ileihi will not deliver Al- — [measurement]
+        - b) Salam financing transactions shall be presented in the Islamic bank’s financial statements under the heading of Salam Financing. (para. 7) — [presentation]
+        - c) Parallel Salam transactions shall be presented in the Islamic bank’s financial statements as a liability under the heading Parallel Salam. (para. 8) — [presentation]
+      - 2/5 Receipt of Al-Muslam Fihi — [receipt_of_al-muslam_fihi]
+        - 2/5/1 Assets constitutive of Al-Muslam Fihi received by the Islamic bank in accordance with the contract are recorded at their historical cost. (para. 9) — [recording]
+        - 2/5/2 In the case of receipt of a similar kind of Al-Muslam Fihi, but of a different quality: — [different_quality]
+          - 2/5/2/1 If the market value (or the fair value if the market value is not available) of the received Al-Muslam Fihi is equal to the value of contracted Al-Muslam Fihi, the received Al-Muslam Fihi shall be measured and recorded at book value. (para. 10) — [measurement]
+          - 2/5/2/2 If the market value (or the fair value if the market value is not available) of the received Al-Muslam Fihi is lower than the book value of the contracted Al-Muslam Fihi, the received Al-Muslam Fihi shall be measured and recorded at market value (or fair value) at the time of delivery and the difference shall be recognized as a loss. (para.11) — [measurement]
+        - 2/5/3 In the case of failure of the Islamic bank to receive Al-Muslam Fihi or part thereof at the due date of delivery: — [failure_to_receive]
+          - 2/5/3/1 In case of complete or partial failure, if the delivery date is extended, the book value of Al-Muslam Fihi shall remain as it is. (para. 12) — [failure]
+          - 2/5/3/2 If the Salam financing contract is completely or partially cancelled and the client does not repay the capital of Salam, the amount shall be recognized as a receivable due from the client. (para. 13) — [failure]
+        - 2/5/4 Failure of the Islamic bank to receive Al-Muslam Fihi due to due to client’s misconduct or negligence: — [client_misconduct]
+          - 2/5/4/1 Complete or partial failure a) If the Salam financing contract is completely or partially cancelled and the client has failed to repay the capital of Salam or the required portion thereof, the amount due shall be recognized as a receivable due from the client. (para. 14) — [failure]
+          - b) In case the Islamic bank has securities pledged against Al-Muslam Fihi and the proceeds from the and the proceeds from the sale of the securities are less than its book value, the difference is recognized as a receivable due from the client. Alternatively, if the proceeds are more than the book value then the difference is credited to the client. (para. 15) — [failure]
+          - c) The client shall be debited with any additional amounts which are established in favour of the Islamic bank. (para. 16) — [failure]
+      - 2/6 Substitution of another kind of goods for Al-Muslam Fihi — [substitution]
+      - 2/7 Measurement of the value of Al-Muslam Fihi at the end of a financial at the end of a financial period after it is received — [measurement]
+      - 2/8 Recognition of the result of delivering of Al-Muslam Fihi in a parallel in a parallel Salam transaction — [recognition]
+    - 3. Disclosure Requirements — [disclosure]
+    - 4. Effective Date — [effective_date]
+  - Adoption of the Standard — [adoption]
+  - 1. Definition — [definition]
+  - 2. Legitimacy — [legitimacy]
+  - 2/1 Qur`an and Sunnah. — [source]
+  - 2/2 Ijma’ (consensus). — [source]
+  - 2/3 On the wisdom of its legitimacy, Ibn Qudamah said :“Because people had a need for (Salam) and because farmers, market gardeners and tradesmen needed money for their living expenses and to spend on their businesses to bring them to fruition, and so faced financial need, Salam was made permissible so that they could benefit from it as well as Al-Muslam having the benefit of its permissibility. — [wisdom]
+  - 3. Capital of Salam — [capital_of_salam]
+  - 3/1 The capital should be known. — [conditions]
+  - 3/2 Receipt of Salam payment — [conditions]
+  - 3/2/1 The majority of Fuqaha specify that the receipt of the Salam payment should be at the place where the contract is established. — [payment_receipt]
+  - 3/2/2 The Malikis have permitted a short delay in making the Salam payment. — [payment_receipt]
+  - 4. Al-Muslam Fihi — [al_muslam_fihi]
+  - 4/1 It should be subject to specification and can be recognized as a debt. — [conditions]
+  - 4/2 It should be subject to identification so as to negate lack of knowledge of its kind (e.g., wheat or cotton), type (e.g., Syrian wheat), and quality of a type (e.g., superior, medium or inferior Syrian wheat). It should also be known as to amount. — [conditions]
+  - 4/3 Deferring the delivery of Al-Muslam Fihi — [delivery_conditions]
+  - 4/3/1 The majority of Fuqaha make it a condition that the delivery of Al-Muslam Fihi should be deferred to a future date. This is should be deferred to a future date. This is also the view adopted in this standard. — [delivery_conditions]
+  - 4/3/2 The Shafis have permitted prompt delivery of Salam. — [delivery_conditions]
+  - 4/4 Permissibility of specifying the future date of delivering Al-Muslam Fihi. — [delivery_conditions]
+  - 4/5 The future date of delivery should be fixed to match the time when Al-Muslam Fihi would most likely be commonly available in order to prevent Gharar (uncertainty) and to enable Al-Muslam Ileihi to discharge his obligation. The Hanafis stipulate that the future availability of Al-Muslam Fihi should be known at the date of contracting to the date of delivery. However, the opinion of the majority of Fuqaha is the one adopted in this standard. — [delivery_conditions]
+  - 4/6 Specification of Al-Muslam Fihi is accepted based on the description of Al-Muslam Ileihi. Delivery of Al-Muslam Fihi should not be confined to being made from a specific source. This is intended as an extra precaution against Gharar as well as to provide a means for Al-Muslam Ileihi to fulfil the obligation. Therefore, it is not considered permissible to limit the delivery of Al-Muslam Fihi to a source such as Al-Muslam Ileihi’s farm or the farm of someone else or the production of a specific country. — [delivery_conditions]
+  - 4/7 Delivery place of Al-Muslam Fihi. — [delivery_place]
+  - 4/7/1 Parties to the contract should designate the place in which Al-Muslam Fihi is to be delivered. — [delivery_place]
+  - 4/7/2 If both parties to the contract did not determine the delivery place, then it should be determined according to custom. — [delivery_place]
+  - 4/8 Sale of Al-Muslam Fihi before receiving it — [sale_before_receipt]
+  - 4/8/1 This is not considered permissible by the majority of Fuqaha because of the rule that prevents the sale of food, as well as all movable items, before it is received. This is because it is not considered permissible to earn a profit without entering into an obligation to deliver. — [sale_before_receipt]
+  - 4/8/2 The Malikis agreed with the majority of Fuqaha on the prohi- bition of selling Al-Muslam Fihi before it is received but only before it is received but only if if Al-Muslam Fihi is food, otherwise for them it is permitted is food, otherwise for them it is permitted providing the following conditions are satisfied: — [sale_before_receipt]
+  - 4/8/2/1 In the case of a sale back to Al-Muslam Ileihi, this is considered permissible either at the contract price or lower. — [sale_before_receipt]
+  - 4/8/2/2 In the case of a sale to a third party (not Al-Muslam Ileihi), it is considered permissible to sell Al-Muslam Fihi at the contract price (which is required if the quality is similar to that specified in the contract) or at a higher or lower price (if the quality is different from that specified in the contract). — [sale_before_receipt]
+  - 4/9 Replacement of Al-Muslam Fihi by substituting another kind of goods: — [replacement]
+  - 4/9/1 The majority of Fuqaha have prohibited the replacement of Al-Muslam Fihi before it is received except by substituting another kind of similar goods. This is because substitution is considered as a form of sale and according to their juris- prudence an individual cannot sell what he does not own. However, it is considered permissible to replace Al-Muslam Fihi by substituting similar goods that are of the same, low- er or better quality as this is not considered as a sale, but as a form of satisfactory fulfilment and out of necessity. — [replacement]
+  - 4/9/2 The Malikis have agreed with the majority of Fuqaha on the prohibition of replacing Al-Muslam Fihi if it is food; however, they have made the replacement of Al-Muslam Fihi by a substitution permissible if it is not food, based on the views of their school of Fiqh (jurisprudence) which permits the sale of goods before they are received. — [replacement]
+  - 4/9/2/1 If the substitution is made with Al-Muslam Ileihi, then it would be considered permissible on condition that: The substitute is similar to Al-Muslam Fihi or of a lower quality, in order to negate suspicion of Riba. Al-Muslam should take delivery of the substitute in order that it should not lead to the exchange of debt against debt. The relation between the substitute and the price should be free of Riba. — [replacement]
+  - 4/9/3 Some contemporary Fuqaha are of the view that substitution is considered permissible whether or not Al-Muslam Fihi is food subject to the following two conditions: — [replacement]
+  - 4/9/3/1 With regard to kind, suitability of the substitute to be considered as Al-Muslam Fihi as specified in the Salam contract. — [replacement]
+  - 4/9/3/2 With regard to quantity, the substitute should not be more than Al-Muslam Fihi so that the purchaser does so that the purchaser does not obtain additional benefit. — [replacement]
+  - 5. Parallel Salam — [parallel_salam]
+  - 5/1 The Shari’a supervisory board of Al Rajhi Banking and Investment Corporation issued a Fatwa permitting the practice of parallel Salam on condition that the execution of the second Salam contract is not made dependent on the execution of the first one. — [parallel_salam]
+  - 5/2 Some contemporary Fuqaha have prohibited parallel Salam, particu- larly if it is for the purpose of trading and such a transaction becomes recurrent, as this may be suspected as involving Riba. — [parallel_salam]
+  - 6. General Rules — [general_rules]
+  - 6/1 Nullification or cancellation of the contract — [general_rules]
+  - 6/2 Delivery of Al-Muslam Fihi before or on its due date — [delivery_date]
+  - 6/2/1 Al-Muslam Ileihi should deliver Al-Muslam Fihi on its due date and according to the agreed quality and quantity, and Al-Muslam should accept it. — [delivery_date]
+  - 6/2/2 If Al-Muslam Ileihi delivers a superior quality of Al-Muslam Fihi, then Al-Muslam should accept it on condition that Al-Muslam Ileihi does not ask for a higher price in return for the extra quality because this is considered as a form of satisfactory fulfilment. — [delivery_date]
+  - 6/2/3 If Al-Muslam Ileihi delivers an inferior quality of Al-Muslam Fihi , then Al-Muslam has the option to accept Al-Muslam Fihi on condition that he does not ask for a lower price in return for the inferior quality because he has accepted it as satisfactory fulfilment. — [delivery_date]
+  - 6/2/4 Fuqaha have differed on whether or not it is considered per- missible for Al-Muslam Ileihi to deliver a different type of Al-Muslam Fihi than the one agreed upon. — [delivery_date]
+  - 6/2/5 It is considered permissible to deliver Al-Muslam Fihi before its due date on condition that the following are satisfied: — [delivery_date]
+  - 6/2/5/1 Al-Muslam Fihi should be of the agreed upon quality and quantity. — [delivery_date]
+  - 6/2/5/2 Al-Muslam Fihi should be neither of superior quality nor in greater quantity. — [delivery_date]
+  - 6/2/5/3 Al-Muslam Fihi should be neither of an inferior quality nor in lesser quantity because this would be similar to “pay less, but ahead of due date” which is prohibited by Shari’a (form of Riba). — [delivery_date]
+  - 7. In Case All or Part of Al-Muslam Fihi Is Not Available on Its Due Date, Al-Muslam Shall Have the Following Options: — [options]
+  - 7/1 Cancel the contract and have his repayment refunded; or — [options]
+  - 7/2 Wait until Al-Muslam Fihi is available. — [options]
+  - 8. It Is Considered Permissible by the Majority of Fuqaha to Transfer or Pledge Al-Muslam Fihi or Use It As A Guarantee Because This Is Generally Considered Permissible in the Case of Debts. This Is the View Adopted in This Standard. — [transfer_pledge]
+  - Reasons for the Standard — [reasons]
+  - Basis for Conclusions — [basis_for_conclusions]
+  - 2/1 Historical cost and measurement — [measurement]
+  - 2/2 Provision for Deficit — [provision]
+  - 2/3 Presentation in Financial Statements — [presentation]
+  - 2/4 Measurement of Al-Muslam Fihi — [measurement]
+  - 2/5 Measurement of Al-Muslam Fihi - Different Quality — [measurement]
+  - 2/6 Recognition of Loss — [loss_recognition]
+  - 2/7 Failure to Deliver Al-Muslam Fihi — [failure_to_deliver]
+  - 2/8 Measurement at Period End — [measurement]
+  - Definitions — [definitions]
+    - Salam — [definition]
+    - Al-Muslam Fihi — [definition]
+    - Al-Muslam Ileihi — [definition]
+    - Al-Muslam — [definition]
+    - Ra`s Al-Mal — [definition]
+    - Parallel Salam — [definition]

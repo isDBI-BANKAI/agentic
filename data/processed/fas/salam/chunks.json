@@ -1,118 +1,409 @@
 [
     {
-        "tag": "preface",
+        "tags": [
+            "preface"
+        ],
         "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Preface\n\nThis standard aims at setting out accounting rules for recognizing, measur- ing, presenting and disclosing Salam financing and parallel Salam transactions carried out by the Islamic banks and financial institutions. (1) Attached with the Attached with the standard are details of the juristic bases for the accounting treatments. (1) Referred to hereafter as Islamic bank or Islamic banks."
     },
     {
-        "tag": "scope",
+        "tags": [
+            "statement",
+            "scope"
+        ],
         "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 1. Scope of Standard\n\nThis standard addresses the accounting rules of Salam financing and parallel Salam transactions. This includes the treatment of Ra`s Al-Mal Mal paid by the Islamic bank in a Salam transaction or that which it receives in a parallel Salam transaction, the receipt and sale of Al- Muslam Fihi in a Salam transaction or the delivery of its like in a parallel Salam transaction. The standard also includes the treatment of revenues, expenses, gains and losses relating to Salam financing and parallel Salam transactions. Should the requirements of this standard be in conflict with the Islamic bank\u2019s charter or the laws and regulations of the country in which it operates, a disclosure should be made of the point of conflict. (para. 1)"
     },
     {
-        "tag": "substitution",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions > 2/6 Substitution of another kind of goods for Al-Muslam Fihi\n\nItem 2/5/2/2 shall also apply in case another kind of goods is substituted for Al-Muslam Fihi and the market or fair value of the and the market or fair value of the substitute is less than the book value of Al-Muslam Fihi. (para. 17) . (para. 17)"
+        "tags": [
+            "statement",
+            "accounting_treatments",
+            "accounting_treatment"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions > 2/1 Salam financing shall be recognized when the capital of Salam is paid (whether in cash, kind or benefit) to Al-Muslam Ileihi or when it is made available to him. (para. 2)\n\nSalam financing recognition"
     },
     {
-        "tag": "measurement",
+        "tags": [
+            "statement",
+            "accounting_treatments",
+            "accounting_treatment"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions > 2/2 Parallel Salam transactions shall be recognized when the Islamic bank receives the capital of Salam (in cash, kind or benefit). (para. 3)\n\nParallel Salam transactions recognition"
+    },
+    {
+        "tags": [
+            "statement",
+            "accounting_treatments",
+            "contracting",
+            "measurement"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions > 2/3 At the Time of Contracting > a) Capital is measured by the amount paid. (para. 4)\n\nCapital measurement"
+    },
+    {
+        "tags": [
+            "statement",
+            "accounting_treatments",
+            "contracting",
+            "measurement"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions > 2/3 At the Time of Contracting > b) Capital provided in kind or benefit shall be measured at the fair value (the value agreed between the Islamic bank and the client) of the asset or the provided benefit. (para. 5)\n\nCapital provided in kind or benefit measurement"
+    },
+    {
+        "tags": [
+            "statement",
+            "accounting_treatments",
+            "financial_period",
+            "measurement"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions > 2/4 At the end of a financial period > a) Capital is measured at the end of a financial period as in item 2/3. However, if it is probable that Al-Muslam Ileihi will not deliver Al-\n\nCapital measurement at the end of a financial period."
+    },
+    {
+        "tags": [
+            "statement",
+            "accounting_treatments",
+            "financial_period",
+            "presentation"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions > 2/4 At the end of a financial period > b) Salam financing transactions shall be presented in the Islamic bank\u2019s financial statements under the heading of Salam Financing. (para. 7)\n\nSalam financing presentation in financial statements"
+    },
+    {
+        "tags": [
+            "statement",
+            "accounting_treatments",
+            "financial_period",
+            "presentation"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions > 2/4 At the end of a financial period > c) Parallel Salam transactions shall be presented in the Islamic bank\u2019s financial statements as a liability under the heading Parallel Salam. (para. 8)\n\nParallel Salam presentation in financial statements"
+    },
+    {
+        "tags": [
+            "statement",
+            "accounting_treatments",
+            "receipt_of_al-muslam_fihi",
+            "recording"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions > 2/5 Receipt of Al-Muslam Fihi > 2/5/1 Assets constitutive of Al-Muslam Fihi received by the Islamic bank in accordance with the contract are recorded at their historical cost. (para. 9)\n\nAssets recording"
+    },
+    {
+        "tags": [
+            "statement",
+            "accounting_treatments",
+            "receipt_of_al-muslam_fihi",
+            "different_quality",
+            "measurement"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions > 2/5 Receipt of Al-Muslam Fihi > 2/5/2 In the case of receipt of a similar kind of Al-Muslam Fihi, but of a different quality: > 2/5/2/1 If the market value (or the fair value if the market value is not available) of the received Al-Muslam Fihi is equal to the value of contracted Al-Muslam Fihi, the received Al-Muslam Fihi shall be measured and recorded at book value. (para. 10)\n\nMeasurement and recording of Al-Muslam Fihi"
+    },
+    {
+        "tags": [
+            "statement",
+            "accounting_treatments",
+            "receipt_of_al-muslam_fihi",
+            "different_quality",
+            "measurement"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions > 2/5 Receipt of Al-Muslam Fihi > 2/5/2 In the case of receipt of a similar kind of Al-Muslam Fihi, but of a different quality: > 2/5/2/2 If the market value (or the fair value if the market value is not available) of the received Al-Muslam Fihi is lower than the book value of the contracted Al-Muslam Fihi, the received Al-Muslam Fihi shall be measured and recorded at market value (or fair value) at the time of delivery and the difference shall be recognized as a loss. (para.11)\n\nMeasurement and recording of Al-Muslam Fihi"
+    },
+    {
+        "tags": [
+            "statement",
+            "accounting_treatments",
+            "receipt_of_al-muslam_fihi",
+            "failure_to_receive",
+            "failure"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions > 2/5 Receipt of Al-Muslam Fihi > 2/5/3 In the case of failure of the Islamic bank to receive Al-Muslam Fihi or part thereof at the due date of delivery: > 2/5/3/1 In case of complete or partial failure, if the delivery date is extended, the book value of Al-Muslam Fihi shall remain as it is. (para. 12)\n\nDelivery date extension"
+    },
+    {
+        "tags": [
+            "statement",
+            "accounting_treatments",
+            "receipt_of_al-muslam_fihi",
+            "failure_to_receive",
+            "failure"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions > 2/5 Receipt of Al-Muslam Fihi > 2/5/3 In the case of failure of the Islamic bank to receive Al-Muslam Fihi or part thereof at the due date of delivery: > 2/5/3/2 If the Salam financing contract is completely or partially cancelled and the client does not repay the capital of Salam, the amount shall be recognized as a receivable due from the client. (para. 13)\n\nContract cancellation and non-repayment"
+    },
+    {
+        "tags": [
+            "statement",
+            "accounting_treatments",
+            "receipt_of_al-muslam_fihi",
+            "client_misconduct",
+            "failure"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions > 2/5 Receipt of Al-Muslam Fihi > 2/5/4 Failure of the Islamic bank to receive Al-Muslam Fihi due to due to client\u2019s misconduct or negligence: > 2/5/4/1 Complete or partial failure a) If the Salam financing contract is completely or partially cancelled and the client has failed to repay the capital of Salam or the required portion thereof, the amount due shall be recognized as a receivable due from the client. (para. 14)\n\nFailure to repay the capital of Salam"
+    },
+    {
+        "tags": [
+            "statement",
+            "accounting_treatments",
+            "receipt_of_al-muslam_fihi",
+            "client_misconduct",
+            "failure"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions > 2/5 Receipt of Al-Muslam Fihi > 2/5/4 Failure of the Islamic bank to receive Al-Muslam Fihi due to due to client\u2019s misconduct or negligence: > b) In case the Islamic bank has securities pledged against Al-Muslam Fihi and the proceeds from the and the proceeds from the sale of the securities are less than its book value, the difference is recognized as a receivable due from the client. Alternatively, if the proceeds are more than the book value then the difference is credited to the client. (para. 15)\n\nSecurities pledged against Al-Muslam Fihi"
+    },
+    {
+        "tags": [
+            "statement",
+            "accounting_treatments",
+            "receipt_of_al-muslam_fihi",
+            "client_misconduct",
+            "failure"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions > 2/5 Receipt of Al-Muslam Fihi > 2/5/4 Failure of the Islamic bank to receive Al-Muslam Fihi due to due to client\u2019s misconduct or negligence: > c) The client shall be debited with any additional amounts which are established in favour of the Islamic bank. (para. 16)\n\nAdditional amounts"
+    },
+    {
+        "tags": [
+            "statement",
+            "accounting_treatments",
+            "substitution"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions > 2/6 Substitution of another kind of goods for Al-Muslam Fihi\n\nItem 2/5/2/2 shall also apply in case another kind of goods is substituted for Al-Muslam Fihi and the market or fair value of the and the market or fair value of the substitute is less than the book value of Al-Muslam Fihi. (para. 17)"
+    },
+    {
+        "tags": [
+            "statement",
+            "accounting_treatments",
+            "measurement"
+        ],
         "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions > 2/7 Measurement of the value of Al-Muslam Fihi at the end of a financial at the end of a financial period after it is received\n\nAt the end of a financial period, assets acquired through Salam financing shall be measured at the lower of historical cost and cash equivalent value, and if the cash equivalent value is lower the difference shall be recognized as loss in the income statement. (para. 18)"
     },
     {
-        "tag": "recognition",
+        "tags": [
+            "statement",
+            "accounting_treatments",
+            "recognition"
+        ],
         "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 2. Accounting Treatments of Salam Financing and Parallel Salam Trans- actions > 2/8 Recognition of the result of delivering of Al-Muslam Fihi in a parallel in a parallel Salam transaction\n\nUpon delivery of Al-Muslam Fihi by the Islamic bank to the client in by the Islamic bank to the client in a parallel Salam transaction, the difference between the amount paid by the client and the cost of Al-Muslam Fihi shall be recognized as shall be recognized as profit or loss. (para. 19)"
     },
     {
-        "tag": "disclosure",
+        "tags": [
+            "statement",
+            "disclosure"
+        ],
         "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 3. Disclosure Requirements\n\nThe disclosure requirements stated in Financial Accounting Standard No. (1): General Presentation and Disclosure in the Financial Statements of Islamic Banks and Financial Institutions should be observed. (para. 20)"
     },
     {
-        "tag": "effective_date",
+        "tags": [
+            "statement",
+            "effective_date"
+        ],
         "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Statement of the Standard > 4. Effective Date\n\nThis Standard shall be effective for financial statements for fiscal periods beginning 1 Muharram 1419 A.H. or 1 January 1999 A.D. (para. 21)"
     },
     {
-        "tag": "standard_adoption",
+        "tags": [
+            "adoption"
+        ],
         "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Adoption of the Standard\n\nThe Standard of Salam and Parallel Salam was adopted by the Accounting and Auditing Standards Board in its meeting No. (13) held on 10-11 Safar 1418 A.H., corresponding to 15-16 June 1997 A.D."
     },
     {
-        "tag": "standard_preparation_history",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Appendix (A) Brief History of the Preparation of the Standard\n\nA letter was sent on 30 Jumada I, 1416 A.H., corresponding to 24 October 1995 A.D., to the Islamic financial institutions to seek their opinion on the standards to be given priority. After taking into consideration the replies received from the Islamic financial institutions, the Accounting and Auditing Standards Board (Standards Board) decided in its meeting No. (9) held on 24-25 Rabi\u2019 II, 1415 A.H., corresponding to 19-20 September 1995 A.D., in Bahrain, to give priority to the preparation of a standard on Salam and Parallel Salam.\nIn its meeting No. (3) held on 26 Jumada II, 1416 A.H., corresponding to 18 November 1995 A.D., in Bahrain, the Accounting Standards Committee of the Standards Board decided to commission a consultant to prepare a study on the juristic aspects of the standard, and in its meeting No. (4) held on 14-15 Dhul-Qa\u2019dah 1416 A.H., corresponding to 2-3 April 1996 A.D., in Jordan, the Committee commissioned another consultant to prepare a study on the accounting aspects of the standard. In Rabi\u2019 I, 1416 A.H., corresponding to August 1996 A.D., the consultants completed the juristic and accounting studies.\nThe Accounting Standards Committee discussed the results of both studies and the exposure draft of the standard in its meeting No. (6) held on 17-18 Rabi\u2019 II, 1417 A.H., corresponding to 31 August\u20131 September 1996 A.D., and its meeting No. (7) held on 28-29 Jumada II, 1417 A.H., corresponding to 9-10 November 1996 A.D., held in Bahrain. Both documents were revised in light of the discussions that took place and the comments given by the members.\nThe exposure draft was submitted to the Shari\u2019a Committee in its meeting No. (5) held on 20-22 Rajab 1417 A.H., corresponding to 1-3 December 1996 A.D., in Bahrain, and the amendments which it deemed necessary were made."
+        "tags": [
+            "history"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Appendix (A) Brief History of the Preparation of the Standard\n\nA letter was sent on 30 Jumada I, 1416 A.H., corresponding to 24 October 1995 A.D., to the Islamic financial institutions to seek their opinion on the standards to be given priority. After taking into consideration the replies received from the Islamic financial institutions, the Accounting and Auditing Standards Board (Standards Board) decided in its meeting No. (9) held on 24-25 Rabi\u2019 II, 1415 A.H., corresponding to 19-20 September 1995 A.D., in Bahrain, to give priority to the preparation of a standard on Salam and Parallel Salam."
     },
     {
-        "tag": "standard_preparation_history",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > The amended exposure draft was discussed in the Standards Board meeting\n\nThe amended exposure draft was discussed in the Standards Board meeting No. (12) held on 9-11 Ramadan 1417 A.H., corresponding to 18-20 January 1997 A.D., in Jeddah, Saudi Arabia. The Standards Board made further amendments to the exposure draft and decided that it should be distributed to specialists and interested parties to obtain their comments on the exposure draft in order to discuss them in a listening session.\nTwo listening sessions were held, one in Bahrain on 14-15 Dhul-Qa\u2019dah 1417 A.H., corresponding to 23-24 March 1997 A.D., and the other in Malaysia on 24-25 Dhul-Qa\u2019dah 1417 A.H., corresponding to 34 April 1997 A.D. The listening sessions were attended by more than 145 participants were attended by more than 145 participants representing central banks, Islamic banks, accounting firms, Shari\u2019a scholars, academics and others who are interested in this field. Members of the Accounting Standards Committee responded in the listening sessions to s to both the written comments that were received prior to the listening sessions s as well as the oral comments that were expressed in the sessions of the listening session\nThe Accounting Standards Committee held two meetings on 15 Dhul- Qa\u2019dah 1417 A.H., corresponding to 24 March 1997 A.D., and 23 Dhul-Hajjah 1417 A.H., corresponding to 30 April 1997 A.D., to discuss the comments made about the exposure draft. The Committee made the necessary amendments which it deemed necessary in light of the discussions that took place in the two listening sessions.s.\nThe revised exposure draft was reviewed and approved by the Shari\u2019a Committee in its meeting No. (6) which was held on 1-2 Muharram 1418 A.H., corresponding to 7-8 May 1997 A.D., after making some changes in the draft.\nThe Accounting and Auditing Standards Board adopted the proposed standard in its meeting No. (13) held on 10-11 Safar 1418 A.H., corresponding to 15-16 June 1997 A.D."
+        "tags": [
+            "history"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 1/1\n\nIn its meeting No. (3) held on 26 Jumada II, 1416 A.H., corresponding to 18 November 1995 A.D., in Bahrain, the Accounting Standards Committee of the Standards Board decided to commission a consultant to prepare a study on the juristic aspects of the standard, and in its meeting No. (4) held on 14-15 Dhul-Qa\u2019dah 1416 A.H., corresponding to 2-3 April 1996 A.D., in Jordan, the Committee commissioned another consultant to prepare a study on the accounting aspects of the standard. In Rabi\u2019 I, 1416 A.H., corresponding to August 1996 A.D., the consultants completed the juristic and accounting studies."
     },
     {
-        "tag": "Definition",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Juristic Rules of Salam and Parallel Salam > 1. Definition\n\nSalam and Salaf (borrowing) are of the same meaning. Salam is a type of sale and it can be defined as: \u201cPurchase of a commodity for deferred delivery in exchange for immediate payment according to specified conditions\u201d, or \u201cSale of a commodity for or \u201cSale of a commodity for deferred delivery in exchange for immediate payment\u201d."
+        "tags": [
+            "history"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 1/2\n\nThe Accounting Standards Committee discussed the results of both studies and the exposure draft of the standard in its meeting No. (6) held on 17-18 Rabi\u2019 II, 1417 A.H., corresponding to 31 August\u20131 September 1996 A.D., and its meeting No. (7) held on 28-29 Jumada II, 1417 A.H., corresponding to 9-10 November 1996 A.D., held in Bahrain. Both documents were revised in light of the discussions that took place and the comments given by the members."
     },
     {
-        "tag": "Source of Legitimacy",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Juristic Rules of Salam and Parallel Salam > 2. Legitimacy > 2/2 Ijma\u2019 (consensus).\n\nIbn Al-Mundhir said: \u201cAll authoritative Fuqaha (jurists) unanimously agreed that Salam is considered permissible\u201d."
+        "tags": [
+            "history"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 1/3\n\nThe exposure draft was submitted to the Shari\u2019a Committee in its meeting No. (5) held on 20-22 Rajab 1417 A.H., corresponding to 1-3 December 1996 A.D., in Bahrain, and the amendments which it deemed necessary were made."
     },
     {
-        "tag": "Wisdom of Legitimacy",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Juristic Rules of Salam and Parallel Salam > 2. Legitimacy > 2/3 On the wisdom of its legitimacy\n\nIbn Qudamah said :\u201cBecause people had a need for (Salam) and because farmers, market gardeners and tradesmen needed money for their living expenses and to spend on their businesses to bring them to fruition, and so faced financial need, Salam was made permissible so that they could benefit from it as well as Al-Muslam having the benefit of its permissibility."
+        "tags": [
+            "history"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 1/4\n\nThe amended exposure draft was discussed in the Standards Board meeting No. (12) held on 9-11 Ramadan 1417 A.H., corresponding to 18-20 January 1997 A.D., in Jeddah, Saudi Arabia. The Standards Board made further amendments to the exposure draft and decided that it should be distributed to specialists and interested parties to obtain their comments on the exposure draft in order to discuss them in a listening session."
     },
     {
-        "tag": "General Rule",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Juristic Rules of Salam and Parallel Salam\n\nTherefore, Salam draws its legitimacy from the strongest Islamic sources of legislation. It is legitimate as a general rule in conformity with general principles of Shari\u2019a."
+        "tags": [
+            "history"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 1/5\n\nTwo listening sessions were held, one in Bahrain on 14-15 Dhul-Qa\u2019dah 1417 A.H., corresponding to 23-24 March 1997 A.D., and the other in Malaysia on 24-25 Dhul-Qa\u2019dah 1417 A.H., corresponding to 34 April 1997 A.D. The listening sessions were attended by more than 145 participants were attended by more than 145 participants representing central banks, Islamic banks, accounting firms, Shari\u2019a scholars, academics and others who are interested in this field. Members of the Accounting Standards Committee responded in the listening sessions to s to both the written comments that were received prior to the listening sessions s as well as the oral comments that were expressed in the sessions of the listening session"
     },
     {
-        "tag": "Conditions",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Juristic Rules of Salam and Parallel Salam > 3. Capital of Salam > 3/1 The capital should be known.\n\nThe commodity to be supplied should be known as to kind, type, quality and amount. The original rule regarding payment is that should be in cash. Fuqaha have differed as to the permissibility of payment in the form of trading assets. Some Fuqaha have considered it it permissible, and this is the view adopted in preparing this standard. permissible, and this is the view adopted in preparing this standard. Malikis have also allowed payment to be in the form of a benefit in kind, such as the benefit of living in a house."
+        "tags": [
+            "history"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 1/6\n\nThe Accounting Standards Committee held two meetings on 15 Dhul- Qa\u2019dah 1417 A.H., corresponding to 24 March 1997 A.D., and 23 Dhul-Hajjah 1417 A.H., corresponding to 30 April 1997 A.D., to discuss the comments made about the exposure draft. The Committee made the necessary amendments which it deemed necessary in light of the discussions that took place in the two listening sessions.s."
     },
     {
-        "tag": "Payment Location",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Juristic Rules of Salam and Parallel Salam > 3. Capital of Salam > 3/2 Receipt of Salam payment > 3/2/1 The majority of Fuqaha specify that the receipt of the Salam payment should be at the place where the contract is established.\n\nThis is in consideration of the seller\u2019s need and to prevent the introduction of debt into the consideration given by Al-Muslam (buyer). In particular, the Salam payment can not be in the form of cancellation of debt due from Al-Muslam Ileihi. This is a precaution against Riba."
+        "tags": [
+            "history"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 1/7\n\nThe revised exposure draft was reviewed and approved by the Shari\u2019a Committee in its meeting No. (6) which was held on 1-2 Muharram 1418 A.H., corresponding to 7-8 May 1997 A.D., after making some changes in the draft."
     },
     {
-        "tag": "Delivery Date Specificity",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Juristic Rules of Salam and Parallel Salam > 4. Al-Muslam Fihi > 4/4 Permissibility of specifying the future date of delivering Al-Muslam Fihi.\n\nFuqaha have agreed that specifying the future date of delivery is considered permissible; for example, the last day in the month of October 1996. Fuqaha have also agreed that the delivery should not be contingent on an unknown event; for example, the solvency or the arrival of another person. However, Fuqaha have differed on the issue of the lack of specificity that is considered permissible with regard to the delivery date of Al-Muslam Fihi; for example, during ; for example, during the harvesting season or during the time of Hajj (pilgrimage). The majority of Fuqaha have required a greater degree of specificity of the delivery date, but the Malikis considered that a range of possible delivery dates is acceptable and so did the Hanbalis in one of their versions. It is the latter view that has been adopted in this standard."
+        "tags": [
+            "history"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 1/8\n\nThe Accounting and Auditing Standards Board adopted the proposed standard in its meeting No. (13) held on 10-11 Safar 1418 A.H., corresponding to 15-16 June 1997 A.D."
     },
     {
-        "tag": "Contract Cancellation",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Juristic Rules of Salam and Parallel Salam > 6. General Rules > 6/1 Nullification or cancellation of the contract\n\nThis refers to the cancellation of the contract and reversion to the situation of the two parties before entering into the Salam contract. Complete nullification of the delivery of Al-Muslam Fihi in return for repayment of the full amount of the capital of Salam is unanimously considered permissible by Fuqaha. Partial cancellation of the delivery of Al-Muslam Fihi in return for the corresponding part of the capital of Salam, with the balance being repaid to Al-Muslam, is considered permissible according to the majority of Fuqaha."
+        "tags": [
+            "definition"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 1. Definition\n\nSalam and Salaf (borrowing) are of the same meaning. Salam is a type of sale and it can be defined as: \u201cPurchase of a commodity for deferred delivery in exchange for immediate payment according to specified conditions\u201d, (2) or \u201cSale of a commodity for or \u201cSale of a commodity for deferred delivery in exchange for immediate payment\u201d."
     },
     {
-        "tag": "reasons_for_standard",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Appendix (C): Reasons for the Standard\n\nIn their response to AAOIFI\u2019s letter of 30 Jumada I, 1416 A.H., corresponding to 24 October 1995 A.D., Islamic banks gave priority to the preparation of a standard, among others, on Salam and parallel Salam. This was endorsed by the Standards Board in its meeting No. (9) held on 24-25 Rabi\u2019 II, 1415 A.H., corresponding to 19-20 September 1995 A.D., in Bahrain.\nThe empirical study that was conducted by the consultant who commissioned by AAOIFI revealed that Salam financing represented about 5% of the total finance provided by the Islamic banks that participated in the study. The study also showed that the use of Salam financing was mainly in the agriculture sector.\nThe study also showed that there were differences between Islamic banks in the accounting treatments of Salam financing which rendered their financial financial statements non comparable. Furthermore, the Islamic banks did not disclose adequate information in their financial statements on the accounting policies applied to Salam financing.\nSince the use of Salam financing is relatively recent, the initiative by AAOIFI to prepare an accounting standard for this financial instrument is expected to help in reducing the accounting differences that may emerge as a result of Islamic banks developing their own accounting treatments as has been the case with other financial instruments used by Islamic banks, a practice which has resulted in different methods of recognition, measurement, presentation and/or disclosure."
+        "tags": [
+            "legitimacy"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 2. Legitimacy\n\nSalam sale has its legitimacy from:"
     },
     {
-        "tag": "basis_for_conclusions",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Appendix (D): Basis for Conclusions\n\nThe Accounting Standards Committee has reviewed the alternatives proposed in the preliminary study (25) to be adopted in the accounting treat- to be adopted in the accounting treat- ments of Salam and Parallel Salam. The Accounting Standards Committee recommended the adoption of the alternatives which were considered to be in compliance with the provisions of the previous Statement of Financial Accounting No. (1): Objectives of Financial Accounting for Islamic Banks and Financial Institutions (Statement of Objectives), and Statement of Financial Accounting No. (2): Concepts of Financial Accounting for Islamic Banks and Financial Institutions (Statement of Concepts).\nThe condition that the capital of Salam should be known in a form that determines it constitutes the basis which has been taken to measure the value by which the capital of Salam should be recorded in the Islamic bank\u2019s books when it is paid (in case of Salam) or when it is received (in case of Parallel Salam). If the capital of Salam is in the form of cash, it is identified by the type of currency and its quantity, but if it is in the form of kind or benefit, it is measured by the fair value of such assets or benefits according to what the two contracting parties agree upon. The use of the fair value instead of the historical cost provides users of financial statements with useful information that helps them in their decisions when dealing with Islamic banks. Such an objective is in line with what is provided for in the previous Statement of Objectives. The use of the fair value also leads to the application of the representational faithfulness concept provided for in the previous Statement of Concepts."
+        "tags": [
+            "source"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 2/2 Ijma\u2019 (consensus).\n\nIbn Al-Mundhir said: \u201cAll authoritative Fuqaha (jurists) unanimously agreed that Salam is considered permissible\u201d. (4)"
     },
     {
-        "tag": "accounting_treatment",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Historical cost has been chosen to measure the capital of Salam financing and parallel Salam transactions at the end of a financial period because of the reliability of the information provided by this attribute.\n\nIt also conforms with what is provided for in the provisions of the previous Statement of Concepts. However, to ensure reliability of the information provided in the financial statements, the standard provides that if it becomes clear to the Islamic bank that there is a strong probability that Al-Muslam Ileihi will not deliver Al-Muslam Fihi, in full or in part, or there is a strong probability , in full or in part, or there is a strong probability that the value of the Al-Muslam Fihi will decline, a provision should be will decline, a provision should be made of the amount of the estimated deficit. Making such a provision will help in providing information that helps in predicting the Islamic bank\u2019s future cash flows resulting from Salam financing. The predictive value of information represents one of the qualitative characteristics provided for in the previous Statement of Concepts to achieve reliability."
+        "tags": [
+            "capital_of_salam"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 3. Capital of Salam\n\nThe validity of a Salam contract is dependent on satisfying the following conditions:"
     },
     {
-        "tag": "accounting_treatment",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > To provide understandable and comprehensible information, which are qualitative characteristics that accounting information should have , the standard requires that the consideration paid as capital for Salam financing transactions should be presented in the financial statements under the heading Salam Financing.\n\nThis conforms with the financing nature of the Salam contract which is based on the need by Al-Muslam Ileihi for capital to bridge the financing gap between the time of contracting and receipt of the capital and the date agreed upon to deliver Al-Muslam Fihi to the Islamic bank.\nIn case the Islamic bank receives Al-Muslam Fihi according to the agreed upon quantities under the contract, the historical cost is used as the basis for measuring and recording the assets at the time of possessing them.\nAccordingly, Al-Muslam Fihi acquired acquired by the Islamic bank through Salam by the Islamic bank through Salam financing is measured at the time of receiving it at its historical cost which is equivalent to the Salam capital paid by the Islamic bank.\nIn the case of the receipt of a similar kind of Al-Muslam Fihi, but of a different quality, if the market value (or the fair value if the market value is not available) of Al-Muslam Fihi is equal to the value of the contracted Al- Muslam Fihi , then the received Al-Muslam Fihi Al-Muslam Fihi is measured and recorded is measured and recorded at at"
+        "tags": [
+            "conditions"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 3/1 The capital should be known.\n\nThe commodity to be supplied should be known as to kind, type, quality and amount. The original rule regarding payment is that should be in cash. Fuqaha have differed as to the permissibility of payment in the form of trading assets. Some Fuqaha have considered it it permissible, and this is the view adopted in preparing this standard. permissible, and this is the view adopted in preparing this standard. Malikis have also allowed payment to be in the form of a benefit in kind, such as the benefit of living in a house."
     },
     {
-        "tag": "accounting_treatment",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > book value. However, if the market value (or the fair value if the market value is not available) of the received Al-Muslam Fihi is lower than the book value of contracted Al-Muslam Fihi, the received Al-Muslam Fihi is measured and recorded at market value (or the fair value if the market value is not available) at the time of delivery and the difference is recognized as a loss.\n\nThis is because the decline in the value of the asset should be taken into account by writing down the book value of the asset to represent the cash equivalent value.\nThis measurement attribute is expected to provided users of the financial statements with relevant information that helps them in their decisions. This is in line with the provisions of the previous Statement of Concepts regarding the qualitative characteristics of accounting information which the financial statements of Islamic banks should contain.\nThe previous Statement of Concepts gives guidance as to when gains and losses, which are basic elements of the income statement, should be recognized. A loss should, therefore, be recognized once a reciprocal transfer takes place between the Islamic bank and Al-Muslam Ileihi at the time of receiving the substitute of Al-Muslam Fihi. Accordingly, once the Islamic bank accepts the substitute of Al-Muslam Fihi which has a market value lower than the book value of the contracted Al-Muslam Fihi, the difference should be recognized as a loss incurred by the Islamic bank.\nThe Standard differentiates between the failure of Al-Muslam Ileihi to deliver Al-Muslam Fihi due to negligence and misconduct and any other failure to receive Al-Muslam Fihi or part of it at the due date of delivery. The accounting treatment in the standard is in line with one of the objectives of financial accounting which states: \u201cDetermination of the rights and liabilities of all related parties, including any rights ensuing from uncompleted transactions and activities, in accordance with the provisions of Shari\u2019a and its principles of fairness, justice and adherence to the ethics of Islamic dealings.\nAt the end of a financial period, Al-Muslam Fihi is recorded at historical cost or cash equivalent value, whichever is lower. This should provide relevant information, which is one of the characteristics of the information that financial statements of Islamic banks should contain."
+        "tags": [
+            "payment_receipt"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 3/2/1 The majority of Fuqaha specify that the receipt of the Salam payment should be at the place where the contract is established.\n\nThis is in consideration of the seller\u2019s need and to prevent the introduction of debt into the consideration given by Al-Muslam (buyer). In particular, the Salam payment can not be in the form of cancellation of debt due from Al-Muslam Ileihi. This is a precaution against Riba."
     },
     {
-        "tag": "definition",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Appendix (E): Definitions > Salam\n\nPurchase of a commodity for deferred delivery in exchange for immediate payment according to specified conditions or sale of a commodity for deferred delivery in exchange for immediate payment."
+        "tags": [
+            "al_muslam_fihi"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 4. Al-Muslam Fihi\n\nValidity of the Salam contract is dependent on satisfying the following conditions and terms relating to Al-Muslam Fihi:"
     },
     {
-        "tag": "definition",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Appendix (E): Definitions > Al-Muslam Fihi\n\nThe commodity to be delivered."
+        "tags": [
+            "delivery_conditions"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 4/4 Permissibility of specifying the future date of delivering Al-Muslam Fihi.\n\nFuqaha have agreed that specifying the future date of delivery is considered permissible; for example, the last day in the month of October 1996. Fuqaha have also agreed that the delivery should not be contingent on an unknown event; for example, the solvency or the arrival of another person. However, Fuqaha have differed on the issue of the lack of specificity that is considered permissible with regard to the delivery date of Al-Muslam Fihi; for example, during ; for example, during the harvesting season or during the time of Hajj (pilgrimage). The majority of Fuqaha have required a greater degree of specificity of the delivery date, but the Malikis considered that a range of possible delivery dates is acceptable and so did the Hanbalis in one of their versions. It is the latter view that has been adopted in this standard."
     },
     {
-        "tag": "definition",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Appendix (E): Definitions > Al-Muslam Ileihi\n\nThe seller."
+        "tags": [
+            "general_rules"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 6/1 Nullification or cancellation of the contract\n\nThis refers to the cancellation of the contract and reversion to the situation of the two parties before entering into the Salam contract. Complete nullification of the delivery of Al-Muslam Fihi in return for repayment of the full amount of the capital of Salam is unanimously considered permissible by Fuqaha. Partial cancellation of the delivery of Al-Muslam Fihi in return for the corresponding part of the capital of Salam, with the balance being repaid to Al-Muslam, is considered permissible according to the majority of Fuqaha."
     },
     {
-        "tag": "definition",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Appendix (E): Definitions > Al-Muslam\n\nThe purchaser."
+        "tags": [
+            "reasons"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Reasons for the Standard\n\nIslamic banks gave priority to the preparation of a standard, among others, on Salam and parallel Salam. The empirical study revealed that Salam financing represented about 5% of the total finance provided by the Islamic banks that participated in the study. The study also showed that the use of Salam financing was mainly in the agriculture sector. The study also showed that there were differences between Islamic banks in the accounting treatments of Salam financing which rendered their financial financial statements non comparable. Furthermore, the Islamic banks did not disclose adequate information in their financial statements on the accounting policies applied to Salam financing. Since the use of Salam financing is relatively recent, the initiative by AAOIFI to prepare an accounting standard for this financial instrument is expected to help in reducing the accounting differences."
     },
     {
-        "tag": "definition",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Appendix (E): Definitions > Ra`s Al-Mal\n\nCapital (cost) paid (in cash, kind or benefit) in a Salam contract; i.e., price."
+        "tags": [
+            "basis_for_conclusions"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Basis for Conclusions\n\nThe Accounting Standards Committee has reviewed the alternatives proposed in the preliminary study to be adopted in the accounting treatments of Salam and Parallel Salam. The Accounting Standards Committee recommended the adoption of the alternatives which were considered to be in compliance with the provisions of the previous Statement of Financial Accounting No. (1): Objectives of Financial Accounting for Islamic Banks and Financial Institutions (Statement of Objectives), and Statement of Financial Accounting No. (2): Concepts of Financial Accounting for Islamic Banks and Financial Institutions (Statement of Concepts). The condition that the capital of Salam should be known in a form that determines it constitutes the basis which has been taken to measure the value by which the capital of Salam should be recorded in the Islamic bank\u2019s books when it is paid (in case of Salam) or when it is received (in case of Parallel Salam)."
     },
     {
-        "tag": "definition",
-        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Appendix (E): Definitions > Parallel Salam\n\nA Salam contract whereby Al-Muslam Ileihi depends, for executing his obligation, on receiving what is due to him \u2013in his capacity as Al-Muslam\u2013 from a sale in a previous Salam contract, without making the execution of the second Salam contract dependent on the execution of the first one."
+        "tags": [
+            "measurement"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 2/1 Historical cost and measurement\n\nHistorical cost has been chosen to measure the capital of Salam financing and parallel Salam transactions at the end of a financial period because of the reliability of the information provided by this attribute. It also conforms with what is provided for in the provisions of the previous Statement of Concepts."
+    },
+    {
+        "tags": [
+            "provision"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 2/2 Provision for Deficit\n\nIf it becomes clear to the Islamic bank that there is a strong probability that Al-Muslam Ileihi will not deliver Al-Muslam Fihi, in full or in part, or there is a strong probability that the value of the Al-Muslam Fihi will decline, a provision should be made of the amount of the estimated deficit."
+    },
+    {
+        "tags": [
+            "presentation"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 2/3 Presentation in Financial Statements\n\nThe consideration paid as capital for Salam financing transactions should be presented in the financial statements under the heading Salam Financing."
+    },
+    {
+        "tags": [
+            "measurement"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 2/4 Measurement of Al-Muslam Fihi\n\nAl-Muslam Fihi acquired by the Islamic bank through Salam financing is measured at the time of receiving it at its historical cost which is equivalent to the Salam capital paid by the Islamic bank."
+    },
+    {
+        "tags": [
+            "measurement"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 2/5 Measurement of Al-Muslam Fihi - Different Quality\n\nIf the market value (or the fair value if the market value is not available) of the received Al-Muslam Fihi is lower than the book value of contracted Al-Muslam Fihi, the received Al-Muslam Fihi is measured and recorded at market value (or the fair value if the market value is not available) at the time of delivery and the difference is recognized as a loss."
+    },
+    {
+        "tags": [
+            "loss_recognition"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 2/6 Recognition of Loss\n\nA loss should, therefore, be recognized once a reciprocal transfer takes place between the Islamic bank and Al-Muslam Ileihi at the time of receiving the substitute of Al-Muslam Fihi. Accordingly, once the Islamic bank accepts the substitute of Al-Muslam Fihi which has a market value lower than the book value of the contracted Al-Muslam Fihi, the difference should be recognized as a loss incurred by the Islamic bank."
+    },
+    {
+        "tags": [
+            "failure_to_deliver"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 2/7 Failure to Deliver Al-Muslam Fihi\n\nThe Standard differentiates between the failure of Al-Muslam Ileihi to deliver Al-Muslam Fihi due to negligence and misconduct and any other failure to receive Al-Muslam Fihi or part of it at the due date of delivery. The accounting treatment in the standard is in line with one of the objectives of financial accounting which states: \u201cDetermination of the rights and liabilities of all related parties, including any rights ensuing from uncompleted transactions and activities, in accordance with the provisions of Shari\u2019a and its principles of fairness, justice and adherence to the ethics of Islamic dealings."
+    },
+    {
+        "tags": [
+            "measurement"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > 2/8 Measurement at Period End\n\nAt the end of a financial period, Al-Muslam Fihi is recorded at historical cost or cash equivalent value, whichever is lower."
+    },
+    {
+        "tags": [
+            "definitions",
+            "definition"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Definitions > Salam\n\nPurchase of a commodity for deferred delivery in exchange for immediate payment according to specified conditions or sale of a commodity for deferred delivery in exchange for immediate payment."
+    },
+    {
+        "tags": [
+            "definitions",
+            "definition"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Definitions > Al-Muslam Fihi\n\nThe commodity to be delivered."
+    },
+    {
+        "tags": [
+            "definitions",
+            "definition"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Definitions > Al-Muslam Ileihi\n\nThe seller."
+    },
+    {
+        "tags": [
+            "definitions",
+            "definition"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Definitions > Al-Muslam\n\nThe purchaser."
+    },
+    {
+        "tags": [
+            "definitions",
+            "definition"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Definitions > Ra`s Al-Mal\n\nCapital (cost) paid (in cash, kind or benefit) in a Salam contract; i.e., price."
+    },
+    {
+        "tags": [
+            "definitions",
+            "definition"
+        ],
+        "content": "Financial Accounting Standard No. (7): Salam and Parallel Salam > Definitions > Parallel Salam\n\nA Salam contract whereby Al-Muslam Ileihi depends, for executing his obligation, on receiving what is due to him \u2013in his capacity as Al-Muslam\u2013 from a sale in a previous Salam contract, without making the execution of the second Salam contract dependent on the execution of the first one."
     }
 ]

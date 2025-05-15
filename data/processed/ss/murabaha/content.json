@@ -3,13 +3,13 @@
     "sections": [
         {
             "title": "Preface",
-            "content": "The purpose of this standard is to explain the Shari\u2019ah basis and rules for a Murabahah transaction, the stages of this transaction beginning from the promise to transferring ownership of the goods to the customer, and the Shari\u2019ah requirements that need to be observed by Islamic financial Institutions.",
-            "tag": "shariah_standard_preface"
+            "content": "The purpose of this standard is to explain the Shari\u2019ah basis and rules for a Murabahah transaction, the stages of this transaction beginning from the promise to transferring ownership of the goods to the customer, and the Shari\u2019ah requirements that need to be observed by Islamic financial Institutions. (2)",
+            "tag": "preface"
         },
         {
             "title": "Statement of the Standard",
-            "content": "This standard was previously issued by the title \u201cShari\u2019ah Rules for Investment and Financing Instruments No. (1) Murabahah to the Purchase Orderer. It is reissued as a Shari\u2019ah standard based on the resolution of the Shari\u2019ah Board to reformat all Shari\u2019ah Rules in the form of Shari\u2019ah Standards.",
-            "tag": "shariah_standard_statement"
+            "content": "",
+            "tag": "statement"
         },
         {
             "title": "1. Scope of the Standard",
@@ -19,27 +19,27 @@
         {
             "title": "2. Procedures Prior to the Contract of Murabahah",
             "content": "",
-            "tag": "murabahah_procedures"
+            "tag": "procedures"
         },
         {
             "title": "3. Acquisition of Title to, and Possession of, the Asset by the Institution or Its Agent",
             "content": "",
-            "tag": "asset_acquisition"
+            "tag": "acquisition"
         },
         {
             "title": "4. Conclusion of a Murabahah Contract",
             "content": "",
-            "tag": "murabahah_contract"
+            "tag": "contract"
         },
         {
             "title": "5. Guarantees and Treatment of Murabahah Receivables",
             "content": "",
-            "tag": "murabahah_receivables"
+            "tag": "guarantees"
         },
         {
             "title": "6. Date of Issuance of the Standard",
             "content": "",
-            "tag": "issuance_date"
+            "tag": "issuance"
         },
         {
             "title": "Adoption of the Standard",
@@ -47,35 +47,29 @@
             "tag": "adoption"
         },
         {
-            "title": "Appendices",
-            "sections": [
-                {
-                    "title": "Appendix (a): Notice from Institution\u2019s Customer of Its Performance of Purchasing Asset or Good As Agent for Institution, and of Its Offer to Purchase Item from Institution According to Contract of Murabahah",
-                    "content": "",
-                    "tag": "appendix"
-                },
-                {
-                    "title": "Appendix (b): Notice of Acceptance by Institution of Customer\u2019s Offer to Purchase Asset or Good to Be Acquired, and of selling item by Institution to Customer",
-                    "content": "",
-                    "tag": "appendix"
-                },
-                {
-                    "title": "Appendix (c): Brief History of the Preparation of the Standard",
-                    "content": "",
-                    "tag": "appendix"
-                },
-                {
-                    "title": "Appendix (d): The Shari\u2019ah Basis for the Standard",
-                    "content": "",
-                    "tag": "appendix"
-                },
-                {
-                    "title": "Appendix (e): Definitions",
-                    "content": "",
-                    "tag": "appendix"
-                }
-            ],
-            "tag": "appendices"
+            "title": "Appendix (a): Notice from Institution\u2019s Customer of Its Performance of Purchasing Asset or Good As Agent for Institution, and of Its Offer to Purchase Item from Institution According to Contract of Murabahah",
+            "content": "",
+            "tag": "appendix"
+        },
+        {
+            "title": "Appendix (b): Notice of Acceptance by Institution of Customer\u2019s Offer to Purchase Asset or Good to Be Acquired, and of selling item by Institution to Customer",
+            "content": "",
+            "tag": "appendix"
+        },
+        {
+            "title": "Appendix (c): Brief History of the Preparation of the Standard",
+            "content": "",
+            "tag": "appendix"
+        },
+        {
+            "title": "Appendix (d): The Shari\u2019ah Basis for the Standard",
+            "content": "",
+            "tag": "appendix"
+        },
+        {
+            "title": "Appendix (e): Definitions",
+            "content": "",
+            "tag": "appendix"
         },
         {
             "title": "1. Scope of the Standard",
@@ -96,7 +90,7 @@
                         {
                             "title": "2/1/2",
                             "content": "With due consideration to item 2/2/3, it is permissible for the customer to request the Institution to purchase the item from a particular source of supply. However, the Institution is entitled to decline to carry out the transaction if the customer refuses offers from other sources of supply that are more suitable for the Institution.",
-                            "tag": "customer_wish"
+                            "tag": "customer_request"
                         },
                         {
                             "title": "2/1/3",
@@ -106,7 +100,7 @@
                         {
                             "title": "2/1/4",
                             "content": "The customer may obtain statement of prices from the supplier whether they are addressed to the customer by name [specific offer], or with no reference to any named customer [general offer]. In the latter case, the statement is considered as an in- vitation to negotiate, and not as an offer of sale. It is preferable that the invoice should be addressed to the Institution so as to include an offer of sale from the supplier effective up to the end of a specified period. The contract of sale is deemed concluded once acceptance comes from the Institution.",
-                            "tag": "customer_wish"
+                            "tag": "customer_price"
                         }
                     ],
                     "tag": "customer_wish"
@@ -117,45 +111,45 @@
                         {
                             "title": "2/2/1",
                             "content": "When there is acceptance by the customer of an offer from the supplier that is either addressed to him personally, or that has no addressee, then the sale is concluded with the customer and so it is not permissible for the Institution to carry out Murabahah on the same item.",
-                            "tag": "institution_position"
+                            "tag": "institution_application"
                         },
                         {
                             "title": "2/2/2",
                             "content": "It is essential to exclude any prior contractual relationship between the customer who is the purchase orderer and the original supplier of the item ordered, if any, regarding the supply of the item. It is a requirement of Murabahah that the transaction between the two parties must genuinely, not fictitiously, exclude any prior contractual relationship. It is not permissible to assign a contract that has been executed between the customer and the supplier of the ordered item to the Institution.",
-                            "tag": "institution_position"
+                            "tag": "institution_application"
                         },
                         {
                             "title": "2/2/3",
                             "content": "The Institution must ensure that the party from whom the item is bought is a third party other than customer or his agent. For example, it is not permitted for a customer to sell an ordered item to the Institution and then repurchase it through a Murabahah transaction. Nor may the party that is supplying the item be wholly, or by way of majority [more than 50%],",
-                            "tag": "institution_position"
+                            "tag": "institution_application"
                         },
                         {
                             "title": "2/2/4",
                             "content": "If the supplier (owner) of the item has a blood relationship or marital relationship with the customer, then the Institution shall verify, before entering into Murabahah, that the sale is not fictitious and not a stratagem for the sale of Inah.",
-                            "tag": "institution_position"
+                            "tag": "institution_application"
                         },
                         {
                             "title": "2/2/5",
                             "content": "It is not permissible for the Institution and the customer to agree to form a Musharakah in a project or a specified deal together with a promise from one of them to buy the other\u2019s share in Musharakah by means of Murabahah on either spot or deferred payment terms. However, it is permissible for one partner to promise to purchase the other\u2019s share in Musharakah at market price or at a price to be agreed upon at the time of sale provided a new contract is drawn up. This sale may be on spot or on deferred payment terms.",
-                            "tag": "institution_position"
+                            "tag": "institution_application"
                         },
                         {
                             "title": "2/2/6",
                             "content": "It is not permitted to carry out a Murabahah on deferred payment terms where the asset involved is gold, silver or currencies.",
-                            "tag": "institution_position"
+                            "tag": "institution_application"
                         },
                         {
                             "title": "2/2/7",
                             "content": "It is also impermissible to issue negotiable Sukuk where the underlying asset consists of Murabahah receivables or other receivables only.",
-                            "tag": "institution_position"
+                            "tag": "institution_application"
                         },
                         {
                             "title": "2/2/8",
                             "content": "Likewise, it is not permitted to renew a Murabahah contract on the same commodity that was the subject matter of a previous Murabahah contract with the same customer, i.e. to refinance the transaction.",
-                            "tag": "institution_position"
+                            "tag": "institution_application"
                         }
                     ],
-                    "tag": "institution_position"
+                    "tag": "institution_application"
                 },
                 {
                     "title": "2/3 The promise from the customer",
@@ -234,7 +228,7 @@
                         },
                         {
                             "title": "2/5/3",
-                            "content": "It is permissible for the Institution, in the case of a binding promise by the customer, to take a sum of money as Hamish Jiddiyyah (security deposit). This is to be paid by the customer at the request of the Institution, both as an indication of the financial capacity of the customer and to ensure the compensation of any damage to the Institution arising from a breach by the customer of his binding promise. Having taken this Hamish Jiddiyyah, the , the Institution need not to demand compensation for damage as this may be charged against the Hamish Jiddiyyah. The . The Hamish Hamish Jiddiyyah is not considered as \u2019Arboun (Earnest Money). The amount of money deposited by the customer as security for his commitment can be either held, if the customer permits the Institution to invest it, as an investment trust on the basis of Mudarabah between the customer and the Institution, or held in a current account at the discretion of the customer.",
+                            "content": "It is permissible for the Institution, in the case of a binding promise by the customer, to take a sum of money as Hamish Jiddiyyah (security deposit). This is to be paid by the customer at the request of the Institution, both as an indication of the financial capacity of the customer and to ensure the compensation of any damage to the Institution arising from a breach by the customer of his binding promise. Having taken this Hamish Jiddiyyah, the Institution need not to demand compensation for damage as this may be charged against the Hamish Jiddiyyah. The Hamish Jiddiyyah is not considered as \u2019Arboun (Earnest Money). The amount of money deposited by the customer as security for his commitment can be either held, if the customer permits the Institution to invest it, as an investment trust on the basis of Mudarabah between the customer and the Institution, or held in a current account at the discretion of the customer.",
                             "tag": "guarantees"
                         },
                         {
@@ -256,7 +250,7 @@
                     "tag": "guarantees"
                 }
             ],
-            "tag": "procedures_prior_contract"
+            "tag": "procedures"
         },
         {
             "title": "3. Acquisition of Title to, and Possession of, the Asset by the Institution or Its Agent",
@@ -276,575 +270,613 @@
             "tag": "asset_acquisition"
         },
         {
-            "title": "2/5/5 Hamish Jiddiyyah and Deduction from Price",
+            "title": "2/5/5",
             "content": "When the customer has fulfilled his promise and executed the contract of Murabahah, the Institution must refund Hamish Jiddiyyah to the customer. The Institution is not entitled to receive any amount out of Hamish Jiddiyyah except in the case except in the case of breach of promise as laid down in item 2/5/3. It is permissible for the Institution to agree with the customer that the amount of Hamish Jiddiyyah will be deducted from the price payable will be deducted from the price payable by the customer pursuant to the contract of Murabahah.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Refund, Hamish Jiddiyyah"
         },
         {
-            "title": "2/5/6 Arboun (Earnest Money)",
+            "title": "2/5/6",
             "content": "It is permissible for the Institution to take \u2019Arboun (Earnest Mon- ey) upon conclusion of the Murabahah sale with the customer. This may not be done during the contractual stage at which the customer has given his promise to purchase. In the event that the customer revokes the contract in an \u2019Arboun-based transaction, it is preferable that the Institution, after deducting the actual damage it incurs, refunds the remaining amount of \u2019Arboun to the customer. The damage in this context means the difference between the cost of the item borne the Institution and the price at which the item is sold to a third party.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Arboun, Earnest Money"
         },
         {
             "title": "3. Acquisition of Title to, and Possession of, the Asset by the Institution or Its Agent",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Acquisition of Title, Possession of Asset"
         },
         {
-            "title": "3/1 The acquisition of the asset or good by the Institution prior to its sale by means of Murabahah",
-            "tag": "Murabahah"
+            "title": "3/1",
+            "content": "The acquisition of the asset or good by the Institution prior to its sale by means of Murabahah",
+            "tag": "Murabahah, Acquisition of Asset"
         },
         {
-            "title": "3/1/1 Requirement to Acquire the Item",
-            "content": "The Institution shall not sell any item in a Murabahah transac- tion before it acquires such item. Hence, it is not valid for the In- stitution to conclude a Murabahah sale with the customer before the Institution concludes a urchase contract with the supplier of the item the subject matter of the Murabahah and before it acquires actual or constructive possession of such items, which can be achieved when the supplier gives the Institution control over the item or the documents that represent possession there- of [see items 3/2/1-3/2/4]. Likewise, the Mura bahah is consid- ered void in case the contract with the supplier is void, because in this case the Institution would fail to acquire complete title to the item.",
-            "tag": "Murabahah"
+            "title": "3/1/1",
+            "content": "The Institution shall not sell any item in a Murabahah transac- tion before it acquires such item. Hence, it is not valid for the In- stitution to conclude a Murabahah sale with the customer before the Institution concludes a urchase contract with the supplier of the item the subject matter of the Murabahah and before it acquires actual or constructive possession of such items, which can be achieved when the supplier gives the Institution control over the item or the documents that represent possession there- of [see items 3/2/1-3/2/4]. Likewise, the Mura bahah is consid- ered void in case the contract with the supplier is void, because",
+            "tag": "Murabahah, Sale, Acquisition, Possession"
         },
         {
-            "title": "3/1/2 Completion of Contract with Supplier",
+            "title": "3/1/2",
             "content": "It is permitted that the contract between the Institution and the supplier be completed by means of a meeting of the two parties to discuss the details, at which point the contract may be executed. Likewise, it is permitted that the contract be completed through exchanging of the notices of offer and acceptance, either in writing or by any form of modern communication customarily practiced according to known principles.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Contract, Supplier"
         },
         {
-            "title": "3/1/3 Agent for Purchase",
+            "title": "3/1/3",
             "content": "The original principle is that the Institution itself purchases the item directly from the supplier. However, it is permissible for the Institution to carry out the purchase by authorizing an agent, other than the purchase orderer, to execute the purchase; and the customer (the purchase orderer) should not be appointed to act as an agent except in case of a dire need. Furthermore, the agent must not sell the item to himself. Rather, the Institution must first acquire title of the item and then sell it to the agent. In such a case, the provisions of item 3/1/5 should be observed.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Agent, Purchase, Supplier"
         },
         {
-            "title": "3/1/4 Conditions for Customer as Agent",
+            "title": "3/1/4",
             "content": "In cases when the customer is authorized to purchase the item as the Institution\u2019s agent, it is obligatory to adopt procedures which would ensure that certain conditions are observed. These conditions include: a) the Institution itself must pay the supplier, and not pay the price of the item into the account of the customer as agent, whenever possible. b) the Institution should obtain from the supplier the documents that confirm that a sale has taken place.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Customer as Agent, Conditions"
         },
         {
-            "title": "3/1/5 Separation of Risks",
-            "content": "It is obligatory to separate the two liabilities of risk attaching to the purchased item, namely the liability of the Institution and the liability of the customer as agent of the Institution. This is achieved by having an interval in time between the performance of the agency contract and the execution of the contract of Murabahah, as indicated in the customer\u2019s notice of performance of the agency contract to acquire the item and offer to purchase the item by means of Murabahah [see Appendix (a)], followed by the institution\u2019s notice of its acceptance of the customer\u2019s offer to purchase and the execution of the Murabahah sale contract [see Appendix (b)].",
-            "tag": "Murabahah"
+            "title": "3/1/5",
+            "content": "It is obligatory to separate the two liabilities of risk attaching to the purchased item, namely the liability of the Institution and the liability of the customer as agent of the Institution. This is achieved by having an interval in time between the",
+            "tag": "Murabahah, Risk, Liabilities"
         },
         {
-            "title": "3/1/6 Documentation",
+            "title": "3/1/6",
             "content": "The original principle is that all documents and contracts concerned with the execution of the sale of the item must be in the name of the Institution and not in that of the customer, unless the latter acts as the Institution\u2019s agent in acquiring the item.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Documents, Contracts"
         },
         {
-            "title": "3/1/7 Agency without Disclosure",
+            "title": "3/1/7",
             "content": "It is permissible, at the time when the Institution appoints someone as its agent for the acquisition of the item, that the two parties agree to authorize the agent to carry out the acquisi- tion of the item as agent, without disclosing the existence of the agency agreement. In this case, the agent will act as principal in dealing with other parties, and will undertake the purchase directly in his name but on behalf of the Institution as principal. However, it is preferable that the agent\u2019s role be disclosed.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Agent, Acquisition"
         },
         {
-            "title": "3/2 The Institution\u2019s taking possession of the asset or good, prior to its sale by Murabahah",
-            "tag": "Murabahah"
+            "title": "3/2",
+            "content": "The Institution\u2019s taking possession of the asset or good, prior to its sale by Murabahah",
+            "tag": "Murabahah, Possession of Asset"
         },
         {
-            "title": "3/2/1 Possession Requirement",
+            "title": "3/2/1",
             "content": "It is obligatory that the Institution\u2019s actual or constructive possession of the item be ascertained before its sale to the customer on the basis of Murabahah.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Possession, Sale"
         },
         {
-            "title": "3/2/2 Purpose of Possession",
-            "content": "The condition that possession of the item must be taken by the Institution (before its onward sale to the customer) has a specific purpose: that the Institution must assume the risk of the item it intends to sell. This means that the item must move from the responsibility of the supplier to the responsibility of the Institution. Similarly, it is obligatory that the point when the risk of the item is passed on by the Institution to the customer be clearly identified, with reference to the stages in which the item is transferred from one party to another.",
-            "tag": "Murabahah"
+            "title": "3/2/2",
+            "content": "The condition that possession of the item must be taken by the Institution (before its onward sale to the customer) has a specific purpose: that the Institution must assume the risk of the item it intends to sell. This means that the item must move from the responsibility of the supplier to the responsibility of the Institution. Similarly, it is obligatory that the point when the risk of the item is passed on by the Institution to the customer",
+            "tag": "Murabahah, Possession, Risk, Supplier"
         },
         {
-            "title": "3/2/3 Forms of Possession",
+            "title": "3/2/3",
             "content": "The forms of taking delivery or possession of items differ according to their nature and different trade customs. Taking possession may be actual in the case of the physical delivery or transportation to the acquirer or its agent, but may also take place constructively by placing of the item at the acquirer\u2019s disposal so as to enable him to deal with it at his will, even though no physical delivery has taken place. Taking possession of an item of real property may also take place by means of the property being vacated and its being placed at the acquirer\u2019s disposal; if the latter is not able to have disposal of the purchased item, then the vacation of the property is not considered as conveying possession. In the case of moveable assets, possession will take place in accordance with the nature of the asset.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Possession, Delivery, Trade Customs"
         },
         {
-            "title": "3/2/4 Constructive Possession (Bill of Lading)",
+            "title": "3/2/4",
             "content": "The receipt of a bill of lading by the Institution or its agent, when purchasing goods on the international market, is considered as constructive possession. The same would apply to the Institution\u2019s receipt of certificates of storage issued by warehouses following appropriate and reliable formalities.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Possession, Bill of Lading, Certificates"
         },
         {
-            "title": "3/2/5 Delivery by Agent",
+            "title": "3/2/5",
             "content": "The original principle is that the Institution itself must receive the item from the premises of the supplier or from a location that is specified in the delivery conditions. The responsibility for the risk attached to the item is transferred to the Institution upon its taking possession of the item. However, it is permissible for the Institution to authorize another party to take delivery of the item on its behalf.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Delivery, Risk, Supplier"
         },
         {
-            "title": "3/2/6 Insurance",
-            "content": "As the Institution is the owner of the subject matter of Murabahah its insurance lies with the Institution before selling it to the customer. Any amount recovered from insurance at this stage will belong to the Institution exclusively and the customer has no claim to it even if the recovered amount exceeds the purchase price. The Institution is entitled to include the expenses of insurance in the Murabahah cost price to be subsequently added to the price of Murabahah. Insurance must be on the basis of Takaful whenever possible.",
-            "tag": "Murabahah"
+            "title": "3/2/6",
+            "content": "As the Institution is the owner of the subject matter of Murabahah its insurance lies with the Institution before selling it to the customer. Any amount recovered from insurance at this stage will belong to the Institution exclusively and the customer has no claim to it even if the recovered amount exceeds the purchase price. The Institution is entitled to include",
+            "tag": "Murabahah, Insurance, Ownership"
         },
         {
-            "title": "3/2/7 Agency for Insurance",
+            "title": "3/2/7",
             "content": "Agency in carrying out the procedures of obtaining insurance cover for the item at the stage of the Institution\u2019s acquisition of ownership of the asset is permitted. However, it is obligatory that the Institution should bear the cost of insurance.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Agency, Insurance, Ownership"
         },
         {
             "title": "4. Conclusion of a Murabahah Contract",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Contract"
         },
         {
-            "title": "4/1 Automatic Conclusion and Customer's Obligation",
+            "title": "4/1",
             "content": "It is not permitted for the Institution to consider that the contract of Murabahah is automatically concluded by its mere taking possession of the asset. Likewise, the Institution may not force a customer who is the purchase orderer to take delivery of the asset and pay the Murabahah selling price, if the customer refuses to conclude the Murabahah transaction.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Contract, Possession"
         },
         {
-            "title": "4/2 Compensation for Breach of Promise",
+            "title": "4/2",
             "content": "The Institution is entitled to receive compensation for any actual damage it has incurred as a result of the customer\u2019s breach of a binding promise. The compensation consists of the customer reimbursing the Institution for any loss due to a difference between the price received by the Institution in selling the asset to a third party and the original cost price paid by the Institution to the supplier.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Compensation, Breach of Promise"
         },
         {
-            "title": "4/3 Disclosure of Costs",
+            "title": "4/3",
             "content": "When the Institution has purchased an asset for a deferred price, with the intention that it will be sold on a Murabahah basis, then the Institution is obliged to disclose to the customer that the asset is pur- chased by the Institution on deferred payment basis. The Institution has the obligation to disclose to the customer, when concluding the contract of sale, the details of any expenses that it would include in determining the cost. The Institution is also entitled to include any expenses relating to the item if this is acceptable to the customer. However, if the Institution failed to disclose any expenses, it is not entitled to include them unless they are customarily considered as normal expenses, such as transportation expenses, storage expenses, fees for letters of credit and insurance premiums.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Disclosure, Expenses, Deferred Payment"
         },
         {
-            "title": "4/4 Permissible Costs",
+            "title": "4/4",
             "content": "The Institution is not entitled to include in the base cost of the item, for the purpose of calculating the Murabahah price, any amounts other than the direct expenses that are paid to a third party. It is not permissible, for example, for the Institution to add to the cost of the item payments made to its own staff for their work, and the like.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Cost, Expenses"
         },
         {
-            "title": "4/5 Discounts after Contract",
+            "title": "4/5",
             "content": "If the Institution has, even after the drawing up of the Murabahah contract, received a discount for the same item that was sold on Murabahah basis from the supplier of the item, then the customer should benefit from that discount by a reduction of the total Murabahah selling price in proportion to the discount.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Discount, Selling Price"
         },
         {
-            "title": "4/6 Price and Profit Determination",
+            "title": "4/6",
             "content": "It is an obligation that both the price of the item and the Institution\u2019s profit on the Murabahah transaction be fixed and known to both parties on the signature of the contract of sale. It is not permitted under any circumstances to subject the determination of the price or the profit to unknown variations or variations that are determinable in the future, such as by concluding the sale and making the profit dependent on the rate of LIBOR that will prevail in the future. There is no objection to referring to any other known indicators during the promise stage as a comfort indicator to determine the rate of profit, provided that the determination of the Institution\u2019s profit at the time of concluding the Murabahah is based on a certain percentage of the cost and is not tied up with LIBOR or a time factor.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Price, Profit, Contract"
         },
         {
-            "title": "4/7 Profit Mark-up",
+            "title": "4/7",
             "content": "The Institution\u2019s profit mark-up in Murabahah must be known, and the mere mention of the total selling price is not sufficient. It is permissible that the profit be determined based on a lump sum amount or a certain percentage of the cost price only or of the cost price plus the expenses. This determination is completed by the agreement and mutual consent of the two parties.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Profit, Selling Price"
         },
         {
-            "title": "4/8 Installments",
-            "content": "It is permissible to agree on the payment of the price of the item under Murabahah either by short or long term instalments, and the selling price of the asset becomes a debt that the customer is obligated to pay at the time agreed upon. It is not permitted subsequently to demand any extra payment either in consideration of extra time given for payment or for delay in payment that may be for a reason or no reason.",
-            "tag": "Murabahah"
+            "title": "4/8",
+            "content": "It is permissible to agree on the payment of the price of the item under Murabahah either by short or long term instalments, and the selling price of the asset becomes a debt that the customer is obligated to pay at the time agreed upon. It is not permitted subsequently to demand any extra payment either in consideration of extra time",
+            "tag": "Murabahah, Payment, Instalments, Debt"
         },
         {
-            "title": "4/9 Bay\u2019 al-Bara`ah (Sale on \u2018As Is\u2019 Basis)",
-            "content": "It is permissible for the Institution to stipulate in the contract of Murabahah a condition that the Institution is free from responsibility for all or some of the defects of the asset, but not from destruction caused before the possession of the customer or diminution of quantity sold; this is known as Bay\u2019 al-Bara`ah (sale on \u2018as is\u2019 basis). In the case of stipulating such a condition, it is preferable that the Institution should assign to the customer the right of recourse to the supplier to obtain compensation for any defects that are established, which would otherwise be recoverable by the Institution from the supplier.",
-            "tag": "Murabahah"
+            "title": "4/9",
+            "content": "It is permissible for the Institution to stipulate in the contract of Murabahah a condition that the Institution is free from responsibility for all or some of the defects of the asset, but not from destruction caused before the possession of the customer or diminution of quantity sold; this is known as Bay\u2019 al-Bara`ah (sale on \u2018as is\u2019 basis). (sale on \u2018as is\u2019 basis). In the case of stipulating such a condition, it is preferable that the Institution should assign to the customer the right of recourse to the supplier to obtain compensation for any defects that are established, which would otherwise be recoverable by the Institution from the supplier.",
+            "tag": "Murabahah, Defects, Bay\u2019 al-Bara`ah, Contract"
         },
         {
-            "title": "4/10 Responsibility for Defects",
+            "title": "4/10",
             "content": "The Institution shall be responsible for pre-existing hidden defects which appear after the conclusion of the contract, unless it stipulates otherwise according to item 10/4. However, it shall not be responsible for any new defects (recent defects) that arise after the conclusion of the contract and taking delivery by the customer.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Defects, Contract, Delivery"
         },
         {
-            "title": "4/11 Customer Refusal",
+            "title": "4/11",
             "content": "The Institution is entitled to include, as a condition of the contract, that in case of the customer\u2019s refusal, after the execution of the Murabahah contract, to take delivery of the asset at the prescribed time, the Institution could revoke the contract or sell the asset to a third party on behalf of the customer and for his account. The Institution could then recover from the selling price the amount due to it from the customer under the contract, and would have recourse to the customer for the balance if that price were not sufficient to cover the amount due to the customer.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Contract, Delivery, Customer Refusal"
         },
         {
             "title": "5. Guarantees and Treatment of Murabahah Receivables",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Guarantees, Receivables"
         },
         {
-            "title": "5/1 Acceleration of Installments",
+            "title": "5/1",
             "content": "It is permissible for the Institution to stipulate to the customer that instalments may become due before their originally agreed due dates in case of the customer\u2019s refusal or delay in paying any instalment without any valid reason after the lapse of the time specified in the notice to be sent by the Institution to the customer within a reasonable period of time following the due date.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Instalments, Due Dates"
         },
         {
-            "title": "5/2 Permissible Security",
+            "title": "5/2",
             "content": "The Institution should ask the customer to provide permissible security in the contract of Murabahah. Among other things, the Institution may receive a third party guarantee or the mortgagee of the investment account of the customer or the mortgagee of any item of real or moveable property, or the mortgagee of the subject matter of the Murabahah contract as a fiduciary mortgagee (or a registered charge), either without taking possession of the mortgageed asset, or by taking possession of the mortgageed asset and then releasing the mortgagee progressively according to the percentage of the total payment received.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Security, Guarantee, Mortgagee"
         },
         {
-            "title": "5/3 Cheques and Promissory Notes",
+            "title": "5/3",
             "content": "It is permissible for the Institution to require the customer to provide cheques or promissory notes before the execution of the contract of Murabahah, as a guarantee of the indebtedness that will be created after the execution of the contract. This is possible on the written condition that the Institution is not entitled to use these cheques or documents except on their due dates. The requirement to provide cheques as security is not permissible in countries where they could be presented for payment before their due date.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Cheques, Promissory Notes, Security"
         },
         {
-            "title": "5/4 Transfer of Ownership and Asset Sale",
+            "title": "5/4",
             "content": "It is not permissible to stipulate that the ownership of the item will not be transferred to the customer until the full payment of the selling price. However, it is permissible to postpone the registration of the asset in the customer\u2019s name as a guarantee of the full payment of the selling price. The Institution may receive authority from the customer to sell the asset in case the customer delays payment of the selling price, in which case the Institution should issue a counter- deed to the customer to establish the latter\u2019s right to ownership. If the Institution sells the asset as a result of the customer\u2019s failure to make a payment of the selling price on its due date, it must confine itself to recovering the amount due to it and must return the balance to the customer.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Ownership, Selling Price, Payment"
         },
         {
-            "title": "5/5 Mortgagee's Assignment",
-            "content": "In the case of the Institution receiving a mortgagee from the customer, the Institution is entitled to stipulate that the customer should make an assignment to the Institution to enable it to sell the mortgageed asset for the purpose of recovering the amount due from the customer without recourse to the judiciary.",
-            "tag": "Murabahah"
+            "title": "5/5",
+            "content": "In the case of the Institution receiving a mortgagee from the customer, the Institution is entitled to stipulate that the customer should make an assignment to the Institution to enable it to sell the mortgageed",
+            "tag": "Murabahah, Mortgagee, Assignment"
         },
         {
-            "title": "5/6 Charitable Undertaking",
+            "title": "5/6",
             "content": "It is permissible that the contract of Murabahah consists of an under- taking from the customer to pay an amount of money or a percentage of the debt, on the basis of undertaking to donate it in the event of a delay on his part in paying instalments on their due date. The Shari\u2019ah Supervisory Board of the Institution must have full knowledge that any such amount is indeed spent on charitable causes, and not for the ben- efit of the Institution itself.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Delay, Donation, Charitable Causes"
         },
         {
-            "title": "5/7 Rescheduling with Extra Payment",
+            "title": "5/7",
             "content": "It is not permissible to extend the date of payment of the debt in exchange for an additional payment in case of rescheduling, irrespectively of whether the debtor is solvent or insolvent.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Debt, Rescheduling"
         },
         {
-            "title": "5/8 Default in Payment",
+            "title": "5/8",
             "content": "When there is default in payment by the customer with regard to instalments of the selling price that are due, the amount due is just the amount of the unpaid selling price. It is not permissible for the Institution to impose any additional payment on the customer for the Institution\u2019s benefit. This provision is, however, subject to item 5/6 .",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Default, Payment, Selling Price"
         },
         {
-            "title": "5/9 Early Payment Discount",
+            "title": "5/9",
             "content": "It is permissible for the Institution to give up part of the selling price if the customer pays early, provided this was not part of the contractual agreement.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Selling Price, Early Payment"
         },
         {
-            "title": "5/10 Currency Exchange",
+            "title": "5/10",
             "content": "If the customer wishes to pay in a currency different from Murabahah currency, it is permissible, with the agreement of the Institution at the time of payment on condition that the payable debt is paid in full or the amount agreed to be paid in different currency is paid in full and no part of the currency exchange amount remains due. This currency exchange may not be stipulated in the contract of Murabahah.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Currency, Payment"
         },
         {
             "title": "6. Date of Issuance of the Standard",
             "content": "This Standard was issued on 4 Rabi\u2019 I, 1423 A.H., corresponding to 16 May 2002 A.D.",
-            "tag": "Murabahah"
+            "tag": "Murabahah, Issuance Date"
         },
         {
             "title": "Adoption of the Standard",
-            "content": "The Shari\u2019ah standard for Murabahah was adopted by the Shari\u2019ah Board in its meeting No. (4) held on 25-27 Safar 1421 A.H., corresponding to 29-31 May 2000 A.D. In its meeting No. (8) held in Mecca on 28 Safar - 4 Rabi\u2019 I, 1423 A.H., corresponding to 11-16 May 2002 A.D., the Shari\u2019ah Board readopted a resolution to reformat the Shari\u2019ah rules for Murabahah in the form of a Shari\u2019ah standard.",
+            "content": "The Shari\u2019ah standard for Murabahah was adopted by the Shari\u2019ah Board in its meeting No. (4) held on 25-27 Safar 1421 A.H., corresponding to 29-31 May 2000 A.D.\nIn its meeting No. (8) held in Mecca on 28 Safar - 4 Rabi\u2019 I, 1423 A.H., corresponding to 11-16 May 2002 A.D., the Shari\u2019ah Board readopted a resolution to reformat the Shari\u2019ah rules for Murabahah in the form of a Shari\u2019ah standard.",
             "tag": "standard_adoption"
         },
         {
             "title": "Appendix (A)",
-            "content": "Notice from Institution\u2019s Customer of Its Performance of Purchasing Asset or Good As Agent for Institution, and of Its Offer to Purchase Item from Institution According to Contract of Murabahah",
-            "sections": [
-                {
-                    "title": "Notice from the institution\u2019s customer of its performance of the purchase of the asset or good as agent for the institution:",
-                    "content": "From: (The Institution\u2019s customer as agent) To: (The Institution) In the performance of my contract of agency with you, I hereby inform you that I have purchased the item described below on your behalf and for your benefit. This item is in my possession on your behalf. In accordance with my promise to you, I hereby agree to purchase this item from you for a total price of \u2026..., namely the cost price of \u2026... plus the mark-up of \u2026.... The payment of this price will be in accordance with the following schedule of instalments: - \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. - \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. Please send the acceptance in accordance with this offer.",
-                    "tag": "murabahah_notice_customer"
-                }
-            ],
-            "tag": "murabahah_appendix"
+            "content": "Notice from Institution\u2019s Customer of Its Performance of Purchasing Asset or Good As Agent for Institution, and of Its Offer to Purchase Item from Institution According to Contract of Murabahah\nNotice from the institution\u2019s customer of its performance of the purchase of the asset or good as agent for the institution:\nFrom: (The Institution\u2019s customer as agent)\nTo: (The Institution)\nIn the performance of my contract of agency with you, I hereby inform you that I have purchased the item described below on your behalf and for your benefit. This item is in my possession on your behalf.\nIn accordance with my promise to you, I hereby agree to purchase this item from you for a total price of \u2026..., namely the cost price of \u2026... plus the mark-up of \u2026....\nThe payment of this price will be in accordance with the following schedule of instalments: - \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. - \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\nPlease send the acceptance in accordance with this offer.",
+            "tag": "murabahah_contract_documents"
         },
         {
             "title": "Appendix (B)",
-            "content": "Notice of Acceptance by Institution of Customer\u2019s Offer to Purchase Asset or Good to Be Acquired, and of selling item by Institution to Customer",
-            "sections": [
-                {
-                    "title": "Notice of the acceptance by the Institution of the customer\u2019s offer to purchase the asset or good to be acquired:",
-                    "content": "From: (The Institution) To: (The customer as the Institution\u2019s agent) In response to your notice dated \u2026.., containing your offer to purchase the item described below which is owned by us, we hereby confirm to you our sale of the item to you at a total price of \u2026.. comprising the cost price of \u2026.. plus the mark-up of \u2026.., in accordance with the conditions explained in the general agreement to a contract of Murabahah. Please send the acceptance in accordance with this offer.",
-                    "tag": "murabahah_notice_institution"
-                }
-            ],
-            "tag": "murabahah_appendix"
+            "content": "Notice of Acceptance by Institution of Customer\u2019s Offer to Purchase Asset or Good to Be Acquired, and of selling item by Institution to Customer\nNotice of the acceptance by the Institution of the customer\u2019s offer to purchase the asset or good to be acquired:\nFrom: (The Institution)\nTo: (The customer as the Institution\u2019s agent)\nIn response to your notice dated \u2026.., containing your offer to purchase the item described below which is owned by us, we hereby confirm to you our sale of the item to you at a total price of \u2026.. comprising the cost price of \u2026.. plus the mark-up of \u2026.., in accordance with the conditions explained in the general agreement to a contract of Murabahah.\nPlease send the acceptance in accordance with this offer.",
+            "tag": "murabahah_contract_documents"
         },
         {
             "title": "Appendix (C)",
             "content": "Brief History of the Preparation of the Standard",
+            "tag": "standard_history",
             "sections": [
                 {
-                    "title": "History of the Preparation",
-                    "content": "In its meeting No. (1) held on 11 Dhul-Hajjah 1419 A.H., corresponding to 27 February 1999 A.D., the Shari\u2019ah Board decided to give priority to the preparation of a Standard setting out the Shari\u2019ah rules for Murabahah. On Tuesday 13 Dhul-Hajjah 1419 A.H., corresponding to 30 March 1999 A.D., the Fatwa and Arbitration Committee recommended to the Shari\u2019ah Board the commissioning of a Shari\u2019ah consultant to prepare a juristic study and an exposure draft of the Shari\u2019ah Rules for Murabahah. In its meeting held on 13-14 Rajab 1420 A.H., corresponding to 22- 23 October 1999 A.D., the Fatwa and Arbitration Committee discussed the exposure draft of the Shari\u2019ah Rules for Murabahah, and asked the consultant to make the amendments in light of the comments made by the members. The revised exposure draft of the Shari\u2019ah Rules was presented to the Shari\u2019ah Board in its meeting No. (2) held in Mecca on 10-15 Ramadan 1420 A.H., corresponding to 18-22 December 1999 A.D. The Shari\u2019ah Board made further amendments to the exposure draft of the Shari\u2019ah Rules and decided that it should be distributed to specialists and interested parties in order to obtain their comments in order to discuss them in a public hearing. A public hearing was held in Bahrain on 29\u201330 Dhul-Hajjah 1421 A.H., corresponding to 4-5 April 2000 A.D. The public hearing was attended by more than 30 participants representing central banks, institutions, accounting firms, Shari\u2019ah scholars, academics and others who are interested in this field. The members responded to the written comments that were sent prior to the public hearing as well as to the oral comments that were expressed in the public hearing. The Shari\u2019ah Studies Committee and the Fatwa and Arbitration Committee held a joint meeting on 21-23 Muharram 1421 A.H., corresponding to 26-28 April 2000 A.D., to discuss the comments made about the exposure draft of the Shari\u2019ah Rules. The joint meeting made the necessary amendments, which it deemed necessary in light of the discussions that took place in the public hearing. The Shari\u2019ah Board in its meeting No. (4) held on 25\u201327 Safar 1421 A.H., corresponding to 29\u201331 May 2000 A.D., in Al-Madinah Al-Munawwarah discussed the amendments made by the Shari\u2019ah Studies Committee and the Fatwa and Arbitration Committee, and made the necessary amendments, which it deemed necessary. The standard was adopted with the name of \u201cShari\u2019ah Rules for the Murabahah\u201d. Some paragraphs were adopted by the unanimous vote of the members of the Shari\u2019ah Board, while the other paragraphs were adopted by the majority vote of the members, as recorded in the minutes of the Shari\u2019ah Board. The Shari\u2019ah Board decided in its meeting No. (7) held in Makkah Al- Mukarramah on 9-13 Ramadan 1422 A.H., corresponding 24-28 November 2001 A.D., to pass a resolution to reformat all Shari\u2019ah rules in a form of standards and a committee was formed for this purpose. In its meeting No. (8) held in Al-Madinah Al-Munawwarah on 28 Safar - 4 Rabi\u2019 I, 1423 A.H., corresponding to 11-16 May 2002 A.D., the Shari\u2019ah Board adopted the reformatting of the Shari\u2019ah Rules for Investment and Financing No. (1) on Murabahah with the name of Shari\u2019ah Standard No. (8) on Murabahah. The Shari\u2019ah Standards Review Committee reviewed the standard in its meeting held in Rabi\u2019 II, 1433 A.H., corresponding to March 2012 A.D., in the State of Qatar, and proposed after deliberation a set of amendments (additions, deletions, and rephrasing) as deemed necessary, and then submitted the proposed amendments to the Shari\u2019ah Board for approval as it deemed necessary. In its meeting No. (39) held in the Kingdom of Bahrain on 13-15 Muharram 1435 A.H., corresponding to 6-8 November 2014 A.D., the Shari\u2019ah Board discussed the proposed amendments submitted by the Shari\u2019ah Standards Review Committee. After deliberation, the Shari\u2019ah Board approved the necessary amendments, and the standard was adopted in its current amended version.",
-                    "tag": "murabahah_history"
+                    "title": "1",
+                    "content": "In its meeting No. (1) held on 11 Dhul-Hajjah 1419 A.H., corresponding to 27 February 1999 A.D., the Shari\u2019ah Board decided to give priority to the preparation of a Standard setting out the Shari\u2019ah rules for Murabahah.",
+                    "tag": "standard_preparation"
+                },
+                {
+                    "title": "2",
+                    "content": "On Tuesday 13 Dhul-Hajjah 1419 A.H., corresponding to 30 March 1999 A.D., the Fatwa and Arbitration Committee recommended to the Shari\u2019ah Board the commissioning of a Shari\u2019ah consultant to prepare a juristic study and an exposure draft of the Shari\u2019ah Rules for Murabahah.",
+                    "tag": "standard_preparation"
+                },
+                {
+                    "title": "3",
+                    "content": "In its meeting held on 13-14 Rajab 1420 A.H., corresponding to 22-23 October 1999 A.D., the Fatwa and Arbitration Committee discussed the exposure draft of the Shari\u2019ah Rules for Murabahah, and asked the consultant to make the amendments in light of the comments made by the members.",
+                    "tag": "standard_preparation"
+                },
+                {
+                    "title": "4",
+                    "content": "The revised exposure draft of the Shari\u2019ah Rules was presented to the Shari\u2019ah Board in its meeting No. (2) held in Mecca on 10-15 Ramadan 1420 A.H., corresponding to 18-22 December 1999 A.D. The Shari\u2019ah Board made further amendments to the exposure draft of the Shari\u2019ah Rules and decided that it should be distributed to specialists and interested parties in order to obtain their comments in order to discuss them in a public hearing.",
+                    "tag": "standard_preparation"
+                },
+                {
+                    "title": "5",
+                    "content": "A public hearing was held in Bahrain on 29\u201330 Dhul-Hajjah 1421 A.H., corresponding to 4-5 April 2000 A.D. The public hearing was attended by more than 30 participants representing central banks, institutions, accounting firms, Shari\u2019ah scholars, academics and others who are interested in this field. The members responded to the written comments that were",
+                    "tag": "public_hearing"
+                },
+                {
+                    "title": "6",
+                    "content": "The Shari\u2019ah Studies Committee and the Fatwa and Arbitration Committee held a joint meeting on 21-23 Muharram 1421 A.H., corresponding to 26-28 April 2000 A.D., to discuss the comments made about the exposure draft of the Shari\u2019ah Rules. The joint meeting made the necessary amendments, which it deemed necessary in light of the discussions that took place in the public hearing.",
+                    "tag": "standard_preparation"
+                },
+                {
+                    "title": "7",
+                    "content": "The Shari\u2019ah Board in its meeting No. (4) held on 25\u201327 Safar 1421 A.H., corresponding to 29\u201331 May 2000 A.D., in Al-Madinah Al-Munawwarah discussed the amendments made by the Shari\u2019ah Studies Committee and the Fatwa and Arbitration Committee, and made the necessary amendments, which it deemed necessary. The standard was adopted with the name of \u201cShari\u2019ah Rules for the Murabahah\u201d. Some paragraphs were adopted by the unanimous vote of the members of the Shari\u2019ah Board, while the other paragraphs were adopted by the majority vote of the members, as recorded in the minutes of the Shari\u2019ah Board.",
+                    "tag": "standard_preparation"
+                },
+                {
+                    "title": "8",
+                    "content": "The Shari\u2019ah Board decided in its meeting No. (7) held in Makkah Al- Mukarramah on 9-13 Ramadan 1422 A.H., corresponding 24-28 November 2001 A.D., to pass a resolution to reformat all Shari\u2019ah rules in a form of standards and a committee was formed for this purpose.",
+                    "tag": "standard_preparation"
+                },
+                {
+                    "title": "9",
+                    "content": "In its meeting No. (8) held in Al-Madinah Al-Munawwarah on 28 Safar - 4 Rabi\u2019 I, 1423 A.H., corresponding to 11-16 May 2002 A.D., the Shari\u2019ah Board adopted the reformatting of the Shari\u2019ah Rules for Investment and Financing No. (1) on Murabahah with the name of Shari\u2019ah Standard No. (8) on Murabahah.",
+                    "tag": "standard_preparation"
+                },
+                {
+                    "title": "10",
+                    "content": "The Shari\u2019ah Standards Review Committee reviewed the standard in its meeting held in Rabi\u2019 II, 1433 A.H., corresponding to March 2012 A.D., in the State of Qatar, and proposed after deliberation a set of amendments (additions, deletions, and rephrasing) as deemed necessary, and then submitted the proposed amendments to the Shari\u2019ah Board for approval as it deemed necessary.",
+                    "tag": "standard_revision"
+                },
+                {
+                    "title": "11",
+                    "content": "In its meeting No. (39) held in the Kingdom of Bahrain on 13-15 Muharram 1435 A.H., corresponding to 6-8 November 2014 A.D., the Shari\u2019ah Board discussed the proposed amendments submitted by the Shari\u2019ah Standards Review Committee. After deliberation, the Shari\u2019ah Board approved the necessary amendments, and the standard was adopted in its current amended version.",
+                    "tag": "standard_revision"
                 }
-            ],
-            "tag": "murabahah_appendix"
+            ]
+        },
+        {
+            "title": "Appendix (D)",
+            "tag": "appendix"
         },
         {
             "title": "The Shari\u2019ah Basis for the Standard",
+            "tag": "shariah_basis"
+        },
+        {
+            "title": "Preface on the Permissibility of Murabahah",
+            "tag": "permissibility"
+        },
+        {
+            "title": "Definition of Murabahah",
+            "content": "Murabahah is selling a commodity as per the purchasing price with a defined and agreed profit mark-up. This mark-up may be a percentage of the selling price or a lump sum. This transaction may be concluded either without a prior promise to buy, in which case it is called an ordinary Mura- bahah, or with a prior promise to buy submitted by a person interested in acquiring goods through the Institution, in which case it is called a \u201cbanking Murabahah\u201d i.e. Murabahah to the purchase orderer. This transaction is one of the trust-based contracts that depends on transparency as to the actual purchasing price or cost price in addition to common expenses.",
+            "tag": "definition"
+        },
+        {
+            "title": "Permissibility of Murabahah",
+            "tag": "permissibility",
             "sections": [
                 {
-                    "title": "Preface on the Permissibility of Murabahah",
-                    "content": "Definition of Murabahah\nMurabahah is selling a commodity as per the purchasing price with a defined and agreed profit mark-up. This mark-up may be a percentage of the selling price or a lump sum. This transaction may be concluded either without a prior promise to buy, in which case it is called an ordinary Mura- bahah, or with a prior promise to buy submitted by a person interested in acquiring goods through the Institution, in which case it is called a \u201cbanking Murabahah\u201d i.e. Murabahah to the purchase orderer. This transaction is one of the trust-based contracts that depends on transparency as to the actual purchasing price or cost price in addition to common expenses.",
-                    "tag": "definition"
-                },
-                {
-                    "title": "Permissibility of Murabahah",
-                    "content": "The authorities for the permissibility of Murabahah are authorities on the permissibility of sale. Among them is the saying of Allah, the exalted: {\u201c...Allah has permitted trade...\u201d} (3) Some scholars has also cited to support the permissibility of Murabahah the saying of Allah, the Exalted: {\u201cIt is no crime for you to seek the bounty of your Lord,\u201d} (4) arguing arguing that the bounty mentioned here means profit. The Murabahah is also analogous to a form of sale called Tawliyyah (which means to sell as per (which means to sell as per the purchasing price without making profit). This is because the Prophet (peace be upon him) purchased a she-camel from Abu Bakr to use it as a transportation to immigrate to Medina. Abu Bakr wanted to give it to the Prophet (peace be upon him) free of charge, but the Prophet refused",
-                    "tag": "permissibility"
+                    "title": "1",
+                    "content": "The authorities for the permissibility of Murabahah are authorities on the permissibility of sale. Among them is the saying of Allah, the exalted: {\u201c...Allah has permitted trade...\u201d} (3) Some scholars has also cited to Some scholars has also cited to support the permissibility of Murabahah the saying of Allah, the Exalted: {\u201cIt is no crime for you to seek the bounty of your Lord,\u201d} (4) arguing arguing that the bounty mentioned here means profit. The Murabahah is also analogous to a form of sale called Tawliyyah (which means to sell as per (which means to sell as per the purchasing price without making profit). This is because the Prophet (peace be upon him) purchased a she-camel from Abu Bakr to use it as a transportation to immigrate to Medina. Abu Bakr wanted to give it to the Prophet (peace be upon him) free of charge, but the Prophet refused (3) [Al-Baqarah (The Cow): 275]. (4) [Al-Baqarah (The Cow): 198].",
+                    "tag": "permissibility_authorities"
                 }
-            ],
-            "tag": "Shariah basis"
+            ]
         },
         {
             "title": "Promise from the Purchase Orderer",
-            "content": "\u25a0 The basis for the permissibility of responding to the application of the customer that the Institution buys the commodity from a particular supplier is because such a demand will not affect the acquisition of the commodity by the Institution, especially in view of the fact that this de- mand is not binding. The Institution is entitled to acquire the commodity from another supplier provided the commodity complies with the de- sired specification. The customer may be forced to fulfil his obligation on the basis of general sources of the Qur`an and Sunnah that require fulfilment of obligation and undertaking. The International Fiqh Acade- my has issued a resolution endorsing a unilateral binding promise. \u25a0 The basis for allowing price quotations be submitted in the name of customer is because such an act has no contractual effect if there is no acceptance by the customer. The basis why it is preferred that the quotation be submitted in the name of the Institution, is to avoid confusion and this is what was endorsed by the Fatwas of Qatar Islamic Bank, and Kuwait Finance House. \u25a0 The basis for not allowing a Murabahah deal when the customer accepts the deal directly from the supplier is because, by this, a sale contract has taken place between the customer and the supplier in which case the commodity enters into ownership of the customer. This ruling will not be affected whether or not the customer has paid the price. This is be- cause payment is not a condition for the permissibility and conclusion of and conclusion of a contract as payment of the price is but a consequence of a contract and is not principal requirement or a condition for regarding a contract valid.",
-            "tag": "promise"
-        },
-        {
-            "title": "The basis for the requirement that...",
+            "tag": "promise",
             "sections": [
                 {
-                    "title": "The basis for the requirement that there must not be any contractual commitment...",
-                    "content": "The basis for the requirement that there must not be any contractual com- mitment between the customer and the supplier is to safeguard against the contract being a mere interest-based financing. Therefore, the lack of any commitment between the customer and the supplier is a basic con- dition for the permissibility of executing a Murabahah by the Institution.",
-                    "tag": "requirement"
+                    "title": "1",
+                    "content": "The basis for the permissibility of responding to the application of the customer that the Institution buys the commodity from a particular supplier is because such a demand will not affect the acquisition of the commodity by the Institution, especially in view of the fact that this de- mand is not binding. The Institution is entitled to acquire the commodity from another supplier provided the commodity complies with the de- sired specification. The customer may be forced to fulfil his obligation on the basis of general sources of the Qur`an and Sunnah that require fulfilment of obligation and undertaking. The International Fiqh Acade- my has issued a resolution endorsing a unilateral binding promise. (5) The The same was adopted in a fatwa for Kuwait Finance House, (6) Qatar Islamic Qatar Islamic Bank, (7) and others.",
+                    "tag": "promise_basis"
                 },
                 {
-                    "title": "The basis for the requirement that the customer must not have any (busi-ness) connection with the supplier...",
-                    "content": "The basis for the requirement that the customer must not have any (busi- ness) connection with the supplier is to avoid involving in a \u2019Inah (sell and buy back) transaction that is prohibited by Shari\u2019ah.",
-                    "tag": "requirement"
+                    "title": "2",
+                    "content": "The basis for allowing price quotations be submitted in the name of customer is because such an act has no contractual effect if there is no acceptance by the customer. The basis why it is preferred that the quotation be submitted in the name of the Institution, is to avoid confusion and this is what was endorsed by the Fatwas of Qatar Islamic Bank, (8) and Kuwait and Kuwait Finance House. (9)",
+                    "tag": "price_quotations"
                 },
                 {
-                    "title": "The basis for the permissibility that the supplier may be a relative of the customer...",
-                    "content": "The basis for the permissibility that the supplier may be a relative of the customer or a husband or wife to the customer is because both parties have independent legal liability unless it has come to be that they are involved in a Inah transaction, in which case the transaction is prohibited. This is to defeat a potential intentional arrangement to evade formalities of the transaction.",
-                    "tag": "permissibility"
-                },
-                {
-                    "title": "The basis for not allowing a partner to promise to buy the shares of another partner...",
-                    "content": "The basis for not allowing a partner to promise to buy the shares of another partner on a Murabahah basis is because this will lead to the buyer guaran- teeing the share of other partner, which is Riba.",
-                    "tag": "prohibition"
-                },
-                {
-                    "title": "The basis for not allowing dealings in gold, silver and currencies on de-ferred Murabahah basis...",
-                    "content": "The basis for not allowing dealings in gold, silver and currencies on de- ferred Murabahah basis is the saying of the Prophet, peace be upon him, in respect to exchange of gold with silver that such exchange take place \u201chand to hand\u201d; i.e., without delay in delivery, and the rules of cur- rencies are subsumed under the ruling for gold and silver.",
-                    "tag": "prohibition"
-                },
-                {
-                    "title": "The basis for the prohibition of Murabahah tradable securities or refinancing of a Murabahah transaction...",
-                    "content": "The basis for the prohibition of Murabahah tradable securities or refinancing of a Murabahah transaction is because these fall under the heading of sale of debt that is prohibited by Shari\u2019ah.",
-                    "tag": "prohibition"
-                },
-                {
-                    "title": "The basis for not allowing a bilateral binding promise...",
-                    "content": "The basis for not allowing a bilateral binding promise is because it amounts to to a contract prior to acquisition of the item to be sold.",
-                    "tag": "prohibition"
-                },
-                {
-                    "title": "The basis for the permissibility of the agreement to amend the terms of the promise...",
-                    "content": "The basis for the permissibility of the agreement to amend the terms of the promise is because a promise is not a contract and as such the amend ment",
-                    "tag": "permissibility"
+                    "title": "3",
+                    "content": "The basis for not allowing a Murabahah deal when the customer accepts the deal directly from the supplier is because, by this, a sale contract has taken place between the customer and the supplier in which case the commodity enters into ownership of the customer. This ruling will not be affected whether or not the customer has paid the price. This is be- cause payment is not a condition for the permissibility and conclusion of and conclusion of a contract as payment of the price is but a consequence of a contract and is not principal requirement or a condition for regarding a contract valid. (5) International Fiqh Academy Resolution No. 40-41 (2/5 and 3/5). (6) Fatwa No. (49). (7) Fatwa No. (8). (8) Fatwa No. (35). (9) Fatwa No. (87).",
+                    "tag": "not_allowing_deal"
                 }
-            ],
-            "tag": "requirements"
+            ]
         },
         {
-            "title": "The basis for...",
-            "sections": [
-                {
-                    "title": "The basis for using options when buying on Murabahah...",
-                    "content": "The basis for using options when buying on Murabahah is the case of Hib- ban Ibn Munqidh when the Prophet (peace be upon him), said to him: \u201cIf you buy, a condition that there is no cheating and that you have a three day period for any of the goods bought. If you are satisfied, then keep it and if you are not satisfied, return it to the buyer.\u201d The ruling on the application of option in Murabahah is endorsed by a resolution issued during the second Fiqh Forum organised by Kuwait Finance House.",
-                    "tag": "permissibility"
-                },
-                {
-                    "title": "The basis for the impermissibility of a commitment fee...",
-                    "content": "The basis for the impermissibility of a commitment fee is because such a fee is in exchange for the right to contract, which is a mere intention and wish that is not a subject of exchange.",
-                    "tag": "prohibition"
-                },
-                {
-                    "title": "The basis for the impermissibility of a facility commission...",
-                    "content": "The basis for the impermissibility of a facility commission is because it is not allowed to receive commission in the event of giving out a loan facility itself. It is therefore a logical conclusion to disallow commission for a mere readiness to finance the customer on a deferred payment basis.",
-                    "tag": "prohibition"
-                },
-                {
-                    "title": "The basis for allowing that the expenses of preparing the document of contracts...",
-                    "content": "The basis for allowing that the expenses of preparing the document of contracts between the Institution and the customer be borne by the two parties is because both parties will equally benefit from this, and more- over there is no any impermissible act involved. The basis for the permis- sibility that these expenses may be borne by one of the parties is because this is a form of condition that is permissible.",
-                    "tag": "permissibility"
-                },
-                {
-                    "title": "The basis for the permissibility of the customer guaranteeing the good performance of the supplier...",
-                    "content": "The basis for the permissibility of the customer guaranteeing the good performance of the supplier is because this guarantee secures rights and does not adversely affect any rules of the Murabahah transaction.",
-                    "tag": "permissibility"
-                },
-                {
-                    "title": "The basis for not allowing that the customer guarantee the risk of transportation of the goods...",
-                    "content": "The basis for not allowing that the customer guarantee the risk of trans- portation of the goods is because the safety of the goods is the responsi- bility of the owner and the customer is not the owner. Hence, the owner must bear the risk since the right to profit is associated with bearing risk.",
-                    "tag": "prohibition"
-                },
-                {
-                    "title": "The basis for the permissibility of Hamish Jiddiyyah (security deposit) is...",
-                    "content": "The basis for the permissibility of Hamish Jiddiyyah (security deposit) is because it is a form of guarantee for any financial damage that may occur.",
-                    "tag": "permissibility"
-                },
-                {
-                    "title": "The basis for the permissibility of obtaining the earnest money to secure performance...",
-                    "content": "The basis for the permissibility of obtaining the earnest money to secure performance is the practice of Umar Ibn Al-Khattab (may Allah be pleased with him)",
-                    "tag": "permissibility"
-                }
-            ],
-            "tag": "bases"
+            "title": "1",
+            "content": "The basis for the requirement that there must not be any contractual com- mitment between the customer and the supplier is to safeguard against the contract being a mere interest-based financing. Therefore, the lack of any commitment between the customer and the supplier is a basic con- dition for the permissibility of executing a Murabahah by the Institution.",
+            "tag": "requirement_contractual_commitment"
+        },
+        {
+            "title": "2",
+            "content": "The basis for the requirement that the customer must not have any (busi- ness) connection with the supplier is to avoid involving in a \u2019Inah (sell and buy back) transaction that is prohibited by Shari\u2019ah.",
+            "tag": "requirement_customer_supplier_connection"
+        },
+        {
+            "title": "3",
+            "content": "The basis for the permissibility that the supplier may be a relative of the customer or a husband or wife to the customer is because both parties have independent legal liability unless it has come to be that they are involved in a Inah transaction, in which case the transaction is prohibited. This is to defeat a potential intentional arrangement to evade formalities of the transaction. The Fatwa of Kuwait Finance House supports this.(10)",
+            "tag": "permissibility_supplier_relative"
+        },
+        {
+            "title": "4",
+            "content": "The basis for not allowing a partner to promise to buy the shares of another partner on a Murabahah basis is because this will lead to the buyer guaran- teeing the share of other partner, which is Riba.",
+            "tag": "not_allowing_partner_promise"
+        },
+        {
+            "title": "5",
+            "content": "The basis for not allowing dealings in gold, silver and currencies on de- ferred Murabahah basis is the saying of the Prophet, peace be upon him, in respect to exchange of gold with silver that such exchange take place \u201chand to hand\u201d; (11) i.e., without delay in delivery, and the rules of cur- i.e., without delay in delivery, and the rules of cur- rencies are subsumed under the ruling for gold and silver. This ruling is endorsed by the resolution of the International Fiqh Academy. (12)",
+            "tag": "not_allowing_dealings_currencies"
+        },
+        {
+            "title": "6",
+            "content": "The basis for the prohibition of Murabahah tradable securities or refinancing of a Murabahah transaction is because these fall under the heading of sale of debt that is prohibited by Shari\u2019ah.",
+            "tag": "prohibition_securities"
+        },
+        {
+            "title": "7",
+            "content": "The basis for not allowing a bilateral binding promise is because it amounts to to a contract prior to acquisition of the item to be sold. The International Fiqh Academy has issued a resolution in this respect. (13)",
+            "tag": "not_allowing_bilateral_promise"
+        },
+        {
+            "title": "8",
+            "content": "The basis for the permissibility of the agreement to amend the terms of the promise is because a promise is not a contract and as such the amend ment (10) Fatwa No. (55). (11) The Hadith has been related by Muslim in his \u201cSahih\u201d \u201cSahih\u201d. . (12) International Fiqh Academy Resolution No. 63 (1/7). (13) International Fiqh Academy Resolution No. 41(3/5).",
+            "tag": "permissibility_amend_terms"
+        },
+        {
+            "title": "9",
+            "content": "of the profit margin and the duration will not amount to rescheduling of debt which is prohibited by Shari\u2019ah.",
+            "tag": "profit_margin_duration"
+        },
+        {
+            "title": "10",
+            "content": "The basis for using options when buying on Murabahah is the case of Hib- ban Ibn Munqidh when the Prophet (peace be upon him), said to him: \u201cIf you buy, a condition that there is no cheating and that you have a three day period for any of the goods bought. If you are satisfied, then keep it and if you are not satisfied, return it to the buyer.\u201d (14) The ruling on the application of The ruling on the application of option in Murabahah is endorsed by a resolution issued during the second Fiqh Forum organised by Kuwait Finance House.",
+            "tag": "using_options"
+        },
+        {
+            "title": "11",
+            "content": "The basis for the impermissibility of a commitment fee is because such a fee is in exchange for the right to contract, which is a mere intention and wish that is not a subject of exchange.",
+            "tag": "impermissibility_commitment_fee"
+        },
+        {
+            "title": "12",
+            "content": "The basis for the impermissibility of a facility commission is because it is not allowed to receive commission in the event of giving out a loan facility itself. It is therefore a logical conclusion to disallow commission for a mere readiness to finance the customer on a deferred payment basis.",
+            "tag": "impermissibility_facility_commission"
+        },
+        {
+            "title": "13",
+            "content": "The basis for allowing that the expenses of preparing the document of contracts between the Institution and the customer be borne by the two parties is because both parties will equally benefit from this, and more- over there is no any impermissible act involved. The basis for the permis- sibility that these expenses may be borne by one of the parties is because this is a form of condition that is permissible.",
+            "tag": "allowing_expenses"
+        },
+        {
+            "title": "14",
+            "content": "The basis for the permissibility of the customer guaranteeing the good performance of the supplier is because this guarantee secures rights and does not adversely affect any rules of the Murabahah transaction.",
+            "tag": "permissibility_customer_guarantee"
+        },
+        {
+            "title": "15",
+            "content": "The basis for not allowing that the customer guarantee the risk of trans- portation of the goods is because the safety of the goods is the responsi- bility of the owner and the customer is not the owner. Hence, the owner must bear the risk since the right to profit is associated with bearing risk.",
+            "tag": "not_allowing_customer_guarantee_risk"
+        },
+        {
+            "title": "16",
+            "content": "The basis for the permissibility of Hamish Jiddiyyah (security deposit) is because it is a form of guarantee for any financial damage that may occur.",
+            "tag": "permissibility_hamish_jiddiyyah"
+        },
+        {
+            "title": "17",
+            "content": "The basis for the permissibility of obtaining the earnest money to secure performance is the practice of Umar Ibn Al-Khattab (may Allah be pleased (14) The Hadith has been related by Ibn Majah, \u201cSunan Ibn Majah\u201d \u201cSunan Ibn Majah\u201d [2: 789]. [2: 789].",
+            "tag": "permissibility_earnest_money"
         },
         {
             "title": "Acquisition of Title to, and Possession of, the Asset by the Institution or its Agent",
-            "sections": [
-                {
-                    "title": "The basis for the prohibition of selling a commodity before taking possession...",
-                    "content": "The basis for the prohibition of selling a commodity before taking possession is the saying of the Prophet (peace be upon him): \u201cDo not sell what you own not\u201d and the Hadith in which the Prophet (peace be upon him) prohibits a person from selling what he does not own.",
-                    "tag": "prohibition"
-                },
-                {
-                    "title": "The basis for preferring that the Institution appoint an agent other than the purchase orderer...",
-                    "content": "The basis for preferring that the Institution appoint an agent other than the purchase orderer in case of the need to do so is to avoid a fictitious transaction that shows on paper that the acquisition is made on behalf of the Institution. This is necessary in order that the Institution appear as the real purchaser and in order to demarcate the liabilities of the parties, the liability of the Institution and the liability of the purchase orderer after the sale contract.",
-                    "tag": "preference"
-                },
-                {
-                    "title": "The basis for the requirement that the Institution must pay the supplier directly...",
-                    "content": "The basis for the requirement that the Institution must pay the supplier directly is to avoid the risk of the contract degenerating into mere interest- based financing.",
-                    "tag": "requirement"
-                },
-                {
-                    "title": "The basis for the requirement that the liabilities of the parties -in case the Institution acquires the goods through agency-...",
-                    "content": "The basis for the requirement that the liabilities of the parties -in case the Institution acquires the goods through agency- is to demarcate the two liabilities.",
-                    "tag": "requirement"
-                },
-                {
-                    "title": "The basis for the requirement that documents must be directed to the Institution...",
-                    "content": "The basis for the requirement that documents must be directed to the Institution is because the purchase is taking place on behalf of the institution.",
-                    "tag": "requirement"
-                },
-                {
-                    "title": "The basis for the requirement that the agent must explain to the supplier his agency status...",
-                    "content": "The basis for the requirement that the agent must explain to the supplier his agency status is to control the transaction and to determine the party to be referred to for the execution of the contract.",
-                    "tag": "requirement"
-                }
-            ],
-            "tag": "acquisition and possession"
+            "tag": "acquisition_possession"
         },
         {
-            "title": "The basis for...",
-            "sections": [
-                {
-                    "title": "The basis for the requirement of possession before a sale contract is to ensure...",
-                    "content": "The basis for the requirement of possession before a sale contract is to ensure that the Institution becomes liable for the risk of destruction of the commodity before it is entitled to sell it.",
-                    "tag": "requirement"
-                },
-                {
-                    "title": "The basis for separating an agency contract from a Murabahah transac- tion...",
-                    "content": "The basis for separating an agency contract from a Murabahah transac- tion is to be sure that there is no any intentional arrangement to connect the two contracts.",
-                    "tag": "requirement"
-                },
-                {
-                    "title": "The basis for the rule that constructive possession is sufficient to meet the requirement of possession...",
-                    "content": "The basis for the rule that constructive possession is sufficient to meet the requirement of possession and that possession is according to the nature of the items is because the Shari\u2019ah did not state a particular form for pos- session. Rather this is left to the customary practices. Again, the purpose of possession is to enable one to have control over something. Therefore, any procedure that serves this objective would be regarded as possession.",
-                    "tag": "rule"
-                },
-                {
-                    "title": "The basis for the requirement that the contract of agency be separate from the contract of sale on a Murabahah basis...",
-                    "content": "The basis for the requirement that the contract of agency be separate from the contract of sale on a Murabahah basis is because of the risk that the contracts may be connected to each other.",
-                    "tag": "requirement"
-                },
-                {
-                    "title": "The basis for the rule that the Institution bear the expenses of insurance...",
-                    "content": "The basis for the rule that the Institution bear the expenses of insurance is because these expenses follow ownership of the goods.",
-                    "tag": "rule"
-                }
-            ],
-            "tag": "bases"
+            "title": "1",
+            "content": "The basis for the prohibition of selling a commodity before taking possession is the saying of the Prophet (peace be upon him): \u201cDo not sell \u201cDo not sell what you own not\u201d (17) and the Hadith in which the Prophet (peace be upon and the Hadith in which the Prophet (peace be upon him) prohibits a person from selling what he does not own. (18) The basis The basis for preferring that the Institution appoint an agent other than the purchase orderer in case of the need to do so is to avoid a fictitious transaction that shows on paper that the acquisition is made on behalf of the Institution. This is necessary in order that the Institution appear as the real purchaser and in order to demarcate the liabilities of the parties, the liability of the Institution and the liability of the purchase orderer after the sale contract.",
+            "tag": "prohibition_selling_before_possession"
+        },
+        {
+            "title": "2",
+            "content": "The basis for the requirement that the Institution must pay the supplier directly is to avoid the risk of the contract degenerating into mere interest- based financing.",
+            "tag": "requirement_institution_pay_supplier"
+        },
+        {
+            "title": "3",
+            "content": "The basis for the requirement that the liabilities of the parties -in case the Institution acquires the goods through agency- is to demarcate the two liabilities.",
+            "tag": "requirement_liabilities_parties"
+        },
+        {
+            "title": "4",
+            "content": "The basis for the requirement that documents must be directed to the Institution is because the purchase is taking place on behalf of the institution.",
+            "tag": "requirement_documents_institution"
+        },
+        {
+            "title": "5",
+            "content": "The basis for the requirement that the agent must explain to the supplier his agency status is to control the transaction and to determine the party to be referred to for the execution of the contract.",
+            "tag": "requirement_agent_explain_agency"
+        },
+        {
+            "title": "6",
+            "content": "The basis for the requirement of possession before a sale contract is to ensure that the Institution becomes liable for the risk of destruction of the commodity before it is entitled to sell it.",
+            "tag": "requirement_possession_before_sale"
+        },
+        {
+            "title": "7",
+            "content": "The basis for separating an agency contract from a Murabahah transac- tion is to be sure that there is no any intentional arrangement to connect the two contracts.",
+            "tag": "separating_agency_contract"
+        },
+        {
+            "title": "8",
+            "content": "The basis for the rule that constructive possession is sufficient to meet the requirement of possession and that possession is according to the nature of the items is because the Shari\u2019ah did not state a particular form for pos- session. Rather this is left to the customary practices. Again, the purpose of possession is to enable one to have control over something. Therefore, any procedure that serves this objective would be regarded as possession.",
+            "tag": "constructive_possession"
+        },
+        {
+            "title": "9",
+            "content": "The basis for the requirement that the contract of agency be separate from the contract of sale on a Murabahah basis is because of the risk that the contracts may be connected to each other.",
+            "tag": "requirement_agency_separate"
+        },
+        {
+            "title": "10",
+            "content": "The basis for the rule that the Institution bear the expenses of insurance is because these expenses follow ownership of the goods.",
+            "tag": "institution_bear_expenses_insurance"
         },
         {
             "title": "Conclusion of a Murabahah Contract",
-            "sections": [
-                {
-                    "title": "The basis for the rule that the Institution is entitled to compensation in case of breach...",
-                    "content": "The basis for the rule that the Institution is entitled to compensation in case of breach of a binding promise by the customer to buy the goods is because of the damage that may be inflicted on the Institution due to the act of the customer. This is because the customer has caused the Institu- tion to enter into a deal that it would not have concluded in the absence of the promise.",
-                    "tag": "rule"
-                },
-                {
-                    "title": "The basis for the rule that the Institution\u2019s rights are limited, in case of breach of promise,...",
-                    "content": "The basis for the rule that the Institution\u2019s rights are limited, in case of breach of promise, to the difference between the cost of the item to the Institution and its selling price to a third party is because the lawful right in a guarantee is limited to the amount that compensates for the damage suffered and because the Institution\u2019s right to recover loss of its mark-up is irrational since there is no mark-up unless there is actually a Muraba- hah transaction and in this case there is no such transaction.",
-                    "tag": "rule"
-                }
-            ],
-            "tag": "contract conclusion"
+            "tag": "conclusion_contract"
         },
         {
-            "title": "The basis for...",
-            "sections": [
-                {
-                    "title": "The basis for the requirement of transparency as to the cost price...",
-                    "content": "The basis for the requirement of transparency as to the cost price is because Murabahah is a trust related contract that requires disclosure of the amount and the currency of the cost price because a price in a deferred payment sale is higher.",
-                    "tag": "requirement"
-                },
-                {
-                    "title": "The basis for allowing normal expenses to be included in computing the selling price...",
-                    "content": "The basis for allowing normal expenses to be included in computing the selling price of the commodity is because these expenses are paid to a third party.",
-                    "tag": "permissibility"
-                },
-                {
-                    "title": "The basis for entitlement of the buyer to benefit from the discount acquired by the Institution...",
-                    "content": "The basis for entitlement of the buyer to benefit from the discount acquired by the Institution is because Murabahah is a mark-up sale. Therefore, if the previous purchasing price decreases then the cost price is the amount that remains after the discount and this price is the cost price for the purpose of the Murabahah.",
-                    "tag": "entitlement"
-                },
-                {
-                    "title": "The basis for the requirement that the price and the profit in Murabahah must be determined...",
-                    "content": "The basis for the requirement that the price and the profit in Murabahah must be determined is to avoid uncertainty and lack of knowledge.",
-                    "tag": "requirement"
-                },
-                {
-                    "title": "The basis for the requirement that the profit must be separately disclosed...",
-                    "content": "The basis for the requirement that the profit must be separately disclosed from the cost price and that it is not allowed to be calculated as a single amount for the customer is because Murabahah is a sale with a profit margin. Therefore, it is necessary this profit be disclosed separately to ensure that the customer will agree to it.",
-                    "tag": "requirement"
-                },
-                {
-                    "title": "The basis for the permissibility of instalment payment...",
-                    "content": "The basis for the permissibility of instalment payment is because Mu- rabahah is one of the sale contracts that are subject to spot payment, deferred payment or instalment payment. The basis for the impermissi- bility of requesting an additional sum of money for delay in payment is because this is the prohibited Riba.",
-                    "tag": "permissibility"
-                },
-                {
-                    "title": "The basis for the permissibility of stipulating a defect exclusion item...",
-                    "content": "The basis for the permissibility of stipulating a defect exclusion item is because a buyer is entitled to require guaranteeing hidden defects which are related to the sold commodity by the seller. However, the buyer may relinquish this right by agreeing to a defect exclusion item, as stated by a number of scholars.",
-                    "tag": "permissibility"
-                },
-                {
-                    "title": "The basis for the permissibility of stipulating that the contract would be terminated for default in payment...",
-                    "content": "The basis for the permissibility of stipulating that the contract would be terminated for default in payment is because the original princi-",
-                    "tag": "permissibility"
-                }
-            ],
-            "tag": "bases"
+            "title": "1",
+            "content": "The basis for the rule that the Institution is entitled to compensation in case of breach of a binding promise by the customer to buy the goods is because of the damage that may be inflicted on the Institution due to the act of the customer. This is because the customer has caused the Institu- tion to enter into a deal that it would not have concluded in the absence of the promise. The International Islamic Fiqh Academy has issued a res- olution in this respect. (19)",
+            "tag": "institution_entitled_compensation"
+        },
+        {
+            "title": "2",
+            "content": "The basis for the rule that the Institution\u2019s rights are limited, in case of breach of promise, to the difference between the cost of the item to the Institution and its selling price to a third party is because the lawful right in a guarantee is limited to the amount that compensates for the damage suffered and because the Institution\u2019s right to recover loss of its mark-up is irrational since there is no mark-up unless there is actually a Muraba- hah transaction and in this case there is no such transaction. (19) International Islamic Fiqh Academy\u2019s resolution No. 40-41 (2/5 and 3/5).",
+            "tag": "institution_rights_limited"
+        },
+        {
+            "title": "3",
+            "content": "The basis for the requirement of transparency as to the cost price is because Murabahah is a trust related contract that requires disclosure of the amount and the currency of the cost price because a price in a deferred payment sale is higher.",
+            "tag": "requirement_transparency_cost_price"
+        },
+        {
+            "title": "4",
+            "content": "The basis for allowing normal expenses to be included in computing the selling price of the commodity is because these expenses are paid to a third party.",
+            "tag": "allowing_normal_expenses"
+        },
+        {
+            "title": "5",
+            "content": "The basis for entitlement of the buyer to benefit from the discount acquired by the Institution is because Murabahah is a mark-up sale. Therefore, if the previous purchasing price decreases then the cost price is the amount that remains after the discount and this price is the cost price for the purpose of the Murabahah.",
+            "tag": "buyer_benefit_discount"
+        },
+        {
+            "title": "6",
+            "content": "The basis for the requirement that the price and the profit in Murabahah must be determined is to avoid uncertainty and lack of knowledge.",
+            "tag": "requirement_price_profit_determined"
+        },
+        {
+            "title": "7",
+            "content": "The basis for the requirement that the profit must be separately disclosed from the cost price and that it is not allowed to be calculated as a single amount for the customer is because Murabahah is a sale with a profit margin. Therefore, it is necessary this profit be disclosed separately to ensure that the customer will agree to it.",
+            "tag": "requirement_profit_separately_disclosed"
+        },
+        {
+            "title": "8",
+            "content": "The basis for the permissibility of instalment payment is because Mu- rabahah is one of the sale contracts that are subject to spot payment, deferred payment or instalment payment. The basis for the impermissi- bility of requesting an additional sum of money for delay in payment is because this is the prohibited Riba.",
+            "tag": "permissibility_installment_payment"
+        },
+        {
+            "title": "9",
+            "content": "The basis for the permissibility of stipulating a defect exclusion item is because a buyer is entitled to require guaranteeing hidden defects which are related to the sold commodity by the seller. However, the buyer may relinquish this right by agreeing to a defect exclusion item, as stated by a number of scholars. (20)",
+            "tag": "permissibility_defect_exclusion"
+        },
+        {
+            "title": "10",
+            "content": "The basis for the permissibility of stipulating that the contract would be terminated for default in payment is because the original princi- (20) See Al-Kasani, \u201cBada`i\u2019 Al-Sana`i\u2019\u201d \u201cBada`i\u2019 Al-Sana`i\u2019\u201d [5: 276]; Al-Mawwaq, [5: 276]; Al-Mawwaq, \u201cAl-Taj Wa Al-Iklil\u201d \u201cAl-Taj Wa Al-Iklil\u201d [4: 439]; [4: 439]; Al-Shirazi, \u201cAl-Muhadhdhab\u201d [1: 284]; Ibn Qudamah, [1: 284]; Ibn Qudamah, \u201cAl-Mughni\u201d \u201cAl-Mughni\u201d [4: 129]; and Al- [4: 129]; and Al- Buhuti, \u201cKashshaf Al-Qina\u2019\u201d [3: 228]. [3: 228].",
+            "tag": "permissibility_contract_terminated_default"
         },
         {
             "title": "Guarantees in Murabahah and Treatment of Murabahah Receivables",
-            "sections": [
-                {
-                    "title": "The basis for the condition that all instalments will become due if there is delay in payment...",
-                    "content": "The basis for the condition that all instalments will become due if there is delay in payment is the Hadith of the Prophet, peace be upon him: Mus- lims are bound by the conditions they made, and because payment on a deferred basis is the right of the buyer, and the buyer may choose to pay before time and relinquish the deferral of the date of payment entirely or make payment of all instalments contingent on default on payment of one instalment.",
-                    "tag": "condition"
-                },
-                {
-                    "title": "The basis for demanding collateral to secure payment...",
-                    "content": "The basis for demanding collateral to secure payment is because such a requirement does not affect the contract; rather, it consolidates perfor- mance and such guarantees are relevant to contracts involving credit.",
-                    "tag": "basis"
-                },
-                {
-                    "title": "The basis for not allowing a stipulation that delays transfer of ownership...",
-                    "content": "The basis for not allowing a stipulation that delays transfer of ownership is because such a stipulation is against the effect of a sale contract, which is immediate transfer of ownership. The basis for allowing the Institution to hold up registering the commodity in the name of the customer until payment is realised is that such an action does not affect the transfer of ownership to the buyer.",
-                    "tag": "prohibition"
-                },
-                {
-                    "title": "The basis for the permissibility of stipulating a condition, whereby the debtor in case of default is obliged to donate a sum of money...",
-                    "content": "The basis for the permissibility of stipulating a condition, whereby the debtor in case of default is obliged to donate a sum of money in addition to the amount of the debt to be spent by the Institution on charitable causes, is because this has been considered as an instance of the commitment to make a donation, which is well established in the Maliki school of law.",
-                    "tag": "permissibility"
-                },
-                {
-                    "title": "The basis for the prohibition of additional payment over the principal debt in consideration for extension of time...",
-                    "content": "The basis for the prohibition of additional payment over the principal debt in consideration for extension of time is because such action is a pre-Islamic form of Riba.",
-                    "tag": "prohibition"
-                },
-                {
-                    "title": "The basis for the permissibility of discount or rebate for earlier payment...",
-                    "content": "The basis for the permissibility of discount or rebate for earlier payment is because discount for early payment is a form of settlement between the creditor and the debtor to pay less than the amount of the debt. This is among the settlement that are endorsed by Shari\u2019ah as stated in the case of Ubay Ibn Ka\u2019b and his debtor where the Prophet (peace be upon him) suggested to him in words: \u201cwrite off a portion of your debt.\u201d",
-                    "tag": "permissibility"
-                },
-                {
-                    "title": "The basis of the permissibility of payment of debt in another currency...",
-                    "content": "The basis of the permissibility of payment of debt in another currency is that this would entail the settlement of the debt by discharging it. This does not involve any prohibited transaction pertaining to debts either with regard to sale or purchase.",
-                    "tag": "permissibility"
-                }
-            ],
-            "tag": "guarantees and receivables"
+            "tag": "guarantees_receivables"
         },
         {
-            "title": "As for some of the forms mentioned in the standard...",
-            "content": "As for some of the forms mentioned in the standard, there are texts to support them, inter alia, the Hadith reported on the authority of Ibn Umar (may Allah be pleased with him) who said: \u201cI have met the Prophet (peace be upon him) at the house of Hafsah (may Allah be pleased with her), and I said to him: \u2018O Prophet of Allah, I would like to ask you: \u2018I sell a camel in Al-Baqi\u2019 for a price quoted in dinar but I take dirham, and I sell for a price quoted in dirham but I take dinars, I take this from this and I give this from this.\u2019 The Prophet (peace be upon him) replied: \u2018There is no objection to your taking the other currency based on the price of the day, provided you do not leave each other with something remaining owed as a debt between you\u2019.\u201d Some of the forms in the standard are a kind of set-off and this is permissible.",
-            "tag": "forms"
+            "title": "1",
+            "content": "The basis for the condition that all instalments will become due if there is delay in payment is the Hadith of the Prophet, peace be upon him: Mus- lims are bound by the conditions they made, and because payment on a deferred basis is the right of the buyer, and the buyer may choose to pay before time and relinquish the deferral of the date of payment entirely or make payment of all instalments contingent on default on payment of one instalment.",
+            "tag": "instalments_due_delay"
         },
         {
-            "title": "Appendix (E): Definitions",
+            "title": "2",
+            "content": "The basis for demanding collateral to secure payment is because such a requirement does not affect the contract; rather, it consolidates perfor- mance and such guarantees are relevant to contracts involving credit.",
+            "tag": "demanding_collateral"
+        },
+        {
+            "title": "3",
+            "content": "The basis for not allowing a stipulation that delays transfer of ownership is because such a stipulation is against the effect of a sale contract, which is immediate transfer of ownership. The basis for allowing the Institution to hold up registering the commodity in the name of the customer until payment is realised is that such an action does not affect the transfer of ownership to the buyer.",
+            "tag": "not_allowing_delays_transfer"
+        },
+        {
+            "title": "4",
+            "content": "The basis for the permissibility of stipulating a condition, whereby the debtor in case of default is obliged to donate a sum of money in addition to the amount of the debt to be spent by the Institution on charitable causes, is because this has been considered as an instance of the commitment to make a donation, which is well established in the Maliki school of law. This (21) This Hadith has been reported by number of the companions. It has been related by Ahmad in his \u201cMusnad\u201d [1: 312]. Ibn Majah through a good chain of transmission in [1: 312]. Ibn Majah through a good chain of transmission in his \u201cSunan\u201d [2: 783], Mustafa Al-Babi Al-Halabi edition, Cairo, 1372 A.H./1952 A.D.; [2: 783], Mustafa Al-Babi Al-Halabi edition, Cairo, 1372 A.H./1952 A.D.; Al-Hakim in his \u201cMustadrak\u201d, Hyderabad edition, India, 1355 A.H.; Al-Bayhaqi in , Hyderabad edition, India, 1355 A.H.; Al-Bayhaqi in his \u201cSunan\u201d [6: 70 and 156] and [1: 133], Hyderabad edition, India, 1355 A.H.; and [6: 70 and 156] and [1: 133], Hyderabad edition, India, 1355 A.H.; and Al-Daraqutni in his \u201cSunan\u201d [4: 228] and [3: 77], Dar Al-Mahasin Lil-Tiba\u2019ah edition, [4: 228] and [3: 77], Dar Al-Mahasin Lil-Tiba\u2019ah edition, Cairo, 1372 A.H./1952 A.D.",
+            "tag": "permissibility_stipulating_donation"
+        },
+        {
+            "title": "5",
+            "content": "The basis for the prohibition of additional payment over the principal debt in consideration for extension of time is because such action is a pre-Islamic form of Riba.",
+            "tag": "prohibition_additional_payment"
+        },
+        {
+            "title": "6",
+            "content": "The basis for the permissibility of discount or rebate for earlier payment is because discount for early payment is a form of settlement between the creditor and the debtor to pay less than the amount of the debt. This is among the settlement that are endorsed by Shari\u2019ah as stated in the case of Ubay Ibn Ka\u2019b (may Allah be pleased with him) and his debtor where the Prophet (peace be upon him) suggested to him in words: \u201cwrite off a portion of your debt.\u201d (23) The International Islamic Fiqh Academy has The International Islamic Fiqh Academy has issued a resolution in support of this rule. (24)",
+            "tag": "permissibility_discount_rebate"
+        },
+        {
+            "title": "7",
+            "content": "The basis of the permissibility of payment of debt in another currency is that this would entail the settlement of the debt by discharging it. This does not involve any prohibited transaction pertaining to debts either with regard to sale or purchase. As for some of the forms mentioned in the standard, there are texts to support them, inter alia, the Hadith reported on the authority of Ibn Umar (may Allah be pleased with him) who said: \u201cI have met the Prophet (peace be upon him) at the house of Hafsah (may Allah be pleased with her), and I said to him: \u2018O Prophet of Allah, I would like to ask you: \u2018I sell a camel in Al-Baqi\u2019 for a price quoted in dinar but I take dirham, and I sell for a price quoted in dirham but I take dinars, I take this from this and I give this from this.\u2019 The Prophet (peace be upon him) replied: \u2018There is no objection to your taking the other currency based on the price of the day, provided you do not leave each other with something remaining owed as a debt between you\u2019.\u201d (25) Some of the forms in the standard are a kind of set-off and this is Some of the forms in the standard are a kind of set-off and this is permissible.",
+            "tag": "permissibility_payment_another_currency"
+        },
+        {
+            "title": "Appendix (E)",
             "content": null,
             "sections": [
                 {
-                    "title": "Murabahah",
-                    "content": "It is the sale of a commodity by an institution to its customer (the purchase orderer) as per the purchasing price/cost with a defined and agreed profit mark-up (as set out in the promise/Wa\u2019d), in which case it is called a banking Murabahah. The banking Murabahah involves deferred payment terms, but such deferred payment is not one of the essential conditions of such transaction, as there is also a Murabahah arranged with no deferral of payment. In this case, the seller only receives a mark-up that only includes the profit for a spot sale and not the extra charge it would, otherwise, receive for deferral of payment.",
-                    "tag": "definition"
-                },
-                {
-                    "title": "Commitment Fee",
-                    "content": "A commitment fee is the percentage or amount which the Institution takes from the customer to start processing the transaction even though a sale contract may not be concluded).",
-                    "tag": "definition"
-                },
-                {
-                    "title": "Arboun",
-                    "content": "The term Arboun means an amount of money that the customer as purchase orderer pays to the Institution after concluding the Murabahah sale, with the provision that if the sale is completed during a prescribed period, the amount will be counted as part of the price. If the customer fails to execute the Murabahah sale, then the Institution may retain the whole amount.",
-                    "tag": "definition"
-                },
-                {
-                    "title": "Syndicated Financing",
-                    "content": "A syndicated financing is a partnership relationship for financing a particular project which two or more parties has interest to finance. They will distribute the profit or revenue as per agreement. In other words, syndicated financing is the acceptance of a number of companies (financial Institutions) to enter into a joint investment transaction through one of the permissible investment instruments with an understanding that one of the parties assumes leadership of the deal. During the period of the transaction, the transaction would enjoy an independent liability separated from their companies.",
-                    "tag": "definition"
-                },
-                {
-                    "title": "Credit Facility",
-                    "content": "A credit facility is an upper limit for a customer\u2019s Murabahah transac- tions. This credit facility may be restricted to a specified type of item, or to a specified period of time.",
-                    "tag": "definition"
+                    "title": "Definitions",
+                    "content": null,
+                    "sections": [
+                        {
+                            "title": "Murabahah",
+                            "content": "It is the sale of a commodity by an institution to its customer (the purchase orderer) as per the purchasing price/cost with a defined and agreed profit mark-up (as set out in the promise/ Wa\u2019d), in which case it is called a banking Murabahah. The banking Murabahah involves deferred payment terms, but such deferred payment is not one of the essential conditions of such transaction, as there is also a Murabahah arranged with no deferral of payment. In this case, the seller only receives a mark-up that only includes the profit for a spot sale and not the extra charge it would, otherwise, receive for deferral of payment.",
+                            "tag": "definition"
+                        },
+                        {
+                            "title": "Commitment Fee",
+                            "content": "A commitment fee is the percentage or amount which the Institution takes from the customer to start processing the transaction even though a sale contract may not be concluded).",
+                            "tag": "definition"
+                        },
+                        {
+                            "title": "Arboun",
+                            "content": "The term Arboun means an amount of money that the customer as purchase orderer pays to the Institution after concluding the Murabahah sale, with the provision that if the sale is completed during a prescribed period, the amount will be counted as part of the price. If the customer fails to execute the Murabahah sale, then the Institution may retain the whole amount.",
+                            "tag": "definition"
+                        },
+                        {
+                            "title": "Syndicated Financing",
+                            "content": "A syndicated financing is a partnership relationship for financing a particular project which two or more parties has interest to finance. They will distribute the profit or revenue as per agreement. In other words, syndicated financing is the acceptance of a number of companies (financial Institutions) to enter into a joint investment transaction through one of the permissible investment instruments with an understanding that one of the parties assumes leadership of the deal. During the period of the transaction, the transaction would enjoy an independent liability separated from their companies.",
+                            "tag": "definition"
+                        },
+                        {
+                            "title": "Credit Facility",
+                            "content": "A credit facility is an upper limit for a customer\u2019s Murabahah transac- tions. This credit facility may be restricted to a specified type of item, or to a specified period of time.",
+                            "tag": "definition"
+                        }
+                    ],
+                    "tag": "definitions"
                 }
             ],
-            "tag": "definitions"
+            "tag": "appendix"
         }
     ]
 }
