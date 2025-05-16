@@ -3,6 +3,9 @@ python-dotenv
 pymupdf
 pydantic
 google-generativeai
+google-genai
 openai
 pinecone
 agno
+duckduckgo-search
+yfinance
