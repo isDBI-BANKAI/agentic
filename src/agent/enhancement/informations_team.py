@@ -2,7 +2,7 @@ from agno.agent import Agent
 from agno.team.team import Team
 from agno.models.google import Gemini
 from textwrap import dedent
-
+from src.models.output import InformationGatheringTeamOutput
 from agno.tools.duckduckgo import DuckDuckGoTools
 from src.tools.retrieval import get_outline, retrieve
 from src.config.keys import OPENAI_API_KEY,GEMINI_API_KEY
@@ -111,6 +111,7 @@ fas_research_team = Team(
     markdown=True,
     enable_agentic_context=True,
     show_members_responses=True,
+    response_model=InformationGatheringTeamOutput,
     success_criteria="A targeted analysis report identifying potential areas for improvement in the FAS based solely on assigned sections and external content."
 )
 

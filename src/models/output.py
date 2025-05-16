@@ -9,11 +9,12 @@ class ScenarioAgentOutput(BaseModel):
     
     
 class InformationGatheringTeamOutput(BaseModel):
+    improvement_areas: list[str]
     websites_informations: str
     gathered_informations: str
 
 class ReasonningAndSuggestionsTeamOutput(BaseModel):
-    improvemets: list[str]
+    improvemets_list: list[str]
     
 class ComplianceCheckTeamOutput(BaseModel):
     final_verdict: str
