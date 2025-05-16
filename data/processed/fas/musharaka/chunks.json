@@ -1,328 +1,628 @@
 [
     {
         "tags": [
-            "general"
+            "standard_document",
+            "preface"
         ],
         "content": "Financial Accounting Standard No. (4): Musharaka Financing > Preface\n\nThis standard aims at setting out accounting rules for recognizing, measuring and disclosing the transactions of Musharaka financing that are carried out by Islamic banks and financial institutions. The standard also provides details of the juristic principles on which the development of the proposed accounting treatment is based. It also highlights the different accounting alternatives which have been considered and the justifications for the alternative chosen for the accounting treatment of Musharaka financing."
     },
     {
         "tags": [
-            "standard",
-            "scope"
+            "standard_document",
+            "statement_of_the_standard",
+            "statement_of_the_standard_scope"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 1. Scope of the Standard\n\nThis standard shall apply to Musharaka financing transactions carried out by Islamic banks whether by means of a constant Musharaka (short or long-term) or a diminishing Musharaka (one which ends with transferring ownership to one party). This shall apply whether the Islamic bank finances its share in Musharaka capital exclusively out of its own funds, out of the pool of commingled funds comprising the Islamic bank\u2019s own funds and unrestricted investment accounts or out of restricted investment accounts. The standard shall also apply to the transactions pertaining to the Islamic bank\u2019s share in Musharaka profits or losses. Should the requirements of this standard contradict the Islamic bank\u2019s charter or the laws and regulations of the country in which it operates, a disclosure should be made of the contradiction. This standard does not include the following: a) Mudaraba; b) Participations; c) Zakah on Musharaka funds; and d) Accounting treatment of Musharaka transactions in the partner\u2019s (client\u2019s) books and the Musharaka records."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 1. Scope of the Standard\n\nThis standard shall apply to Musharaka financing transactions carried out by Islamic banks whether by means of a constant Musharaka or a diminishing Musharaka. This shall apply whether the Islamic bank finances its share in Musharaka capital exclusively out of its own funds, out of the pool of commingled funds comprising the Islamic bank\u2019s own funds and unrestricted investment accounts or out of restricted investment accounts. Should the requirements of this standard contradict the Islamic bank\u2019s charter or the laws and regulations of the country in which it operates, a disclosure should be made of the contradiction. This standard does not include Mudaraba, Participations, Zakah on Musharaka funds, and Accounting treatment of Musharaka transactions in the partner\u2019s (client\u2019s) books and the Musharaka records."
     },
     {
         "tags": [
-            "standard",
+            "standard_document",
+            "statement_of_the_standard",
             "accounting_treatment",
-            "accounting_treatment"
+            "accounting_treatment_recognition_initial"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/1 Recognition of the Islamic bank\u2019s share in Musharaka capital at the time of contracting\n\nThe Islamic bank\u2019s share in Musharaka capital (cash or kind) shall be recognized when it is paid to the partner or made available to him on the account of the Musharaka. This share shall be presented in the Islamic bank\u2019s books under a Musharaka financing account with (name of client) and it shall be included in the financial statements under the heading \u201cMusharaka Financing\u201d."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/1 Recognition of the Islamic bank\u2019s share in Musharaka capital at the time of contracting\n\nThe Islamic bank\u2019s share in Musharaka capital (cash or kind) shall be recognized when it is paid to the partner or made available to him on the account of the Musharaka. This share shall be presented in the Islamic bank\u2019s books under a Musharaka financing account with (name of client) and it shall be included in the financial statements under the heading 'Musharaka Financing'."
     },
     {
         "tags": [
-            "standard",
+            "standard_document",
+            "statement_of_the_standard",
             "accounting_treatment",
-            "measurement",
-            "measurement"
+            "accounting_treatment_measurement_initial",
+            "accounting_treatment_measurement_cash_initial"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/2 Measurement of the Islamic bank\u2019s share in Musharaka capital at the time of contracting > 2/2/1 Cash Measurement\n\nThe Islamic bank\u2019s share in the Musharaka capital provided in cash shall be measured by the amount paid or made available to the partner on the account of the Musharaka."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/2 Measurement of the Islamic bank\u2019s share in Musharaka capital at the time of contracting > 2/2/1 Cash measurement\n\nThe Islamic bank\u2019s share in the Musharaka capital provided in cash shall be measured by the amount paid or made available to the partner on the account of the Musharaka."
     },
     {
         "tags": [
-            "standard",
+            "standard_document",
+            "statement_of_the_standard",
             "accounting_treatment",
-            "measurement",
-            "measurement"
+            "accounting_treatment_measurement_initial",
+            "accounting_treatment_measurement_kind_initial"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/2 Measurement of the Islamic bank\u2019s share in Musharaka capital at the time of contracting > 2/2/2 Kind Measurement\n\nThe Islamic bank\u2019s share in Musharaka capital provided in kind (trading assets or non-monetary assets for use in the venture) shall be measured at the fair value of the assets (the value agreed between the partners), and if the valuation of the assets results in a difference between fair value and book value, such difference shall be recognized as profit or loss to the Islamic bank itself."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/2 Measurement of the Islamic bank\u2019s share in Musharaka capital at the time of contracting > 2/2/2 Kind measurement\n\nThe Islamic bank\u2019s share in Musharaka capital provided in kind shall be measured at the fair value of the assets, and if the valuation results in a difference between fair value and book value, such difference shall be recognized as profit or loss to the Islamic bank itself."
     },
     {
         "tags": [
-            "standard",
+            "standard_document",
+            "statement_of_the_standard",
             "accounting_treatment",
-            "measurement",
-            "measurement"
+            "accounting_treatment_measurement_initial",
+            "accounting_treatment_expenses_initial"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/2 Measurement of the Islamic bank\u2019s share in Musharaka capital at the time of contracting > 2/2/3 Contracting Expenses\n\nExpenses of the contracting procedures incurred by one or both parties (e.g., expenses of feasibility studies and other similar expenses) shall not be considered as part of the Musharaka capital unless otherwise agreed by both parties."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/2 Measurement of the Islamic bank\u2019s share in Musharaka capital at the time of contracting > 2/2/3 Expenses\n\nExpenses of the contracting procedures shall not be considered as part of the Musharaka capital unless otherwise agreed by both parties."
     },
     {
         "tags": [
-            "standard",
+            "standard_document",
+            "statement_of_the_standard",
             "accounting_treatment",
-            "measurement",
-            "measurement"
+            "accounting_treatment_measurement_end_period",
+            "accounting_treatment_measurement_constant_end_period"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/3 Measurement of the Islamic bank\u2019s share in Musharaka capital after contracting at the end of a financial period > 2/3/1 Constant Musharaka Capital Measurement\n\nThe Islamic bank\u2019s share in the constant Musharaka capital shall be measured at the end of the financial period at historical cost (the amount which was paid or at which the asset was valued at the time of contracting)."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/3 Measurement of the Islamic bank\u2019s share in Musharaka capital after contracting at the end of a financial period > 2/3/1 Constant Musharaka\n\nThe Islamic bank\u2019s share in the constant Musharaka capital shall be measured at the end of the financial period at historical cost."
     },
     {
         "tags": [
-            "standard",
+            "standard_document",
+            "statement_of_the_standard",
             "accounting_treatment",
-            "measurement",
-            "measurement"
+            "accounting_treatment_measurement_end_period",
+            "accounting_treatment_measurement_diminishing_end_period"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/3 Measurement of the Islamic bank\u2019s share in Musharaka capital after contracting at the end of a financial period > 2/3/2 Diminishing Musharaka Measurement\n\nThe Islamic bank\u2019s share in the diminishing Musharaka shall be measured at the end of a financial period at historical cost after deducting the historical cost of any share transferred to the partner (such transfer being by means of a sale at fair value). The difference between historical cost and fair value shall be recognized as profit or loss in the Islamic bank\u2019s income statement."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/3 Measurement of the Islamic bank\u2019s share in Musharaka capital after contracting at the end of a financial period > 2/3/2 Diminishing Musharaka\n\nThe Islamic bank\u2019s share in the diminishing Musharaka shall be measured at historical cost after deducting the historical cost of any share transferred to the partner, recognizing any difference as profit or loss."
     },
     {
         "tags": [
-            "standard",
+            "standard_document",
+            "statement_of_the_standard",
             "accounting_treatment",
-            "measurement",
-            "measurement"
+            "accounting_treatment_measurement_end_period",
+            "accounting_treatment_liquidation_before_complete_transfer"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/3 Measurement of the Islamic bank\u2019s share in Musharaka capital after contracting at the end of a financial period > 2/3/3 Liquidation before Transfer\n\nIf the diminishing Musharaka is liquidated before complete transfer is made to the partner, the amount recovered in respect of the Islamic bank\u2019s share shall be credited to the Islamic bank\u2019s Musharaka financing account and any resulting profit or loss, namely the difference between the book value and the recovered amount, shall be recognized in the Islamic bank\u2019s income statement."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/3 Measurement of the Islamic bank\u2019s share in Musharaka capital after contracting at the end of a financial period > 2/3/3 Liquidation before complete transfer\n\nIf the diminishing Musharaka is liquidated before complete transfer, the amount recovered shall be credited to the Islamic bank\u2019s Musharaka financing account with recognition of any profit or loss."
     },
     {
         "tags": [
-            "standard",
+            "standard_document",
+            "statement_of_the_standard",
             "accounting_treatment",
-            "measurement",
-            "measurement"
+            "accounting_treatment_measurement_end_period",
+            "accounting_treatment_termination_liquidation"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/3 Measurement of the Islamic bank\u2019s share in Musharaka capital after contracting at the end of a financial period > 2/3/4 Unpaid Share After Termination\n\nIf the Musharaka is terminated or liquidated and the Islamic bank\u2019s due share of the Musharaka capital (taking account of any profits or losses) remains unpaid when a settlement of account is made, the Islamic bank\u2019s share shall be recognized as a receivable due from the partner."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/3 Measurement of the Islamic bank\u2019s share in Musharaka capital after contracting at the end of a financial period > 2/3/4 Termination or liquidation\n\nIf the Musharaka is terminated or liquidated and the Islamic bank\u2019s share remains unpaid, it shall be recognized as a receivable due from the partner."
     },
     {
         "tags": [
-            "standard",
+            "standard_document",
+            "statement_of_the_standard",
             "accounting_treatment",
-            "profit_loss",
-            "profit_loss"
+            "accounting_treatment_recognition_profits_losses",
+            "accounting_treatment_profit_loss_period"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/4 Recognition of the Islamic bank\u2019s share in Musharaka profits or losses > 2/4/1 Profits or Losses during a Financial Period\n\nProfits or losses in respect of the Islamic bank\u2019s share in Musharaka financing transactions that commence and end during a financial period shall be recognized in the Islamic bank\u2019s accounts at the time of liquidation."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/4 Recognition of the Islamic bank\u2019s share in Musharaka profits or losses > 2/4/1 Profits or losses during a period\n\nProfits or losses in respect of the Islamic bank\u2019s share in Musharaka financing transactions that commence and end during a financial period shall be recognized at the time of liquidation."
     },
     {
         "tags": [
-            "standard",
+            "standard_document",
+            "statement_of_the_standard",
             "accounting_treatment",
-            "profit_loss",
-            "profit_loss"
+            "accounting_treatment_recognition_profits_losses",
+            "accounting_treatment_constant_profits_losses"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/4 Recognition of the Islamic bank\u2019s share in Musharaka profits or losses > 2/4/2 Constant Musharaka Profits and Losses\n\nIn the case of a constant Musharaka that continues for more than one financial period, the Islamic bank\u2019s share of profits for any period, resulting from partial or final settlement between the Islamic bank and the partner, shall be recognized in its accounts for that period to the extent that the profits are being distributed; the Islamic bank\u2019s share of losses for any period shall be recognized in its accounts for that period to the extent that such losses are being deducted from its share of the Musharaka capital."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/4 Recognition of the Islamic bank\u2019s share in Musharaka profits or losses > 2/4/2 Constant Musharaka profits\n\nIn a constant Musharaka that continues for more than one financial period, the Islamic bank\u2019s share of profits shall be recognized to the extent that the profits are being distributed; losses shall be recognized to the extent that such losses are being deducted from its share."
     },
     {
         "tags": [
-            "standard",
+            "standard_document",
+            "statement_of_the_standard",
             "accounting_treatment",
-            "profit_loss",
-            "profit_loss"
+            "accounting_treatment_recognition_profits_losses",
+            "accounting_treatment_diminishing_profits_losses"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/4 Recognition of the Islamic bank\u2019s share in Musharaka profits or losses > 2/4/3 Diminishing Musharaka Profits and Losses\n\nItem 2/4/2 shall apply to a diminishing Musharaka which continues for more than one financial period, after taking into consideration the decline in the Islamic bank\u2019s share in Musharaka capital and its profits or losses."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/4 Recognition of the Islamic bank\u2019s share in Musharaka profits or losses > 2/4/3 Diminishing Musharaka profits\n\nItem 2/4/2 shall apply to a diminishing Musharaka after considering the decline in the Islamic bank\u2019s share."
     },
     {
         "tags": [
-            "standard",
+            "standard_document",
+            "statement_of_the_standard",
             "accounting_treatment",
-            "profit_loss",
-            "profit_loss"
+            "accounting_treatment_recognition_profits_losses",
+            "accounting_treatment_unpaid_profits"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/4 Recognition of the Islamic bank\u2019s share in Musharaka profits or losses > 2/4/4 Unpaid Profits\n\nAs implied by item 2/3/4 above, if the partner does not pay the Islamic bank its due share of profits after liquidation or after settlement of account is made, the due share of profits shall be recognized as a receivable due from the partner."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/4 Recognition of the Islamic bank\u2019s share in Musharaka profits or losses > 2/4/4 Unpaid profits\n\nIf the partner does not pay the Islamic bank its due share of profits, the due share shall be recognized as a receivable."
     },
     {
         "tags": [
-            "standard",
+            "standard_document",
+            "statement_of_the_standard",
             "accounting_treatment",
-            "profit_loss",
-            "profit_loss"
+            "accounting_treatment_recognition_profits_losses",
+            "accounting_treatment_losses_misconduct_negligence"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/4 Recognition of the Islamic bank\u2019s share in Musharaka profits or losses > 2/4/5 Losses due to Partner's Misconduct\n\nIf losses are incurred in a Musharaka due to the partner\u2019s misconduct or negligence, the partner shall bear the Islamic bank\u2019s share of such losses. Such losses shall be recognized as a receivable due from the partner."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/4 Recognition of the Islamic bank\u2019s share in Musharaka profits or losses > 2/4/5 Losses due to partner's misconduct\n\nIf losses are incurred due to the partner\u2019s misconduct or negligence, the partner shall bear the Islamic bank\u2019s share of such losses, recognized as a receivable."
     },
     {
         "tags": [
-            "standard",
+            "standard_document",
+            "statement_of_the_standard",
             "accounting_treatment",
-            "profit_loss",
-            "profit_loss"
+            "accounting_treatment_recognition_profits_losses",
+            "accounting_treatment_provisions_doubtful_receivables"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/4 Recognition of the Islamic bank\u2019s share in Musharaka profits or losses > 2/4/6 Unpaid Share Recording\n\nThe Islamic bank\u2019s unpaid share of the proceeds as mentioned above in items 2/3/4 and 2/4/4 shall be recorded in a Musharaka receivables account. A provision shall be made for these receivables if they are doubtful."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/4 Recognition of the Islamic bank\u2019s share in Musharaka profits or losses > 2/4/6 Provisions for doubtful receivables\n\nThe Islamic bank\u2019s unpaid share shall be recorded in a Musharaka receivables account with provisions made if they are doubtful."
     },
     {
         "tags": [
-            "standard",
+            "standard_document",
+            "statement_of_the_standard",
             "accounting_treatment",
-            "disclosure",
-            "disclosure"
+            "accounting_treatment_disclosure",
+            "accounting_treatment_disclosure_provision"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/5 Disclosure requirements > 2/5/1 Provision for Loss Disclosure\n\nDisclosure should be made in the notes to the financial statements for a financial reporting period if the Islamic bank has made during that period a provision for a loss of its capital in Musharaka financing transactions."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/5 Disclosure requirements > 2/5/1 Provision Disclosure\n\nDisclosure should be made in financial statements if the Islamic bank has made during that period a provision for a loss of its capital in Musharaka transactions."
     },
     {
         "tags": [
-            "standard",
+            "standard_document",
+            "statement_of_the_standard",
             "accounting_treatment",
-            "disclosure",
-            "disclosure"
+            "accounting_treatment_disclosure",
+            "accounting_treatment_disclosure_general"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/5 Disclosure requirements > 2/5/2 General Disclosure\n\nThe disclosure requirements stated in Financial Accounting Standard No. (1): General Presentation and Disclosure in the Financial Statements of Islamic Banks and Financial Institutions should be observed."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 2. Accounting Treatment of Musharaka Financing > 2/5 Disclosure requirements > 2/5/2 General Presentation and Disclosure\n\nThe disclosure requirements stated in Financial Accounting Standard No. (1) should be observed."
     },
     {
         "tags": [
-            "standard",
+            "standard_document",
+            "statement_of_the_standard",
             "effective_date"
         ],
         "content": "Financial Accounting Standard No. (4): Musharaka Financing > Statement of the Standard > 3. Effective Date\n\nThis Standard shall be effective for financial statements for fiscal periods beginning 1 Muharram 1418 A.H. or 1 January 1998 A.D."
     },
     {
         "tags": [
-            "adoption"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "preparation_stage"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Adoption of the Standard\n\nThe Standard of Musharaka Financing was adopted by the Board in its meeting No. (10) held on 14-16 Ramadan 1416 A.H., corresponding to 3-5 February 1996 A.D."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 1\n\nIn its meeting No. (3) held in Tehran on 13 Jumada I, 1413 A.H., corresponding to 8 November 1992 A.D., the former Financial Accounting Standards Board decided to start with the preparation of the following standards: 1. Murabaha and Murabaha to the Purchase Orderer. 2. Musharaka Financing. 3. Mudaraba Financing."
     },
     {
         "tags": [
-            "appendix",
-            "standard_preparation"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "consultant_assignment"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > 1\n\nMurabaha and Murabaha to the Purchase Orderer."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 2\n\nIn February 1993, a list was compiled of consultants who could be assigned by the (former) Executive Committee for Planning and Follow-up to prepare the above three standards. The issue was submitted to the Committee in its meeting No. (28) held in Makkah during the period of 10-11 Ramadan 1413 A.H., corresponding to 3-4 March 1993 A.D., and a consultant was selected to carry out a study on the juristic and accounting aspects of the Musharaka financing standard."
     },
     {
         "tags": [
-            "appendix",
-            "standard_preparation"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "consultant_assignment"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > 2\n\nMusharaka Financing."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 3\n\nOn May 25, 1993 the consultant was formally notified of his assignment to prepare the standard and its requirements. The preliminary study of the standard was discussed in the Committee meeting No. (31) held in Bahrain on 6 Rabi\u2019 II, 1414 A.H., corresponding to 23 September 1993 A.D."
     },
     {
         "tags": [
-            "appendix",
-            "standard_preparation"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "revision_feedback"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > 3\n\nMudaraba Financing."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 4\n\nThe Committee members gave their comments and some details thereon and the consultant was asked to take them into consideration. The revised version of the juristic and accounting aspects of the study was prepared in Jumada II, 1414 A.H., corresponding to November 1993 A.D."
     },
     {
         "tags": [
-            "definition"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "field_survey_preparation"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > 1. Definition of Musharaka in Fiqh (Jurisprudence)\n\nIt is the commingling of funds for the purpose of sharing in profit."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 5\n\nThe consultant was asked on 4 Rajab 1413 A.H., corresponding to 18 December 1993 A.D., to prepare a field survey plan of the standard comprising a questionnaire on the data to be collected, the countries in which the study will take place, and the number of Islamic banks to be covered by the study."
     },
     {
         "tags": [
-            "categories"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "field_survey_execution"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > 1/1 Categories of Musharaka\n\nPartnerships are of two types: Holding Partnership and Contract Partnership."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 6\n\nThe plan and the field study questionnaire were prepared in Sha\u2019ban 1414 A.H., corresponding to January 1994 A.D., and were discussed by the Committee in its meeting No. (32) held in Makkah on 18 Ramadan 1414 A.H., corresponding to 28 February 1994 A.D. The Committee members and consultants were assigned to send the questionnaires to Islamic banks in the countries specified for each member."
     },
     {
         "tags": [
-            "partnership types"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "field_survey_responses"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > 1/1/1 Al-Inan partnership\n\nIt is a contract between two or more persons. Each of the parties contributes a portion of the overall fund and participates in work. Both parties share in profit or loss as agreed between them, but equality is not required either in the contribution to the fund or in work or in sharing of profit (these being subject to agreement between the parties). This type of partnership is approved by all Fuqaha."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 7\n\nResponses to the field study questionnaire were received during the period from Dhul-Qa\u2019dah 1414 A.H., to Rabi\u2019 II, 1415 A.H., corresponding to April-September 1994 A.D., from the following Islamic banks: Bahrain Islamic Bank, Faysal Islamic Bank \u2013 Bahrain, Al Baraka Islamic Investment Bank \u2013 Bahrain, Tadamon Islamic Bank \u2013 Sudan, Omdurman National Bank \u2013 Sudan, Khartoum Bank \u2013 Sudan, Al Shmal Islamic Bank \u2013 Sudan, Faisal Islamic Bank \u2013 Egypt, International Islamic Bank for Investment & Development \u2013 Egypt, Egyptian Saudi Finance House, Qatar Islamic Bank, Al Rajhi Banking and Investment Corporation, Jordan Islamic Bank, Dubai Islamic Bank."
     },
     {
         "tags": [
-            "partnership types"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "memo_preparation"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > 1/1/2 Al-Mufawada partnership\n\nIt is a contract between two or more persons. Each of the two parties contributes a portion of the overall fund and participates in work. Both parties equally divide profit or loss."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 8\n\nA memo was presented to the (former) Financial Accounting Standards Board in its meeting No. (6) held in Bahrain on 16 Dhul-Qa\u2019dah 1414 A.H., corresponding to 26 April 1994 A.D., comprising the preliminary suggestions for accounting treatments. The Board\u2019s members commented on those suggestions."
     },
     {
         "tags": [
-            "partnership types"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "draft_revision"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > 1/1/3 Al-A\u2019mal partnership\n\nIt is a contract between two persons who agree to accept work jointly and to share the profit from such work. For example, two persons of the same profession or craft may agree to work together and to divide the profit arising from such work on an agreed basis."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 9\n\nThe consultant revised the draft of juristic and accounting aspects of the standard in light of the comments made in the Board meeting. The revised draft was issued in Muharram 1415 A.H., corresponding to June 1994 A.D."
     },
     {
         "tags": [
-            "partnership types"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "committee_discussions"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > 1/1/4 Al-Wujuh partnership\n\nIt is a contract between two or more persons who have good reputation and prestige and who are expert in trading. Parties to the contract purchase goods on credit from firms, depending on their reputation, and sell the goods for cash. They share profit or loss according to the guarantee to suppliers provided by each partner."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 10\n\nIn its meeting No. (36) held in Cairo on 3-4 Rabi\u2019 I, 1415 A.H., corresponding to 10-11 August 1994 A.D., the Committee discussed the draft of the accounting and juristic aspects of the standard and made comments and additions which were used as a basis for preparing a revised draft of the study."
     },
     {
         "tags": [
-            "elements"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "draft_completion"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > 1/2/1 Musharaka elements\n\nThe elements of Musharaka are: Wording (offer and acceptance), contract parties (the two contracting parties) and the subject matter of the agreement (funding and work)."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 11\n\nThe revised draft was completed in Jumada I, 1415 A.H., corresponding to November 1994 A.D., and presented to the Committee in its meeting No. (38) held in Bahrain during the period of 25-27 Jumada II, 1415 A.H., corresponding to 27-29 December 1994 A.D."
     },
     {
         "tags": [
-            "terms"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "exposure_draft_preparation"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > 1/2/2/1 Wording\n\nThere is no specified form of Musharaka contract. It may be formed by any utterance expressing the purpose. Contracting is considered to be valid if made verbally or in writing. The Musharaka contract is notarised in writing and witnessed."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 12\n\nIn that meeting, the consultant was asked to prepare an exposure draft of the standard in light of the alternatives agreed on by the Committee."
     },
     {
         "tags": [
-            "terms"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "shariah_review"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > 1/2/2/2 Contracting parties\n\nIt is a requirement that the partner should be competent to give or be given power of attorney."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 13\n\nThe juristic study was submitted to the Shari\u2019ah Committee which highlighted in its meeting held in Makkah during the period of 7-8 Ramadan 1415 A.H., corresponding to 6-7 February 1995 A.D., the need for reviewing and amending the juristic aspects by a Shari\u2019ah consultant."
     },
     {
         "tags": [
-            "standard_rationale"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "draft_discussion"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Reasons for the Standard\n\nThe Executive Committee for Planning and Follow-up (the Committee) has commissioned a number of consultants to conduct field studies to identify the objectives and standards of financial accounting and the role of governmental and private bodies in preparing accounting standards in countries in which Islamic banks operate. These field studies included the identification of standards that were badly needed and should be given priority by the Financial Accounting Standards Board. The survey revealed the need for early preparation of each of the following standards: a) Murabaha and Murabaha to the Purchase Orderer. b) Musharaka Financing. c) Mudaraba Financing. While preparing the previous Financial Accounting Statement No. (1): Objectives of Financial Accounting for Islamic Banks and Financial Institutions (Statement of Objectives), and Financial Accounting of Objectives), and Financial Accounting Statement No. (2) : Concept of Financial Accounting for Islamic Banks and Financial Institutions (Statement of Concepts), the consultants were asked to propose nine standards which were considered important and deserved to be given priority in preparation. The consultants were also asked to arrange the proposed standards in order of priority."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 14\n\nThe exposure draft of the standard was discussed by the Accounting Standards Committee of the Accounting and Auditing Standards Board in its meeting held in Bahrain during the period of 26-28 Muharram 1416 A.H., corresponding to 24-26 June 1995 A.D."
     },
     {
         "tags": [
-            "standard_rationale"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "shariah_revisions"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > The selection of the above three standards was based on the decision of the Standards Board in its third meeting held in Tehran on 13 Jumada I, 1413 A.H., corresponding to 8 November 1993 A.D., to give priority to the standards relating to financial instruments.\n\nThe responses to the field study questionnaire which was conducted by the Accounting and Auditing Organization, showed that the average percentage of transactions in which Musharaka financing is used was 15%. The questionnaire and the financial reports of some Islamic banks also revealed that there were differences between Islamic banks as to the measurement and recognition of Musharaka financing transactions as well as differences in their methods of presentation and disclosure. Such differences in the accounting practices and disclosure have several effects. It may be difficult to compare profits realized by one Islamic bank with those realized by another. This is likely to render the information produced by an Islamic bank less useful to the users of its financial statements. Such differences may also affect the distribution of the results of joint finance transactions in terms of profit or loss between holders of unrestricted investment accounts and owner\u2019s equity on one hand, and the allocation of profit or loss between holders of unrestricted investment accounts on the other hand. However, standardization of the accounting treatment to recognize and disclose profits conforms with the provisions of the Statement of Objectives; such as determination of the rights and obligations of all concerned parties, including those rights resulting from incomplete transactions and other events in accordance with the principles of Shari\u2019a and its concepts of fairness, charity and compliance with Islamic business ethics; and to provide useful information to users of financial reports of Islamic banks to enable them to make legitimate decisions in their dealing with Islamic banks."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 15\n\nThe Accounting Standards Committee revised the exposure draft and referred it to the Shari\u2019ah Committee which discussed it in its meeting held in Bahrain during the period of 1-2 Safar 1416 A.H., corresponding to 29-30 June 1995 A.D."
     },
     {
         "tags": [
-            "appendix",
-            "basis_for_conclusions"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "board_discussions"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (D) > Basis for Conclusions\n\nThe former Executive Committee for Planning and Follow-up and the present Accounting Standards Committee have reviewed in their meetings a number of alternatives and in particular the proposed alternatives in the preliminary study (17) to be adopted in the accounting treatments of Musharaka to be adopted in the accounting treatments of Musharaka financing. The Accounting Standards Committee recommended the adoption of the alternatives which were found to be in compliance with the provisions of the Statement of Objectives and the Statement of Concepts."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 16\n\nThe Accounting and Auditing Standards Board met on 24-26 Rabi\u2019 II, 1416 A.H., corresponding to 19-21 September 1995 A.D., and discussed the exposure draft and made changes to it."
     },
     {
         "tags": [
-            "appendix",
-            "recognition_measurement"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "exposure_distribution"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (D) > Recognition and Measurement of the Islamic Bank\u2019s Share in Musharaka Capital at the Time of Contracting\n\nThe Musharaka capital is governed by a group of principles, the most significant of which are: The share of each partner should be known, specified and agreed as to its amount at the time of contracting, the share of the capital of each partner should be available at the time of contracting. This cannot be in the form of a debt on account in order to avoid deception, misunderstanding and inability to make use of the capital. If the capital is in the form of real or intangible assets, Shari\u2019a principles require the valuation of the intangible assets by agreement of the partners, and the Islamic bank\u2019s share in the Musharaka shall be measured at fair value at the time of contracting. The valuation can be conducted by experts or by the partners as agreed by the two parties."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 17\n\nThe Board decided that the exposure draft should be distributed to specialists and interested parties to obtain their comments on the exposure draft in order to discuss them in a listening session."
     },
     {
         "tags": [
-            "appendix",
-            "historical_cost_reasons"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "listening_session"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (D) > There are two reasons for not using historical cost to measure non- monetary assets which represent the Islamic bank\u2019s share in the Musharaka.\n\nThese are: (17) Husayn H. Shihatah, \u201cStudy of the Juristic and Accounting Aspects of Islamic Musharaka \u201cStudy of the Juristic and Accounting Aspects of Islamic Musharaka Standard as Performed by Islamic Banks\u201d , Accounting and Auditing Organization for Islamic Finance Institutions, 1415 A.H.-1994 A.D."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 18\n\nThe listening session was held on 25-26 Rajab 1416 A.H., corresponding to 17-18 December 1995 A.D., in Bahrain. The listening session was attended by more than 40 participants representing central banks, Islamic banks, accounting firms, Shari\u2019ah scholars, academics and others who are interested in this field."
     },
     {
         "tags": [
-            "appendix",
-            "measurement_after_contracting"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "response_to_comments"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (D) > Measurement of the Islamic Bank\u2019s Share in Musharaka Capital After Contracting, at the End of the Financial Period\n\nThe Islamic bank\u2019s share after contracting is measured at its historical cost because Shari\u2019a rules of Musharaka requires the determination of capital and its maintenance up to the time of final settlement in order to determine profit. The latter is defined as the amount earned in excess of the initial Musharaka capital. This conforms with the accounting measurement attribute provided for in the Statement of Concepts. (para. 98)"
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 19\n\nMembers of the Accounting Standards Committee responded in the listening session to the written comments received prior to the listening session as well as the oral comments expressed in the sessions."
     },
     {
         "tags": [
-            "appendix",
-            "profit_loss_recognition"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "amendments"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (D) > Recognition of the Islamic Bank\u2019s Share in the Profit or Loss of Musharaka\n\nThe standard distinguished between Musharaka financing transactions (constant or diminishing ownership) which end during a financial period, and those which continue for more than one financial period. In the first case, the profits or losses are recognized after liquidation. This is in conformity with the Shari\u2019a principle stating: No profit shall be deemed due except after maintaining the capital; i.e., after liquidation which reveals an excess (profit) over the initial capital or shortage (loss) therefrom. In the second case, if the Musharaka financing transactions continue for more than one financial period, the Islamic bank\u2019s share of profits for a financial period resulting from partial or final settlement shall be recognized to the extent that the profits are being distributed; recognition of the Islamic bank\u2019s share of losses for any period is made to the extent that such losses are being deducted from its share of the Musharaka capital. This is in conformity with the periodicity concept (Statement of Concepts, para. 74) which enables the preparation of financial reports in such a way as to achieve the objective set out in the Statement of Objectives (para. 33): Determining the rights and obligations of all concerned parties."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 20\n\nThe Accounting Standards Committee held a meeting on 20-21 Sha\u2019ban 1416 A.H., corresponding to 12-13 January 1996 A.D., to discuss the comments made about the exposure draft. The Committee made the necessary amendments which it deemed necessary in light of the discussions that took place in the listening session."
     },
     {
         "tags": [
-            "appendix",
-            "definition"
+            "standard_document",
+            "appendices",
+            "standard_preparation_history",
+            "standard_adoption"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (E) > Musharaka\n\nA form of partnership between the Islamic bank and its clients whereby each party contributes to the capital of partnership in equal or varying degrees to establish a new project or share in an existing one, and whereby each of the parties becomes an owner of the capital on a permanent or declining basis and shall have his due share of profits. However, losses are shared in proportion to the contributed capital. It is not permissible to stipulate otherwise."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (A) > Brief History of the Preparation of the Standard > 21\n\nThe Accounting and Auditing Standards Board adopted the proposed standard in its meeting No. (10) held on 14-16 Ramadan 1416 A.H., corresponding to 3-5 February 1996 A.D."
     },
     {
         "tags": [
-            "appendix",
-            "definition"
+            "standard_document",
+            "juristic_rules_musharaka",
+            "musharaka_definition"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (E) > Constant Musharaka\n\nIt is a Musharaka in which the partners\u2019 shares in the capital remain constant throughout the period as specified in the contract."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix B: Juristic Rules for Musharaka Financing Transactions > 1. Definition of Musharaka in Fiqh (Jurisprudence)\n\nIt is the commingling of funds for the purpose of sharing in profit."
     },
     {
         "tags": [
-            "appendix",
-            "definition"
+            "standard_document",
+            "juristic_rules_musharaka",
+            "musharaka_categories"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (E) > Diminishing Musharaka\n\nIt is a Musharaka in which the Islamic bank agrees to transfer gradually to the other partner its (the Islamic bank\u2019s) share in the Musharaka, so that the Islamic bank\u2019s share declines and the other partner\u2019s share increases until the latter becomes the sole proprietor of the venture."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix B: Juristic Rules for Musharaka Financing Transactions > 1/1 Categories of Musharaka\n\nPartnerships are of two types: Holding Partnership and Contract Partnership."
     },
     {
         "tags": [
-            "appendix",
-            "definition"
+            "standard_document",
+            "juristic_rules_musharaka",
+            "musharaka_categories",
+            "musharaka_types_al_inan"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (E) > Participation\n\nIt is a Musharaka in which the Islamic bank owns shares or units representing an equity stake in another firm\u2019s capital."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix B: Juristic Rules for Musharaka Financing Transactions > 1/1 Categories of Musharaka > 1/1/1 Al-Inan partnership\n\nIt is a contract between two or more persons with varied contributions sharing in profit or loss as agreed."
     },
     {
         "tags": [
-            "appendix",
-            "definition"
+            "standard_document",
+            "juristic_rules_musharaka",
+            "musharaka_categories",
+            "musharaka_types_al_mufawada"
         ],
-        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (E) > Mudaraba\n\nIt is a partnership in profit between capital and work. It is conducted between investment accountholders as owners of capital and the Islamic bank as a Mudarib. The Islamic bank announces its willingness to accept the funds of investment amount holders, the sharing of profits being as agreed upon between the two parties, and the losses being borne by the owner of funds except if they were due to misconduct, negligence or violation of the conditions agreed upon by the Islamic bank. In the latter cases such losses would be borne by the Islamic bank. A Mudaraba contract may also be concluded between the Islamic bank, as a provider of capital on behalf of itself or on behalf of investment accountholders, and business owners and other craftsmen, including farmers, traders etc. A Mudaraba cannot include market operations undertaken for purely speculative purposes, which are a form of gambling."
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix B: Juristic Rules for Musharaka Financing Transactions > 1/1 Categories of Musharaka > 1/1/2 Al-Mufawada partnership\n\nA partnership with equal contribution, work, responsibility, and liability for debts."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "juristic_rules_musharaka",
+            "musharaka_categories",
+            "musharaka_types_al_amal"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix B: Juristic Rules for Musharaka Financing Transactions > 1/1 Categories of Musharaka > 1/1/3 Al-A\u2019mal partnership\n\nA contract to accept work jointly and share profits from such work."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "juristic_rules_musharaka",
+            "musharaka_categories",
+            "musharaka_types_al_wujuh"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix B: Juristic Rules for Musharaka Financing Transactions > 1/1 Categories of Musharaka > 1/1/4 Al-Wujuh partnership\n\nA partnership involving reputation to trade on credit, sharing profits or losses as per guarantees provided."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "juristic_rules_musharaka",
+            "musharaka_elements_conditions",
+            "musharaka_elements"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix B: Juristic Rules for Musharaka Financing Transactions > 1/2 Musharaka elements and conditions > 1/2/1 Musharaka elements\n\nThe elements of Musharaka are: Wording, contract parties, and subject matter (funding and work)."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "juristic_rules_musharaka",
+            "musharaka_elements_conditions",
+            "musharaka_terms",
+            "musharaka_terms_wording"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix B: Juristic Rules for Musharaka Financing Transactions > 1/2 Musharaka elements and conditions > 1/2/2 Terms of Musharaka > 1/2/2/1 Wording\n\nAny utterance expressing the purpose may form a Musharaka contract, orally or in writing."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "juristic_rules_musharaka",
+            "musharaka_elements_conditions",
+            "musharaka_terms",
+            "musharaka_terms_contracting_parties"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix B: Juristic Rules for Musharaka Financing Transactions > 1/2 Musharaka elements and conditions > 1/2/2 Terms of Musharaka > 1/2/2/2 Contracting parties\n\nPartners must be competent to give or receive power of attorney."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "juristic_rules_musharaka",
+            "musharaka_elements_conditions",
+            "musharaka_terms",
+            "musharaka_terms_subject_matter"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix B: Juristic Rules for Musharaka Financing Transactions > 1/2 Musharaka elements and conditions > 1/2/2 Terms of Musharaka > 1/2/2/3 Subject matter of the contract\n\nFund can be cash or tangible/intangible assets equivalent to cash. Work participation is a must."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "juristic_rules_musharaka",
+            "musharaka_rules",
+            "musharaka_rules_capital"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix B: Juristic Rules for Musharaka Financing Transactions > 1/3 Musharaka rules > 1/3/1 Rules of capital\n\nCapital must not be guaranteed, transfer based on fair value, and managed with care."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "juristic_rules_musharaka",
+            "musharaka_rules",
+            "musharaka_rules_capital",
+            "musharaka_capital_power_attorney"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix B: Juristic Rules for Musharaka Financing Transactions > 1/3 Musharaka rules > 1/3/1 Rules of capital > a) Power of attorney and disposition of funds\n\nPartners can dispose funds as agents of each other, not for personal use."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "juristic_rules_musharaka",
+            "musharaka_rules",
+            "musharaka_rules_capital",
+            "musharaka_capital_non_guarantee"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix B: Juristic Rules for Musharaka Financing Transactions > 1/3 Musharaka rules > 1/3/1 Rules of capital > b) Non-guarantee of capital\n\nNo partner can guarantee another's capital, liability exists only for negligence or misconduct."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "juristic_rules_musharaka",
+            "musharaka_rules",
+            "musharaka_rules_work"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix B: Juristic Rules for Musharaka Financing Transactions > 1/3 Musharaka rules > 1/3/2 Work rules\n\nPartners act as agents, work scope should align with partnership objectives."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "juristic_rules_musharaka",
+            "musharaka_rules",
+            "musharaka_rules_profit"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix B: Juristic Rules for Musharaka Financing Transactions > 1/3 Musharaka rules > 1/3/3 Rules of profit\n\nProfit must be quantifiable and shared proportionately unless agreed otherwise."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "juristic_rules_musharaka",
+            "musharaka_rules",
+            "musharaka_rules_profit",
+            "musharaka_profit_general"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix B: Juristic Rules for Musharaka Financing Transactions > 1/3 Musharaka rules > 1/3/3 Rules of profit > a) General rules of profit\n\nProfit should be proportion of total profit without predetermined amounts."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "juristic_rules_musharaka",
+            "musharaka_rules",
+            "musharaka_rules_profit",
+            "musharaka_profit_allocation"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix B: Juristic Rules for Musharaka Financing Transactions > 1/3 Musharaka rules > 1/3/3 Rules of profit > b) Rules of allocating profits among partners\n\nFuqaha differ; profit can be proportional to capital or based on contribution."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "juristic_rules_musharaka",
+            "musharaka_rules",
+            "musharaka_rules_loss"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix B: Juristic Rules for Musharaka Financing Transactions > 1/3 Musharaka rules > 1/3/4 Rules applicable in case of loss\n\nLoss shared as per capital shares, deferral permitted in ongoing concerns."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "juristic_rules_musharaka",
+            "musharaka_rules",
+            "musharaka_rules_termination"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix B: Juristic Rules for Musharaka Financing Transactions > 1/3 Musharaka rules > 1/3/5 Rules of Musharaka termination\n\nTerminated by partner's will, death, or loss of legal competence; agency-based."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "musharaka_financing_standard_reason"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (C) Reasons for the Standard\n\nThe Executive Committee for Planning and Follow-up (the Committee) has commissioned a number of consultants to conduct field studies to identify the objectives and standards of financial accounting and the role of governmental and private bodies in preparing accounting standards in countries in which Islamic banks operate. These field studies included the identification of standards that were badly needed and should be given priority by the Financial Accounting Standards Board. The survey revealed the need for early preparation of each of the following standards: a) Murabaha and Murabaha to the Purchase Orderer. b) Musharaka Financing. c) Mudaraba Financing. While preparing the previous Financial Accounting Statement No. (1): Objectives of Financial Accounting for Islamic Banks and Financial Institutions (Statement of Objectives), and Financial Accounting Statement No. (2) : Concept of Financial Accounting for Islamic Banks and Financial Institutions (Statement of Concepts), the consultants were asked to propose nine standards which were considered important and deserved to be given priority in preparation. The consultants were also asked to arrange the proposed standards in order of priority. The selection of the above three standards was based on the decision of the Standards Board in its third meeting held in Tehran on 13 Jumada I, 1413 A.H., corresponding to 8 November 1993 A.D., to give priority to the standards relating to financial instruments. The responses to the field study questionnaire which was conducted by the Accounting and Auditing Organization, showed that the average percentage of transactions in which Musharaka financing is used was 15%."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "basis_for_conclusion",
+            "recognition_measurement_musharaka_capital_initial"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (D) Basis for Conclusions > Recognition and Measurement of the Islamic Bank's Share in Musharaka Capital at the Time of Contracting\n\nThe Musharaka capital is governed by a group of principles, the most significant of which are: The share of each partner should be known, specified and agreed as to its amount at the time of contracting, the share of the capital of each partner should be available at the time of contracting. This cannot be in the form of a debt on account in order to avoid deception, misunderstanding and inability to make use of the capital. If the capital is in the form of real or intangible assets, Shari\u2019a principles require the valuation of the intangible assets by agreement of the partners, and the Islamic bank\u2019s share in the Musharaka shall be measured at fair value at the time of contracting. The valuation can be conducted by experts or by the partners as agreed by the two parties."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "basis_for_conclusion",
+            "musharaka_fair_value_rationale"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (D) Basis for Conclusions > Reasons for Not Using Historical Cost\n\nFirst: The use of the value agreed upon (fair value) by the two parties achieves one of the financial accounting objectives provided for in the Statement of Objectives. Second: The use of the fair value leads to the application of the representational faithfulness concept provided for in the Statement of Concepts."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "basis_for_conclusion",
+            "musharaka_capital_measurement_post_contracting"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (D) Basis for Conclusions > Measurement of the Islamic Bank's Share in Musharaka Capital After Contracting, at the End of the Financial Period\n\nThe Islamic bank\u2019s share after contracting is measured at its historical cost because Shari\u2019a rules of Musharaka requires the determination of capital and its maintenance up to the time of final settlement in order to determine profit. The latter is defined as the amount earned in excess of the initial Musharaka capital. This conforms with the accounting measurement attribute provided for in the Statement of Concepts."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "basis_for_conclusion",
+            "musharaka_profit_loss_recognition"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (D) Basis for Conclusions > Recognition of the Islamic Bank's Share in the Profit or Loss of Musharaka\n\nThe standard distinguished between Musharaka financing transactions (constant or diminishing ownership) which end during a financial period, and those which continue for more than one financial period. In the first case, the profits or losses are recognized after liquidation. This is in conformity with the Shari\u2019a principle stating: No profit shall be deemed due except after maintaining the capital; i.e., after liquidation which reveals an excess (profit) over the initial capital or shortage (loss) therefrom. In the second case, if the Musharaka financing transactions continue for more than one financial period, the Islamic bank\u2019s share of profits for a financial period resulting from partial or final settlement shall be recognized to the extent that the profits are being distributed; recognition of the Islamic bank\u2019s share of losses for any period is made to the extent that such losses are being deducted from its share of the Musharaka capital."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "definitions",
+            "musharaka_definition"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (E) Definitions > Musharaka\n\nA form of partnership between the Islamic bank and its clients whereby each party contributes to the capital of partnership in equal or varying degrees to establish a new project or share in an existing one, and whereby each of the parties becomes an owner of the capital on a permanent or declining basis and shall have his due share of profits. However, losses are shared in proportion to the contributed capital. It is not permissible to stipulate otherwise."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "definitions",
+            "constant_musharaka_definition"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (E) Definitions > Constant Musharaka\n\nIt is a Musharaka in which the partners\u2019 shares in the capital remain constant throughout the period as specified in the contract."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "definitions",
+            "diminishing_musharaka_definition"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (E) Definitions > Diminishing Musharaka\n\nIt is a Musharaka in which the Islamic bank agrees to transfer gradually to the other partner its (the Islamic bank\u2019s) share in the Musharaka, so that the Islamic bank\u2019s share declines and the other partner\u2019s share increases until the latter becomes the sole proprietor of the venture."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "definitions",
+            "participation_definition"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (E) Definitions > Participation\n\nIt is a Musharaka in which the Islamic bank owns shares or units representing an equity stake in another firm\u2019s capital."
+    },
+    {
+        "tags": [
+            "standard_document",
+            "definitions",
+            "mudaraba_definition"
+        ],
+        "content": "Financial Accounting Standard No. (4): Musharaka Financing > Appendix (E) Definitions > Mudaraba\n\nIt is a partnership in profit between capital and work. It is conducted between investment accountholders as owners of capital and the Islamic bank as a Mudarib. The Islamic bank announces its willingness to accept the funds of investment amount holders, the sharing of profits being as agreed upon between the two parties, and the losses being borne by the owner of funds except if they were due to misconduct, negligence or violation of the conditions agreed upon by the Islamic bank. In the latter cases such losses would be borne by the Islamic bank. A Mudaraba contract may also be concluded between the Islamic bank, as a provider of capital on behalf of itself or on behalf of investment accountholders, and business owners and other craftsmen, including farmers, traders etc. A Mudaraba cannot include market operations undertaken for purely speculative purposes, which are a form of gambling."
     }
 ]

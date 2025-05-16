@@ -21,7 +21,13 @@ def query_vdb(query: str, top_k: int = 5, filter: dict = None) -> list[str]:
     return []
 
 if __name__ == "__main__":
-    query = "What is Islamic finance?"
-    results = query_vdb(query)
+    
+    q = {
+        'query': "Initial Recognition at the time of commencement of Ijarah MBT using Underlying Asset Cost Method in lessee's books", 
+        'filter': {'tags': {'$in': ['initial_recognition', 'ijarah_mbt_special_considerations', 'right_of_use_asset_initial_recognition']}}
+    }
+    query = q['query']
+    filter = q['filter']
+    results = query_vdb(query, filter=filter)
     print(f"Query: {query}")
     print(f"Results: {results}")

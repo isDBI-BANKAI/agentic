@@ -1,586 +1,613 @@
 {
-    "title": "Shari\u2019ah Standard No. (9) Ijarah and Ijarah Muntahia Bittamleek (Revised Standard)",
+    "title": "Shari\u2019ah Standard No. (9): Ijarah and Ijarah Muntahia Bittamleek",
     "sections": [
         {
-            "title": "Preface",
-            "content": "This standard outlines the basis of the Shari\u2019ah rulings on Ijarah and Ijarah Muntahia Bittamleek, beginning with the rules relating to the promise to lease, if any, and concluding with the rules of repossession of the leased property in an operating Ijarah by the lessor or transferring its ownership in case of Ijarah Muntahia Bittamleek, within or by the end of the lease term.",
+            "title": "1. Preface",
+            "content": "This standard outlines the basis of the Shari\u2019ah rulings on Ijarah and Ijarah Muntahia Bittamleek, beginning with the rules relating to the promise to lease, if any, and concluding with the rules of repossession of the leased property in an operating Ijarah by the lessor or transferring its ownership in case of Ijarah Muntahia Bittamleek, within or by the end of the lease term. The Standard also aims to outline the Shari\u2019ah requirements that must be observed by Islamic financial Institutions (Institution/Institutions) with respect to Ijarah transactions.",
             "tag": "preface"
         },
         {
-            "title": "Preface",
-            "content": "The Standard also aims to outline the Shari\u2019ah requirements that must be observed by Islamic financial Institutions (Institution/Institutions) (2) with with respect to Ijarah transactions.",
-            "tag": "preface"
-        },
-        {
-            "title": "Preface",
-            "content": "The word (Institution/Institutions) is used here to refer, in short, to Islamic financial institutions including Islamic Banks.",
-            "tag": "preface"
+            "title": "Statement of the Standard",
+            "sections": [
+                {
+                    "title": "1. Scope of the Standard",
+                    "content": "...",
+                    "tag": "scope_of_standard"
+                },
+                {
+                    "title": "2. Promise to Lease (an Asset)",
+                    "content": "...",
+                    "tag": "promise_to_lease"
+                },
+                {
+                    "title": "3. Acquisition of the Asset to Be Leased, or Its Usufruct, by the Institution",
+                    "content": "...",
+                    "tag": "acquisition_of_asset"
+                },
+                {
+                    "title": "4. Concluding an Ijarah Contract and the Forms of Ijarah",
+                    "content": "...",
+                    "tag": "ijarah_contract_forms"
+                },
+                {
+                    "title": "5. Subject Matter of Ijarah",
+                    "content": "...",
+                    "tag": "subject_matter_of_ijarah"
+                },
+                {
+                    "title": "6. Guarantees and Treatment of Ijarah Receivables",
+                    "content": "...",
+                    "tag": "guarantees_treatment_receivables"
+                },
+                {
+                    "title": "7. Changes to the Ijarah Contract",
+                    "content": "...",
+                    "tag": "changes_ijarah_contract"
+                },
+                {
+                    "title": "8. Transfer of the Ownership in the Leased Property in Ijarah Muntahia Bittamleek",
+                    "content": "...",
+                    "tag": "transfer_ownership"
+                },
+                {
+                    "title": "9. Date of Issuance of the Standard",
+                    "content": "...",
+                    "tag": "date_of_issuance"
+                },
+                {
+                    "title": "Adoption of the Standard",
+                    "content": "...",
+                    "tag": "adoption_of_standard"
+                }
+            ],
+            "tag": "statement_of_standard"
         },
         {
             "title": "1. Scope of the Standard",
-            "content": "This standard covers operating leases of properties or Ijarah Muntahia Bittamleek, whether the Institution is the lessor or the lessee. This standard does not cover Sukuk al-Ijarah, as they are covered by , as they are covered by Shari\u2019ah Standard on Investment Sukuk, nor the employment of persons (labour contract), as it is covered by a separate standard.",
+            "content": "This standard covers operating leases of properties or Ijarah Muntahia Bittamleek, whether the Institution is the lessor or the lessee. This standard does not cover Sukuk al-Ijarah, as they are covered by Shari\u2019ah Standard on Investment Sukuk, nor the employment of persons (labour contract), as it is covered by a separate standard.",
             "tag": "scope"
         },
         {
             "title": "2. Promise to Lease (an Asset)",
-            "tag": "promise_to_lease",
             "sections": [
                 {
-                    "title": "2/1",
-                    "content": "In principle, an Ijarah contract is executed for an asset owned by the lessor or an usufruct owned by the sub-lessor. However, it is for a customer to request an Institution to acquire the asset or to acquire the usufruct of an existing asset which the customer wishes to take on lease.",
-                    "tag": "principle"
+                    "title": "2/1 Ijarah contract execution",
+                    "content": "An Ijarah contract is executed for an asset owned by the lessor or an usufruct owned by the sub-lessor. However, it is for a customer to request an Institution to acquire the asset or to acquire the usufruct of an existing asset which the customer wishes to take on lease.",
+                    "tag": "promise_to_lease_execution"
                 },
                 {
-                    "title": "2/2",
-                    "content": "In principle, Ijarah may be effected directly on the asset without any requirement of a preceding master agreement. However, it is permissible to have a master agreement drawn up coveringa number of Ijarah transactions between the Institution and the customer, setting out the general terms and conditions of agreement between the two parties. In this case, there may either be a separate lease contract for each transaction, in a specific written document signed by the two parties, or alternatively the two parties may exchange notices of offer and acceptance by referring to the terms and conditions contained in the master agreement.",
-                    "tag": "agreement"
+                    "title": "2/2 Master agreement for Ijarah",
+                    "content": "Ijarah may be effected directly on the asset without any requirement of a preceding master agreement. It is permissible to have a master agreement covering a number of Ijarah transactions, setting out general terms and conditions. Separate lease contracts or notices may refer to the terms of the master agreement.",
+                    "tag": "master_agreement"
                 },
                 {
-                    "title": "2/3",
-                    "content": "It is permissible for the Institution to require the customer who has promised to lease to pay a sum of money to the Institution to ensure the customer\u2019s seriousness in accepting a lease on the asset and the subsequent obligations, provided no amount is to be deducted from this sum except in proportion to the actual damage suffered by the Institution in case the customer does not fulfil his promise. Thus, if the customer, in case of Ijarah associated with a promise to transfer ownership, breaches his promise, the promisor shall be charged either the difference between the cost of the asset intended to be leased and the total lease rentals for the asset which is leased on the basis of Ijarah Muntahia Bittamleek to a third party, or, in case of operating Ijarah, the promisor breaching his promise shall be charged the difference between the cost of acquisition and the total selling price if sold to a third party by the Institution (promisee). Otherwise; i.e., in case it is not sold, the promisee shall not be entitled to receive any compensation.",
-                    "tag": "security"
+                    "title": "2/3 Payment for seriousness",
+                    "content": "The Institution may require the customer to pay a sum to ensure seriousness, with deductions made in cases proportional to actual damage if the promise is not fulfilled.",
+                    "tag": "payment_seriousness"
                 },
                 {
-                    "title": "2/4",
-                    "content": "The amount of money deposited by the customer as security for his commitment can be either held on trust in the custody of the Institution in which case the latter cannot invest it, or it may be held on an investment trust basis in which case the customer permits the Institution to invest it on the basis of Mudarabah between the customer and the Institution. It is permissible to agree with the customer, upon the execution of the contract of lease, that this amount shall be treated as an advance payment of the instalments of the lease rental.",
-                    "tag": "security"
+                    "title": "2/4 Security deposit handling",
+                    "content": "The money deposited by the customer as a security can be held on trust or on an investment trust basis, allowing the Institution to invest it. It's permissible to agree that this amount may be treated as an advance payment of lease instalments.",
+                    "tag": "security_deposit"
                 }
-            ]
+            ],
+            "tag": "promise_to_lease"
         },
         {
             "title": "3. Acquisition of the Asset to Be Leased, or Its Usufruct, by the Institution",
-            "tag": "asset_acquisition",
             "sections": [
                 {
-                    "title": "3/1",
-                    "content": "For the permissibility of an Ijarah contract concerning a specified asset, the lease contract should be preceded by acquisition of either the asset to be leased or the usufruct of that asset.",
-                    "tag": "permissibility"
+                    "title": "3/1 Requirements for an Ijarah contract",
+                    "content": "For an Ijarah contract concerning a specified asset, the lease contract should be preceded by acquisition of the asset or its usufruct.",
+                    "tag": "acquisition_requirements"
                 },
                 {
-                    "title": "3/1/1",
-                    "content": "If the asset or the usufruct thereof is owned by the Institution, which should in principle be the case, an Ijarah contract may be executed as soon as agreement is reached by the two parties.",
-                    "tag": "ownership"
+                    "title": "3/1/1 Asset ownership by Institution",
+                    "content": "If the asset or its usufruct is owned by the Institution, an Ijarah contract may be executed upon agreement by the parties.",
+                    "tag": "institution_ownership"
                 },
                 {
-                    "title": "3/1/2",
-                    "content": "However, if the asset is to be acquired by the customer [see item 3/2 below], or by a third party, the Ijarah contract shall not be executed unless and until the Institution has acquired that asset.",
-                    "tag": "asset_acquisition_condition"
+                    "title": "3/1/2 Asset acquisition by customer or third party",
+                    "content": "The Ijarah contract shall not be executed until the Institution has acquired the asset if it is to be acquired by the customer or a third party.",
+                    "tag": "customer_acquisition"
                 },
                 {
-                    "title": "3/2",
-                    "content": "An asset may be acquired by a party and then leased to that party. In this case, the Ijarah transaction should not be stipulated as a condition of the purchase contract by which the Institution acquires the asset.",
-                    "tag": "asset_acquisition"
+                    "title": "3/2 Leasing to the acquiring party",
+                    "content": "An asset may be acquired by a party and then leased to that party, without stipulating the Ijarah contract as a condition of the purchase contract.",
+                    "tag": "leasing_to_acquirer"
                 },
                 {
-                    "title": "3/3",
-                    "content": "A lessee of an asset may enter into a sub-lease contract with a party other than the owner for a rental that is either the same, lower or higher, payable either currently or on a deferred basis, unless the owner stipulates that the lessee should not assign or sublet the property to third parties, or should not do so without his approval.",
-                    "tag": "sub_lease"
+                    "title": "3/3 Sub-lease conditions",
+                    "content": "A lessee may sub-lease an asset to a third party for variable rental amounts unless restricted by the lessor.",
+                    "tag": "sublease_conditions"
                 },
                 {
-                    "title": "3/4",
-                    "content": "The lessee may lease the asset back to its owner in the first lease period for a rental that is lower, same or higher than what he is paying, if the two rentals are paid on a spot basis. However, this is not permissible if it should lead to contract of \u2019Inah, by varying the rent or the duration. For example, it is not permissible, if the first rental is one hundred dinars payable on a spot basis, for the lessee to sublet it to the lessor for one hundred and ten dinars payable on a deferred basis, or if the first rental is one hundred and ten dinars payable on a deferred basis, for the second to be for one hundred dinars payable instantly, or if the two rentals are of the same amount, but the payment of the first rental is deferred for one month and the second rental is deferred for two months.",
-                    "tag": "leaseback"
+                    "title": "3/4 Leasing back to the lessor",
+                    "content": "A lessee may lease the asset back to its owner under certain conditions, avoiding contracts of 'Inah.",
+                    "tag": "leaseback_conditions"
                 },
                 {
-                    "title": "3/5",
-                    "content": "An Ijarah contract may be executed for an asset undertaken by the lessor to be delivered to the lessee according to accurate specifications, even if the asset so described is not owned by the lessor. In this case, an agreement is reached to make the described asset available during the duration of the contract, giving the lessor the opportunity to acquire or to produce it. It is not a requirement of this lease that the rental should be paid in advance as long as the lease is not executed according to the contract of Salam (or Salaf). Should the lessee receive an asset that does not conform to the description, then he is entitled to reject it and demand an asset that conforms to the description.",
-                    "tag": "asset_specification"
+                    "title": "3/5 Ijarah for non-owned assets with specifications",
+                    "content": "An Ijarah contract may be executed for an asset promised for delivery with specific conditions, even if not owned by the lessor.",
+                    "tag": "specification_based_ijarah"
                 },
                 {
-                    "title": "3/6",
-                    "content": "An Institution\u2019s customer may jointly acquire an asset that he wishes to lease with the Institution, and then lease the Institution\u2019s share of the asset from the Institution. In this case, the rental specified as receivable by the Institution should only be in proportion to its share in the ownership of the asset, since the lessee is a co-owner of the asset and therefore has to pay rent only on the share that he does not own.",
+                    "title": "3/6 Joint acquisition and leasing",
+                    "content": "A customer may jointly acquire an asset with the Institution and lease the Institution's share, paying rental proportionate to the share owned.",
                     "tag": "joint_acquisition"
                 },
                 {
-                    "title": "3/7",
-                    "content": "An Institution may appoint one of its customers to act as its agent in acquiring on its behalf an asset that is desired by that customer such as equipment, machinery, etc., whose description and price are fixed with a view to the Institution\u2019s leasing such asset or assets to the customer after it has acquired their ownership through either actual or constructive possession. Although this type of agency (for the purchase of the assets) is permissible, it is always preferred that the agent is someone other than the customer (prospective lessee) as far as possible.",
-                    "tag": "agency"
+                    "title": "3/7 Appointing a customer as agent",
+                    "content": "An Institution may appoint a customer as its agent to acquire an asset on its behalf, but it is preferable that the agent not be the prospective lessee.",
+                    "tag": "customer_as_agent"
                 }
-            ]
+            ],
+            "tag": "asset_acquisition"
         },
         {
             "title": "4. Concluding an Ijarah Contract and the Forms of Ijarah",
-            "tag": "contract_conclusion",
             "sections": [
                 {
-                    "title": "4/1",
-                    "content": "Signature of the contract and the consequences thereof",
+                    "title": "4/1 Signature of the contract and consequences",
+                    "content": "The lease contract is binding, with defined rules for terminations or alterations. The Ijarah period must be specified, potentially starting at a future date.",
                     "tag": "contract_signature"
                 },
                 {
-                    "title": "4/1/1",
-                    "content": "The lease contract is a binding contract which neither party may terminate or alter without the other\u2019s consent [see items 5/2/2, 7/2/1, and 7/2/2]. However, an Ijarah contract may be terminated in accordance with item 7/2/1.",
-                    "tag": "contract_binding"
+                    "title": "4/1/1 Binding nature of the contract",
+                    "content": "The lease contract is binding, cannot be terminated or altered without mutual consent, with some termination provisions.",
+                    "tag": "binding_contract"
                 },
                 {
-                    "title": "4/1/2",
-                    "content": "The duration of an Ijarah contract must be specified in the contract. The period of Ijarah should commence on the date of execution of the contract, unless the two parties agree on a specified future commencement date, resulting in a future Ijarah, that is, an Ijarah contract to be executed at a future date.",
-                    "tag": "contract_duration"
+                    "title": "4/1/2 Duration specification",
+                    "content": "The Ijarah period must be specified, commencing on the execution date unless a future date is agreed.",
+                    "tag": "duration_specification"
                 },
                 {
-                    "title": "4/1/3",
-                    "content": "If the lessor fails to deliver the asset to the lessee on the date specified in the Ijarah contract, no rental is due for the period between the date specified in the contract and the date of actual delivery, and the rental should be reduced accordingly, unless it is agreed that the lease be extended by an equivalent period after its original expiry date.",
-                    "tag": "asset_delivery"
+                    "title": "4/1/3 Lessor's delivery obligations",
+                    "content": "No rental is due if the asset is not delivered by the specified date, with potential lease extensions.",
+                    "tag": "delivery_obligations"
                 },
                 {
-                    "title": "4/1/4",
-                    "content": "\u2019Arboun (Earnest Money) may be taken in respect of lease at the execution of the contract of lease, with the lessee having the right to terminate the contract during a specified period of time, and \u2019Arboun is treated as an advance payment of the rental. If the Ijarah contract is not executed for a reason attributable to the lessee, the lessor may retain the \u2019Arboun. However, it is preferable for the Institution to forgo any amount in excess of the actual damage it has suffered. [see para. 3/2]",
-                    "tag": "arboun"
+                    "title": "4/1/4 'Arboun (Earnest Money)",
+                    "content": "'Arboun is treated as an advance rental payment, with specific conditions regarding contract termination.",
+                    "tag": "arboun_earnest_money"
                 },
                 {
-                    "title": "4/2",
-                    "content": "Forms of the Ijarah contract",
-                    "tag": "contract_forms"
-                },
-                {
-                    "title": "4/2/1",
-                    "content": "Ijarah contracts may be executed in respect of the same asset for different periods for several lessees, provided that two contracts are not executed in respect of the same asset for the same period. Such an arrangement is called \u201csuccessive leases\u201d, because each Ijarah is considered as being successive to the previous one and not concurrent with it on the basis of its being a future Ijarah. [see item 4/1/2 above]",
-                    "tag": "successive_leases"
-                },
-                {
-                    "title": "4/2/2",
-                    "content": "If the lessor signs an Ijarah contract for a particular asset for a specified period of time, he cannot sign another Ijarah contract with another lessee for the duration of the existing Ijarah period or for any remaining period thereof. [see item 7/1/2 below]",
-                    "tag": "contract_period"
-                },
-                {
-                    "title": "4/2/3",
-                    "content": "An Ijarah contract may be signed with several lessees being entitled to the same specified usufruct of a particular asset and duration of rent, without specifying a particular period of time for a particular person. In this case, each lessee may benefit from the property during the time assigned to him in accordance with specified rules. This case is one form of Muhaya`ah (time-sharing) in benefiting from the usufruct.",
-                    "tag": "time_sharing"
-                },
-                {
-                    "title": "4/2/4",
-                    "content": "A lessee may invite others to share with him in the usufruct he owns. In this case, they become co-owners in the usufruct of the leased property. This can only be done before entering into a sub-lease. If the property is sub-leased after the co-owners having owned the usufruct each co-owner is entitled to a share in the sub-lease rental pro rata to his share in the usufruct.",
-                    "tag": "co_ownership_usufruct"
+                    "title": "4/2 Forms of the Ijarah contract",
+                    "sections": [
+                        {
+                            "title": "4/2/1 Successive lease arrangements",
+                            "content": "Ijarah contracts can be executed in succession for the same asset with different lessees, not concurrently.",
+                            "tag": "successive_leases"
+                        },
+                        {
+                            "title": "4/2/2 Restriction during existing Ijarah",
+                            "content": "Lessor cannot sign another Ijarah for the same period or remaining period of an existing Ijarah.",
+                            "tag": "restriction_existing_ijarah"
+                        },
+                        {
+                            "title": "4/2/3 Ijarah with multiple lessees",
+                            "content": "Contracts can be signed with several lessees sharing the same usufruct, with usage time assigned.",
+                            "tag": "multiple_lessees"
+                        },
+                        {
+                            "title": "4/2/4 Sharing usufruct among lessees",
+                            "content": "A lessee may invite others to share usufruct before sub-leasing, allowing co-ownership in the usufruct.",
+                            "tag": "shared_usufruct"
+                        }
+                    ],
+                    "tag": "ijarah_forms"
                 }
-            ]
+            ],
+            "tag": "ijarah_contract_conclusion"
         },
         {
             "title": "5. Subject Matter of Ijarah",
-            "tag": "subject_matter",
             "sections": [
                 {
-                    "title": "5/1",
-                    "content": "Rules governing benefit and leased property",
-                    "tag": "benefit_rules"
+                    "title": "5/1 Rules governing benefit and leased property",
+                    "sections": [
+                        {
+                            "title": "5/1/1 Permissible use of leased assets",
+                            "content": "Leased asset must be usable preserving the asset, and benefit must be Shari\u2019ah-compliant.",
+                            "tag": "permissible_use"
+                        },
+                        {
+                            "title": "5/1/2 Usufruct of undivided assets",
+                            "content": "Subject matter can be a share in an undivided asset, benefiting by agreed means such as time-sharing.",
+                            "tag": "usufruct_undivided_assets"
+                        },
+                        {
+                            "title": "5/1/3 Ijarah with non-Muslims",
+                            "content": "Ijarah may be executed with non-Muslims if the use is permissible.",
+                            "tag": "ijarah_non_muslims"
+                        },
+                        {
+                            "title": "5/1/4 Suitable use and care",
+                            "content": "Lessee must use the asset suitably, conforming to Shari\u2019ah and avoiding damage.",
+                            "tag": "suitable_use_care"
+                        },
+                        {
+                            "title": "5/1/5 Lessor's responsibility for defects",
+                            "content": "Lessor bears responsibility for defects impairing intended use, cannot exclude liability for impairment.",
+                            "tag": "lessor_responsibility_defects"
+                        },
+                        {
+                            "title": "5/1/6 Lessee's obligation for misconduct",
+                            "content": "Lessee must repair or restore usufruct impaired by misconduct, without rent waiver during lost benefit.",
+                            "tag": "lessee_misconduct_obligation"
+                        },
+                        {
+                            "title": "5/1/7 Maintenance responsibilities",
+                            "content": "Lessor cannot stipulate major maintenance on lessee who can be tasked at lessor's cost, while ordinary maintenance by lessee.",
+                            "tag": "maintenance_responsibilities"
+                        },
+                        {
+                            "title": "5/1/8 Asset responsibility and insurance",
+                            "content": "Lessor maintains asset responsibility, may insure at own cost, factoring such into rental.",
+                            "tag": "asset_responsibility_insurance"
+                        }
+                    ],
+                    "tag": "benefit_leased_property"
                 },
                 {
-                    "title": "5/1/1",
-                    "content": "The leased asset must be capable of being used while preserving the asset, and the benefit from an Ijarah must be permissible by Shari\u2019ah. For example, a house or a chattel may not be leased for the purpose of an impermissible act by the lessee, such as leasing premises to be used as headquarters by an Institution dealing in interest or to a shopkeeper for selling or storing prohibited goods, or leasing a vehicle to transport prohibited merchandise.",
-                    "tag": "permissible_use"
-                },
-                {
-                    "title": "5/1/2",
-                    "content": "The subject matter of Ijarah may be a share in an undivided asset held in common with the lessee, whether the lessee is a partner with the lessor or not. In this case the lessee may benefit from the leased share in the same way in which the lessor used to benefit from it, i.e., by usufruct division based on Muh\u0101ya\u2019ah i.e. by identifying a particular time (time-sharing) or a particular part of the property, used alternately by the co- owners, or any other means with consent of the other partner.",
-                    "tag": "undivided_asset"
-                },
-                {
-                    "title": "5/1/3",
-                    "content": "An Ijarah contract may be executed for a house or a chattel, even with a non-Muslim, if the use to be made of it is permissible, such as a house for residential purposes, a car for transport, or a computer to store data, unless the lessor knows in advance, or has reason to presume, that the use of the asset to be leased will be for an impermissible purpose.",
-                    "tag": "permissible_use"
-                },
-                {
-                    "title": "5/1/4",
-                    "content": "The lessee must use the leased asset in a suitable manner or in conformity with common practice, and comply with conditions which are acceptable in Shari\u2019ah. He must also avoid causing damage to the leased asset by misuse through misconduct or negligence.",
-                    "tag": "lessee_responsibility"
-                },
-                {
-                    "title": "5/1/5",
-                    "content": "The lessor must accept responsibility for any defects of the leased asset which impair the intended use of the asset, and may not exclude his liability for any impairment that the leased asset may sustain, either by his own doing or as a result of events outside his control, which affect the benefits intended to be available under the Ijarah contract.",
-                    "tag": "lessor_responsibility"
-                },
-                {
-                    "title": "5/1/6",
-                    "content": "If the benefit from the leased asset is impaired wholly or partially as a result of the lessee\u2019s misconduct, while the property remains under lease, the lessee is obliged to restore or repair the usufruct, and rent for the time during which the benefit is lost is not to be waived.",
-                    "tag": "lessee_misconduct"
-                },
-                {
-                    "title": "5/1/7",
-                    "content": "The lessor may not stipulate that the lessee will undertake the major maintenance of the asset that is required to keep it in the condition necessary to provide the contractual benefits under the lease. The lessor may delegate to the lessee the task of carrying out such maintenance at the lessor\u2019s cost. The lessee should carry out operating or periodical (ordinary) maintenance.",
-                    "tag": "maintenance"
-                },
-                {
-                    "title": "5/1/8",
-                    "content": "The leased asset is the responsibility of the lessor throughout the duration of the Ijarah, unless the lessee commits misconduct or negligence. The lessor may take out permissible insurance on it whenever possible, and such insurance expenses must be borne by the lessor. The lessor may take this into account implicitly when the lease rental is to be fixed. However, he may not, after the contract is signed, charge the lessee any cost in excess of the cost anticipated at the time of fixing the rent. The lessor may also delegate to the lessee the task of taking out insurance at the lessor\u2019s expense.",
-                    "tag": "asset_responsibility"
-                },
-                {
-                    "title": "5/2",
-                    "content": "Rules governing lease rentals",
-                    "tag": "rental_rules"
-                },
-                {
-                    "title": "5/2/1",
-                    "content": "The lease rental may be in cash or in kind (goods) or benefit (service). The rental must be specified, either as a lump sum",
-                    "tag": "rental_specification"
+                    "title": "5/2 Rules governing lease rentals",
+                    "sections": [
+                        {
+                            "title": "5/2/1 Form of lease rentals",
+                            "content": "Lease rental can be cash, goods, or services, specified either lump sum or not.",
+                            "tag": "lease_rentals_form"
+                        }
+                    ],
+                    "tag": "lease_rentals"
                 }
-            ]
+            ],
+            "tag": "subject_matter"
         },
         {
-            "title": "5/1/5",
-            "content": "The lessor must accept responsibility for any defects of the leased asset which impair the intended use of the asset, and may not exclude his liability for any impairment that the leased asset may sustain, either by his own doing or as a result of events outside his control, which affect the benefits intended to be available under the Ijarah contract.",
-            "tag": "Liability"
-        },
-        {
-            "title": "5/1/6",
-            "content": "If the benefit from the leased asset is impaired wholly or partially as a result of the lessee\u2019s misconduct, while the property remains under lease, the lessee is obliged to restore or repair the usufruct, and rent for the time during which the benefit is lost is not to be waived.",
-            "tag": "Lessee Obligations"
-        },
-        {
-            "title": "5/1/7",
-            "content": "The lessor may not stipulate that the lessee will undertake the major maintenance of the asset that is required to keep it in the condition necessary to provide the contractual benefits under the lease. The lessor may delegate to the lessee the task of carrying out such maintenance at the lessor\u2019s cost. The lessee should carry out operating or periodical (ordinary) maintenance.",
-            "tag": "Maintenance"
-        },
-        {
-            "title": "5/1/8",
-            "content": "The leased asset is the responsibility of the lessor throughout the duration of the Ijarah, unless the lessee commits misconduct or negligence. The lessor may take out permissible insurance on it whenever possible, and such insurance expenses must be borne by the lessor. The lessor may take this into account implicitly when the lease rental is to be fixed. However, he may not, after the contract is signed, charge the lessee any cost in excess of the cost anticipated at the time of fixing the rent. The lessor may also delegate to the lessee the task of taking out insurance at the lessor\u2019s expense.",
-            "tag": "Asset Responsibility, Insurance"
+            "title": "5 Responsibility and Maintenance",
+            "sections": [
+                {
+                    "title": "5/1/5 Lessor\u2019s responsibility for defects",
+                    "content": "The lessor must accept responsibility for any defects of the leased asset which impair the intended use of the asset, and may not exclude his liability for any impairment that the leased asset may sustain, either by his own doing or as a result of events outside his control, which affect the benefits intended to be available under the Ijarah contract.",
+                    "tag": "lessor_liability"
+                },
+                {
+                    "title": "5/1/6 Lessee's responsibility for misconduct",
+                    "content": "If the benefit from the leased asset is impaired wholly or partially as a result of the lessee\u2019s misconduct, while the property remains under lease, the lessee is obliged to restore or repair the usufruct, and rent for the time during which the benefit is lost is not to be waived.",
+                    "tag": "lessee_obligations"
+                },
+                {
+                    "title": "5/1/7 Maintenance responsibility",
+                    "content": "The lessor may not stipulate that the lessee will undertake the major maintenance of the asset that is required to keep it in the condition necessary to provide the contractual benefits under the lease. The lessor may delegate to the lessee the task of carrying out such maintenance at the lessor\u2019s cost. The lessee should carry out operating or periodical (ordinary) maintenance.",
+                    "tag": "maintenance_obligations"
+                },
+                {
+                    "title": "5/1/8 Lessor\u2019s responsibility for the asset",
+                    "content": "The leased asset is the responsibility of the lessor throughout the duration of the Ijarah, unless the lessee commits misconduct or negligence. The lessor may take out permissible insurance on it whenever possible, and such insurance expenses must be borne by the lessor.",
+                    "tag": "lessor_obligations"
+                }
+            ],
+            "tag": "responsibility_maintenance"
         },
         {
             "title": "5/2 Rules governing lease rentals",
-            "tag": "Lease Rentals"
+            "sections": [
+                {
+                    "title": "5/2/1 Rental specification",
+                    "content": "The lease rental may be in cash or in kind (goods) or benefit (service). The rental must be specified, either as a lump sum covering the duration of the Ijarah contract, or by instalments for parts of the duration.",
+                    "tag": "rental_specification"
+                },
+                {
+                    "title": "5/2/2 Rental obligation commencement",
+                    "content": "The rental is made obligatory by the contract and the lessor\u2019s entitlement to the rental runs from the time when the lessee starts to benefit from the asset or once the lessor makes the usufruct of the asset available to the lessee.",
+                    "tag": "rental_commencement"
+                },
+                {
+                    "title": "5/2/3 Floating rental conditions",
+                    "content": "In case the rental is subject to changes (floating rental), it is necessary that the amount of the rental of the first period of the Ijarah contract be specified in lump sum.",
+                    "tag": "floating_rental"
+                },
+                {
+                    "title": "5/2/4 Rental split",
+                    "content": "It may be agreed that the rental should consist of two specified parts: one to be paid or transferred to the lessor and the other to be held by the lessee to cover any expenses or costs approved by the lessor.",
+                    "tag": "rental_split"
+                },
+                {
+                    "title": "5/2/5 Amendment of future rentals",
+                    "content": "The amendment of future rentals is permissible by the agreement of both parties.",
+                    "tag": "rental_amendment"
+                }
+            ],
+            "tag": "rental_rules"
         },
         {
-            "title": "5/2/1",
-            "content": "The lease rental may be in cash or in kind (goods) or benefit (service). The rental must be specified, either as a lump sum",
-            "tag": "Rental Types"
+            "title": "6 Guarantees and Treatment of Ijarah Receivables",
+            "sections": [
+                {
+                    "title": "6/1 Permissible security",
+                    "content": "Permissible security, of all kinds, may be taken to secure the rental payments or as a security against misuse or negligence on the part of the lessee.",
+                    "tag": "permissible_security"
+                },
+                {
+                    "title": "6/2 Advance rental payments",
+                    "content": "The two parties may agree that the rental be paid fully in advance. It is also permissible to make the rent payable in instalments.",
+                    "tag": "advance_rentals"
+                },
+                {
+                    "title": "6/3 No increase in rental for delayed payment",
+                    "content": "No increase in the rental due may be stipulated by the lessor in case of delay in payment by the lessee.",
+                    "tag": "rental_delay"
+                },
+                {
+                    "title": "6/4 Donation for delayed payment",
+                    "content": "It may be provided in the contract that a lessee who delays payment for no good reason undertakes to donate a certain amount or percentage of the rental due in case of late payment.",
+                    "tag": "delayed_payment_donation"
+                },
+                {
+                    "title": "6/5 Foreclosure of security",
+                    "content": "In case of foreclosure of the security provided by the lessee, the lessor may deduct from such amounts only what is due in respect of rental for previous periods.",
+                    "tag": "foreclosure_security"
+                }
+            ],
+            "tag": "guarantees_and_receivables"
         },
         {
-            "title": "5/2/2",
-            "content": "The rental is made obligatory by the contract and the lessor\u2019s entitlement to the rental runs from the time when the lessee starts to benefit from the asset or once the lessor makes the usufruct of the asset available to the lessee, and the entitlement to the rental does not necessarily commence on the date of signing the Ijarah contract. The rental may be paid entirely in advance or in instalments during a period equivalent, or more or less, to the duration of the Ijarah. However, if the asset is made available only after a period longer than what customary practices deem proper, then no payment shall be obligatory.",
-            "tag": "Rental Commencement"
+            "title": "7 Changes to the Ijarah Contract",
+            "sections": [
+                {
+                    "title": "7/1 Selling of or damage to the leased asset",
+                    "sections": [
+                        {
+                            "title": "7/1/1 Transfer of ownership to lessee",
+                            "content": "If the lessor sells the leased asset to the lessee, the Ijarah contract is terminated due to the transfer of the ownership of the leased asset and ownership of usufruct to the lessee.",
+                            "tag": "transfer_ownership_to_lessee"
+                        },
+                        {
+                            "title": "7/1/2 Sale to third parties",
+                            "content": "The lessor may sell the leased asset to a third party other than the lessee, and the title to the asset together with the rights and obligations of the lessor under the Ijarah contract is thereby transferred to the new owner.",
+                            "tag": "sale_to_third_party"
+                        },
+                        {
+                            "title": "7/1/3 Total destruction of the leased asset",
+                            "content": "In case of total destruction of the leased asset, the Ijarah contract is terminated if it is concluded on an identified asset.",
+                            "tag": "total_destruction"
+                        },
+                        {
+                            "title": "7/1/4 Lessee\u2019s liability for damage",
+                            "content": "The leased asset in the possession of the lessee is held by the lessee in a fiduciary capacity on behalf of the lessor.",
+                            "tag": "lessee_liability_damage"
+                        },
+                        {
+                            "title": "7/1/5 Partial destruction",
+                            "content": "In case of partial destruction of the leased asset in a manner that impairs the benefits expected from the leased asset, the lessee may terminate the Ijarah contract.",
+                            "tag": "partial_destruction"
+                        },
+                        {
+                            "title": "7/1/6 Ijarah Mawsufah fi al-Dhimmah and asset replacement",
+                            "content": "In an Ijarah Mawsufah fi al-Dhimmah, the owner in cases of total and partial destruction must offer an alternative asset having a specification similar to that of the destroyed asset.",
+                            "tag": "asset_replacement"
+                        },
+                        {
+                            "title": "7/1/7 Stopping use or return of asset",
+                            "content": "If the lessee stops using the leased asset or returns it to the owner without the owner\u2019s consent, the rental will continue to be due.",
+                            "tag": "stopping_use"
+                        }
+                    ],
+                    "tag": "selling_damage"
+                },
+                {
+                    "title": "7/2 Termination, expiry and renewal of the Ijarah contract",
+                    "sections": [
+                        {
+                            "title": "7/2/1 Termination by mutual consent",
+                            "content": "It is permissible to terminate the lease contract by mutual consent but it is not permissible for one party to terminate it except in case of force majeure.",
+                            "tag": "termination_conditions"
+                        },
+                        {
+                            "title": "7/2/2 Termination for non-payment",
+                            "content": "The lessor may stipulate that the Ijarah contract be terminated if the lessee does not pay the rent or fails to pay it on time.",
+                            "tag": "termination_non_payment"
+                        },
+                        {
+                            "title": "7/2/3 Ijarah contract continuation upon death",
+                            "content": "An Ijarah contract does not terminate with the death of either party thereto.",
+                            "tag": "contract_continuation_death"
+                        },
+                        {
+                            "title": "7/2/4 Expiry due to asset destruction",
+                            "content": "An Ijarah contract expires with the total destruction of the leased asset in the case of leasing a specific asset.",
+                            "tag": "expiry_asset_destruction"
+                        },
+                        {
+                            "title": "7/2/5 Pre-commencement termination",
+                            "content": "The two parties may terminate the Ijarah contract before it begins to run.",
+                            "tag": "pre_commencement_termination"
+                        },
+                        {
+                            "title": "7/2/6 Lease expiry and renewal",
+                            "content": "The lease expires upon the expiry of its term, but it may remain operative for a good cause, such as the late arrival to the place intended in the lease of transportation vehicles.",
+                            "tag": "expiry_and_renewal"
+                        }
+                    ],
+                    "tag": "termination_expiry_renewal"
+                }
+            ],
+            "tag": "contract_changes"
         },
         {
-            "title": "5/2/3",
-            "content": "In case the rental is subject to changes (floating rental), it is necessary that the amount of the rental of the first period of the\nIjarah contract be specified in lump sum. It is then permissible that the rentals for subsequent periods be determined accord- ing to a certain benchmark. Such benchmark must be based on a clear formula which is not subject to dispute, because it becomes the determining factor for the rentals of the remain- ing periods. This benchmark should be subject to a ceiling, on both maximum and minimum levels.",
-            "tag": "Floating Rental"
-        },
-        {
-            "title": "5/2/4",
-            "content": "It may be agreed that the rental should consist of two specified parts: one to be paid or transferred to the lessor and the other to be held by the lessee to cover any expenses or costs approved by the lessor, such as the cost of major maintenance, insurance, etc. The excess of the second part of the rental shall be treated as an advance to the lessor on account, while the lessor shall bear any shortage.",
-            "tag": "Rental Components"
-        },
-        {
-            "title": "5/2/5",
-            "content": "The amendment of future rentals is permissible by the agreement of both parties, i.e. the periods for which the lessee has not yet received any benefit. The rentals of any previous periods which",
-            "tag": "Rental Amendment"
-        },
-        {
-            "title": "6. Guarantees and Treatment of Ijarah Receivables",
-            "tag": "Guarantees, Receivables"
-        },
-        {
-            "title": "6/1",
-            "content": "Permissible security, of all kinds, may be taken to secure the rental payments or as a security against misuse or negligence on the part of the lessee, such as a charge over assets, guarantees or an assignment of rights over assets of the lessee held by third parties, even if such rights are a permissible life or property insurance indemnity in favour of the lessee.",
-            "tag": "Security"
-        },
-        {
-            "title": "6/2",
-            "content": "The two parties may agree that the rental be paid fully in advance. It is also permissible to make the rent payable in instalments, in which case the lessor may stipulate that the lessee should immediately pay the remaining instalments if he, after receiving a specified period of due notice, delays, without a valid reason, payment of one instalment or more, provided that the asset shall be made available for the lessee to use for the remaining period of time. Any stipulated upfront rental or accelerated -because of delay of payment- rental is subject to settlement at the end of the Ijarah period or, if the Ijarah contract is terminated earlier, at the time of such termination. Any extension of time by the lessor after the stipulated time for prompt payment is considered as a consent to deferral of payment throughout the extension period and not a right of the lessee, subject always to item 5/2/2 above.",
-            "tag": "Rental Payment, Delays"
-        },
-        {
-            "title": "6/3",
-            "content": "No increase in the rental due may be stipulated by the lessor in case of delay in payment by the lessee.",
-            "tag": "Late Payment Penalty"
-        },
-        {
-            "title": "6/4",
-            "content": "It may be provided in the contract of Ijarah or Ijarah Muntahia\nBittamleek that a lessee who delays payment for no good reason undertakes to donate a certain amount or percentage of the rental due in case of late payment. Such donation should be paid to charitable causes under the co-ordination of the Institution\u2019s Shari\u2019ah Supervisory Board.",
-            "tag": "Late Payment Donation"
-        },
-        {
-            "title": "6/5",
-            "content": "In case of foreclosure of the security provided by the lessee, the lessor may deduct from such amounts only what is due in respect",
-            "tag": "Foreclosure"
-        },
-        {
-            "title": "7. Changes to the Ijarah Contract",
-            "tag": "Contract Changes"
-        },
-        {
-            "title": "7/1 Selling of or damage to the leased asset",
-            "tag": "Asset Sale, Damage"
-        },
-        {
-            "title": "7/1/1",
-            "content": "If the lessor sells the leased asset to the lessee, the Ijarah contract is terminated due to the transfer of the ownership of the leased asset and ownership of usufruct to the lessee.",
-            "tag": "Sale to Lessee"
-        },
-        {
-            "title": "7/1/2",
-            "content": "The lessor may sell the leased asset to a third party other than the lessee, and the title to the asset together with the rights and obligations of the lessor under the Ijarah contract is thereby transferred to the new owner, because the asset and the rights and obligations attached to it become the right of the third party. The lessee\u2019s consent is not necessary when the lessor decides to sell the asset to a third party. If the purchaser does not know about the Ijarah contract, he may terminate the sale contract, but if he knows about it and consents to it, he takes the place of the previous owner in his entitlement to the rental for the remaining period.",
-            "tag": "Sale to Third Party"
-        },
-        {
-            "title": "7/1/3",
-            "content": "In case of total destruction of the leased asset, the Ijarah contract is terminated if it is concluded on an identified asset. In such a case, it may not be stipulated that the rest of the instalments should be paid.",
-            "tag": "Total Destruction"
-        },
-        {
-            "title": "7/1/4",
-            "content": "The leased asset in the possession of the lessee is held by the lessee in a fiduciary capacity on behalf of the lessor. The lessee will not be held liable for any damage or destruction of the leased asset unless such damage or destruction is a result of misconduct or negligence on the part of the lessee. In this case, he is obliged to replace the asset if it is replaceable; otherwise, he is liable for the amount of the damage to be determined by valuation.",
-            "tag": "Lessee Liability, Damage"
-        },
-        {
-            "title": "7/1/5",
-            "content": "In case of the partial destruction of the leased asset in a manner that impairs the benefits expected from the leased asset, the lessee may terminate the Ijarah contract. Both he and the lessor may also agree to amend the rental in case of partial destruction of the leased property, if the lessee waives his right to termination. The lessor in this case is not entitled to rent for the period during which the lessee was not able to benefit from the asset unless the lessor makes it up (by agreement with the lessee) with a like benefit after the expiry of the period specified in the contract. [see para. 5/1/6]",
-            "tag": "Partial Destruction"
-        },
-        {
-            "title": "7/1/6",
-            "content": "In an\nIjarah Mawsufah fi al-Dhimmah (contract for an unidenti- (contract for an unidenti- fied asset undertaken by the lessor to be delivered according to the agreed specifications), the owner in cases of total and partial destruction must offer an alternative asset having a specification similar to that of the destroyed asset, unless otherwise agreed at the time. The Ijarah shall continue for the remaining time of the contract. If it is not possible to provide a substitute asset, the con- tract will be terminated. [see item 3/5]",
-            "tag": "Ijarah Mawsufah fi al-Dhimmah"
-        },
-        {
-            "title": "7/1/7",
-            "content": "If the lessee stops using the leased asset or returns it to the owner without the owner\u2019s consent, the rental will continue to be due in respect of the remaining period of the Ijarah, and the lessor may not lease the property to another lessee for this period, but must keep it at the disposal of the current lessee unless the lessee relinquishes to the lessor the remaining period of time, in which case the lease expires. [see item 7/2/1 below]",
-            "tag": "Lessee Non-Use"
-        },
-        {
-            "title": "7/2 Termination, expiry and renewal of the Ijarah contract",
-            "tag": "Contract Termination, Expiry, Renewal"
-        },
-        {
-            "title": "7/2/1",
-            "content": "It is permissible to terminate the lease contract by mutual con- sent but it is not permissible for one party to terminate it except in case of force majeure or there is a defect in the leased asset that materially impairs its use. Termination is also possible when one party secures an option to terminate the contract in which case the party who holds the option may exercise it during the specified period.",
-            "tag": "Termination Conditions"
-        },
-        {
-            "title": "7/2/2",
-            "content": "The lessor may stipulate that the Ijarah contract be terminated if the lessee does not pay the rent or fails to pay it on time.",
-            "tag": "Non-Payment Termination"
-        },
-        {
-            "title": "7/2/3",
-            "content": "An Ijarah contract does not terminate with the death of either party thereto. However, the heirs of the lessee may terminate the Ijarah contract if they can prove that the contract has become, as a result of the death of their legator, too onerous for their resources and in excess of their needs.",
-            "tag": "Death of Party"
-        },
-        {
-            "title": "7/2/4",
-            "content": "An Ijarah contract expires with the total destruction of the leased asset in the case of leasing a specific asset or with the inability to enjoy the usufruct owing to the loss of the benefit that the asset was intended to provide.",
-            "tag": "Expiry Conditions"
-        },
-        {
-            "title": "7/2/5",
-            "content": "The two parties may terminate the Ijarah contract before it begins to run.",
-            "tag": "Pre-Commencement Termination"
-        },
-        {
-            "title": "7/2/6",
-            "content": "The lease expires upon the expiry of its term, but it may remain operative for a good cause, such as the late arrival to the place intended in the lease of transportation vehicles, and in the case of a late harvesting period for land leased for crop cultivation. The lease then continues with the rental based on the prevailing market value. An Ijarah may be renewed for another term, and such renewal may be made before the expiry of the original term or automatically by adding a provision in the new contract for such renewal when the new term starts, unless either party serves a notice on the other of its desire not to renew the contract.",
-            "tag": "Expiry and Renewal"
-        },
-        {
-            "title": "8. Transfer of the Ownership in the Leased Property in Ijarah Muntahia Bittamleek",
-            "tag": "Ownership Transfer, Ijarah Muntahia Bittamleek"
-        },
-        {
-            "title": "8/1",
-            "content": "In Ijarah Muntahia Bittamleek, the method of transferring the title in the leased asset to the lessee must be evidenced in a document separate from the Ijarah contract document, using one of the following methods: a) By means of a promise to sell for a token or other consideration, or by accelerating the payment of the remaining amount of rental, or by paying the market value of the leased property. b) A promise to give it as a gift (for no consideration). c) A promise to give it as a gift, contingent upon the payment of the remaining instalments. In all these cases, the separate document evidencing a promise of gift, promise of sale or a promise of gift contingent on a particular event, should be independent of the contract of Ijarah Muntahia Bittamleek and cannot be taken as an integral part of the contract of Ijarah.",
-            "tag": "Transfer Methods"
-        },
-        {
-            "title": "8/2",
-            "content": "A promise to transfer the ownership by way of one of the methods specified in item 8/1 above is a binding promise by the lessor. However, a binding promise is binding on one party only, while the other party must have the option not to proceed. This is to avoid a bilateral promise by the two parties which is Shari\u2019ah impermissible because it resembles a concluded contract.",
-            "tag": "Binding Promise"
-        },
-        {
-            "title": "8/3",
-            "content": "In all cases of transfer of ownership by way of gift or sale, it is neces- sary, when the promise is fulfilled, that a new contract be drawn up, since the ownership to the property is not automatically transferred by virtue of the original promise document that was drawn up earlier.",
-            "tag": "New Contract Requirement"
-        },
-        {
-            "title": "8/4",
-            "content": "In case the Ijarah contract is combined, through a separate document, with a gift contingent upon the condition that the remaining rent instalments be paid, the ownership to the leased property is transferred to the lessee if the condition is fulfilled, without the need for any other procedure to be adopted or a document to be signed. However, if the lessee\u2019s payment is short of even one instalment, the ownership to the property is not transferred to him, since the condition has not been fulfilled.",
-            "tag": "Contingent Gift"
-        },
-        {
-            "title": "8/5",
-            "content": "If the leased asset was purchased from the lessee before it was leased back to the lessee on the basis of Ijarah Muntahia Bittamleek, a (reasonable) period of time, between the lease contract and the time of the sale of the asset to the lessee, must have expired, to avoid the contract of \u2019Inah. This period must be long enough so that the leased property or its value could have changed. This shall",
-            "tag": "Inah Avoidance"
-        },
-        {
-            "title": "8/6",
-            "content": "Subject to item 8/8 below, the rules governing Ijarah must apply to the Ijarah Muntahia Bittamleek, i.e. when a promise is made by the lessor to transfer the ownership in the leased asset to the lessee. None of these rules should be breached under the pretext that the leased asset was bought by the lessor on the basis of a promise by the lessee that he would acquire it or that ownership of it would devolve upon him, or that he would pay rentals in excess of those payable in respect of a similar property which are similar in amount to the instalments of an instalment sale, or that local laws and conventional banking practices consider such a transaction as an instalment sale with a deferred transfer of the ownership.",
-            "tag": "Ijarah Rules Application"
-        },
-        {
-            "title": "8/7",
-            "content": "Transfer of the ownership in the leased property cannot be made by executing, along with the Ijarah, a sale contract that will become effective on a future date.",
-            "tag": "Future Sale Prohibition"
-        },
-        {
-            "title": "8/8",
-            "content": "If the leased asset is destroyed or if the continuity of the lease contract becomes impossible up to the expiry period without the cause being attributable to the lessee in either case, then the rental is adjusted based on the prevailing market value. That is, the difference between the prevailing rate of rental and the rental specified in the contract must be refunded to the lessee if the latter rental is higher than the former. This is to avoid loss to the lessee, who agreed to a higher rental payment compared to the prevailing rate of rental in consideration of the lessor\u2019s promise to pass the title to him upon the expiry of the lease term.",
-            "tag": "Rental Adjustment, Destruction"
-        },
-        {
-            "title": "9. Date of Issuance of the Standard",
-            "content": "This Standard was issued on 4 Rabi\u2019 I, 1423 A.H., corresponding to 16 May 2002 A.D.",
-            "tag": "Issuance Date"
+            "title": "8 Transfer of the Ownership in the Leased Property in Ijarah Muntahia Bittamleek",
+            "sections": [
+                {
+                    "title": "8/1 Separate document for transfer",
+                    "content": "In Ijarah Muntahia Bittamleek, the method of transferring the title in the leased asset to the lessee must be evidenced in a document separate from the Ijarah contract document.",
+                    "tag": "transfer_documentation"
+                },
+                {
+                    "title": "8/2 Binding promise by lessor",
+                    "content": "A promise to transfer the ownership by way of one of the methods specified is a binding promise by the lessor.",
+                    "tag": "binding_promise"
+                },
+                {
+                    "title": "8/3 New contract for ownership transfer",
+                    "content": "In all cases of transfer of ownership by way of gift or sale, it is necessary, when the promise is fulfilled, that a new contract be drawn up.",
+                    "tag": "new_contract_ownership_transfer"
+                },
+                {
+                    "title": "8/4 Contingent gift and payment",
+                    "content": "In case the Ijarah contract is combined, through a separate document, with a gift contingent upon the condition that the remaining rent instalments be paid, the ownership is transferred to the lessee if the condition is fulfilled.",
+                    "tag": "contingent_gift"
+                },
+                {
+                    "title": "8/5 Avoidance of 'Inah",
+                    "content": "If the leased asset was purchased from the lessee before it was leased back to the lessee, a period of time must have expired to avoid the contract of 'Inah.",
+                    "tag": "avoidance_inah"
+                },
+                {
+                    "title": "8/6 Application of Ijarah rules",
+                    "content": "Subject to item 8/8, the rules governing Ijarah must apply to the Ijarah Muntahia Bittamleek.",
+                    "tag": "ijarah_rules_application"
+                },
+                {
+                    "title": "8/7 Future sale contract execution",
+                    "content": "Transfer of the ownership cannot be made by executing, along with the Ijarah, a sale contract that will become effective on a future date.",
+                    "tag": "future_sale_execution"
+                },
+                {
+                    "title": "8/8 Adjustment of rental in case of destruction",
+                    "content": "If the leased asset is destroyed or if the continuity of the lease contract becomes impossible, then the rental is adjusted based on the prevailing market value.",
+                    "tag": "rental_adjustment_destruction"
+                }
+            ],
+            "tag": "ownership_transfer"
         },
         {
             "title": "Adoption of the Standard",
-            "content": "The Shari\u2019ah standard for Ijarah and Ijarah Muntahia Bittamleek was adopted by the Shari\u2019ah Board in its meeting No. (4) held on 25-27 Safar 1421 A.H., corresponding to 29-31 May 2000 A.D. In its meeting No. (8) held in Mecca on 28 Safar - 4 Rabi\u2019 I, 1423 A.H. held in Mecca on 28 Safar - 4 Rabi\u2019 I, 1423 A.H. corresponding to 11-16 May 2002 A.D., the Shari\u2019ah Board readopted a resolution to reformat the Shari\u2019ah rules for Ijarah and Ijarah Muntahia Bittamleek in the form of a Shari\u2019ah standard.",
-            "tag": "adoption"
+            "content": "The Shari'ah standard for Ijarah and Ijarah Muntahia Bittamleek was adopted by the Shari'ah Board in its meeting No. (4) held on 25\u201327 Safar 1421 A.H., corresponding to 29\u201331 May 2000 A.D. In its meeting No. (8) held in Mecca on 28 Safar - 4 Rabi\u2019 I, 1423 A.H., corresponding to 11\u201316 May 2002 A.D., the Shari'ah Board readopted a resolution to reformat the Shari'ah rules for Ijarah and Ijarah Muntahia Bittamleek in the form of a Shari'ah standard.",
+            "tag": "adoption_standard"
         },
         {
-            "title": "Brief History of the Preparation of the Standard",
-            "content": "In its meeting No. (1) held on 11 Dhul-Hajjah 1419 A.H., corresponding to 27 February 1999 A.D., the Shari\u2019ah Board decided to give priority to the preparation of the Shari\u2019ah rules for Ijarah and Ijarah Muntahia Bittamleek. On Tuesday 13 Dhul-Hajjah 1419 A.H., corresponding to 30 March 1999 A.D., the Fatwa and Arbitration Committee decided to commission a Shari\u2019ah consultant to prepare a juristic study and an exposure draft on the Shari\u2019ah Rules for Ijarah and Ijarah Muntahia Bittamleek. In its meeting held on 13-14 Rajab 1420 A.H., corresponding to 22-23 October 1999 A.D., the Fatwa and Arbitration Committee discussed the exposure draft of the Shari\u2019ah Rules for Ijarah and Ijarah Muntahia Bitamleek, and asked the consultant to make the amendments in light of the comments made by the members. The revised exposure draft of the Shari\u2019ah Rules was presented to the Shari\u2019ah Board in its meeting No. (3) held in Mecca on 10-15 Ramadan 1420 held in Mecca on 10-15 Ramadan 1420 A.H., corresponding to 18-22 December 1999 A.D. The Shari\u2019ah Board made further amendments to the exposure draft of the Shari\u2019ah Rules and decided that it should be distributed to specialists and interested parties in order to obtain their comments in order to discuss them in a public hearing. A public hearing was held in Bahrain on 29\u201330 Dhul-Hajjah 1421 A.H., corresponding to 4-5 April 2000 A.D. The public hearing was attended by more than 30 participants representing central Institutions, accounting firms, Shari\u2019ah scholars, academics and others who are interested in this field. The members responded to the written comments that were sent prior",
-            "tag": "history"
-        },
-        {
-            "title": "Brief History of the Preparation of the Standard (Cont.)",
-            "content": "to the public hearing as well as to the oral comments that were expressed in the public hearing. The Shari\u2019ah Standards Committee and the Fatwa and Arbitration Com- mittee held a joint meeting on 21-23 Muharram 1421 A.H., corresponding to 26-28 April 2000 A.D., to discuss the comments made about the Shari\u2019ah Rules. The committee made the amendments which it considered necessary in light of the discussions that took place in the public hearing. The Shari\u2019ah Board in its meeting No. (4) held on 25\u201327 Safar 1421 A.H. corresponding to 29\u201331 May 2000 A.D., in Al-Madinah Al-Munawwarah discussed the amendments made by the Shari\u2019ah Studies Committee and the Fatwa and Arbitration Committee, and made the amendments which it considered necessary. Some paragraphs of the standard were adopted in the name of Shari\u2019ah Rules for Ijarah and Ijarah Muntahia Bittamleek by the unanimous vote of the members of the Shari\u2019ah Board, while the other paragraphs were adopted by the majority vote of the members, as recorded in the minutes of the Shari\u2019ah Board. In its meeting No. (7) held on 9-13 Ramadan 1422 A.H. corresponding to 24-28 November 2001 A.D., in Makkah Al-Mukarramah, the Shari\u2019ah Board decided to convert all Shari\u2019ah rules for Investments and Financing to Standards and a committee was formed for this purpose. In its meeting No. (8) held in Al-Madinah Al-Munawwarah on 28 Safar - 4 Rabi\u2019 I, 1423 A.H. corresponding to 11-16 May 2002 A.D., the Shari\u2019ah Board adopted the reformatting of Shari\u2019ah Rules for Ijarah and Ijarah Muntahia Bittamleek in the name of Shari\u2019ah Standard No. (9) on Ijarah and Ijarah Muntahia Bittamleek. The committee did not make any changes to the substance. The Shari\u2019ah Standards Review Committee reviewed the standard in its meeting held in Rabi\u2019 II, 1433 A.H. corresponding to March 2012 A.D., in the State of Qatar, and proposed after deliberation a set of amendments (additions, deletions, and rephrasing) as deemed necessary, and then submitted the proposed amendments to the Shari\u2019ah Board for approval as it deemed necessary.",
-            "tag": "history"
-        },
-        {
-            "title": "Brief History of the Preparation of the Standard (Cont.)",
-            "content": "In its meeting No. (39) held in the Kingdom of Bahrain on 13-15 Muharram 1435 A.H., corresponding to 6-8 November 2014 A.D., the Shari\u2019ah Board discussed the proposed amendments submitted by the Shari\u2019ah Standards Review Committee. After deliberation, the Shari\u2019ah Board approved necessary amendments, and the standard was adopted in its current amended version.",
-            "tag": "history"
-        },
-        {
-            "title": "Appendix (B)",
+            "title": "Appendix (A) Brief History of the Preparation of the Standard",
             "sections": [
                 {
-                    "title": "The Shari\u2019ah Basis for the Standard",
-                    "tag": "shariah_basis",
-                    "sections": [
-                        {
-                            "title": "Permissibility of Ijarah and Ijarah Muntahia Bittamleek",
-                            "content": "\u25a0 Ijarah derives permissibility from the Qur`an, the Sunnah, consensus of Fuqaha and Ijtihad (reasoning). \u25a0 On the level of the Qur`an, Allah, the Almighty, says: {\u201csaid one of them \u2018O my father engage him on wages\u201d} (3) and {\u201cif you had wished, surely you could have exacted some recompense for it\u201d} (4) \u25a0 The authority for the permissibility of Ijarah in the Sunnah is the saying of the Prophet (peace be upon him): \u201cWhoever hired a worker must inform him of his wages\u201d (5) and his saying: \u201cGive a worker his wages before his sweat (body odour) is dried\u201d (6) \u25a0 The permissibility of Ijarah also generated consensus among the legal community. The Ijarah is also acceptable by reasoning because it is a convenient means for people to acquire right to use assets that they do not own since not all people may be able to own tangible assets. \u25a0 The Ijarah Muntahia Bittamleek, on the other hand, is not different in its rules from an ordinary Ijarah, except that it is associated with a promise by the lessor to transfer ownership at the end of the Ijarah term. The permissibility of this form of Ijarah is confirmed by the resolution of International Islamic Fiqh Academy which explained the impermissible and the permissible forms of Ijarah Muntahia Bittamleek. (7) \u25a0 It must be noted that the permissible Ijarah Muntahia Bittamleek is different from hire-purchase as commonly practised by the conventional",
-                            "tag": "permissibility"
-                        }
-                    ]
+                    "title": "1/1 First Meeting Decision",
+                    "content": "In its meeting No. (1) held on 11 Dhul-Hajjah 1419 A.H., corresponding to 27 February 1999 A.D., the Shari'ah Board decided to give priority to the preparation of the Shari'ah rules for Ijarah and Ijarah Muntahia Bittamleek.",
+                    "tag": "preparation_standard"
+                },
+                {
+                    "title": "1/2 Fatwa and Arbitration Committee Commission",
+                    "content": "On Tuesday 13 Dhul-Hajjah 1419 A.H., corresponding to 30 March 1999 A.D., the Fatwa and Arbitration Committee decided to commission a Shari'ah consultant to prepare a juristic study and an exposure draft on the Shari'ah Rules for Ijarah and Ijarah Muntahia Bittamleek.",
+                    "tag": "fatwa_arbitration_committee"
+                },
+                {
+                    "title": "1/3 Exposure Draft Amendments",
+                    "content": "In its meeting held on 13\u201314 Rajab 1420 A.H., corresponding to 22\u201323 October 1999 A.D., the Fatwa and Arbitration Committee discussed the exposure draft of the Shari'ah Rules for Ijarah and Ijarah Muntahia Bittamleek, and asked the consultant to make the amendments in light of the comments made by the members.",
+                    "tag": "exposure_draft"
+                },
+                {
+                    "title": "1/4 Shari\u2019ah Board Amendments",
+                    "content": "The revised exposure draft of the Shari\u2019ah Rules was presented to the Shari\u2019ah Board in its meeting No. (3) held in Mecca on 10\u201315 Ramadan 1420 A.H., corresponding to 18\u201322 December 1999 A.D. The Shari\u2019ah Board made further amendments to the exposure draft of the Shari\u2019ah Rules and decided that it should be distributed to specialists and interested parties in order to obtain their comments in order to discuss them in a public hearing.",
+                    "tag": "shariah_board"
+                },
+                {
+                    "title": "1/5 Public Hearing",
+                    "content": "A public hearing was held in Bahrain on 29\u201330 Dhul-Hajjah 1421 A.H., corresponding to 4\u20135 April 2000 A.D. The public hearing was attended by more than 30 participants representing central institutions, accounting firms, Shari\u2019ah scholars, academics and others who are interested in this field.",
+                    "tag": "public_hearing"
+                },
+                {
+                    "title": "1/6 Joint Committee Meeting",
+                    "content": "The Shari\u2019ah Standards Committee and the Fatwa and Arbitration Com- mittee held a joint meeting on 21\u201323 Muharram 1421 A.H., corresponding to 26\u201328 April 2000 A.D., to discuss the comments made about the Shari\u2019ah Rules.",
+                    "tag": "joint_committee_meeting"
+                },
+                {
+                    "title": "1/7 Board Approval",
+                    "content": "The Shari\u2019ah Board in its meeting No. (4) held on 25\u201327 Safar 1421 A.H. corresponding to 29\u201331 May 2000 A.D., in Al-Madinah Al-Munawwarah discussed the amendments made by the Shari\u2019ah Studies Committee and the Fatwa and Arbitration Committee, and made the amendments which it considered necessary.",
+                    "tag": "board_approval"
+                },
+                {
+                    "title": "1/8 Standard Formatting",
+                    "content": "In its meeting No. (8) held in Al-Madinah Al-Munawwarah on 28 Safar - 4 Rabi\u2019 I, 1423 A.H. corresponding to 11\u201316 May 2002 A.D., the Shari\u2019ah Board adopted the reformatting of Shari\u2019ah Rules for Ijarah and Ijarah Muntahia Bittamleek in the name of Shari\u2019ah Standard No. (9).",
+                    "tag": "standard_formatting"
+                },
+                {
+                    "title": "1/9 Review Committee Meeting",
+                    "content": "The Shari\u2019ah Standards Review Committee reviewed the standard in its meeting held in Rabi\u2019 II, 1433 A.H. corresponding to March 2012 A.D., in the State of Qatar, and proposed after deliberation a set of amendments.",
+                    "tag": "review_committee_meeting"
+                },
+                {
+                    "title": "1/10 Final Approval Meeting",
+                    "content": "In its meeting No. (39) held in the Kingdom of Bahrain on 13\u201315 Muharram 1435 A.H., corresponding to 6\u20138 November 2014 A.D., the Shari\u2019ah Board discussed the proposed amendments submitted by the Shari\u2019ah Standards Review Committee and approved necessary amendments.",
+                    "tag": "final_approval"
                 }
-            ]
+            ],
+            "tag": "history_preparation_standard"
         },
         {
-            "title": "Promise to Lease an Asset",
-            "tag": "basis",
-            "content": "The basis for allowing the Institution to demand payment of money by a party who has promised to take the property as lessee is the need to confirm the commitment of the promissor. This is because a binding promise has financial implications if the promissor retracts the promise. The request for payment of a commitment fee is to cater for financial damage that the Institution may have incurred as a result of the promissor taking back the promise or defaulting in payment. The unified Shari\u2019ah Supervisory Board of Al Baraka issued a Fatwa in respect to Hamish Jiddiyyah (security deposit) in Murabahah. (8) This ruling is also applicable to Ijarah."
-        },
-        {
-            "title": "Acquisition of the Asset to be Leased, or Its Usufruct, by the Institution",
-            "tag": "acquisition_asset",
+            "title": "Appendix B: The Shari\u2019ah Basis for the Standard",
             "sections": [
                 {
-                    "title": "1",
-                    "content": "The basis for not allowing the leasing of an asset that is not owned by the lessor is the Hadith that prohibits one from selling what he does not own, (9) and Ijarah proper is a sale of usufruct. The basis for allowing the leasing back of an asset to the person from whom the asset was acquired is because such a transaction does not involve any \u2019Inah sale. \u25a0 The basis for not allowing a simultaneous combination of Ijarah and sale is because making purchase contracts contingent upon leasing contracts is impermissible by an explicit text in the view of a number",
-                    "tag": "basis"
+                    "title": "1/1 Permissibility of Ijarah and Ijarah Muntahia Bittamleek",
+                    "content": "Ijarah derives permissibility from the Qur\u2019an, the Sunnah, consensus of Fuqaha and Ijtihad (reasoning). Ijarah Muntahia Bittamleek is a form of Ijarah with a promise by the lessor to transfer ownership at the end of the Ijarah term.",
+                    "tag": "shariah_basis_permissibility"
+                },
+                {
+                    "title": "1/2 Differences from Hire-Purchase",
+                    "content": "In hire-purchase, the terms of sale and leasing are applied simultaneously, transferring ownership once the last installment is paid. In permissible Ijarah Muntahia Bittamleek, ownership is transferred at the end of the Ijarah term.",
+                    "tag": "hire_purchase_comparison"
+                },
+                {
+                    "title": "1/3 Promise to Lease an Asset",
+                    "content": "The basis for allowing payment requests by a promissor is to confirm the commitment. A Fatwa on Hamish Jiddiyyah (security deposit) in Murabahah is applicable to Ijarah.",
+                    "tag": "commitment_payment"
+                },
+                {
+                    "title": "1/4 Acquisition of the Asset to be Leased",
+                    "content": "Leasing of an asset not owned by the lessor is prohibited. The basis for allowing leasing back an asset to a previous owner is it doesn\u2019t involve an \u2019Inah sale.",
+                    "tag": "asset_acquisition_requirements"
+                },
+                {
+                    "title": "1/5 Contract of Ijarah",
+                    "content": "The basis for the binding nature of an Ijarah contract is that it involves an exchange of counter-values, supported by the saying of Allah: 'Fulfil (your) obligations...'.",
+                    "tag": "ijarah_contract_binding"
+                },
+                {
+                    "title": "1/6 Subject Matter of Ijarah",
+                    "content": "The leased asset must be usable while preserving its essence. Use in impermissible ways makes the lessor an accomplice in wrongdoing.",
+                    "tag": "ijarah_subject_matter"
+                },
+                {
+                    "title": "1/7 Guarantees and Treatment of Ijarah Receivables",
+                    "content": "Guarantees are permissible to secure performance. Accelerated payment clauses are based on the Prophet's saying: 'Muslims are bound by the conditions they made'.",
+                    "tag": "ijarah_guarantees"
+                },
+                {
+                    "title": "1/8 Changes to the Ijarah Contract",
+                    "content": "The lessor can sell the leased asset without the lessee's consent, provided it doesn't affect the lessee's usufruct rights.",
+                    "tag": "changes_to_contract"
+                },
+                {
+                    "title": "1/9 Transfer of the Ownership in the Leased Asset in Ijarah Muntahia Bittamleek",
+                    "content": "Documents of the lessor\u2019s promise to sell must be separate from the Ijarah contract to ensure no linking of liabilities.",
+                    "tag": "ownership_transfer"
                 }
-            ]
+            ],
+            "tag": "shariah_basis"
         },
         {
-            "title": "1",
-            "content": "of jurists. This is prohibited by a well-known Hadith which prohibits two sales in one sale. (10) \u25a0 The basis for the permissibility of sub-leasing when the lessor has allowed it is because the lessee has ownership of the usufruct by virtue of the Ijarah contract, in which case he is entitled to transfer such usufruct for consideration as he deems fit. The basis for impermissibility of sub- leasing when the lessor has not allowed it is because the ownership of usufruct by the lessee is limited in which case the lessee is obliged to consider any limitations on this ownership. \u25a0 The basis for the permissibility of leasing a property on the basis of specifications even if the lessor does not own it is that this will not lead to dispute, in which case it is similar to a Salam contract. However, in this case the lessor should not request advance payment of the rentals according to one of the views of the Shafi\u2019is and Hanbalis. \u25a0 The basis for preferring that the agent who purchases on behalf of the Institution be someone other than the customer (lessee) is to avoid fictitious transactions and to demonstrate the genuine role of the Insti- tution in making the usufruct of the asset available to the lessee.",
-            "tag": "basis"
-        },
-        {
-            "title": "Contract of Ijarah",
-            "tag": "contract_ijarah",
+            "title": "Appendix C: Definitions",
             "sections": [
                 {
-                    "title": "1",
-                    "content": "\u25a0 The basis for the binding nature of an Ijarah contract is because Ijarah is one of the contracts for transferring ownership that depends on an exchange of counter-values. The Shari\u2019ah principle is that these contracts are binding because of the Saying of Allah, the Almighty: {\u201c... Fulfil (your) obligations...\u201d} (11) The basis for allowing cancellation of an Ijarah contract due to contingencies is because without the right to cancel the Ijarah contract the lessee would waste money by paying rent for unneeded usufruct due to an event of which he did not contribute to the occurrence. \u25a0 The basis for requiring a designated term for the lease is because without such a designated term there would be an uncertainty that might lead to dispute. The basis for allowing an Ijarah contract take effect based on future events is because Ijarah is, unlike a sale contract, a contract that involves time and for this it is relevant that it be contingent on future events. \u25a0 The basis for the permissibility of obtaining \u2019Arboun (Earnest Money) to secure performance is the practice of Umar Ibn Al-Khattab (may Allah be pleased with him) in the presence of some companions of the Prophet (peace be upon him). This practice is also permitted by Imam Ahmad. A resolution has been issued in connection with the permis- sibility of \u2019Arboun (Earnest Money) by the International Islamic Fiqh Academy. (12) \u25a0 The basis for the impermissibility of re-leasing after the lease of the asset is that under the first contract, the usufruct of the asset no longer belongs to the owner, and a new contract may not be signed with another lessee before the contract with the first lessee is terminated. Hence, this form of Ijarah is not suitable as an investment instrument, because it constitutes an impermissible sale of the rent receivable pursuant to providing new lessees with an asset already leased out to the existing lessee. The form just described is different from the transfer, by the owner, of the ownership of the leased assets to an investor, so that the latter takes his place, wholly or partially, with regard to the ownership of all or some parts of the assets, as well as in the ownership of the usufruct of, and entitlement to his share of the rent from, those assets. Al Baraka Forum has issued a resolution disallowing multiple leases of the same asset after the first Ijarah contract. (13) \u25a0 The basis for allowing successive leases on the same specified usufruct of a particular asset without specifying a particular period for a particular person is because the usufruct -in line with the term assigned to each party- can accommodate the parties. The justification for not allowing a specific term for each person is that each party will know the term to which he is entitled in his turn and because their applications are considered in order. This rule was supported by a resolution of Al Baraka Forum.",
-                    "tag": "basis"
-                }
-            ]
-        },
-        {
-            "title": "1",
-            "sections": [
+                    "title": "2/1 Ijarah",
+                    "content": "Ijarah means leasing of property under a contract for a specified benefit for a specified period in return for a specified consideration.",
+                    "tag": "definition_ijarah"
+                },
                 {
-                    "title": "1",
-                    "content": "\u25a0 The basis for the requirement that incorporating co-lessees must take place before any sub-lease contract is signed is because sub-leasing the property means the sub-lessor no longer owns the usufruct, and thus he would be leasing out a benefit of the usufruct that he does not own, which is not permissible in Shari\u2019ah as stated earlier. The jurists have considered a bankrupt lessor -a person who leases things he does not own- among those who must be restricted in using their property.",
-                    "tag": "basis"
+                    "title": "2/2 Ijarah Muntahia Bittamleek",
+                    "content": "A form of leasing with a promise by the lessor to transfer ownership to the lessee, either at the end of the period or by stages.",
+                    "tag": "definition_ijarah_muntahia_bittamleek"
                 }
-            ]
-        },
-        {
-            "title": "Subject Matter of Ijarah",
-            "tag": "subject_matter_ijarah",
-            "sections": [
-                {
-                    "title": "1",
-                    "content": "\u25a0 The basis for the requirement that the leased asset must be capable of being used while preserving the asset is that the subject of a lease is usufruct and not the asset, as leasing is not possible for things that perish by use. The basis for the requirement that benefit from Ijarah must be permissible is that leasing an asset that will be used in impermissible way makes the lessor an accomplice in doing evil and this is prohibited as per the saying of Allah, the Almighty: {\u201cHelp you one another in Al-Birr and At-Taqwa (virtue, righteousness and piety)\u201d} (15) \u25a0 The basis for the impermissibility of stipulating a defect exclusion clause in respect to the leased asset is that such a condition defeats the purpose of the contract, which is exchange of usufruct for rentals. If the usufruct is partially or wholly impaired, the receipt of the rentals by the lessor becomes a form of unjust enrichment. The resolution of the International Islamic Fiqh Academy has declared that the lessor must accept responsibility for any destruction or impairment of the leased asset insofar as these events are not sustained as a result of misconduct or negligence on the part of the lessee. (16) The Fatwa of the unified Shari\u2019ah Supervisory Board of Al Baraka states that the lessor is not entitled to exclude his liability in respect of defects in the leased asset. (17) \u25a0 The reason why the lessor may not stipulate that the lessee will undertake the major maintenance of the leased asset is that this condition defeats the purpose of an Ijarah contract. Again, it is the duty of the lessor to ensure that the usufruct is intact, and this is not possible unless the asset is maintained and kept safe so that the lessor may be entitled",
-                    "tag": "basis"
-                }
-            ]
-        },
-        {
-            "title": "1",
-            "content": "to the rentals in consideration for the usufruct. The unified Shari\u2019ah Supervisory Board of Al Baraka issued a fatwa supporting this. (18) \u25a0 The reason why insurance expenses must be borne by the lessor is that the owner of the asset is responsible for insuring it, and the lessor is the owner. This is supported by the resolution issued by the International Islamic Fiqh Academy. (19) \u25a0 The basis for the permissibility of using a certain benchmark or price index to determine rentals of subsequent periods after the expiration of the first period of an Ijarah contract is that the rentals will subsequently be known. This is similar to the principle of Ujrat al- Mithl (prevailing market rate of rental) and does not lead to dispute. Again, using a benchmark to determine the rentals is to the benefit of all parties since there is possibility of rental fluctuation that may be in favour of either the lessee or the lessor in view of the fact that the contract remains binding on both parties throughout its term. This rule is supported by a Fatwa issued during Al Baraka\u2019s 11 th Forum. Forum. \u25a0 The basis for the permissibility of restructuring the rentals for the future periods is that such an act is deemed to create a new contract for a new term for which the rentals are not yet due. Hence, the rentals are not regarded as a debt, in which case the prohibition of rescheduling rentals in return for higher payment is not applicable to this. However, increasing previously agreed rentals in exchange for a deferred period of payment is a form of Riba.",
-            "tag": "basis"
-        },
-        {
-            "title": "Guarantees and Treatment of Ijarah Receivables",
-            "tag": "guarantees_receivables",
-            "sections": [
-                {
-                    "title": "1",
-                    "content": "\u25a0 The basis for the permissibility of obtaining guarantees for payment is that this is not contrary to the purpose of an Ijarah contract. Rather guarantees are relevant to credit transactions because they secure per- formance. \u25a0 The basis for the permissibility of a payment acceleration clause is the saying of the Prophet (peace be upon him): \u201cMuslims are bound by the conditions they made\u201d , and because payment on a deferred basis is the right of the lessee (the debtor as to rentals), and the lessee may, based",
-                    "tag": "basis"
-                }
-            ]
-        },
-        {
-            "title": "1",
-            "content": "on agreement, choose to pay before time and relinquish the deferral of the date of payment entirely. The lessee may also agree to a stipulation that bases acceleration of payment on the event of default in payment. \u25a0 The basis of the prohibition of increasing the amount of lease receivables in exchange for a deferral of payment is because this is a form of Riba. \u25a0 The basis for the permissibility of stipulating that a solvent debtor should undertake to make a payment to charity in case of default is that this is similar to an undertaking to make a donation that is approved by the Maliki scholars, notably Abdullah Ibn Nafi\u2019 and Muhammad Ibn Ibrahim Ibn Dinar. (20)",
-            "tag": "basis"
-        },
-        {
-            "title": "Changes to the Ijarah Contract",
-            "tag": "changes_contract",
-            "sections": [
-                {
-                    "title": "1",
-                    "content": "\u25a0 The basis for allowing the lessor to sell the leased asset to a third party without the consent of the lessee is that the lessor owns the asset and is acting within the limits of his ownership without affecting the right of the lessee that is materialised in the usufruct. If the Ijarah expires, enabling the buyer to take possession of the asset is sufficient to discharge the seller from any responsibility as to delivery in which case the buyer will own the asset excluding the right of the lessee to the usufruct which is attached to the asset even if the ownership is transferred. The Shari\u2019ah Supervisory Board of Al Rajhi Banking and Investment Corp., (21) and and the Shari\u2019ah Supervisory Board of the Jordan Islamic Bank(22) (22) have issued have issued a a resolution in support of this ruling. resolution in support of this ruling. \u25a0 The basis for the termination of the lease contract due to a total destruc- tion of the leased asset is that the rent is in consideration of the benefit of the leased asset and if the latter is destroyed, there is no justification for the payment of the rental. \u25a0 The basis for the entitlement of the lessor to the rentals even though the lessee returns the leased asset to the owner or stops using it is that Ijarah is a binding contract that cannot be terminated unilaterally by the lessee.",
-                    "tag": "basis"
-                }
-            ]
-        },
-        {
-            "title": "1",
-            "content": "\u25a0 The basis for the permissibility of terminating the lease contract in case of intervening contingencies or force majeure is that there is a pressing need which calls for this. This is because if the contract were to be bin- ding in spite of such contingencies, then a person with a valid excuse may incur loss that was not a result of a contract. The Shari\u2019ah Super- visory Board of the Kuwait Finance House (23) and the unified Shari\u2019ah and the unified Shari\u2019ah Supervisory Board of Al Baraka (24) have issued a supporting Fatwa in have issued a supporting Fatwa in this regard. \u25a0 The basis for the permissibility that the lessor may stipulate that an Ijarah contract be terminated due to non-payment of rental by the lessee is that contractual stipulations are primarily valid and enforceable. This stipulation does not legalise impermissible acts or invalidate permissible acts. Therefore, the permissibility of this stipulation comes under the of this stipulation comes under the prophetic Hadith stating: \u201cMuslims are bound by the conditions they made except a condition that legalises impermissible act or invalidates permissible act\u201d (25) \u25a0 The basis of the rule that Ijarah does not terminate with the death of either party thereto is that the subject-matter of the contract is the asset and as long as the asset is available the Ijarah contract remains unaffected. The basis for the right of the lessee\u2019s heirs to terminate the Ijarah if they can prove that the contract has become too onerous for their resources is to avoid inflicting damage on the heirs. This exceptional ruling is taken from the Maliki School of law since it serves the interests of the lessee. The heirs of the lessor may not terminate the Ijarah in the event of the death of the lessor because there is no potential damage to them, as they will receive the rentals for the remainder of the term of the contract.",
-            "tag": "basis"
-        },
-        {
-            "title": "Transfer of the Ownership in the Leased Asset in Ijarah Muntahia Bittamleek",
-            "tag": "transfer_ownership",
-            "sections": [
-                {
-                    "title": "1",
-                    "content": "\u25a0 The basis of the rule that the documents of the lessor\u2019s promise to sell and the methods of transfer of ownership be separated from the Ijarah contract is to ensure that the obligations and liabilities are not linked to each other. The International Islamic Fiqh Academy has issued a resolution in this regard. (26) \u25a0 The basis for the rule that the promise of a client to take an asset acquired by the Institution on lease is binding is that the Institution has acquired the asset in order to lease it to the client due to the promise. Therefore, the rule that the promise to take the asset on lease is binding will protect the promisee. \u25a0 The basis for not allowing bilateral promises is that the resemblance of these promises to a contract, i.e. a contract is effected before taking ownership of the subject matter of the contract. The International Islamic Fiqh Academy has issued a resolution in this regard. (27) \u25a0 The basis for the permissibility of a gift contingent upon the expiry of the Ijarah term is that a conditional gift is valid. The Prophet (peace be upon him) sent a gift to Negus (the former emperor of Ethiopia) on condition that he was alive at the time of the arrival of the messenger. (28) The basis for the permissibility of leasing an asset to the person from whom it is purchased by way of Ijarah Muntahia Bittamleek on condition that the parties observe the lapse of a period of time is that this prevents the contract from becoming a \u2019Inah transaction. This is because the physical changes to the asset or changes in the value of the asset during this period give it the economic characteristics of a different asset. \u25a0 The basis for the requirement that all the rules prescribed for an ordinary lease are applicable to Ijarah Muntahia Bittamleek is that a mere promise to transfer ownership does exclude the contract from becoming an Ijarah contract or from the applicable rules. This requirement is necessary in order to prevent a linking of contracts (the sale contract and lease",
-                    "tag": "basis"
-                }
-            ]
-        },
-        {
-            "title": "1",
-            "content": "contract). The International Islamic Fiqh Academy has issued a resolution in support of this ruling. (29) \u25a0 The basis for the rule that ownership cannot be made in contingent on a future date is that a sale contract cannot be dependent on a future date, as the term \u2018sale\u2019 means that its effect (transfer of ownership) immediately takes place. \u25a0 The basis for allowing recourse to the prevailing market rate of rental when the transfer of ownership becomes impossible without any cause attributable to the lessee is to protect the lessee against any loss as the lessee has paid more than the prevailing rate of rental in order to acquire title to the asset. If this acquisition of title becomes impossible, then the rental must be adjusted retrospectively to the prevailing market rate. This ruling is analogous to the principle that the price must be discounted when a sold crop has suffered damages due natural calamities.",
-            "tag": "basis"
-        },
-        {
-            "title": "Appendix (C)",
-            "tag": "appendix",
-            "sections": [
-                {
-                    "title": "Definitions",
-                    "sections": [
-                        {
-                            "title": "Ijarah",
-                            "content": "The term Ijarah as used in this standard means leasing of property pursuant to a contract under which a specified permissible benefit in the form of a usufruct is obtained for a specified period in return for a specified permissible consideration.",
-                            "tag": "definition"
-                        },
-                        {
-                            "title": "Ijarah Muntahia Bittamleek",
-                            "content": "One of the forms of Ijarah used by Islamic financial Institutions is Ijarah Muntahia Bittamleek. This is a form of leasing contract which includes a promise by the lessor to transfer the ownership in the leased property to the lessee, either at the end of the term of the Ijarah period or by stages during the term of the contract, such transfer of the ownership being executed through one of the means specified in the Standard.",
-                            "tag": "definition"
-                        }
-                    ]
-                }
-            ]
+            ],
+            "tag": "definitions"
         }
     ]
 }

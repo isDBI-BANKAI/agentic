@@ -1,8 +1,10 @@
+import os
+
 from src.preprocessing.prompt import pdf_content_prompt
 
 from src.preprocessing.load import load_pdf_content_dump
 
-from src.llm.llm import GeminiLLM
+from src.llm.llm import GeminiLLM, OpenAILLM
 
 from src.preprocessing.utils import load_json, save_json, parse_json, load_txt, save_txt
 
@@ -45,7 +47,8 @@ fas_files = [
         "parts": [
             [1, 6],
             [7, 16],
-            [17, 21],
+            [17, 20],
+            [20, 21]
         ]
     },
     {
@@ -115,8 +118,6 @@ ss_files = [
     }
 ]
 
-llm = GeminiLLM()
-
 def get_outline(doc_content: dict) -> dict:
     def recurse(node):
         outline_node = {
@@ -173,7 +174,11 @@ def create_chunks(doc_content: dict, parent_path=None, parent_tags=None):
     return chunks
 
 if __name__ == "__main__":
-    type = "fas" # fas, ss
+    # llm = GeminiLLM()
+    llm = OpenAILLM()
+    
+    base_dir = "data/test"
+    type = "ss" # fas, ss
     if type == "fas":
         files = fas_files
     elif type == "ss":
@@ -196,11 +201,11 @@ if __name__ == "__main__":
             else:
                 doc_content["sections"].extend(response["sections"])
                 
-        save_json(doc_content, f"data/processed/{type}/{name}/content.json")
+        save_json(doc_content, f"{base_dir}/{type}/{name}/content.json")
         
         outline = get_outline(doc_content)
         outline = build_outline(outline)
-        save_txt('\n'.join(outline), f"data/processed/{type}/{name}/outline.txt")
+        save_txt('\n'.join(outline), f"{base_dir}/{type}/{name}/outline.txt")
         
         chunks = create_chunks(doc_content)
-        save_json(chunks, f"data/processed/{type}/{name}/chunks.json")
+        save_json(chunks, f"{base_dir}/{type}/{name}/chunks.json")
