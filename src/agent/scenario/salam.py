@@ -7,6 +7,7 @@ from src.tools.retrieval import get_outline, retrieve
 from src.llm.llm import OpenAILLM
 
 from src.prompt.scenario.ijara import get_system_prompt
+from src.models.output import ScenarioAgentOutput
 
 agent = Agent(
     name="Salam Auditing Agent",
@@ -18,6 +19,7 @@ agent = Agent(
         retrieve,
         CalculatorTools(),
     ],
+    response_model=ScenarioAgentOutput,
     show_tool_calls=True,
     markdown=True,
 )

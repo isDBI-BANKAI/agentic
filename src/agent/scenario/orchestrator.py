@@ -3,6 +3,7 @@ from textwrap import dedent
 from typing import Iterator
 from agno.team.team import Team, RunResponse
 from agno.utils.pprint import pprint_run_response
+from pprint import pprint
 
 from src.llm.llm import OpenAILLM
 
@@ -11,9 +12,11 @@ from src.agent.scenario.istisnaa import agent as istisnaa_agent
 from src.agent.scenario.murabaha import agent as murabaha_agent
 from src.agent.scenario.musharaka import agent as musharaka_agent
 from src.agent.scenario.salam import agent as salam_agent
-    
-from examples.scenario import ijara
-    
+
+from src.models.output import ScenarioAgentOutput
+
+from examples.scenario import ijara_1, ijara_2
+
 orchestrator = Team(
     members=[ijara_agent, istisnaa_agent, musharaka_agent, murabaha_agent, salam_agent],
     model=OpenAILLM.get_openai_chat(),
@@ -24,18 +27,34 @@ orchestrator = Team(
     instructions=dedent("""\
         Route accurately to the correct Islamic Financial Operation agent\
     """),
-    add_datetime_to_instructions=True,
+    response_model=ScenarioAgentOutput,
     show_tool_calls=True,
     markdown=True,
     enable_agentic_context=True,
     show_members_responses=True,
 )
 
-if __name__ == "__main__":
-    prompt = ijara
-    
-    response_stream: Iterator[RunResponse] = orchestrator.run(
-        prompt, stream=True
-    )
+def create_journal(scenario: str, verbose: bool = False) -> ScenarioAgentOutput:
+    if verbose:
+        journal = orchestrator.run(scenario, stream=True, stream_intermediate_steps=True)
+    else:
+        journal = orchestrator.run(scenario, stream=False)
+    return journal.content
 
-    pprint_run_response(response_stream, markdown=True)
+if __name__ == "__main__":
+    scenario = ijara_1
+    
+    journal = create_journal(scenario, verbose=True)
+    pprint(journal.model_dump())
+    
+    # responses: Iterator[RunResponse] = orchestrator.run(
+    #     prompt, stream=True
+    # )
+    
+    # pprint_run_response(responses)
+    
+    # print("Final Response:")
+    # print(responses.content)
+
+    # pprint(response)
+    # print(response.content.model_dump())

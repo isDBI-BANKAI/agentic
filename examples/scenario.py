@@ -1,6 +1,6 @@
 
 
-ijara = """
+ijara_1 = """
 Ijarah MBT Accounting (in Lessee's books)
 
 On 1 January 2019 Alpha Islamic bank (Lessee) entered into an Ijarah MBT arrangement with
@@ -16,6 +16,13 @@ rental of USD 300,000.
 Provide the following accounting entry in the books of Alpha Islamic Bank:
 Initial Recognition at the time of commencement of Ijarah (using Underlying Asset Cost
 Method). 
+"""
+
+ijara_2 = """
+Tabarak Islamic Financing Corporation (TIFC) leases a small aircraft to Bey Flying Corp. (BFC) on Jun 23,2023. TIFC sources the aircraft from an aircraft manufacturer for USD 300,000. The term of the Ijarah is ten years, and BFC is liable to make rental payments of USD 33,000 every year. To transport the aircraft to the premises of BFC, it pays direct costs of USD 1,000. After ten years, BFC is expected to incur dismantling
+costs of USD 4,000.
+
+State the journal entry to record the right-of-use of the aeroplane and the Ijarah liability.
 """
 
 istisnaa = """
