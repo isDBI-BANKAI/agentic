@@ -111,8 +111,5 @@ fas_research_team = Team(
     markdown=True,
     enable_agentic_context=True,
     show_members_responses=True,
-    response_model=InformationGatheringTeamOutput,
     success_criteria="A targeted analysis report identifying potential areas for improvement in the FAS based solely on assigned sections and external content."
 )
-
-fas_research_team.print_response(message="Please analyze the FAS 28 standard for Murabaha operations. Focus solely on identifying areas where the standard could be improved.", stream=True)
