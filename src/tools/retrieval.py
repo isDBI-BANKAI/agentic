@@ -55,3 +55,24 @@ def retrieve(query: str, top_k: int = 5, filter: dict = None) -> list[str]:
     results = query_vdb(query, top_k=top_k, filter=filter)
     
     return results
+
+def retrieve_test(query: str, top_k: int = 5, filter: dict = None) -> list[str]:
+    """
+    Retrieve content from the vector store (Pinecone) based on the query.
+    
+    Args:
+        query: The query to search for in the vector store
+        top_k: Number of top results to retrieve (default: 5)
+        filter: Optional filter to apply to the query (default: None), you will mainly need to use: {"tags": {"$in": [...]}} to filter the results based on the tags
+        
+    Returns:
+        list[str]: List of retrieved content
+    """
+    
+    results = query_vdb(query, top_k=top_k, filter=filter)
+    
+    return results
+
+
+print(retrieve_test(query="Definitions in FAS 28 for Murabaha operations", filter={'tags': {'$in': ['Definitions']}}))
+print(retrieve_test(query="Related Accounting Treatments in FAS 28 Murabaha operations", filter={'tags': {'$in':['Related Accounting Treatments']}}))

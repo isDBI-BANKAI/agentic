@@ -6,3 +6,16 @@ class ScenarioAgentOutput(BaseModel):
     references: List[str]
     calculations: List[str]
     journal: str
+    
+    
+class InformationGatheringTeamOutput(BaseModel):
+    websites_informations: str
+    gathered_informations: str
+
+class ReasonningAndSuggestionsTeamOutput(BaseModel):
+    improvemets: list[str]
+    
+class ComplianceCheckTeamOutput(BaseModel):
+    final_verdict: str
+    final_improvements: str
+    
