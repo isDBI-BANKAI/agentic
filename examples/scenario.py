@@ -46,3 +46,21 @@ Bank's Profit
 Accounting Entries (Applying Percentage-of-Completion for each Q)
 Summary Ledger - XYZ Islamic Bank (Istisna'a Transaction)
 """
+
+musharaka = """
+On 1st Jan 20X1, Noon IFI entered into a constant Musharaka with a customer by investing USD
+1,000,000 in a bottled water manufacturing company whereas the customer invested USD
+500,000.
+The partners agreed to share the profit in the ratio of 50% for the IFI and 50% for the customer.
+The venture earned/ incurred profits/ losses as follows;
+31 December 20X1 USD 10,000
+31 December 20X2 (USD 20,000)
+
+The Musharakah was terminated on 31st Dec, 20X2 following loss.
+
+Provide Accounting Entries to be recorded by Noon IFI for:
+1. Musharakah Financing
+2. Profit on Musharakah
+3. Loss on Musharakah, and
+4. Final Settlement/ Termination
+"""

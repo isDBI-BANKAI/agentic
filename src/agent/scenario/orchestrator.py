@@ -15,7 +15,7 @@ from src.agent.scenario.salam import agent as salam_agent
 
 from src.models.output import ScenarioAgentOutput
 
-from examples.scenario import ijara_1, ijara_2
+from examples.scenario import ijara_1, ijara_2, istisnaa, musharaka
 
 orchestrator = Team(
     members=[ijara_agent, istisnaa_agent, musharaka_agent, murabaha_agent, salam_agent],
@@ -42,7 +42,7 @@ def create_journal(scenario: str, verbose: bool = False) -> ScenarioAgentOutput:
     return journal.content
 
 if __name__ == "__main__":
-    scenario = ijara_1
+    scenario = musharaka
     
     journal = create_journal(scenario, verbose=True)
     pprint(journal.model_dump())
