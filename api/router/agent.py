@@ -22,5 +22,5 @@ def detect_fas_service(journal: FASDetectionInput = FASDetectionInput(journal=jo
     return detect_fas(journal=journal.journal)
 
 @router.post("/fas-enhancement", response_model=FASEnhancementOutput)
-def detect_fas_service(fas_to_enhance: FASEnhancementInput) -> FASEnhancementOutput:
-    return enhance_fas(journal=fas_to_enhance)
+def detect_fas_service(fas_to_enhance: FASEnhancementInput = FASEnhancementInput(instruction=fas_28_to_enhance)) -> FASEnhancementOutput:
+    return enhance_fas(fas_to_enhance=fas_to_enhance)
