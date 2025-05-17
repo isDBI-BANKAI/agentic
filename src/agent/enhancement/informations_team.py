@@ -1,10 +1,11 @@
 from agno.agent import Agent
 from agno.team.team import Team
-from agno.models.google import Gemini
+from typing import List, Dict, Any
 from textwrap import dedent
 from src.models.output import InformationGatheringTeamOutput
 from agno.tools.duckduckgo import DuckDuckGoTools
 from src.tools.retrieval import get_outline, retrieve
+from agno.models.google import Gemini
 from src.config.keys import OPENAI_API_KEY,GEMINI_API_KEY
 from src.config.config import OPENAI_LLM_MODEL,GEMINI_MODEL_NAME
 
@@ -113,3 +114,16 @@ fas_research_team = Team(
     show_members_responses=True,
     success_criteria="A targeted analysis report identifying potential areas for improvement in the FAS based solely on assigned sections and external content."
 )
+
+
+if __name__ == "__main__":
+    result = fas_research_team.run("Please analyze the FAS 28 standard for Murabaha operations. Focus solely on identifying areas where the standard could be improved")
+    members_dict = print_and_save_team_run_response(result=result)
+    messages = extract_relevant_messages(members_dict)
+    for msg in messages:
+        print('------------')
+        print(msg)
+        print('------------')
+    print(result.content)
+
+    
