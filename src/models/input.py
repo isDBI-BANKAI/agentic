@@ -7,4 +7,4 @@ class FASDetectionInput(BaseModel):
     journal: str
     
 class FASEnhancementInput(BaseModel):
-    fas_to_enhance: str
+    instruction: str

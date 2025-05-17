@@ -1,8 +1,8 @@
 from informations_team import fas_research_team 
 from reasonning_team import reasoning_team_leader
 from compliance_team import compliance_team_leader
-from pydantic import BaseModel
-
+from src.models.input import FASEnhancementInput
+from src.models.output import FASEnhancementOutput
 def print_and_save_team_run_response(result):
         print("\n--- Member Responses ---")
         all_member_dicts = []
@@ -43,17 +43,30 @@ def extract_relevant_messages(all_member_dicts):
 
     return relevant_messages
 
+def enhance_fas(fas_to_enhance: FASEnhancementInput):
+    enhancement_instructions = fas_to_enhance.instruction
 
-gathered_info = fas_research_team.run("Please analyze the FAS 28 standard for Murabaha operations. Focus solely on identifying areas where the standard could be improved.")
-gathered_info_dict = print_and_save_team_run_response(result=gathered_info)
-gathered_info_messages = extract_relevant_messages(gathered_info_dict)
+    gathered_info = fas_research_team.run("Please analyze the FAS 28 standard for Murabaha operations. Focus solely on identifying areas where the standard could be improved.")
+    gathered_info_dict = print_and_save_team_run_response(result=gathered_info)
+    gathered_info_messages = extract_relevant_messages(gathered_info_dict)
 
-suggestions = reasoning_team_leader.run(gathered_info.content)
-suggestions_dict = print_and_save_team_run_response(result=suggestions)
-suggestions_messages = extract_relevant_messages(suggestions_dict)
+    suggestions = reasoning_team_leader.run(gathered_info.content)
+    suggestions_dict = print_and_save_team_run_response(result=suggestions)
+    suggestions_messages = extract_relevant_messages(suggestions_dict)
 
-compliance = compliance_team_leader.run(suggestions.content)
-compliance_info_dict = print_and_save_team_run_response(result=compliance)
-compliance_info_messages = extract_relevant_messages(compliance_info_dict)
-
-print(compliance_info_messages)
+    compliance = compliance_team_leader.run(suggestions.content)
+    compliance_info_dict = print_and_save_team_run_response(result=compliance)
+    compliance_info_messages = extract_relevant_messages(compliance_info_dict)
+    
+    result = FASEnhancementOutput(
+        info_gathering_team_output= gathered_info.content,
+        info_gathering_team_messages= gathered_info_messages,
+        
+        suggestions_team_output= suggestions.content, 
+        suggestions_team_messages= suggestions_messages,
+        
+        compliance_team_output= compliance.content, 
+        compliance_team_messages= compliance_info_messages 
+    )
+    
+    return result
