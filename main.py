@@ -13,7 +13,8 @@ app.add_middleware(
     allow_credentials=True,
     allow_origins=["*"],
     allow_headers=["*"],
-    allow_methods=['GET', 'POST', 'PUT', 'DELETE'],
+    allow_methods=["*"],
+    expose_headeers=["*"],
 )
 
 # from src.config.config import UPLOAD_DIR

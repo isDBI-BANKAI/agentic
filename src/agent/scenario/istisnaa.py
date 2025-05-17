@@ -24,5 +24,5 @@ agent = Agent(
     ],
     response_model=ScenarioAgentOutput,
     show_tool_calls=True,
-    markdown=True,
+    # markdown=True,
 )

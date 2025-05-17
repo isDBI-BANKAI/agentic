@@ -31,7 +31,7 @@ orchestrator = Team(
     """),
     response_model=ScenarioAgentOutput,
     show_tool_calls=True,
-    markdown=True,
+    # markdown=True,
     enable_agentic_context=True,
     show_members_responses=True,
 )
@@ -48,21 +48,16 @@ def create_journal(scenario: str, verbose: bool = False) -> str:
 if __name__ == "__main__":
     scenario = istisnaa
     
-    # journal = create_journal(scenario, verbose=True)
+    journal = create_journal(scenario, verbose=True)
     
-    # # pprint(journal.model_dump())
+    pprint(journal.model_dump())
     # print(journal)
-    
-    # pprint_run_response(journal)
-    
     
     # pprint(journal)
     
-    # orchestrator.run(
-    #     scenario, stream=True
-    # )
+    # orchestrator.print_response(scenario)
     
-    orchestrator.print_response(scenario, stream=True)
+    # orchestrator.print_response(scenario, stream=True)
     # print("Final Response:")
     # print(responses.content)
 
