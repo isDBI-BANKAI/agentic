@@ -65,7 +65,6 @@ reasoning_team_leader = Team(
     markdown=True
 )
 
-
 def print_and_save_team_run_response(result):
         print("\n--- Member Responses ---")
         all_member_dicts = []
