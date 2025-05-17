@@ -14,7 +14,7 @@ app.add_middleware(
     allow_origins=["*"],
     allow_headers=["*"],
     allow_methods=["*"],
-    expose_headeers=["*"],
+    expose_headers=["*"],
 )
 
 # from src.config.config import UPLOAD_DIR
