@@ -8,13 +8,13 @@ from api.router.agent import router as agent_router
 
 app = FastAPI()
 
+origins = ["*"]
 app.add_middleware(
     CORSMiddleware,
+    allow_origins=origins,
     allow_credentials=True,
-    allow_origins=["*"],
+    allow_methods=["*"],
     allow_headers=["*"],
-    allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-    expose_headers=["*"],
 )
 
 # from src.config.config import UPLOAD_DIR
