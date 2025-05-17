@@ -3,6 +3,7 @@ from agno.team.team import Team
 from agno.models.openai import OpenAIChat
 from textwrap import dedent
 from pydantic import BaseModel
+from src.llm.llm import OpenAILLM
 from agno.models.google import Gemini
 from src.config.keys import GEMINI_API_KEY
 from src.config.config import GEMINI_MODEL_NAME
@@ -14,17 +15,14 @@ from src.tools.retrieval import get_outline, retrieve  # Assuming same tools wor
 checker_1 = Agent(
     name="Compliance_Checker_1",
     role="Compliance Analyst",
-    model=Gemini(
-        id=GEMINI_MODEL_NAME,
-        api_key=GEMINI_API_KEY
-    ),
+    model=OpenAILLM().get_openai_chat(),
     tools=[retrieve],
     instructions=dedent("""
-        You are responsible for assessing whether the given suggestions are compliant with the relevant SS (Islamic Standards).
-        - Use the retrieve tool to analyze the relevant sections of the SS document.
-        - Identify any non-compliant elements or areas needing clarification or modification.
-        - Provide clear justifications for your assessments.
-        - Coordinate with Compliance_Checker_2 to achieve consensus.
+        You are tasked with analyzing specific suggestions for FAS improvement in accordance with SS (Islamic Standards).
+        - Use the retrieve tool to extract relevant sections from the SS document.
+        - Assess each suggestion for compliance, identifying potential inconsistencies or areas requiring clarification.
+        - Provide a clear and concise justification for each determination.
+        - Coordinate with Compliance_Checker_2 to achieve consensus where necessary.
     """),
     show_tool_calls=True,
     markdown=True
@@ -34,17 +32,14 @@ checker_1 = Agent(
 checker_2 = Agent(
     name="Compliance_Checker_2",
     role="Compliance Analyst",
-    model=Gemini(
-        id=GEMINI_MODEL_NAME,
-        api_key=GEMINI_API_KEY
-    ),
+    model=OpenAILLM().get_openai_chat(),
     tools=[retrieve],
     instructions=dedent("""
-        You are responsible for assessing whether the given suggestions are compliant with the relevant SS (Islamic Standards).
-        - Use the retrieve tool to analyze the relevant sections of the SS document.
-        - Identify any non-compliant elements or areas needing clarification or modification.
-        - Provide clear justifications for your assessments.
-        - Coordinate with Compliance_Checker_1 to achieve consensus.
+        You are tasked with analyzing specific suggestions for FAS improvement in accordance with SS (Islamic Standards).
+        - Use the retrieve tool to extract relevant sections from the SS document.
+        - Assess each suggestion for compliance, identifying potential inconsistencies or areas requiring clarification.
+        - Provide a clear and concise justification for each determination.
+        - Coordinate with Compliance_Checker_1 to achieve consensus where necessary.
     """),
     show_tool_calls=True,
     markdown=True
@@ -54,72 +49,29 @@ checker_2 = Agent(
 compliance_team_leader = Team(
     name="Compliance_Check_Team",
     members=[checker_1, checker_2],
-    model=Gemini(
-        id=GEMINI_MODEL_NAME,
-        api_key=GEMINI_API_KEY
-    ),
+    model=OpenAILLM().get_openai_chat(),
     mode="coordinate",
     tools=[get_outline, retrieve],
     instructions=dedent("""
-        You are the team lead overseeing SS (Islamic Standards) compliance analysis. 📜
+        You are the Team Leader responsible for coordinating a comprehensive compliance assessment of FAS suggestions against SS (Islamic Standards). 📜
 
-        Your responsibilities:
-        1. Use the get_outline tool to extract the structure of the SS document and identify sections related to the suggestions.
-        2. Assign relevant tags from the outline to each compliance checker, ensuring targeted and relevant review.
-        3. Facilitate coordination between the checkers to resolve any disagreements.
-        4. Deliver a consolidated report focused on compliance, including:
-            - Final compliance verdict.
-            - List of compliant suggestions with justifications.
-            - Any flagged suggestions with reasons.
+        Workflow:
+        1. Scrape the SS outline using the get_outline tool to understand the structure and key sections.
+        2. Assign relevant sections to each Compliance Checker based on the nature of the suggestions.
+        3. Monitor and consolidate responses from the Checkers, ensuring consistency in compliance assessment.
+        4. Resolve discrepancies through consensus-driven discussion and clarification requests as needed.
+        5. Produce a final compliance report that includes:
+            - A summary of compliant suggestions with rationale.
+            - A list of flagged suggestions requiring further review or clarification.
 
-        Focus only on compliance — no need to suggest changes or rewrite content.
+        Focus solely on compliance evaluation based on SS sections. Refrain from suggesting amendments or editorial changes to the content.
     """),
     show_tool_calls=True,
     markdown=True,
     enable_agentic_context=True,
-    success_criteria="A consensus-based compliance report, strictly based on SS sections and consistent checker evaluation."
+    success_criteria="A consolidated compliance report derived from SS sections, backed by consensus among the agents."
 )
 
-
-def print_and_save_team_run_response(result):
-        print("\n--- Member Responses ---")
-        all_member_dicts = []
-
-        if result.member_responses:
-            for i, member in enumerate(result.member_responses):
-                member_dict = member.to_dict()
-                all_member_dicts.append(member_dict)
-
-            return all_member_dicts
-        else:
-            return None
-def extract_relevant_messages(all_member_dicts):
-    data = all_member_dicts
-    relevant_messages = []
-    for entry in data:
-        if 'messages' in entry:
-            for message in entry['messages']:
-                # Extract content from assistant, teamlead, and user roles
-                role = message.get('role')
-                content = message.get('content', '')
-                agent_id = entry.get('agent_id', 'Unknown')
-
-                # Handle content as a list or a string
-                if isinstance(content, list):
-                    content = "\n".join([str(item).strip() for item in content if item.strip()])
-                elif isinstance(content, str):
-                    content = content.strip()
-
-                # Capture relevant roles
-                if content and not content.startswith('<'):
-                    if role in ['assistant', 'teamlead', 'user']:
-                        relevant_messages.append({
-                            'agent_id': agent_id,
-                            'role': role,
-                            'content': content
-                        })
-
-    return relevant_messages
 
 if __name__ == "__main__":
     fas_28_issues = """
@@ -162,11 +114,4 @@ if __name__ == "__main__":
 
     These identified areas represent potential weaknesses or gaps within FAS 28 that could benefit from further review and clarification to enhance the standard's clarity, consistency, and practical applicability.
     """
-    result = compliance_team_leader.run(fas_28_issues)
-    members_dict = print_and_save_team_run_response(result=result)
-    messages = extract_relevant_messages(members_dict)
-    for msg in messages:
-        print('------------')
-        print(msg)
-        print('------------')
-    print(result.content)
+    compliance_team_leader.print_response(fas_28_issues)

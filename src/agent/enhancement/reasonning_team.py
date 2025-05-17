@@ -2,6 +2,7 @@ from agno.agent import Agent
 from agno.team.team import Team
 from agno.models.openai import OpenAIChat
 from textwrap import dedent
+from src.llm.llm import OpenAILLM
 from src.models.output import ReasonningAndSuggestionsTeamOutput
 from agno.models.google import Gemini
 from src.config.keys import GEMINI_API_KEY
@@ -19,10 +20,11 @@ gatherer_1 = Agent(
         api_key=GEMINI_API_KEY
     ),
     instructions=dedent("""
-        You are responsible for analyzing the assigned improvement areas and compiling a list of potential improvement suggestions. 
-        - Focus only on identifying potential areas for improvement. 
-        - Do NOT provide specific recommendations or compliance assessments. 
-        - Collaborate with Gatherer_2 to consolidate findings and refine the list.
+        You are a meticulous analyst specializing in identifying areas of potential improvement in financial accounting standards.
+        - Scrutinize the assigned content methodically, identifying gaps, ambiguities, or areas lacking clarity.
+        - Ensure that identified areas are communicated clearly to the team lead and Gatherer_2 for consolidation.
+        - Maintain ongoing communication to align on findings and refine outputs collaboratively.
+        - Await further instructions from the team lead to confirm when consolidation is required and how to proceed.
     """),
     show_tool_calls=True,
     markdown=True
@@ -37,10 +39,11 @@ gatherer_2 = Agent(
         api_key=GEMINI_API_KEY
     ),
     instructions=dedent("""
-        You are responsible for analyzing the assigned improvement areas and compiling a list of potential improvement suggestions. 
-        - Focus only on identifying potential areas for improvement. 
-        - Do NOT provide specific recommendations or compliance assessments. 
-        - Collaborate with Gatherer_1 to consolidate findings and refine the list.
+        You are a focused analyst tasked with identifying potential gaps and areas for refinement in financial accounting standards.
+        - Analyze the assigned sections with precision, identifying inconsistencies, unclear guidance, or gaps.
+        - Communicate findings clearly to the team lead and Gatherer_1 to facilitate effective consolidation.
+        - Stay aligned with team directives, awaiting confirmation from the team lead before proceeding with further actions.
+        - Maintain open channels with Gatherer_1 to ensure findings are consistently structured and aligned.
     """),
     show_tool_calls=True,
     markdown=True
@@ -56,61 +59,58 @@ reasoning_team_leader = Team(
     ),
     mode="coordinate",
     instructions=dedent("""
-        You are the lead coordinator for gathering and refining improvement suggestions. 
-        1. Assign each gatherer a subset of improvement areas to analyze.
-        2. Ensure the gatherers communicate and consolidate their findings into a single, refined list.
-        3. Return the consolidated list in the specified format, focusing only on potential improvement areas without recommendations or compliance analysis.
+        As the lead coordinator for improvement analysis, your role is to effectively distribute and consolidate improvement suggestions.
+        1. Analyze the initial list of suggestions and divide them into distinct sections, assigning each section to a specific gatherer.
+        2. Communicate assignments clearly to each gatherer, specifying the areas they are responsible for analyzing.
+        3. Receive and evaluate the suggestions from both gatherers, ensuring consistency and clarity in structure.
+        4. Classify the gathered suggestions into structured categories, removing redundancies and refining the language for clarity.
+        5. Deliver a final, consolidated list of categorized suggestions, maintaining a logical flow and ensuring all sections are covered comprehensively.
     """),
     show_tool_calls=True,
+    success_criteria=dedent("""
+        - Division of Work: Suggestions are effectively divided and assigned to the appropriate gatherer based on content relevance.
+        - Completeness: All sections are thoroughly analyzed, with no overlooked suggestions.
+        - Classification: Suggestions are categorized systematically, facilitating easier review and application.
+        - Consistency: The tone and structure of suggestions align across both gatherers, ensuring uniformity.
+        - Clarity: The final output is clearly structured, with suggestions presented in a concise and organized manner.
+    """),
     markdown=True
 )
 
-def print_and_save_team_run_response(result):
-        print("\n--- Member Responses ---")
-        all_member_dicts = []
-
-        if result.member_responses:
-            for i, member in enumerate(result.member_responses):
-                member_dict = member.to_dict()
-                all_member_dicts.append(member_dict)
-
-            return all_member_dicts
-        else:
-            return None
-def extract_relevant_messages(all_member_dicts):
-    data = all_member_dicts
-    relevant_messages = []
-    for entry in data:
-        if 'messages' in entry:
-            for message in entry['messages']:
-                # Extract content from assistant, teamlead, and user roles
-                role = message.get('role')
-                content = message.get('content', '')
-                agent_id = entry.get('agent_id', 'Unknown')
-
-                # Handle content as a list or a string
-                if isinstance(content, list):
-                    content = "\n".join([str(item).strip() for item in content if item.strip()])
-                elif isinstance(content, str):
-                    content = content.strip()
-
-                # Capture relevant roles
-                if content and not content.startswith('<'):
-                    if role in ['assistant', 'teamlead', 'user']:
-                        relevant_messages.append({
-                            'agent_id': agent_id,
-                            'role': role,
-                            'content': content
-                        })
-
-    return relevant_messages
 
 if __name__ == "__main__":
-    result = reasoning_team_leader.run("Please analyze the FAS 28 standard for Murabaha operations. Focus solely on identifying areas where the standard could be improved")
-    members_dict = print_and_save_team_run_response(result=result)
-    messages = extract_relevant_messages(members_dict)
-    for msg in messages:
-        print('------------')
-        print(msg)
-        print('------------')
-    print(result.content)
+    fas_enhancement_suggestions_example = """
+        Consolidated Areas for Improvement in FAS 28 – Murabaha Operations
+
+        1. Definitions
+        - Fair Value:
+        - Determining fair value is difficult in Islamic financial contexts due to illiquid markets.
+        - IFRS 13's use for fair value raises debates over its suitability for Islamic finance.
+        - Accurate, Shari'ah-compliant fair value measurement remains a challenge.
+
+        2. Revenue and Profit Recognition
+        - Effective Profit Rate Method & Straight Line Allocation:
+        - These concepts are insufficiently explained, leading to inconsistent application.
+        - More examples are needed to clarify how these methods work in practice.
+
+        - General Revenue Recognition:
+        - Challenges arise when applying IFRS 15 principles to Islamic financial contracts.
+        - IFRS 9 is applied instead of IFRS 15 in trade-based Islamic contracts, which may require justification or clearer alignment.
+
+        3. Accounting for Defaults
+        - The standard lacks a robust framework for default scenarios.
+        - Islamic banks cannot charge late fees, making loss recovery more difficult.
+        - More detailed and practical guidance is needed on recognizing and handling defaults.
+
+        4. Hamish Jiddiyyah and Arboun
+        - The distinction between these two concepts is not sufficiently clear in seller and buyer contexts.
+        - Practical examples are missing.
+        - The accounting treatments may lead to inconsistencies without further clarification.
+
+        5. NRV (Net Realisable Value)
+        - While no major issues were noted, further exploration is recommended to ensure consistent application in Islamic finance.
+
+        6. Scoping Out – Tawarruq and Commodity Murabaha
+        - Though no specific external criticisms were found, this area warrants more detailed justification and research due to its unique Shari'ah considerations.
+    """
+    fas_reasoned_enhancement = reasoning_team_leader.print_response(fas_enhancement_suggestions_example)
