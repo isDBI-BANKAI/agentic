@@ -57,6 +57,4 @@ Journal Entry for Loss Provision Reversal:
     Dr. Allowance for Impairment $500,000
     Cr. Provision for Losses $500,000
 This restores revenue after full payment.
-
-What financial standard applies to impairment and expected loss provisions?
 """

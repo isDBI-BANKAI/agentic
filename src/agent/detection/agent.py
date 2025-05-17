@@ -4,7 +4,7 @@ from agno.knowledge.website import WebsiteKnowledgeBase
 from agno.tools.reasoning import ReasoningTools
 from src.tools.retrieval import get_outline, retrieve
 
-from src.llm.llm import OpenAILLM
+from src.llm.llm import OpenAILLM, GeminiLLM
 
 from src.prompt.detection.prompt import get_system_prompt, get_system_prompt_online
 from src.models.output import FASDetectionOutput
@@ -21,11 +21,12 @@ from pprint import pprint
 agent = Agent(
     name="Reverse Transactions Agent",
     model=OpenAILLM().get_openai_chat(),
+    # model = GeminiLLM.get_gemini_chat(),
     instructions=get_system_prompt(),
     tools=[
         ReasoningTools(),
-        get_outline,
-        # retrieve,
+        # get_outline,
+        retrieve,
     ],
     response_model=FASDetectionOutput,
     show_tool_calls=True,
@@ -41,8 +42,8 @@ def detect_fas(journal: str, verbose: bool = False) -> FASDetectionOutput:
     return detection.content
 
 if __name__ == "__main__":
-    for i, journal in enumerate([journal_1, journal_2, journal_3, journal_4], start=1):
-    # for i, journal in enumerate([journal_3, journal_4], start=1):
+    # for i, journal in enumerate([journal_1, journal_2, journal_3, journal_4], start=1):
+    for i, journal in enumerate([journal_4], start=4):
         print(f"Journal {i}: {journal}")
         detection = detect_fas(journal)
         pprint(detection.model_dump())

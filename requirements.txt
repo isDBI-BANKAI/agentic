@@ -9,3 +9,5 @@ pinecone
 agno
 duckduckgo-search
 yfinance
+fastapi
+uvicorn

@@ -28,4 +28,4 @@ class ReasonningAndSuggestionsTeamOutput(BaseModel):
 class ComplianceCheckTeamOutput(BaseModel):
     final_verdict: str
     final_improvements: str
- 
+
