@@ -15,12 +15,14 @@ agent = Agent(
     # model = GeminiLLM.get_gemini_chat(),
     instructions=get_system_prompt(),
     tools=[
-        ReasoningTools(),
+        ReasoningTools(
+            think=False
+        ),
         get_outline,
         retrieve,
-        CalculatorTools(),
+        CalculatorTools()
     ],
     response_model=ScenarioAgentOutput,
     show_tool_calls=True,
-    markdown=True,
+    # markdown=True,
 )
