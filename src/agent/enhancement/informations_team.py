@@ -117,13 +117,7 @@ fas_research_team = Team(
 
 
 if __name__ == "__main__":
-    result = fas_research_team.run("Please analyze the FAS 28 standard for Murabaha operations. Focus solely on identifying areas where the standard could be improved")
-    members_dict = print_and_save_team_run_response(result=result)
-    messages = extract_relevant_messages(members_dict)
-    for msg in messages:
-        print('------------')
-        print(msg)
-        print('------------')
-    print(result.content)
+    fas_research_team.print_response("Please analyze the FAS 28 standard for Murabaha operations. Focus solely on identifying areas where the standard could be improved")
+
 
     

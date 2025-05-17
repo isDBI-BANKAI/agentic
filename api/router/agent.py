@@ -2,7 +2,7 @@ from fastapi import APIRouter
 
 router = APIRouter()
 
-from src.models.input import ScenarioJournalingInput, FASDetectionInput
+from src.models.input import ScenarioJournalingInput, FASDetectionInput, FASEnhancementInput
 from src.models.output import ScenarioAgentOutput, FASDetectionOutput
 
 from src.agent.scenario.orchestrator import create_journal
@@ -16,5 +16,9 @@ def create_journal_service(scenario: ScenarioJournalingInput = ScenarioJournalin
     return create_journal(scenario=scenario.scenario)
 
 @router.post("/fas-detection", response_model=FASDetectionOutput)
+def detect_fas_service(journal: FASDetectionInput = FASDetectionInput(journal=journal_2)) -> FASDetectionOutput:
+    return detect_fas(journal=journal.journal)
+
+@router.post("/fas-enhancement", response_model=FASDetectionOutput)
 def detect_fas_service(journal: FASDetectionInput = FASDetectionInput(journal=journal_2)) -> FASDetectionOutput:
     return detect_fas(journal=journal.journal)
