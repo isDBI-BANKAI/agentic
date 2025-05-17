@@ -8,7 +8,6 @@ from src.tools.retrieval import get_outline, retrieve
 from agno.models.google import Gemini
 from src.config.keys import OPENAI_API_KEY,GEMINI_API_KEY
 from src.config.config import OPENAI_LLM_MODEL,GEMINI_MODEL_NAME
-
 # Create document analysis agents
 document_agent_1 = Agent(
     name="Document_Agent_1",
@@ -115,9 +114,8 @@ fas_research_team = Team(
     success_criteria="A targeted analysis report identifying potential areas for improvement in the FAS based solely on assigned sections and external content."
 )
 
-
 if __name__ == "__main__":
-    fas_research_team.print_response("Please analyze the FAS 28 standard for Murabaha operations. Focus solely on identifying areas where the standard could be improved")
-
+    fas_enhancement_request_example = "Please analyze the FAS 28 standard for Murabaha operations. Focus solely on identifying areas where the standard could be improved"
+    fas_research_team.print_response(fas_enhancement_request_example)
 
     
