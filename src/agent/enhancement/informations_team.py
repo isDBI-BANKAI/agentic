@@ -1,6 +1,5 @@
 from agno.agent import Agent
 from agno.team.team import Team
-from typing import List, Dict, Any
 from textwrap import dedent
 from src.models.output import InformationGatheringTeamOutput
 from agno.tools.duckduckgo import DuckDuckGoTools
