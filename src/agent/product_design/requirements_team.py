@@ -1,15 +1,14 @@
 from agno.agent import Agent
 from agno.team.team import Team
 from textwrap import dedent
-from src.tools.retrieval import get_outline, retrieve
-from src.llm.llm import GeminiLLM
+from src.llm.llm import OpenAILLM
 
 from examples.product_design import prompt
 
 requirements_agent_1 = Agent(
     name="Requirements Agent 1",
     role="Fianncial Accouting Expert Consultant",
-    model=GeminiLLM.get_gemini_chat(),
+    model=OpenAILLM.get_openai_chat(),
     # tools=[retrieve],
     instructions=dedent("""
     Collect, question and refine the company's needs until you can fill every field of the Requirement Sheet:
@@ -25,7 +24,7 @@ requirements_agent_1 = Agent(
 requirements_agent_2 = Agent(
     name="Requirements Agent 2",
     role="Fianncial Accouting Expert Consultant",
-    model=GeminiLLM.get_gemini_chat(),
+    model=OpenAILLM.get_openai_chat(),
     # tools=[retrieve],
     instructions=dedent("""
     Collect, question and refine the company's needs until you can fill every field of the Requirement Sheet:
@@ -42,7 +41,7 @@ requirements_agent_2 = Agent(
 requirements_team = Team(
     name="Requirement Clarification",
     members=[requirements_agent_1, requirements_agent_2], 
-    model=GeminiLLM.get_gemini_chat(),
+    model=OpenAILLM.get_openai_chat(),
     mode="coordinate",
     # tools=[get_outline, retrieve],
     instructions=dedent("""
