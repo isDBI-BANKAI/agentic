@@ -2,7 +2,7 @@ from agno.tools import tool
 from src.tools.log import logger_hook
 from src.vector_store.retrieve import query_vdb
 
-# TODO: given a doc_type [fas, ss] and an operation [musharakah, murabaha, etc.], get the outline of the document for an agentic guided retreival
+# TODO: given a doc_type [fas, ss] and an operation [musharakah, murabaha, istisnaa, salam, ijarah], get the outline of the document for an agentic guided retreival
 @tool(
     name="get_outline",
     description="Get the outline of a document based on its type and operation",
@@ -17,7 +17,7 @@ def get_outline(doc_type: str, operation: str) -> str:
     
     Args:
         doc_type: Type of the document, select from ['fas', 'ss']
-        operation: Operation related to the document, select from ['musharaka', 'murabaha', 'ijarah', 'salam', 'salam'(only for fas)]
+        operation: Operation related to the document, select from ['musharaka', 'murabaha', 'istisnaa' (only fas), 'ijarah', 'salam']
         
     Returns:
         str: The outline of the document, the elements between [] are the tags of the content in the vector store
