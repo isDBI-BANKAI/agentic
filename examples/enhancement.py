@@ -1,0 +1,1 @@
+fas_28_to_enhance = "Please analyze the FAS 28 standard for Murabaha operations. Focus solely on identifying areas where the standard could be improved"

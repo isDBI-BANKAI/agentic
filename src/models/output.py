@@ -17,6 +17,17 @@ class FASDetectionOutput(BaseModel):
     references: List[str]
     detections: List[FASOutput]
     
+class FASEnhancementOutput(BaseModel):
+    
+    info_gathering_team_output: str
+    info_gathering_team_messages: List[str]
+    
+    suggestions_team_output: str
+    suggestions_team_messages: List[str]
+    
+    compliance_team_output: str
+    compliance_team_messages: List[str]
+          
 # Team1
 class InformationGatheringTeamOutput(BaseModel):
     improvement_areas: list[str]
