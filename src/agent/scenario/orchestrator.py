@@ -27,11 +27,11 @@ orchestrator = Team(
         A comprehensive, authentic and accurate islamic financial journaling.
     """),
     instructions=dedent("""\
-        Route accurately to the correct Islamic Financial Operation agent\
+        Route accurately to the correct Islamic Financial Operation agent. Do not include any specific instructions, each agent system prompt is enough.\
     """),
     response_model=ScenarioAgentOutput,
     show_tool_calls=True,
-    markdown=True,
+    # markdown=True,
     enable_agentic_context=True,
     show_members_responses=True,
 )
@@ -46,23 +46,18 @@ def create_journal(scenario: str, verbose: bool = False) -> str:
     return journal.content
 
 if __name__ == "__main__":
-    scenario = ijara_1
+    scenario = istisnaa
     
     journal = create_journal(scenario, verbose=True)
+    
     pprint(journal.model_dump())
     # print(journal)
     
-    # pprint_run_response(journal)
-    
-    
     # pprint(journal)
     
-    # responses: Iterator[RunResponse] = orchestrator.run(
-    #     prompt, stream=True
-    # )
+    # orchestrator.print_response(scenario)
     
-    # pprint_run_response(responses)
-    
+    # orchestrator.print_response(scenario, stream=True)
     # print("Final Response:")
     # print(responses.content)
 
