@@ -1,4 +1,4 @@
-GEMINI_MODEL_NAME = 'gemini-2.0-flash-lite'
+GEMINI_MODEL_NAME = 'gemini-2.0-flash'
 
 INDEX_NAME = "lumos"
 INDEX_NAMESPACE = "lumos"
