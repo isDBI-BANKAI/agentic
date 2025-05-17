@@ -15,7 +15,9 @@ agent = Agent(
     # model = GeminiLLM.get_gemini_chat(),
     instructions=get_system_prompt(),
     tools=[
-        ReasoningTools(),
+        ReasoningTools(
+            think=False
+        ),
         get_outline,
         retrieve,
         CalculatorTools(),
