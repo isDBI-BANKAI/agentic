@@ -5,3 +5,6 @@ class ScenarioJournalingInput(BaseModel):
     
 class FASDetectionInput(BaseModel):
     journal: str
+    
+class FASEnhancementInput(BaseModel):
+    fas_to_enhance: str
