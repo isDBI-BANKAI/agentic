@@ -5,8 +5,17 @@ class ScenarioAgentOutput(BaseModel):
     reasoning: str
     references: List[str]
     calculations: List[str]
-    journal: str
-    
+    journal: str   
+      
+class FASOutput(BaseModel):
+    index: int
+    name: str
+    probability: float
+
+class FASDetectionOutput(BaseModel):
+    reasoning: str
+    references: List[str]
+    detections: List[FASOutput]
     
 class InformationGatheringTeamOutput(BaseModel):
     improvement_areas: list[str]
@@ -19,4 +28,4 @@ class ReasonningAndSuggestionsTeamOutput(BaseModel):
 class ComplianceCheckTeamOutput(BaseModel):
     final_verdict: str
     final_improvements: str
-    
+ 
