@@ -4,13 +4,14 @@ from textwrap import dedent
 from agno.agent import Agent, RunResponse
 from agno.utils.pprint import pprint_run_response
 
-from src.llm.llm import OpenAILLM
+from src.llm.llm import OpenAILLM, GeminiLLM
 
 from agno.tools.reasoning import ReasoningTools
 from src.tools.retrieval import get_outline, retrieve
 
 agent = Agent(
-    model=OpenAILLM().get_openai_chat(),
+    # model=OpenAILLM().get_openai_chat(),
+    model = GeminiLLM.get_gemini_chat(),
     instructions=dedent("""\
         You are an expert islamic finance accountant.
         

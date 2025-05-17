@@ -4,7 +4,7 @@ from agno.tools.calculator import CalculatorTools
 from agno.tools.reasoning import ReasoningTools
 from src.tools.retrieval import get_outline, retrieve
 
-from src.llm.llm import OpenAILLM
+from src.llm.llm import OpenAILLM, GeminiLLM
 
 from src.prompt.scenario.ijara import get_system_prompt
 from src.models.output import ScenarioAgentOutput
@@ -12,6 +12,7 @@ from src.models.output import ScenarioAgentOutput
 agent = Agent(
     name="Istisnaa Auditing Agent",
     model=OpenAILLM().get_openai_chat(),
+    # model = GeminiLLM.get_gemini_chat(),
     instructions=get_system_prompt(),
     tools=[
         ReasoningTools(),

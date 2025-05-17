@@ -22,6 +22,13 @@ class GeminiLLM(LLM):
         genai.configure(api_key=GEMINI_API_KEY)
         self.model = genai.GenerativeModel(GEMINI_MODEL_NAME)
 
+    @staticmethod
+    def get_gemini_chat():
+        return Gemini(
+            id=GEMINI_MODEL_NAME,
+            api_key=GEMINI_API_KEY
+        )
+
     def generate(self, prompt: str) -> str:
         response = self.model.generate_content(prompt)
         return response.text

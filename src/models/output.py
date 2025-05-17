@@ -6,8 +6,18 @@ class ScenarioAgentOutput(BaseModel):
     references: List[str]
     calculations: List[str]
     journal: str
-# challenge 3 diffrent teams output
-# Team1     
+
+class FASOutput(BaseModel):
+    index: int
+    name: str
+    probability: float
+
+class FASDetectionOutput(BaseModel):
+    reasoning: str
+    references: List[str]
+    detections: List[FASOutput]
+    
+# Team1
 class InformationGatheringTeamOutput(BaseModel):
     improvement_areas: list[str]
     websites_informations: str
@@ -19,4 +29,3 @@ class ReasonningAndSuggestionsTeamOutput(BaseModel):
 class ComplianceCheckTeamOutput(BaseModel):
     final_verdict: str
     final_improvements: str
-    

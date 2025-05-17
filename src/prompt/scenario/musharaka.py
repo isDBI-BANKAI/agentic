@@ -38,7 +38,7 @@ For Lessee Accounting:
         Accounting for Musharaka profits 
             Dr. Cash/ Bank (SFP)   XXX 
             Cr. Profit from Musharaka financing (IS)   XXX 
-    - in the case of losses, record the loss amount by Capital Contributions (take into consideration the contribution ratio):
+    - in the case of losses, record the loss amount by Capital Contributions Ratio (loss relative to contribution ratios):
         Accounting for Musharaka losses 
             Dr. Loss from Musharaka financing (IS)   XXX
             Cr. Musharakah financing (SFP)   XXX
@@ -56,7 +56,7 @@ class ScenarioAgentOutput(BaseModel):
     journal: str
     
 - reasoning: Your reasoning and thought process, including the steps you took to arrive at your conclusions.
-- references: A list of references to the relevant FAS or SS documents you used to support your calculations and journal entries, you do not have to include the full text of the references, just the title and section number.
+- references: A list of references to the relevant FAS documents you used to support your calculations and journal entries, you do not have to include the full text of the references, just the title and section number.
 - calculations: A list of calculations you performed, including any formulas or equations you used (textual representation of the calculations).
 - journal: The final journal entries you created, including the accounts involved and the amounts.
 
