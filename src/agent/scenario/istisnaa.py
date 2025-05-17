@@ -20,7 +20,7 @@ agent = Agent(
         ),
         get_outline,
         retrieve,
-        CalculatorTools(),
+        CalculatorTools()
     ],
     response_model=ScenarioAgentOutput,
     show_tool_calls=True,

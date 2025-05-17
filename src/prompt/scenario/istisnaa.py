@@ -23,7 +23,7 @@ To help you, a special flow breakdown is provided by a financial accounting expe
 - Payment terms
 - Delivery period
 
-2. Perform the accounting calculations, here are some Accounting Logic, combine them with the FAS context/explanation to provide a clear Output of Istisnaa journaling using the Percentage of Completion Method:
+3. Perform the accounting calculations, here are some Accounting Logic, combine them with the FAS context/explanation to provide a clear Output of Istisnaa journaling using the Percentage of Completion Method:
 
     1- Calculations:
         - The bank's profit: Bank Profit = Price - Cost
@@ -31,7 +31,7 @@ To help you, a special flow breakdown is provided by a financial accounting expe
         - Revenue = Price* percentage of Completion
         - Profit = Bank Profit * percentage of Completion 
     2- Journal Entries Format:
-        # For each period of time (All Quarters required: Q1, Q2, Q3, Q4) record the following:
+        2.1 For each period of time (All Quarters required: Q1, Q2, Q3, Q4) record the following:
             a- Recording costs;
                 -> Record Cost Incurred:
                     Dr. Istisna'a Work In Progress (SFP)     XXX
@@ -46,7 +46,7 @@ To help you, a special flow breakdown is provided by a financial accounting expe
                 -> Profit Recognition
                     Dr. Profit & Loss (Istisna'a Profit)     XXX
                     Cr. Istisna'a Profit       XXX
-        # Final installment of cost and final revenue/profit recognition (Important):
+        2.2 After recording all quarters, you have to record the final installment of cost and final revenue/profit recognition:
             -> Upon Receipt of Each Client Payment record
                 Dr. Bank / Cash     XXX
                 Cr. Istisna'a Receivable     XXX
